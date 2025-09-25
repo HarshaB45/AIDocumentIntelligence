@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "Nice Systems Ltd., an Israeli registered corporation no. 52-0036872 having its place of business at 8 Hapnina Street, P.O.B 690, Ra'anana 43107, Israel, (\"NICE\")",
+    "Flextronics Israel Ltd"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment                terms as set forth in Section 8.4. When sold to NICE as part of                aProduct, the component prices paid by NICE to Contractor                hereunder will be calculated with a reduced overhead of 2%. NICE                will and does hereby provide Contractor with all such warranties                with respect to the components sold thereby as is required from                Contractor under this Agreement with respect to the same                components. Furthermore, without derogating from NICE'                undertakings hereunder, Contractor will use",
+    "start": 38479,
+    "end": 39079,
+    "text_normalized": "payment                terms as set forth in Section 8.4. When sold to NICE as part of                aProduct, the component prices paid by NICE to Contractor                hereunder will be calculated with a reduced overhead of 2%. NICE                will and does hereby provide Contractor with all such warranties                with respect to the components sold thereby as is required from                Contractor under this Agreement with respect to the same                components. Furthermore, without derogating from NICE'                undertakings hereunder, Contractor will use"
+  },
+  "termination_clause": {
+    "text": "termination or expiration.\n\n     3.   ORDERING AND OTHER MATTERS\n\n          3.1. FORECASTS. NICE shall give Contractor a written forecast of the                Products, by type, quantity and expected Due Date (the                \"FORECAST\") as follows: A Forecast shall be a rolling forecast                for the current Quarter and the two (2) consecutive Quarters,                detailed by week. Upon the Effective Date, NICE shall deliver a                Forecast for the period commencing on the expected completion of                the Relocation Phase for the first Product, for the current                Quarter and for the next coming two Quarters and so on thereafter                during the term of this Agreement. The Forecast may be updated by                NICE on a weekly basis, or mor",
+    "start": 40982,
+    "end": 41793
+  },
+  "_doc_id": "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT.txt",
+  "_char_count": 148163,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "MONSANTO COMPANY",
+    "THE SCOTTS COMPANY LLC  Effective as of September 30"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION, AND FORCE MAJEURE 42\n\n Section 10.1 Terms 42\n\n Section 10.2 [Reserved] 42\n\n Section 10.3 [Reserved] 42\n\n Section 10.4 Termination by Monsanto 42\n\n Section 10.5 Termination by the Agent 47\n\n Section 10.6 Roundup Sale 50\n\n Section 10.7 Effect of Termination 52\n\n Section 10.8 Force Majeure 53\n\niii\n\n\n\n\n\n Section 10.9 [Intentionally deleted] 53\n\nArticle 11 - MISCELLANEOUS 53\n\n Section 11.1 Relationship of the Parties 53\n\n Section 11.2 Interpretation in accordance with GAAP 54\n\n Section 11.3 Currency 54\n\n Section 11.4 Monsanto Obligations 54\n\n Section 11.5 Expenses 54\n\n Section 11.6 Entire Agreement 54\n\n Section 11.7 Modification and Waiver 55\n\n Section 11.8 Assignment 55\n\n Section 11.9 Notices 56\n\n Section 11.10 Severability 57\n\n Section 11.11 Equal Opportunity 57\n\n Section 11.12 Governing La",
+    "start": 2662,
+    "end": 3473
+  },
+  "_doc_id": "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT.txt",
+  "_char_count": 221382,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

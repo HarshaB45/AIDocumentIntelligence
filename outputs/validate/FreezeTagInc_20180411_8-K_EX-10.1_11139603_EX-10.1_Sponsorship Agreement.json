@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "American Diabetes Association",
+    "Freeze Tag"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination: Before expiration of the Term, either Party may terminate this Agreement upon: (i) any material breach of the Agreement by the other Party, if such breach is not remedied to the reasonable satisfaction of the non-breaching Party within ten (10) business days after written notice; (ii) ten (10) business days written notice to the other Party whenever the notifying Party in its sole discretion determines that the continuation of the Agreement will damage its reputation or good will; or (iii) written notice in the event one Party (a) becomes or is declared insolvent or bankrupt or is subject to the appointment of a trustee or receiver or any equivalent thereof, (b) is the subject of any proceeding related to its liquidation or insolvency (whether voluntary or involuntary) which is not dismi",
+    "start": 9871,
+    "end": 10682
+  },
+  "_doc_id": "FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt",
+  "_char_count": 26753,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material, reasonable"
+    }
+  ]
+}

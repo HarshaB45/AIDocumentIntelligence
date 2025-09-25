@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the Bank",
+    "Alliance Interim Savings Bank (the \"Application for Approval to Merge or Consolidate\")"
+  ],
+  "effective_date": null,
+  "governing_law": "New York",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of, or withdrawal from, any \"pension plan\" or (ii) Sections 412 or 4971 of the Internal Revenue Code of 1986, as amended, including the regulations and published interpretations thereunder (the \"Code\"); and each \"pension plan\" for which the Company, the MHCs, the Bank and any Subsidiary would have any liability that is intended to be qualified under Section 401(a) of the Code is so qualified and nothing has occurred, whether by action or by failure to act, which would cause the loss of such qualification.\n\n(xlviii) The Bank has established and maintains disclosure controls and procedures (as such term is defined in Rule 13a-14 and 15d-14 under the Exchange Act), which (i) are designed to ensure that material information relating to the Bank, including its consolidated subsidiaries, is mad",
+    "start": 53115,
+    "end": 53926,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "ALLIANCEBANCORPINCOFPENNSYLVANIA_10_18_2006-EX-1.2-AGENCY AGREEMENT.txt",
+  "_char_count": 130256,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

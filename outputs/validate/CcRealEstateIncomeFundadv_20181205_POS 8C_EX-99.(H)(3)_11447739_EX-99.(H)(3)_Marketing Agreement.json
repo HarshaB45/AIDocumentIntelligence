@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the parties hereto concerning the transaction contemplated herein",
+    "supersedes all prior agreements or understandings between the parties hereto relating to the subject matter hereof"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination. The term of this Agreement shall commence on the Effective Date and shall end on the 60th day following a written notice from one party to the other of its decision to terminate this Agreement at the end of such 60-day period or upon termination of the applicable Distribution Agreement with respect to a Fund. Termination of this Agreement as to a Fund shall not terminate this Agreement with respect to any other Fund so long as such other Fund's (or Funds', as the case may be) Distribution Agreement is effective. If this Agreement is terminated by one party, it shall terminate the entire Agreement.\n\n- 3 -\n\nSource: CC REAL ESTATE INCOME FUND-ADV, POS 8C, 12/5/2018\n\n\n\n\n\n5. Compensation; Expenses (a) As described in the Fund's Prospectus, the Fund may impose a sales charge \"load\" in connecti",
+    "start": 8118,
+    "end": 8929
+  },
+  "_doc_id": "CcRealEstateIncomeFundadv_20181205_POS 8C_EX-99.(H)(3)_11447739_EX-99.(H)(3)_Marketing Agreement.txt",
+  "_char_count": 30127,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

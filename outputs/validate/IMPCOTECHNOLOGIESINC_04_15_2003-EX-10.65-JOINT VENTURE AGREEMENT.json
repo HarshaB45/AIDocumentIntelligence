@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "IMPCO Technologies Inc., a company incorporated under the laws of the State of Delaware U.S.A",
+    "having its principal office of business at 16804 Gridley Place"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination as well as remuneration of key executives, personnel, information services, customer services, marketing and sales, accounting, finance and credit collections. The MD and such other Director(s) shall conduct the business and the management operations of the JVC and the MD may, in writing, authorize officers in this behalf.   3.6   The remuneration of the MD and/or other whole time Director(s) shall be fixed and may be varied from time to time by the Board within the limits prescribed under the Act/Guidelines issued by the Government of India and subject to the approval of the shareholders and of the appropriate authorities.    3.7 a)   In the event an IMPCO Director (hereinafter called \"Original IMPCO Director\") is away for a continuous period of not less than three (3) months from the St",
+    "start": 18904,
+    "end": 19715
+  },
+  "_doc_id": "IMPCOTECHNOLOGIESINC_04_15_2003-EX-10.65-JOINT VENTURE AGREEMENT.txt",
+  "_char_count": 63439,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

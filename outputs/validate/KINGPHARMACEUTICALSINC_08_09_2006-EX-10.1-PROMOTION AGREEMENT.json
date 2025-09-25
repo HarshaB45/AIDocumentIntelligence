@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "DEPOMED, INC",
+    "KING PHARMACEUTICALS"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement. Subject to this Section 4.8 and to applicable Legal Requirements, King shall have the right to use the King Trademarks, and include the name \"King\" or any variation thereof on the Promotional Materials developed by King; provided, that such King Trademarks shall not appear in such Promotional Materials in greater prominence or in greater frequency than the Depomed Trademark(s). In addition, the JCC will discuss including the King Trademarks, in equal prominence to the Depomed Trademarks and in accordance with all Legal Requirements, on all packaging for Samples distributed by the King Sales Force, with determination as to including such marks being based on the timing for implementing such change and the costs associated therewith, with all costs associated with creatin",
+    "start": 64044,
+    "end": 64855
+  },
+  "_doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
+  "_char_count": 173240,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "parties": [
+    "Allscripts Healthcare, LLC, a North Carolina limited liability company (\"Allscripts\") on behalf of itself",
+    "its Affiliates and Phreesia"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms.\n\n17.1 Reports and Invoicing.\n\n(a) Invoicing from Company to Allscripts. 19\n\n\n\n\n\n(i) Invoicing for Eligibility and Benefits (E&B) Services. The Company will provide Allscripts with (1) an invoice for the fees set forth on Exhibit F for all E&B Transactions [***] and (2) a report with reasonably detailed supporting data for all such E&B Transactions by each Sublicensed Customer, excluding Legacy Customers, [***].\n\n(ii) Invoicing for POS Dashboard. Allscripts shall deliver a report with reasonably detailed supporting data to Company no later than [***] for current Sublicensed Custo",
+    "start": 69142,
+    "end": 69742
+  },
+  "termination_clause": {
+    "text": "termination (other than sublicenses that expire at the end of a term previously specified in a Purchase Order) of any Customer Agreement, Allscripts will provide the Company with written notice of such modification or termination. This Section 4.1 shall not be applicable to situations where the Allscripts Customer is purchasing Merchant Processing Services in connection with its purchase of PIMS. 9\n\n\n\n\n\n4.2 Distribution; Commencement of Subscription Software Services. [***]. Subject to the terms of this Agreement, the terms and conditions relating to the provision of Merchant Processing Services to Sublicensed Customers, including but not limited to commencement thereof, shall be set forth in the Merchant Application and Merchant Agreement. [***].\n\n4.3 Configuration and Acceptance.\n\n(a) As part of th",
+    "start": 33715,
+    "end": 34526
+  },
+  "_doc_id": "PHREESIA,INC_05_28_2019-EX-10.18-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 120178
+}

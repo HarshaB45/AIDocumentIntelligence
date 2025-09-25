@@ -1,0 +1,36 @@
+{
+  "_doc_id": "PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement.txt",
+  "_char_count": 16792,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Connecticut"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material, reasonable"
+    }
+  ],
+  "risk_score": 8,
+  "risk_bucket": "high",
+  "tags": [
+    "law:the State of Connecticut",
+    "incomplete"
+  ],
+  "governing_law": "the State of Connecticut",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

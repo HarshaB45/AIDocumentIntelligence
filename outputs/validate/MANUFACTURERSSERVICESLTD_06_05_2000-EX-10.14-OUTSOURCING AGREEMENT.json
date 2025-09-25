@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+    "MANUFACTURERS' SERVICES WESTERN U"
+  ],
+  "effective_date": "1998-06-01",
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION........................................   Page 6\n\nSECTION 6.0 PAYMENT............................................   Page 9\n\nSECTION 7.0 AUDIT..............................................  Page 10\n\nSECTION 8.0 PURCHASE OF ASSETS.................................  Page 11\n\nSECTION 9.0 PERSONNEL..........................................  Page 12\n\nSECTION 10.0 LEASE OF PREMISES.................................  Page 13\n\nSECTION 11.0 MANUFACTURING, FULFILLMENT, AND INTEGRATION.......  Page 13\n\nSECTION 12.0 TRANSITION SERVICES...............................  Page 13\n\nSECTION 13.0 INTELLECTUAL AND INDUSTRIAL PROPERTY..............  Page 13\n\nSECTION 14.0 WARRANTIES........................................  Page 15\n\nSECTION 15.0 INDEMNIFICATION AND LIMITATION OF LIABILITY.......  Page 18\n\nSECTION 1",
+    "start": 4273,
+    "end": 5084
+  },
+  "_doc_id": "MANUFACTURERSSERVICESLTD_06_05_2000-EX-10.14-OUTSOURCING AGREEMENT.txt",
+  "_char_count": 338211,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

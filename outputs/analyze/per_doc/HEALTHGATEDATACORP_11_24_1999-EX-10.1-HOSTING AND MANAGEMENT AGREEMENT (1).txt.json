@@ -1,0 +1,25 @@
+{
+  "_doc_id": "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).txt",
+  "_char_count": 148691,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ],
+  "risk_score": 6,
+  "risk_bucket": "medium",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

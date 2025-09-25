@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the records of the Agency",
+    "MICOA"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination date. The purchase shall be                   completed within 60 calendar days after the termination date.                   In return for this payment, for a two-year period following                   the termination date, Agency will not directly or indirectly                   sell any professional liability insurance to any individuals                   or entities who were MICOA insureds in Nevada at the time of                   termination of this Agreement.\n\n         2.       If Agency enters into a subagency agreement under which the                   subagency has the right to retain ownership of expirations on                   business produced by the subagency, then the purchase of                   expirations under subparagraph 1 above will not include the",
+    "start": 7230,
+    "end": 8041,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "AMERICANPHYSICIANSCAPITALINC_03_31_2003-EX-10.26-AGENCY AGREEMENT.txt",
+  "_char_count": 23999,
+  "_provenance": {}
+}

@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "FIDELITY INVESTMENTS INSTITUTIONAL OPERATIONS COMPANY, INC. (\"FIIOC\")",
+    "NEW YORK LIFE INSURANCE AND ANNUITY CORPORATION (\"Company\")"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination is due to misconduct on the part of the Company. For such a stub quarter, Average Daily Assets shall be the sum of the daily assets for each calendar day in the quarter through and including the date of termination of the Participation Agreement(s), divided by the number of calendar days in that quarter for which the Participation Agreement was in effect. Such Average Daily Assets shall be multiplied by [ ] ([ ] basis points) and that number shall be multiplied by the number of days in such quarter that the Participation Agreement was in effect, then divided by three hundred sixty-five. The resulting number shall be the quarterly fee for the stub quarter, which shall be paid to Company during the following month.\n\nNotwithstanding the foregoing, compensation for each calendar quarter will",
+    "start": 4647,
+    "end": 5458
+  },
+  "_doc_id": "NYLIACVARIABLEANNUITYSEPARATEACCOUNTIII_04_10_2020-EX-99.8.KK-SERVICE AGREEMENT.txt",
+  "_char_count": 6840,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

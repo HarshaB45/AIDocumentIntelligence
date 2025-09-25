@@ -1,0 +1,8 @@
+{
+  "use_spacy": true,
+  "use_llm": true,
+  "llm_model": "gpt-4o-mini",
+  "llm_top_k_chunks": 2,
+  "regex_confidence": 0.7,
+  "min_span_len": 60
+}

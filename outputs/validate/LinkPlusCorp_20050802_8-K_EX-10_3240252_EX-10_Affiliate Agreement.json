@@ -1,0 +1,35 @@
+{
+  "parties": [
+    "Link Plus Corporation",
+    "Axiometric"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.txt",
+  "_char_count": 25619,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "MISSING",
+      "detail": "Required field 'termination_clause' is missing"
+    }
+  ]
+}

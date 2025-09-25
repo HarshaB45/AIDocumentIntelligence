@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the following two parties:\n\nParty A: JingWei HengTong Technology (ShenZhen) Co., Ltd. (经纬恒通科技（深圳）有限公司 )  Registration Address: Room 1605 B,Tianan Hi-tech Plaza Tower A,Tian An Cyber Park,Futian District,Shenzhen,China\n\nParty B: ShenZhen JingWei Communication Co., Ltd.(深圳经纬通信技术有限公司) Registration Address: Tianxiang Building Block A 13th, Tian An Cyber Park, Futian District, Shenzhen.\n\nWHEREAS:\n\n1.   Party A, a wholly foreign-owned enterprise incorporated under the laws of the People's Republic of China (the \"PRC\"), which has the right of the intellectual property (including but not limited to Trademark, the Ownership of Consumer Data Base, Software Copyright",
+    "License) specified in the Appendix I of this Agreement (the \"intellectual property\")"
+  ],
+  "effective_date": null,
+  "governing_law": "PRC",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.\n\n1.2   Scope\n\nIntellectual Property Agreement 1\n\n\n\n\n\n1.2.1   The Intellectual Property granted to Party B shall only be used to the scope of Party B's Business operated by Party B. Party B shall not sub-license the Intellectual Property to others or use the Intellectual Property in the third party's training, business share, lease without the consent from Party A, unless there are opposite stipulations in this Agreement.\n\n1.2.2   The use right granted under this Agreement is only valid in the PRC. Party B agrees not to directly or indirectly use or authorize to use the Intellectual Property in the other regions.\n\n2.   Terms of Payment: Party B agrees to pay Party A the Intellectual Property License fees (the \"License Fees\") and the specified amount of the license fees a",
+    "start": 2112,
+    "end": 2923
+  },
+  "_doc_id": "JINGWEIINTERNATIONALLTD_10_04_2007-EX-10.7-INTELLECTUAL PROPERTY AGREEMENT.txt",
+  "_char_count": 15298,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: PRC"
+    }
+  ]
+}

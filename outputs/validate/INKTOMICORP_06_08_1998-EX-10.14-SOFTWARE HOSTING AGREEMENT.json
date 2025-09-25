@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the parties executed as of the Effective Date (the \"Software Development Agreement\"), Inktomi is customizing its Internet search engine software for Microsoft.\n\n     D.   Microsoft desires that Inktomi host",
+    "maintain the customized search engine on servers owned by Inktomi and located at a facility selected by Inktomi in California"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination and Other Remedies.           ------------------------------\n\n          10.1 Inktomi may terminate this Agreement without cause upon one year's prior written notice, provided that such notice may not be given prior to the second anniversary of the Launch Date.\n\n          10.2 Microsoft may terminate this Agreement at any time without cause upon [*] ([*]) days prior written notice. Upon receipt of such notice, Inktomi will discontinue all work hereunder. If Microsoft terminates this Agreement without cause pursuant to this Section 10.2, then Microsoft will pay for all services provided by Inktomi up until the date of termination under this Section 10.2. Notwithstanding anything contained herein to the contrary, should Microsoft exercise its termination right pursuant to this Section 10.2,",
+    "start": 35536,
+    "end": 36347
+  },
+  "_doc_id": "INKTOMICORP_06_08_1998-EX-10.14-SOFTWARE HOSTING AGREEMENT.txt",
+  "_char_count": 70664,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

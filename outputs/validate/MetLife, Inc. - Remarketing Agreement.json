@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "the Company",
+    "The Bank of New York Mellon Trust Company"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or suspension of any such Approval, the revocation, termination or suspension of which would have, individually or in the aggregate, a Material Adverse Effect; and, to the knowledge of the Company, no insurance regulatory agency or body has issued any order or decree impairing, restricting or prohibiting the payment of dividends by any Insurance Subsidiary to its parent which would have, individually or in the aggregate, a Material Adverse Effect.\n\n(p) The Company and each Significant Subsidiary has all necessary Approvals of and from, and has made all filings, registrations and declarations (collectively, the \"Filings\") with, all insurance regulatory authorities, all Federal, state, local and other governmental authorities, all self-regulatory organizations and all courts and other tribu",
+    "start": 36780,
+    "end": 37591
+  },
+  "_doc_id": "MetLife, Inc. - Remarketing Agreement.txt",
+  "_char_count": 111249,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

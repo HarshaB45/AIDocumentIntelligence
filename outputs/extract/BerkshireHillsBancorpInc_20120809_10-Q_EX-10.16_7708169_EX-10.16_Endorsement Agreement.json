@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "GENO AURIEMMA (\"Auriemma\")",
+    "BERKSHIRE BANK"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION AND DEFAULT.     a) TERMINATION FOR BREACH. Either Party shall have the right, without prejudice to any other rights it may have, to terminate this  Agreement if the other Party materially breaches its obligation hereunder and such breach remains uncured.     A material breach occurs if either Party (i) fails to make any payment, or (ii) fails to observe or perform any of the covenants, agreements, or  obligations (other than payments of money).     Upon the breach of either of the above conditions, the non-defaulting party may terminate this Agreement as follows: (A) as to a default under  clause (i) above, if payment is not made within ten (10) days after the defaulting party shall have received written notice of such failure to make  payment; or (B) as to a default under clause (ii) ab",
+    "start": 12252,
+    "end": 13063
+  },
+  "_doc_id": "BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement.txt",
+  "_char_count": 29629
+}

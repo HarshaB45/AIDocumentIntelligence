@@ -1,0 +1,30 @@
+{
+  "_doc_id": "COOLTECHNOLOGIES,INC_10_25_2017-EX-10.71-Strategic Alliance Agreement.txt",
+  "_char_count": 13548,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

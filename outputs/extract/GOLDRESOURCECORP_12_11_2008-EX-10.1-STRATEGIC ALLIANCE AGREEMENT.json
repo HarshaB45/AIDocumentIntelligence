@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "the Company",
+    "HOC without the Company having executed and delivered this Agreement; and"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination of Certain HOC Rights. Notwithstanding anything in this Agreement to the contrary, in the event (i) HOC shall hold a Pro Rata Interest less than 14.5% or (ii) HOC shall have achieved a Pro Rata Interest greater than 14.5% but subsequently sells or otherwise disposes of 20% or more of its Pro Rata Interest in any one or more transactions, the benefits provided to HOC pursuant to the provisions of Section 2.3 (Additional Financing), Article 4 (Pre-Emptive Rights), Article 5 (Board Representation), Article 6 (First Offer) and Section 8.1 (Designation of Geologist) above shall immediately terminate and be of no further force or effect. Furthermore, any HOC Director nominated and appointed pursuant to the provisions of Section 5.1 or 5.2 shall immediately resign in the event that the provision",
+    "start": 36575,
+    "end": 37386
+  },
+  "_doc_id": "GOLDRESOURCECORP_12_11_2008-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 55434
+}

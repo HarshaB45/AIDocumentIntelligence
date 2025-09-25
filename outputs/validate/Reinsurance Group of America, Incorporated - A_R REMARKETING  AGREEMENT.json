@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "the Company",
+    "The Bank of New York Mellon Trust Company"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or suspension of any Authorization, the revocation, termination or suspension of which would reasonably be expected\n\n11\n\n\n\n\n\n\n\nto have a Material Adverse Effect. Except as would not reasonably be expected to have a Material Adverse Effect, all such Authorizations are valid  and in full force and effect and the Company and its subsidiaries are in compliance in all material respects with the terms and conditions of all such  Authorizations and with the rules and regulations of the regulatory authorities having jurisdiction with respect thereto. No insurance regulatory  agency or body has issued any order or decree impairing, restricting or prohibiting the payment of dividends by any subsidiary of the Company to  its parent, other than any such orders or decrees the issuance of which would n",
+    "start": 38670,
+    "end": 39481
+  },
+  "_doc_id": "Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT.txt",
+  "_char_count": 102071,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

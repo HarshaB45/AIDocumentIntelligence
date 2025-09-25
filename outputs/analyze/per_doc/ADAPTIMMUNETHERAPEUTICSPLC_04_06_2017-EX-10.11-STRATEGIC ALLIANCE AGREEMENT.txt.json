@@ -1,0 +1,31 @@
+{
+  "_doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 101167,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Texas"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of Texas",
+    "incomplete"
+  ],
+  "governing_law": "the State of Texas",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

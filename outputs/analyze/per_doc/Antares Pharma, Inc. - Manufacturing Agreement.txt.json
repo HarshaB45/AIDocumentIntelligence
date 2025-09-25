@@ -1,0 +1,35 @@
+{
+  "_doc_id": "Antares Pharma, Inc. - Manufacturing Agreement.txt",
+  "_char_count": 106786,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material, reasonable"
+    },
+    {
+      "field": "payment_terms",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ],
+  "risk_score": 8,
+  "risk_bucket": "high",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

@@ -1,0 +1,37 @@
+{
+  "parties": null,
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "QBIOMEDINC_04_08_2020-EX-99.1-JOINT FILING AGREEMENT.txt",
+  "_char_count": 2732,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "MISSING",
+      "detail": "Required field 'termination_clause' is missing"
+    },
+    {
+      "field": "parties",
+      "type": "MISSING",
+      "detail": "Required field 'parties' is missing"
+    }
+  ]
+}

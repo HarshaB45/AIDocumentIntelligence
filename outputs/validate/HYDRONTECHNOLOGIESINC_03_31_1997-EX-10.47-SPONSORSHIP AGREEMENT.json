@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "HYDRON TECHNOLOGIES, INC., a New York corporation with its principal offices located at 1001 Yamato Road, Suite 403, Boca Raton, Florida 33431, (\"Hydron\")",
+    "MIAMI DOLPHINS"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination in whole or in part at any time upon written notice to Hydron if such Sponsorship Rights conflict with any exclusive advertising rights granted by NFL Properties, Inc. to one of its advertisers or sponsors. In the event of any such termination of exclusivity, the non-terminated Sponsorship Rights granted to Hydron by the Dolphins shall nonetheless continue for the remainder of the Term and the provisions of Section 8.2 shall apply. As of the date hereof, the Dolphins have no knowledge of any claim by NFL Properties that the Sponsorship Rights violate or conflict with exclusive rights granted by NFL Properties.\n\n         3.       CONSIDERATION\n\n                  3.1 In consideration of the Sponsorship Rights granted to Hydron hereunder:\n\n                            (a) Hydron shall pay to",
+    "start": 2806,
+    "end": 3617
+  },
+  "_doc_id": "HYDRONTECHNOLOGIESINC_03_31_1997-EX-10.47-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 28932,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_doc_id": "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt",
+  "_char_count": 32093,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Washington without regards for its conflict of laws principle"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ],
+  "risk_score": 8,
+  "risk_bucket": "high",
+  "tags": [
+    "law:the State of Washington without regards for its conflict of laws principle",
+    "incomplete"
+  ],
+  "governing_law": "the State of Washington without regards for its conflict of laws principle",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

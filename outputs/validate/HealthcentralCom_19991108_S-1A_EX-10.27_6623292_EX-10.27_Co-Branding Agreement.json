@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "the parties (50% MediaLinx--50% HCI). HCI shall be entitled to all      proceeds generated from US companies on the Co-Branded Site. \"Net revenue\"      is defined as revenue less: 1) third party expenses directly related to the      acquisition of the revenue; for example, advertising broker commissions",
+    "advertising management services"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION\n\n11.1  Term\n\nThe term of this Agreement shall be for a period of two (2) years (the \"Term\"). The effective date of the start of the Term will be from the Launch Date.\n\n11.2  Termination\n\n(a)  Either Party may terminate this Agreement upon 30 days prior written notice      to the other Party if 1) such other Party breaches any material term of      this Agreement, unless such breach is cured within 30 days; or 2) if any of      the terms of this Agreement that require mutual approval are not mutually      agreed to;\n\n(b)  This Agreement may be terminated by a Party immediately, without notice:\n\n     (i)     upon the institution by or against the other Party of insolvency,              receivership, or bankruptcy proceedings or any other proceedings              for the settlement of the ot",
+    "start": 20193,
+    "end": 21004
+  },
+  "_doc_id": "HealthcentralCom_19991108_S-1A_EX-10.27_6623292_EX-10.27_Co-Branding Agreement.txt",
+  "_char_count": 45042,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

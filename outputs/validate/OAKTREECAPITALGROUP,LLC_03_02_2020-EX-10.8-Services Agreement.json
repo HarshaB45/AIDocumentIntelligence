@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the parties from time to time (the \"Service Fee\").\n\n3.2 At Oaktree US' discretion, the Service Fee shall be reduced by any management fees received directly by the Sub-Advisor for investment management services provided to any party pursuant to this Agreement. The Service Fee shall also be reduced by any amounts earned on cash",
+    "cash-equivalents held by the Sub-Advisor pursuant to this Agreement"
+  ],
+  "effective_date": null,
+  "governing_law": "England and Wales",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, the Sub-Advisor shall promptly, upon demand, return to Oaktree US all such records, except that the Sub-Advisor may retain copies for its records as may be required by Applicable Law, regulation or court order, and provided that the Sub-Advisor's confidentiality obligations shall continue in full force and effect with respect to such retained records not within the public domain.\n\n6.3 The Sub-Advisor shall provide to Oaktree US promptly upon request any information available in the records maintained by the Sub-Advisor relating to the Funds in such form as Oaktree US shall request.\n\n7. LIABILITY AND INDEMNIFICATION\n\n7.1 In providing its services under this Agreement, the Sub-Advisor will discharge its duties in accordance with the same standard of care established for O",
+    "start": 11477,
+    "end": 12288
+  },
+  "_doc_id": "OAKTREECAPITALGROUP,LLC_03_02_2020-EX-10.8-Services Agreement.txt",
+  "_char_count": 20133,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: England and Wales"
+    }
+  ]
+}

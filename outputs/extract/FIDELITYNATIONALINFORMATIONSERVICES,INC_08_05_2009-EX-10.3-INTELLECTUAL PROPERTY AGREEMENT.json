@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "EQUIFAX INC",
+    "CERTEGY INC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the relationship under this Agreement between Equifax and Certegy (A) with respect to Proprietary Information, the period during which the Proprietary Information constituting a part of the Company Information retains its status as a \"trade secret\" under applicable law; and (B) with respect to Confidential Information constituting a part of the Company Information, for the shorter of a period equal to three (3) years after the Closing Date, or until such Confidential Information no longer qualifies as confidential under applicable law.\n\n     Section 9.3. Employee Confidentiality Agreements.\n\n     The members of each Group have entered into confidentiality and non- disclosure agreements with their respective employees. To the extent that any employee during or after employment violates",
+    "start": 84212,
+    "end": 85023
+  },
+  "_doc_id": "FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT.txt",
+  "_char_count": 155463
+}

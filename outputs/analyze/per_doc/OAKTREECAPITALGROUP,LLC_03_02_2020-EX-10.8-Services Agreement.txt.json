@@ -1,0 +1,31 @@
+{
+  "_doc_id": "OAKTREECAPITALGROUP,LLC_03_02_2020-EX-10.8-Services Agreement.txt",
+  "_char_count": 20133,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: England and Wales"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:England and Wales",
+    "incomplete"
+  ],
+  "governing_law": "England and Wales",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

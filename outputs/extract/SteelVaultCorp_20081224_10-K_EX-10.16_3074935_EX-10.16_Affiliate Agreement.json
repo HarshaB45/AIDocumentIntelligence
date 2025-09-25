@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "Equidata, Inc., a corporation  organized under the laws of Virginia with its principal place of business at 724 Thimble Shoals Boulevard Newport News, Virginia  23606 (\"Equidata\")",
+    "National Credit Report"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination. This Agreement commences on the Effective Date, and terminates, along with all licenses and  authorizations granted under it, upon the earliest of termination in accordance with the following.\n\n  7.1.   This Agreement shall be for the term of one year; thereafter, the Agreement shall renew automatically under these same  terms and agreements unless superceded by future agreements.      7.2.   This Agreement may be terminated by either party with cause upon thirty (30) days written notice. Upon Marketing  Affiliate's default in payment or other breach of this Agreement, Equidata may terminate this Agreement without notice  to Marketing Affiliate. Upon termination for any reason, Equidata reserves the right to deactivate Marketing Affiliate's  access to the services including the Equidata",
+    "start": 9264,
+    "end": 10075
+  },
+  "_doc_id": "SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement.txt",
+  "_char_count": 18157
+}

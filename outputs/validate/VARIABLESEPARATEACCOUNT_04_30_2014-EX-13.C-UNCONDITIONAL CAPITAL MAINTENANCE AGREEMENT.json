@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "AMERICAN INTERNATIONAL GROUP, INC",
+    "AMERICAN GENERAL LIFE INSURANCE COMPANY"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination. Unless earlier terminated in accordance with this paragraph 7, this Agreement shall continue indefinitely. AIG shall have the absolute right to terminate this Agreement upon thirty (30) days' prior written notice to the Company, which notice shall state the effective date of termination (the \"Termination Date\"); provided, however, that AIG agrees not to terminate this Agreement unless (a) AIG significantly modifies the\n\n3\n\n\n\n\n\n\n\n      corporate structure or ownership of the Company, or (b) AIG sells the Company to an acquirer, in each case, (i) having a rating from at least one of S&P, Moody's, A.M. Best or a substitute agency, which is a nationally recognized statistical rating organization, that is at least equal to the lower of (x) AIG's then-current rating from such agency or (y) the",
+    "start": 7925,
+    "end": 8736
+  },
+  "_doc_id": "VARIABLESEPARATEACCOUNT_04_30_2014-EX-13.C-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT.txt",
+  "_char_count": 15202,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "Fruit of Life Productions LLC, (\"Promoter\")",
+    "Eco Science Solutions"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination: The term of this agreement will begin on April 1, 2018 and continue until April 30, 2018 at 11:59pm.\n\nRelationship of Parties: The parties are independent contractors with respect to one another. Nothing in this Agreement shall create any association, joint venture, partnership or agency relationship of any kind between the parties.\n\n1\n\nSource: ECO SCIENCE SOLUTIONS, INC., 8-K, 4/6/2018\n\n\n\n\n\nIntellectual Property: Fruit of Life Productions LLC is the sole owner of all right, title and interest to all Kaya Fest information including Logo, tag lines, (Education before Recreation), Trademarks, trade names and copyrighted information. Sponsor agrees that it will not use Kaya Fest property in a manner that states or implies that Kaya Fest endorses Sponsor (or Sponsors products or services) wi",
+    "start": 1423,
+    "end": 2234
+  },
+  "_doc_id": "EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement.txt",
+  "_char_count": 8052,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "_doc_id": "PrudentialBancorpInc_20170606_8-K_EX-10.4_10474434_EX-10.4_Endorsement Agreement.txt",
+  "_char_count": 14155,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Pennsylvania"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of Pennsylvania",
+    "incomplete"
+  ],
+  "governing_law": "the State of Pennsylvania",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

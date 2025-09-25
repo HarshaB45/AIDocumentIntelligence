@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "the Parties facilitated under this Agreement;     SHBV Boiler means a boiler that is manufactured",
+    "supplied by SHBV from time to time;     SHBV Technologies has the meaning given in Recital A above;     Commencement Date means the date of this Agreement;     Dispute means any dispute"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination).     4. COOPERATION OBLIGATIONS     4.1 Without prejudice to the other provisions of this Agreement, each Party shall perform its obligations under this Agreement in accordance with  Good Industry Practice.     4.2 Each Party shall, during the course of its normal business, use reasonable endeavours subject to the terms of this Agreement to:     4.2.1 promote and market the experience and capabilities of the Parties in order to identify opportunities for W2E, such promotion and  marketing activities to be as agreed by the Parties from time to time;     4.2.2 identify, assess and communicate opportunities for W2E; and     4.2.3 undertake joint marketing initiatives and other marketing activities which are mutually beneficial for the business interests of both  Parties and as shall be agre",
+    "start": 7569,
+    "end": 8380
+  },
+  "_doc_id": "WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 40442,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: reasonable"
+    }
+  ]
+}

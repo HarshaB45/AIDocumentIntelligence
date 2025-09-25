@@ -1,0 +1,44 @@
+{
+  "parties": [
+    "Bank of America, N.A. (\"Bank of America\")",
+    "Cardlytics"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms.\"    Proprietary to Bank of America  Page A-2  vTIP2010\n\nSource: CARDLYTICS, INC., S-1, 1/12/2018\n\n\n\n\n\nPRODUCTS   LICENSED PROGRAMS:  PROGRAM MATERIALS:  PLATFORM:\n\nThe Software consists of the following:  The Program Materials include the following:  The Platform consists of the following:\n\nCardlytics OPS (Offer Placement System) Version 3.0\n\n\n\nInstallation Guides Operational Guides\n\n\n\nComputer: database servers, application servers and web servers\n\nOperating System: Microsoft.net and SQL 2008\n\nOther Required Components Client side ad serving technology\n\n  PAYMENT TERMS\n\nThe Sof",
+    "start": 2603,
+    "end": 3203,
+    "text_normalized": "Payment Terms.\"    Proprietary to Bank of America  Page A-2  vTIP2010\n\nSource: CARDLYTICS, INC., S-1, 1/12/2018\n\n\n\n\n\nPRODUCTS   LICENSED PROGRAMS:  PROGRAM MATERIALS:  PLATFORM:\n\nThe Software consists of the following:  The Program Materials include the following:  The Platform consists of the following:\n\nCardlytics OPS (Offer Placement System) Version 3.0\n\n\n\nInstallation Guides Operational Guides\n\n\n\nComputer: database servers, application servers and web servers\n\nOperating System: Microsoft.net and SQL 2008\n\nOther Required Components Client side ad serving technology\n\n  PAYMENT TERMS\n\nThe Sof"
+  },
+  "termination_clause": {
+    "text": "Termination\" of the Agreement. If Bank of America terminates the Maintenance Services, Bank of America shall have the right to reinstate the Maintenance Services without paying any reinstatement fee. During the initial Maintenance Term and any renewal term, Maintenance Fees shall be paid in the increments described below under \"Payment Terms.\"    Proprietary to Bank of America  Page A-2  vTIP2010\n\nSource: CARDLYTICS, INC., S-1, 1/12/2018\n\n\n\n\n\nPRODUCTS   LICENSED PROGRAMS:  PROGRAM MATERIALS:  PLATFORM:\n\nThe Software consists of the following:  The Program Materials include the following:  The Platform consists of the following:\n\nCardlytics OPS (Offer Placement System) Version 3.0\n\n\n\nInstallation Guides Operational Guides\n\n\n\nComputer: database servers, application servers and web servers\n\nOperating Sy",
+    "start": 2273,
+    "end": 3084
+  },
+  "_doc_id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt",
+  "_char_count": 5327,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    },
+    {
+      "field": "payment_terms",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

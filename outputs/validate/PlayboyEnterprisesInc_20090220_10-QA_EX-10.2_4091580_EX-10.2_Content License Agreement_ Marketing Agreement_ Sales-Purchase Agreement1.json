@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "eFashion Solutions, LLC, a New Jersey limited liability  company having its principal place of business at 80 Enterprise Avenue South, Secaucus, NJ 07094 (\"EFS\")",
+    "Playboy"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms, and therefore, the Merchandise purchased in connection with March 1, 2008 orders shall not  be subject to the discount for Client Inventory set forth in Section 6.6.     2.4. Licensees. Client shall notify each of its Licensees (as defined below) of the provisions of this Agreement relating to  the sale and provision of Merchandise to EFS. EFS\n\n8\n\nSource: PLAYBOY ENTERPRISES INC, 10-Q/A, 2/20/2009\n\n\n\n\n\n   shall be permitted to deal directly with and purchase Merchandise directly from those third parties licensed by Client to produce  products under the PLAYBOY brand (\"Licensees\"",
+    "start": 28182,
+    "end": 28782,
+    "text_normalized": "payment terms, and therefore, the Merchandise purchased in connection with March 1, 2008 orders shall not  be subject to the discount for Client Inventory set forth in Section 6.6.     2.4. Licensees. Client shall notify each of its Licensees (as defined below) of the provisions of this Agreement relating to  the sale and provision of Merchandise to EFS. EFS\n\n8\n\nSource: PLAYBOY ENTERPRISES INC, 10-Q/A, 2/20/2009\n\n\n\n\n\n   shall be permitted to deal directly with and purchase Merchandise directly from those third parties licensed by Client to produce  products under the PLAYBOY brand (\"Licensees\""
+  },
+  "termination_clause": {
+    "text": "termination of these employees and their subsequent hire by EFS. Each of  the hired employees shall be required to comply with all policies and procedures of EFS which are generally applicable to its  employees; provided however that levels of seniority and tenure of hired employees (as they relate to vacation time, etc.) will  carry over to EFS. Client shall have\n\n5\n\nSource: PLAYBOY ENTERPRISES INC, 10-Q/A, 2/20/2009\n\n\n\n\n\n   input and approval rights regarding the hiring of key positions in connection with the Playboy Commerce Business, including  replacement personnel, which approval shall not be unreasonably withheld. EFS agrees that ***** primary responsibilities will  continue to be the Playboy Commerce Business.    (k) Keywords. EFS may use Playboy Marks as keyword-targeted advertising on any p",
+    "start": 17588,
+    "end": 18399
+  },
+  "_doc_id": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.txt",
+  "_char_count": 117118,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ]
+}

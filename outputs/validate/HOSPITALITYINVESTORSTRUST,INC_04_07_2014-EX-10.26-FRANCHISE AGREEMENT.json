@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Homewood Suites Franchise LLC (\"we,\" \"us,\" \"our\" or \"Franchisor\")",
+    "the Franchisee (\"you"
+  ],
+  "effective_date": "2014-03-21",
+  "governing_law": "the State of New York without recourse to New York choice of law or conflicts of law principles",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION 22           14.1 Termination with Opportunity to Cure 22   14.2 Immediate Termination by Us 22   14.3 Suspension Interim Remedies 23   14.4 Liquidated Damages on Termination 24   14.5 Actual Damages Under Special Circumstances 24   14.6 Your Obligations on Termination or Expiration 24         15.0 INDEMNITY 25       16.0 RELATIONSHIP OF THE PARTIES 26           16.1 No Agency Relationship 26   16.2 Notices to Public Concerning Your Independent Status 26         17.0 MISCELLANEOUS 26           17.1 Severability and Interpretation 26   17.2 Governing Law, Jurisdiction and Venue 27   17.3 Exclusive Benefit 27   17.4 Entire Agreement 27   17.5 Amendment and Waiver 27   17.6 Consent; Business Judgment 27   17.7 Notices 28   17.8 General Release 28   17.9 Remedies Cumulative 28   17.10 Economi",
+    "start": 1708,
+    "end": 2519
+  },
+  "_doc_id": "HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT.txt",
+  "_char_count": 146992,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York without recourse to New York choice of law or conflicts of law principles"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the Parties with respect to such subject matter. 4.9 Governing Law; Consent to Jurisdiction; Waiver of Jury Trial. This OMA",
+    "all claims or causes of action (whether in contract or tort) that may be based upon"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of New York without regard to principles of conflicts of laws that would result in the application of the law of any other jurisdiction",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination; Withdrawal of Bank. (a) This OMA shall expire upon the earlier of (i) the first anniversary of the Effective Date and (ii) the date that all Shares of Stock of the Seller Trusts as set forth on Schedule A hereto have been sold (the \"Term\"). Notwithstanding the foregoing, this OMA may be terminated with or without cause at any time after the Effective Date and without liability or continuing obligation by any of the Parties hereto (i) by mutual written agreement of all of the Parties; and (ii) in writing by the Trust Advisors in their sole discretion.\n\n- 4 -\n\n\n\n\n\n(b) The Engagement Letter shall provide that the Bank may terminate its engagement at any time upon not less than 45 days' prior written notice to the other Parties. In the event the Bank provides such notice at any time prior to",
+    "start": 8410,
+    "end": 9221
+  },
+  "_doc_id": "GWG HOLDINGS, INC. - ORDERLY MARKETING AGREEMENT.txt",
+  "_char_count": 25450,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York without regard to principles of conflicts of laws that would result in the application of the law of any other jurisdiction"
+    }
+  ]
+}

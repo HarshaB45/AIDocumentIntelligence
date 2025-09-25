@@ -1,0 +1,35 @@
+{
+  "_doc_id": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.txt",
+  "_char_count": 87070,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    },
+    {
+      "field": "payment_terms",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: commercially reasonable, reasonable"
+    }
+  ],
+  "risk_score": 8,
+  "risk_bucket": "high",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

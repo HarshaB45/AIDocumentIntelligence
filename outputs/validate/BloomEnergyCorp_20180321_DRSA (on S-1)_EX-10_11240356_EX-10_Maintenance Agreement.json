@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "DIAMOND STATE GENERATION PARTNERS, LLC",
+    "BLOOM ENERGY CORPORATION"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION 19\n\nSection 4.1 Default 19 Section 4.2 Termination of Warranties 20 Section 4.3 Replacement of Agreement 20\n\nARTICLE 5 DATA ACCESS 21\n\nSection 5.1 Access to Data and Meters 21 i\n\nSource: BLOOM ENERGY CORP, DRS/A (on S-1), 3/21/2018\n\n\n\n\n\nARTICLE 6 INDEMNITY 21\n\nSection 6.1 Indemnification of Operator by Owner 21 Section 6.2 Indemnification of Owner by Operator 21 Section 6.3 Indemnity Claims Procedure 22 Section 6.4 No Duplication of Claims 22\n\nARTICLE 7 LIMITATIONS ON LIABILITY 22\n\nSection 7.1 Aggregate Limit of Liability 22 Section 7.2 No Duplication of Claims 23\n\nARTICLE 8 REPRESENTATIONS AND WARRANTIES 24\n\nSection 8.1 Representations and Warranties of Owner 24 Section 8.2 Representations and Warranties of Operator 25\n\nARTICLE 9 MISCELLANEOUS 26\n\nSection 9.1 Amendment and Modification 2",
+    "start": 1372,
+    "end": 2183
+  },
+  "_doc_id": "BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.txt",
+  "_char_count": 104732,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

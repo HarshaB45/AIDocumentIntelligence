@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Freedom Mortgage Corporation, a New Jersey corporation (\"Freedom Mortgage\")",
+    "Cherry Hill Mortgage Investment Corp"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of New York",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination for cause of Freedom Mortgage as an issuer.\n\nSection 3. Ancillary Agreements.\n\nOn or prior to the Closing Date, Cherry Hill and Freedom Mortgage shall enter into the Purchase Agreement and the Flow Agreement.\n\nSection 4. Representations and Warranties.\n\n(a) Freedom Mortgage represents and warrants to Cherry Hill that the statements contained in this Section 4(a) are true and correct in all material respects as of the date of this Agreement (or, if made as of a different specified date, as of such date) and will be true and correct in all material respects as of the Closing Date (as though made then and as though the Closing Date were substituted for the date of this Agreement throughout this Section 4(a)).\n\n(i) Freedom Mortgage is duly organized and validly existing and in good standing u",
+    "start": 11104,
+    "end": 11915
+  },
+  "_doc_id": "CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement.txt",
+  "_char_count": 27741,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

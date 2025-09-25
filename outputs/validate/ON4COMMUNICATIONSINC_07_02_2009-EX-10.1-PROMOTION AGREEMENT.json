@@ -1,0 +1,35 @@
+{
+  "parties": [
+    "Charity Tunes Inc., a British Columbia corporation with registered office located at  Suite 1800, 925 West Georgia Street, Vancouver, British Columbia, Canada V6C 3L2 (\"Charity Tunes\")",
+    "ConAgra Foods Canada  Inc"
+  ],
+  "effective_date": null,
+  "governing_law": "the Province of Ontario and the federal laws of  Canada applicable therein",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "ON4COMMUNICATIONSINC_07_02_2009-EX-10.1-PROMOTION AGREEMENT.txt",
+  "_char_count": 15103,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "MISSING",
+      "detail": "Required field 'termination_clause' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the Province of Ontario and the federal laws of  Canada applicable therein"
+    }
+  ]
+}

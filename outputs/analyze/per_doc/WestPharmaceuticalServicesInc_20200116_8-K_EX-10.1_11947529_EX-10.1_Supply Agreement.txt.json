@@ -1,0 +1,20 @@
+{
+  "_doc_id": "WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement.txt",
+  "_char_count": 82898,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ],
+  "risk_score": 3,
+  "risk_bucket": "low",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": "2019-01-01"
+}

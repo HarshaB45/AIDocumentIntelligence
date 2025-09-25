@@ -1,0 +1,36 @@
+{
+  "parties": null,
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Offering.\n\nIn the event the Company is unable to sell a minimum of 1,875,000 Shares on or before June 30, 2007, this Agreement shall terminate and the Company shall cause the Escrow Agent (as defined below) to refund to any persons who have subscribed for any of the Shares the full amount it received from them, without interest, as set forth in the Prospectus; and none of the parties to this Agreement shall have any obligation to the other parties hereunder, except as set forth in this Section 2 and in Sections 8, 10, and 11.\n\nIn the event the Offering is terminated and the Closing (as defined below) does not occur, then the Agent shall not receive the fees set forth in subparagraph (a) below (the \"Fees\"); provided, however, regardless of whether or not the Closing occurs, the Agen",
+    "start": 5275,
+    "end": 6086
+  },
+  "_doc_id": "BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT.txt",
+  "_char_count": 45214,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "parties",
+      "type": "MISSING",
+      "detail": "Required field 'parties' is missing"
+    }
+  ]
+}

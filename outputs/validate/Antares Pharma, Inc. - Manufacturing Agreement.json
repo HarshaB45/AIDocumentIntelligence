@@ -1,0 +1,44 @@
+{
+  "parties": [
+    "Antares Pharma, Inc",
+    "AMAG Pharmaceuticals"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms set forth in Section 4.2.\n\n(c) With respect to any reduction in the Safety Stock pursuant to Sections 3.6(a)(ii) or 3.6(d), to the extent such reduced quantities of Safety Stock are used in the manufacture of fully finished Products and/or sample Products, then Antares shall credit any amount previously paid by AMAG with respect to such reduced quantity in Safety Stock in the Invoice issued to AMAG pursuant to Section 4.2 for such fully finished Product and/or sample Product.\n\n- 16 -\n\n\n\n\n\n[***] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN",
+    "start": 45002,
+    "end": 45602,
+    "text_normalized": "payment terms set forth in Section 4.2.\n\n(c) With respect to any reduction in the Safety Stock pursuant to Sections 3.6(a)(ii) or 3.6(d), to the extent such reduced quantities of Safety Stock are used in the manufacture of fully finished Products and/or sample Products, then Antares shall credit any amount previously paid by AMAG with respect to such reduced quantity in Safety Stock in the Invoice issued to AMAG pursuant to Section 4.2 for such fully finished Product and/or sample Product.\n\n- 16 -\n\n\n\n\n\n[***] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreement, and in either such event, Antares or its Subcontractor shall deliver the Prefilled Syringes to AMAG or its designee, at AMAG's\n\n- 10 -\n\n\n\n\n\n[***] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED\n\nreasonable expense. AMAG shall be solely responsible and reimburse Antares for all reasonable costs and expenses associated with the storage of the Prefilled Syringes at Antares' or its Subcontractor's storage facility at the Manufacturing Site following the expiration or termination of this Agreement. Antares agrees to reasonably cooperate with AMAG, at AMAG",
+    "start": 27041,
+    "end": 27852
+  },
+  "_doc_id": "Antares Pharma, Inc. - Manufacturing Agreement.txt",
+  "_char_count": 106786,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material, reasonable"
+    },
+    {
+      "field": "payment_terms",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_doc_id": "HerImports_20161018_8-KA_EX-10.14_9765707_EX-10.14_Maintenance Agreement.txt",
+  "_char_count": 10217,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "MISSING",
+      "detail": "Required field 'termination_clause' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Nevada"
+    }
+  ],
+  "risk_score": 10,
+  "risk_bucket": "high",
+  "tags": [
+    "law:the State of Nevada",
+    "incomplete"
+  ],
+  "governing_law": "the State of Nevada",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

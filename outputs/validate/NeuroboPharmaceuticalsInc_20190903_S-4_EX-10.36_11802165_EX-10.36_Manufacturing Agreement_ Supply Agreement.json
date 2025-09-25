@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "DONG-A ST CO., LTD",
+    "NEUROBO PHARMACEUTICALS"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION 5.1 This Agreement shall commence on the Effective Date and, unless earlier terminated, shall continue in full force and effect for a period of [***] years thereafter. 5.2 This Agreement shall automatically terminate in case the License Agreement is terminated for any reason specified therein. 5.3 A Party may terminate this Agreement by notice to the other Party if the other Party is in material breach of any provision of this Agreement, and (a) the breaching Party has not cured the breach within [***] days after receiving notice from the terminating Party; or (b) if the breach cannot reasonably be cured within the [***]-day period, the breaching Party has not started to remedy the breach within the [***]-day period and diligently endeavored to cure the breach within a reasonable time the",
+    "start": 15516,
+    "end": 16327
+  },
+  "_doc_id": "NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.txt",
+  "_char_count": 20000,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material, reasonable"
+    }
+  ]
+}

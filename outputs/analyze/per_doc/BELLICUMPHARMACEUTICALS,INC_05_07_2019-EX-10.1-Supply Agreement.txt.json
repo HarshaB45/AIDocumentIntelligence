@@ -1,0 +1,25 @@
+{
+  "_doc_id": "BELLICUMPHARMACEUTICALS,INC_05_07_2019-EX-10.1-Supply Agreement.txt",
+  "_char_count": 188674,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ],
+  "risk_score": 6,
+  "risk_bucket": "medium",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

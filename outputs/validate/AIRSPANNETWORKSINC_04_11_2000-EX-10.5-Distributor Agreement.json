@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "Airspan Networks Incorporated, a company incorporated under the laws of the State of Washington having its principal office at 777 108th Avenue NE, Suite 1895, Bellevue, Washington 98004 (\"Airspan\")",
+    "GLS LLC"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of South Dakota",
+  "payment_terms": {
+    "text": "PAYMENT TERMS.\n\n\n\n\n\n7.1  Airspan will issue an invoice (the \"Invoice\") to Distributor in      accordance with the payment terms below. The Invoice specifically will      identify the Equipment, Software, or other items shipped, and the Contract      Price of such items.  Any Installation Services or other services provided      by Airspan will be invoiced separately following completion of such      services.  The Invoice also shall state the total due to Airspan from      Distributor (the \"Invoice Total\"), which shall include the Contract Price,      and any applicable taxes, duties, and othe",
+    "start": 19529,
+    "end": 20129,
+    "text_normalized": "PAYMENT TERMS.\n\n\n\n\n\n7.1  Airspan will issue an invoice (the \"Invoice\") to Distributor in      accordance with the payment terms below. The Invoice specifically will      identify the Equipment, Software, or other items shipped, and the Contract      Price of such items.  Any Installation Services or other services provided      by Airspan will be invoiced separately following completion of such      services.  The Invoice also shall state the total due to Airspan from      Distributor (the \"Invoice Total\"), which shall include the Contract Price,      and any applicable taxes, duties, and othe"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreement, Distributor agrees that neither it nor any organization or entity controlled or directed by it will, without Airspan's prior, written consent, represent a manufacturer or supplier of products similar in design or performance to or which are of such a nature as to be competitive with any products contained in the Airspan Products, nor will Distributor market or otherwise promote the sale of such products. Distributor will give Airspan thirty (30) days' prior, written notice of each new potential representation role being considered by Distributor, and Distributor will not undertake such representation without Airspan's prior, written consent, such consent not to be unreasonably withheld. Except as\n\n\n\n\n\nprovided above, in no event will Airspan consent to Distributor's con",
+    "start": 4248,
+    "end": 5059
+  },
+  "_doc_id": "AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement.txt",
+  "_char_count": 70444,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of South Dakota"
+    }
+  ]
+}

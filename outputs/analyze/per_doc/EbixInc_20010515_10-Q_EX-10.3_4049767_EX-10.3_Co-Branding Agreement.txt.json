@@ -1,0 +1,31 @@
+{
+  "_doc_id": "EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement.txt",
+  "_char_count": 42972,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the state where a suit is properly filed under the terms of this paragraph"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the state where a suit is properly filed under the terms of this paragraph",
+    "incomplete"
+  ],
+  "governing_law": "the state where a suit is properly filed under the terms of this paragraph",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

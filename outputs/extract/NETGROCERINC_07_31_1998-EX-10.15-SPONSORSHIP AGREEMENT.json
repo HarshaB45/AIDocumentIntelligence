@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "Excite, Inc., a California corporation, located at 555 Broadway, Redwood City, California 94063 (\"Excite\")",
+    "NetGrocer"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION\n\n         a)       The term of this Agreement will begin on December 15, 1997                   and will end the later of (i) December 15, 1999 or (ii)                   Excite's delivery of all of the guaranteed Click-throughs                   described in Section 1(f).\n\n         b)       Either party may terminate this Agreement, in the event that                   the other party materially breaches its obligations or                   guarantees hereunder and such breach remains uncured for                   sixty (60) days following written notice to the breaching                   party of the breach.\n\n         c)       All payments that would be due pursuant to Sections 5(b) -                   (d) up to the date of any termination or expiration of this                   Agreement",
+    "start": 29845,
+    "end": 30656
+  },
+  "_doc_id": "NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 45040
+}

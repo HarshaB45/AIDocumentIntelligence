@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Airsopure International Group, Inc., a Nevada corporation whose principal place of business is located at 15400 Knoll Trail, Suite 200, Dallas, Texas 75248 (hereinafter \"AIRSOPURE\" or by reference \"we\", \"us\", \"our\")",
+    "You:"
+  ],
+  "effective_date": null,
+  "governing_law": "Texas",
+  "payment_terms": {
+    "text": "payment terms are permitted.\n\nB. All orders will be shipped freight collect unless freight is paid in advance by You.\n\nC. You will pay the prices then prevailing at the time AIRSOPURE receives each order. Such prices are subject to change at any time by AIRSOPURE.\n\nD. All merchandise will be shipped to You at the Center for resale to customers\n\n\n\n\n\nin the Exclusive Territory. You will sell Products only to end-user customers and not for resale. You will not sell or lease Products at any location other than within Your Exclusive Territory, engage in mail order sales of Products or supply Produc",
+    "start": 18052,
+    "end": 18652,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreement and the Franchise herein granted, no monetary amount shall be assigned as attributable to any goodwill associated with Your use of the Licensed Marks.\n\nE. The right and license to use the Licensed Marks granted hereunder to You is nonexclusive, and AIRSOPURE may use and grant franchises to others to use the Licensed Marks in any manner except as expressly provided otherwise herein.\n\nF. AIRSOPURE reserves the right to substitute different Licensed Marks for use in identifying the System and the businesses operating thereunder, and You agree to comply with AIRSOPURE's requirements relating thereto.\n\n7.04. You shall promptly notify AIRSOPURE of any unauthorized use of the Licensed Marks or marks confusingly similar thereto, any challenge to the validity of the Licensed Mark",
+    "start": 22114,
+    "end": 22925,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT.txt",
+  "_char_count": 73869,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the parties arising under this Agreement",
+    "not resolved by the parties shall be determined in accordance with the laws of the State of Michigan"
+  ],
+  "effective_date": "2016-11-01",
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, Shipper's and Transporter's obligations to each other arising under this Agreement, prior to the date of termination, remain in effect and are not being terminated by any provision of this Agreement.\n\n15. NOTICES AND COMMUNICATIONS:\n\nAll notices and communications with respect to this Agreement shall be in writing by mail, e-mail, or fax, or other means as agreed to by the parties, and sent to the addresses stated below or to any other such address(es) as may be designated in writing by mail, e-mail, or fax, or other means similarly agreed to:\n\nADMINISTRATIVE MATTERS Great Lakes Gas Transmission Limited Partnership Commercial Services 700 Louisiana St., Suite 700 Houston, TX 77002-2700\n\nANR PIPELINE COMPANY 700 Louisiana St., Suite 700 Houston, TX 77002-2700 Attn: AGREE",
+    "start": 3738,
+    "end": 4549
+  },
+  "_doc_id": "TcPipelinesLp_20160226_10-K_EX-99.12_9454048_EX-99.12_Transportation Agreement.txt",
+  "_char_count": 6088,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

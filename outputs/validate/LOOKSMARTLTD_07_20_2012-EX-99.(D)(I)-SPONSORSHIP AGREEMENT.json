@@ -1,0 +1,41 @@
+{
+  "parties": null,
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination,  extension, modification, or waiver of or related to the Offer or any term or condition thereof, including, without limitation, with respect to any  commencement date, initial offering period, offer price, type or form of consideration to be offered or paid, timing or other term of acceptance for  payment or payment of any subject security, withdrawal right, expiration date, subsequent offering period, or top-up option, (b) waiver of any  condition to or of the Offer or determination as to whether or not any such condition has been, is, or will be satisfied, (c) filing, dissemination, or  disclosure requirement or offering document or tender offer material, including, without limitation, with respect to any filing or exhibit, schedule,  attachment, amendment, or supplement thereto, (d) a",
+    "start": 3147,
+    "end": 3958
+  },
+  "_doc_id": "LOOKSMARTLTD_07_20_2012-EX-99.(D)(I)-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 25922,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "parties",
+      "type": "MISSING",
+      "detail": "Required field 'parties' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

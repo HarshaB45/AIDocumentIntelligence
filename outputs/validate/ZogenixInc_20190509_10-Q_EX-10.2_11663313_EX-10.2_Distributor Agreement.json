@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "ZOGENIX, INC., having a place of business at 5959 Horton Street, Suite 500, Emeryville, California 94608( \"Zogenix\")",
+    "Nippon Shinyaku Company"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination 12.1 Term 12.2 Termination 12.3 Rights on Termination 12.4 Exercise of Right to Terminate 12.5 Damages; Relief 12.6 Accrued Obligations; Survival\n\nii\n\nUS-DOCS\\105216871.19\n\nSource: ZOGENIX, INC., 10-Q, 5/9/2019\n\n\n\n\n\nArticle 13. Dispute Resolution 13.1 Objective 13.2 Resolution by Executives 13.3 Arbitration Article 14. General Provisions 14.1 Governing Law 14.2 Force Majeure 14.3 Assignment 14.4 Severability 14.5 Notices 14.6 Entire Agreement; Amendments 14.7 Headings 14.8 Independent Contractors 14.9 Waiver 14.1 Cumulative Remedies 14.11 Waiver of Rule of Construction 14.12 Interpretation 14.13 No Third Party Beneficiaries 14.14 English Language 14.15 Counterparts 14.16 Further Actions\n\niii\n\nUS-DOCS\\105216871.19\n\nSource: ZOGENIX, INC., 10-Q, 5/9/2019\n\n\n\n\n\nList of Exhibits\n\nExhibit 1.70 U",
+    "start": 2659,
+    "end": 3470
+  },
+  "_doc_id": "ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement.txt",
+  "_char_count": 175770,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

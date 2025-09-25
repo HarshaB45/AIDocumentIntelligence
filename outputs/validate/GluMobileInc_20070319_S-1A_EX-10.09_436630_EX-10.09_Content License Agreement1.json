@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "TWENTIETH CENTURY FOX LICENSING & MERCHANDISING, a division of Fox Entertainment Group, Inc. (\"Fox\"), as Administrator for Twentieth Century Fox Film Corporation (\"Trademark Licensor\")",
+    "Sorrent"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms. Payment of all royalties and other payments by either party to the other shall be made in United States Dollars by check or wire transfer to a bank account to be designated by the receiving party. Payment of all royalties shall be made without deduction, reduction or set-off of any kind, provided that the paying party shall be permitted to deduct withholding taxes as permitted by applicable law. Each party agrees that it shall not be entitled to withhold any portion of the royalties as a reserve. Each party agrees to provide the other with all necessary withholding tax forms.\n\n(",
+    "start": 39418,
+    "end": 40018,
+    "text_normalized": "Payment Terms. Payment of all royalties and other payments by either party to the other shall be made in United States Dollars by check or wire transfer to a bank account to be designated by the receiving party. Payment of all royalties shall be made without deduction, reduction or set-off of any kind, provided that the paying party shall be permitted to deduct withholding taxes as permitted by applicable law. Each party agrees that it shall not be entitled to withhold any portion of the royalties as a reserve. Each party agrees to provide the other with all necessary withholding tax forms.\n\n("
+  },
+  "termination_clause": {
+    "text": "termination of Licensee's exclusivity for Licensee's failure to achieve the Market Penetration Targets, Fox shall not distribute the Wireless Products which have been developed by Licensee prior to such termination, without first obtaining a license from Licensee on terms to be mutually agreed in each party's reasonable discretion, for the exploitation of the Licensee Materials.\n\n(2) Targeted Releases: Fox acknowledges that Licensee may not be able to secure placement of all Targeted Releases at the levels set forth for the Market Penetration Targets defined in the previous sub-Paragraph. Notwithstanding the foregoing, Licensee shall use all commercially reasonable efforts to secure the widest possible distribution of the Wireless Products derived from the Targeted Releases in Europe.\n\n(ii) VGSL and",
+    "start": 22195,
+    "end": 23006
+  },
+  "_doc_id": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement1.txt",
+  "_char_count": 112794,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: commercially reasonable, material, reasonable"
+    }
+  ]
+}

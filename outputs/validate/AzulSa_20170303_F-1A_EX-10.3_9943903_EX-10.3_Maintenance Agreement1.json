@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "AZUL LINHAS AÉREAS BRASILEIRAS S/A (as Company)",
+    "AVIONS DE TRANSPORT REGIONAL"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "PAYMENT TERMS     23  13.  SECURITY DEPOSIT     26  14.  DISCLAIMER     27  15.  LIABILITY AND INDEMNITY     27  16.  TERMINATION     28  17.  CONDITIONS PRECEDENT     31  18.  EXPORT CONTROL     31  19.  NOTICES     31  20.  CONFIDENTIALITY     32  21.  TAXES     34  22.  ASSIGNMENT     34  23.  MISCELLANEOUS     35  24.  GOVERNING LAW AND ARBITRATION     37      AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 2/110\n\nSource: AZUL SA, F-1/A, 3/3/2017\n\n\n\n\n\nExecution version     EXECUTION PAGE     39  EXHIBIT 1 - LIST OF ATR AIRCRAFT COVERED UNDER THIS AGREEMENT     4",
+    "start": 1069,
+    "end": 1669,
+    "text_normalized": "PAYMENT TERMS     23  13.  SECURITY DEPOSIT     26  14.  DISCLAIMER     27  15.  LIABILITY AND INDEMNITY     27  16.  TERMINATION     28  17.  CONDITIONS PRECEDENT     31  18.  EXPORT CONTROL     31  19.  NOTICES     31  20.  CONFIDENTIALITY     32  21.  TAXES     34  22.  ASSIGNMENT     34  23.  MISCELLANEOUS     35  24.  GOVERNING LAW AND ARBITRATION     37      AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 2/110\n\nSource: AZUL SA, F-1/A, 3/3/2017\n\n\n\n\n\nExecution version     EXECUTION PAGE     39  EXHIBIT 1 - LIST OF ATR AIRCRAFT COVERED UNDER THIS AGREEMENT     4"
+  },
+  "termination_clause": {
+    "text": "TERMINATION     28  17.  CONDITIONS PRECEDENT     31  18.  EXPORT CONTROL     31  19.  NOTICES     31  20.  CONFIDENTIALITY     32  21.  TAXES     34  22.  ASSIGNMENT     34  23.  MISCELLANEOUS     35  24.  GOVERNING LAW AND ARBITRATION     37      AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 2/110\n\nSource: AZUL SA, F-1/A, 3/3/2017\n\n\n\n\n\nExecution version     EXECUTION PAGE     39  EXHIBIT 1 - LIST OF ATR AIRCRAFT COVERED UNDER THIS AGREEMENT     40  EXHIBIT 2 - LIST OF SERVICES PROVIDED UNDER THIS AGREEMENT     42  EXHIBIT 3 - MAIN ELEMENTS COVERED UNDER THE AGREEMENT     43  EXHIBIT 4 - LIST OF LANDING GEAR ON CONDITION PARTS     44  EXHIBIT 5 - STOCK     45  EXHIBIT 6 - LRUS COVERED BY REPAIR AND STANDARD EXCHANGE SERVICES     61  EXHIBIT 7 - REPAIRER STANDARD WORK OR",
+    "start": 1187,
+    "end": 1998
+  },
+  "_doc_id": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1.txt",
+  "_char_count": 233248,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ]
+}

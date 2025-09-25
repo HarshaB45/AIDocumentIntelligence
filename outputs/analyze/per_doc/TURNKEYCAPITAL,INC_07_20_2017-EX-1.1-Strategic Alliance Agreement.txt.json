@@ -1,0 +1,31 @@
+{
+  "_doc_id": "TURNKEYCAPITAL,INC_07_20_2017-EX-1.1-Strategic Alliance Agreement.txt",
+  "_char_count": 12648,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Florida"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of Florida",
+    "incomplete"
+  ],
+  "governing_law": "the State of Florida",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

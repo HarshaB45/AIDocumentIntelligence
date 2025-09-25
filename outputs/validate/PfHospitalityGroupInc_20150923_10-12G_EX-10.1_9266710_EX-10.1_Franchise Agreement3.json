@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "FRANCHISEE",
+    "ITS PERSONNEL) THIS SAMPLE OF NON-DISCLOSURE AND NON-COMPETITION AGREEMENT ( \"Agreement\")  is  made this  _____ day of _________"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Franchise Agreement (regardless of the cause for termination); (c) termination of Member's employment with Franchisee; and/or (d) a final order of a duly authorized arbitrator, panel of arbitrators, or a court of competent jurisdiction (after all appeals have been taken) with respect to any of the foregoing or with respect to the enforcement of this Agreement; either directly or indirectly (through, on behalf of, or in conjunction with any persons, partnership, corporation or entity). 3. Injunctive Relief. Member acknowledges that any failure to comply with the requirements of this Agreement will cause Franchisor irreparable injury, and Member agrees to pay all court costs and reasonable attorney's fees incurred by Franchisor in obtaining specific performance of, or an injunction a",
+    "start": 4274,
+    "end": 5085
+  },
+  "_doc_id": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3.txt",
+  "_char_count": 6772,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: reasonable"
+    }
+  ]
+}

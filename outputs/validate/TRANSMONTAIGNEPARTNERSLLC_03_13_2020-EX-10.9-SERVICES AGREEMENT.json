@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the Operating Company",
+    "EmployeeCo"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Colorado",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination of Agreement. This Agreement shall remain in effect until terminated by the Parties. This Agreement may be terminated by (a) the written agreement of the Parties or (b) by either Party upon 5 days written notice to the other Party. All payment obligations hereunder shall survive the termination of this Agreement in accordance with their respective terms.\n\n2.4 Amendment or Modification. This Agreement may be amended or modified from time to time only by the written agreement of all the Parties hereto. Each such instrument shall be reduced to writing and shall be designated on its face an \"Amendment\" or an \"Addendum\" to this Agreement.\n\n2.5 Assignment. No Party shall have the right to assign its rights or obligations under this Agreement without the consent of the other Parties hereto; prov",
+    "start": 3476,
+    "end": 4287
+  },
+  "_doc_id": "TRANSMONTAIGNEPARTNERSLLC_03_13_2020-EX-10.9-SERVICES AGREEMENT.txt",
+  "_char_count": 5886,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Colorado"
+    }
+  ]
+}

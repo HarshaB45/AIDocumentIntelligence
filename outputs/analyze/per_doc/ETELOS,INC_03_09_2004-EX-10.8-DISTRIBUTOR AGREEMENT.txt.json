@@ -1,0 +1,26 @@
+{
+  "_doc_id": "ETELOS,INC_03_09_2004-EX-10.8-DISTRIBUTOR AGREEMENT.txt",
+  "_char_count": 25647,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ],
+  "risk_score": 6,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:California",
+    "incomplete"
+  ],
+  "governing_law": "California",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

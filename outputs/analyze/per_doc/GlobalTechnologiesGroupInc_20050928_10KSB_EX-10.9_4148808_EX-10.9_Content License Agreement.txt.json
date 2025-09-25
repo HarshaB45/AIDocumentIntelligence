@@ -1,0 +1,31 @@
+{
+  "_doc_id": "GlobalTechnologiesGroupInc_20050928_10KSB_EX-10.9_4148808_EX-10.9_Content License Agreement.txt",
+  "_char_count": 39596,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Florida without regard to conflicts of law provisions"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of Florida without regard to conflicts of law provisions",
+    "incomplete"
+  ],
+  "governing_law": "the State of Florida without regard to conflicts of law provisions",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

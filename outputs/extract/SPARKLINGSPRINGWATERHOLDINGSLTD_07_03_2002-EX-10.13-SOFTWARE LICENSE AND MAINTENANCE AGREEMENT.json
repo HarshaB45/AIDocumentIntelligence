@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "GARMAN ROUTING SYSTEMS, INC. (\"GARMAN\")",
+    "SPARKLING SPRING WATER GROUP LIMITED (\"SPARKLING\")"
+  ],
+  "effective_date": null,
+  "governing_law": "Nova Scotia and the laws of Canada applicable in Nova Scotia",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION\n\n     (a)    This Agreement and the license granted under this Agreement shall remain in effect perpetually as long as fees are paid by Sparkling in accordance with the Fee Schedule and the Agreement is not otherwise terminated in accordance with this Section.\n\n     (b)    Sparkling may terminate this Agreement at any time upon ninety (90) calendar days written notice to Garman. If Sparkling terminates this Agreement pursuant to this Section 17(b), Sparkling shall cease using the Software at the end of the ninety (90) day notice period, and shall certify to Garman within thirty (30) calendar days of termination that Sparkling has destroyed or has returned to Garman all Software, Documentation and Codes.\n\n     (c)    If either party:\n\n            (1)   makes an assignment in bankruptcy or",
+    "start": 20587,
+    "end": 21398
+  },
+  "_doc_id": "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.txt",
+  "_char_count": 27714
+}

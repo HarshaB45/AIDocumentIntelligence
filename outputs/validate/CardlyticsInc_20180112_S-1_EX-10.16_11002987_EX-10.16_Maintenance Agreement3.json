@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "Cardlytics, Inc. (\"Supplier\")",
+    "Bank of America"
+  ],
+  "effective_date": "2011-03-03",
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement3.txt",
+  "_char_count": 1707,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "MISSING",
+      "detail": "Required field 'termination_clause' is missing"
+    }
+  ]
+}

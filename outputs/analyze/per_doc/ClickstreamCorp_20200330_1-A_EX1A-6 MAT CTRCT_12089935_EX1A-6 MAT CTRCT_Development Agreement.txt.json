@@ -1,0 +1,36 @@
+{
+  "_doc_id": "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.txt",
+  "_char_count": 34191,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the state of Florida"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ],
+  "risk_score": 8,
+  "risk_bucket": "high",
+  "tags": [
+    "law:the state of Florida",
+    "incomplete"
+  ],
+  "governing_law": "the state of Florida",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

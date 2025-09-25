@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "EXACT SCIENCES CORPORATION",
+    "PFIZER INC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION 48 8.1 Term 48 8.2 Renewal 48 8.3 Termination for Cause 48 8.4 Termination Without Cause 49 8.5 Mutual Termination 49 8.6 Termination for Change of Control 49 8.7 Royalty Upon Expiration 49 8.8 Consequences of Termination 50 8.9 Survival of Certain Obligations 50 9. MISCELLANEOUS 51 9.1 Interpretation 51 9.2 Assignment 51 9.3 Further Actions 51 9.4 Force Majeure 51 9.5 Notices 52 9.6 Amendment 53 9.7 Waiver 53 9.8 Severability 53 9.9 Descriptive Headings 53 9.10 Governing Law 53 9.11 Dispute Resolution 53 9.12 Entire Agreement of the Parties 54 9.13 Independent Contractors 54 9.14 No Legal Advice 54 9.15 Counterparts 54 EXHIBITS Exhibit 1.24 - Cost of Sales Exhibit 1.39 - Exact Trademarks Exhibit 2.2(c)(iv) - Calendar Quarter Performance Metrics Exhibit 3.2(c)(i) - Sales Deployment Plan E",
+    "start": 1678,
+    "end": 2489
+  },
+  "_doc_id": "ExactSciencesCorp_20180822_8-K_EX-10.1_11331629_EX-10.1_Promotion Agreement.txt",
+  "_char_count": 159187,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

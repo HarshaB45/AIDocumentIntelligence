@@ -1,0 +1,31 @@
+{
+  "_doc_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.txt",
+  "_char_count": 49191,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the PRC"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the PRC",
+    "incomplete"
+  ],
+  "governing_law": "the PRC",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

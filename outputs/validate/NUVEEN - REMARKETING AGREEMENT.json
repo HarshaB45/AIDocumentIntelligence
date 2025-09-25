@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the parties that, in connection with any attempted remarketing, all Tendered VRRM-MFP Shares shall be remarketed at the Purchase Price of such VRRM-MFP Shares. With respect to the Remarketing Agent's responsibilities, but without affecting the Calculation",
+    "Paying Agent's role as intermediary (if applicable)"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of New York",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination of Remarketing Agreement 12 Section 11. Remarketing Agent's Performance; Duty of Care 13 Section 12. Amendment, Supplement or Modification of Agreements 13 Section 13. Books and Records 13 Section 14. Governing Law 13 Section 15. Waiver of Jury Trial 14 Section 16. Certain Provisions to Survive Termination of Agreement 14 Section 17. Successors and Assigns 14 Section 18. Headings 14 Section 19. Severability 14 Section 20. Counterparts 14 Section 21. Remarketing Agent Not Acting as Underwriter 15 Section 22. Amendment 15 i\n\n\n\n\n\nSection 23. Benefits 15 Section 24. Notices and Wire Instructions 15 Section 25. Liability of Officers, Trustees and Shareholders 16 Section 26. Nonpetition Covenant 16\n\nExhibit A Form of Tender Notice (Optional Tenders)\n\nExhibit B Form of Remarketing Notice (Option",
+    "start": 730,
+    "end": 1541
+  },
+  "_doc_id": "NUVEEN - REMARKETING AGREEMENT.txt",
+  "_char_count": 70631,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York"
+    }
+  ]
+}

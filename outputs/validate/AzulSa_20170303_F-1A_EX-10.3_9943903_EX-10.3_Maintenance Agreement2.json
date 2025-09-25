@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "AZUL LINHAS AÉREAS BRASILEIRAS S/A",
+    "AVIONS DE TRANSPORT REGIONAL"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "PAYMENT TERMS       (i) Clause 12.1(ii) of the GMA shall be cancelled and substituted as follow:   [*****]     [*****]     [*****]     [*****]     [*****]     [*****]     [*****]     [*****]     (ii) Any other provision of Clause 12 shall remain in full force and effect.   2.2 Exhibit 14 - PRICE CONDITIONS       (i) Clause 3.2 of the Exhibit 14 of the GMA shall be cancelled and substituted as follow:   \"3.2 Technical conditions for prices adjustment\n\nThe prices set out in this Exhibit 14 shall be modified every [*****] at the occasion of the invoicing reconciliation pursuant to Clause 11 (\"Rec",
+    "start": 2975,
+    "end": 3575,
+    "text_normalized": "PAYMENT TERMS       (i) Clause 12.1(ii) of the GMA shall be cancelled and substituted as follow:   [*****]     [*****]     [*****]     [*****]     [*****]     [*****]     [*****]     [*****]     (ii) Any other provision of Clause 12 shall remain in full force and effect.   2.2 Exhibit 14 - PRICE CONDITIONS       (i) Clause 3.2 of the Exhibit 14 of the GMA shall be cancelled and substituted as follow:   \"3.2 Technical conditions for prices adjustment\n\nThe prices set out in this Exhibit 14 shall be modified every [*****] at the occasion of the invoicing reconciliation pursuant to Clause 11 (\"Rec"
+  },
+  "termination_clause": {
+    "text": "termination or expiry of this Amendment for a period of five (5) years following such End Date.\n\n5. GOVERNING LAW - ARBITRATION\n\n5.1 Governing law:\n\nPursuant to and in accordance with Section 5-1401 of the New York General Obligations Law, the Parties hereto agree that this Amendment in all respects, and any claim or cause of action based upon or arising out of this Amendment, or any dealing between the Parties relating to the subject matter of this Amendment or the transactions contemplated hereby or the Company/Repairer relationship being established, shall be governed by, and construed in accordance with, the laws of the State of New York, U.S.A. as applied to contracts to be performed wholly within the State of New York (Exclusive of Section 7-101 of the New York General Obligations Law which is",
+    "start": 11036,
+    "end": 11847
+  },
+  "_doc_id": "AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement2.txt",
+  "_char_count": 16870,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ]
+}

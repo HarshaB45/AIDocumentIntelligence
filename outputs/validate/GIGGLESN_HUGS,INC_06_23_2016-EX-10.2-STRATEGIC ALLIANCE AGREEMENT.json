@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Giggles N' Hugs, Inc., a Nevada corporation (the \"Company\")",
+    "Kiddo"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination. Either party may terminate this agreement after 3 years following the effective date. (a) In addition, this Agreement will terminate upon the following: (1) Completion of work or period of work provided in this agreement. (2) Termination by Company or Consultant for any material breach, which is not cured within 30 days after written notice of any such material breach from the non-breaching party, pursuant to the terms of the Agreement. (3) By the Company, at its option, if at least two Milestones (excluding Milestones 1) are not achieved within 12 months from the Effective Date. 4. Relationship of Parties. Consultant is an independent contractor and is not an agent or employee of, and has no authority to bind, the Company by contract or otherwise. Consultant will report as self-employme",
+    "start": 8944,
+    "end": 9755
+  },
+  "_doc_id": "GIGGLESN_HUGS,INC_06_23_2016-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 22359,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

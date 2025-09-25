@@ -1,0 +1,32 @@
+{
+  "parties": null,
+  "effective_date": "2019-07-01",
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.txt",
+  "_char_count": 4871,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "MISSING",
+      "detail": "Required field 'termination_clause' is missing"
+    },
+    {
+      "field": "parties",
+      "type": "MISSING",
+      "detail": "Required field 'parties' is missing"
+    }
+  ]
+}

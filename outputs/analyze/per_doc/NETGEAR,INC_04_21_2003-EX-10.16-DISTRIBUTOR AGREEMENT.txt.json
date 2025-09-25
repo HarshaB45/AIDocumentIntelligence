@@ -1,0 +1,25 @@
+{
+  "_doc_id": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",
+  "_char_count": 41501,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of California except that body of law dealing with conflicts of law"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ],
+  "risk_score": 2,
+  "risk_bucket": "low",
+  "tags": [
+    "law:the State of California except that body of law dealing with conflicts of law"
+  ],
+  "governing_law": "the State of California except that body of law dealing with conflicts of law",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": "1996-03-01"
+}

@@ -1,0 +1,7 @@
+{
+  "parties": {"type": "list[text]", "required": true},
+  "effective_date": {"type": "date", "required": true},
+  "governing_law": {"type": "text", "required": true},
+  "payment_terms": {"type": "span", "required": true},
+  "termination_clause": {"type": "span", "required": true}
+}

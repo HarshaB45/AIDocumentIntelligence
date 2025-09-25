@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "the Company",
+    "EA is an important component to achieve their respective strategic objectives"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination, cancellation or acceleration of any material contract or other instrument or obligations binding upon the Company or by which any shares of the Common Stock or the Preferred Stock or any of the Company's assets is or may be bound or (iv) result in the creation or imposition of any Lien on any of the shares of Common Stock or Preferred Stock or any of the Company's assets. 8\n\n\n\n\n\n(e) Consents and Approvals. Assuming the accuracy of the representations and warranties of each of Farids and EA as set forth in this Agreement and EA as set forth in the Exclusive Supplier Operating Agreement, as of the Closing Date, no consents or approvals of, or filings or registrations with, any federal, state or local court, governmental, legislative, judicial, administrative or regulatory authority, agency",
+    "start": 24339,
+    "end": 25150
+  },
+  "_doc_id": "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 121115,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the Investor, the Agent",
+    "the Lenders"
+  ],
+  "effective_date": null,
+  "governing_law": "THE STATE OF MINNESOTA",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination, set-off, defense, counterclaim or recoupment whatsoever or any right to any of the foregoing (including, but not limited to, claims, abatements, reductions, limitations, impairments, terminations, set-offs, defenses, counterclaims or recoupment for or on account of any past, present or future Indebtedness of any Borrower to the Investor or which may be asserted by any Borrower against the Agent or the Lenders, whether or not arising under this Agreement and whether or not arising out of any action or nonaction on the part of such Borrower, the Agent or the Lenders, including any disposition of any assets of such Borrower, pursuant to requirements of any governmental authority, actions of judicial receivers or trustees or otherwise, and whether or not arising from willful or negligent act",
+    "start": 10183,
+    "end": 10994
+  },
+  "_doc_id": "SUNTRONCORP_05_17_2006-EX-10.22-MAINTENANCE AGREEMENT.txt",
+  "_char_count": 32263,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: THE STATE OF MINNESOTA"
+    }
+  ]
+}

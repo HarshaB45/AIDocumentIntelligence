@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "VerticalNet, Inc., a Pennsylvania corporation having a principal place of business at 700 Dresher Road, Suite 100, Horsham, Pennsylvania, PA 19044 (\"VerticalNet\")",
+    "Neoforma"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "PAYMENT TERMS. Except as otherwise provided in this Agreement, each Party shall provide the other Party with all amounts due under this Agreement for the prior calendar quarter within 30 days after the end of each calendar quarter during the Term. Each payment shall be accompanied by a statement detailing the amount of applicable gross revenue received, the calculation of the amount due to the other Party and the amount of the payment accompanying such statement. All payments due to either Party hereunder shall be made in immediately available U.S. funds, without set-off or counterclaim, less",
+    "start": 48751,
+    "end": 49351,
+    "text_normalized": "PAYMENT TERMS. Except as otherwise provided in this Agreement, each Party shall provide the other Party with all amounts due under this Agreement for the prior calendar quarter within 30 days after the end of each calendar quarter during the Term. Each payment shall be accompanied by a statement detailing the amount of applicable gross revenue received, the calculation of the amount due to the other Party and the amount of the payment accompanying such statement. All payments due to either Party hereunder shall be made in immediately available U.S. funds, without set-off or counterclaim, less"
+  },
+  "termination_clause": {
+    "text": "TERMINATION\n\n     11.1 AUTOMATIC RENEWAL. This Agreement will automatically renew at the end of the Initial Term or a subsequent renewal term on a year to year basis (each, a \"Renewal Term\"), unless either Party notifies the other at least 30 days prior to the end of the Initial Term or then current Renewal Term, as applicable, of its intention not to renew this Agreement (a \"Termination Notice\").\n\nSource: NEOFORMA INC, S-1/A, 12/2/1999\n\n\n\n\n\n     11.2 TERMINATION FOR CAUSE. Either Party may terminate this Agreement immediately upon written notice to the other Party in the event any material breach of a material term of this Agreement by such other Party that remains uncured 30 days in the case of a breach of a payment obligation, or 45 days for all other breaches, after notice of such breach was rece",
+    "start": 52509,
+    "end": 53320
+  },
+  "_doc_id": "NeoformaInc_19991202_S-1A_EX-10.26_5224521_EX-10.26_Co-Branding Agreement.txt",
+  "_char_count": 98907,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

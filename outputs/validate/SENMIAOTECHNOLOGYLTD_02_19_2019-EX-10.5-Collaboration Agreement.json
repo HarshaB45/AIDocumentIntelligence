@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the following parties in Haidian District, Beijing. This Agreement may be executed in paper form offline or in electronic form through the Didi Chuxing Online Contracting Platform (website: https://Agreement.didichuxing.com/, hereinafter referred to as the \"Contracting Platform\"). The Agreement executed offline in paper form shall become effective upon the completion of the execution by both Parties (hereinafter referred to as the \"Effective Date\");",
+    "the Agreement executed online in electronic form shall become effective upon the completion of the execution on the Contracting Platform by both Parties (hereinafter referred to as the \"Effective Date\") recorded by the third-party Online Document Depository"
+  ],
+  "effective_date": null,
+  "governing_law": "China",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Financial Leasing Agreement by the Driver User; 3.2.13.2 After signing the agreement with Party B, the Driver User is entitled to terminate the Financial Leasing Agreement 7 days in advance in the last week (7 natural days) of every three months. 3.2.13.3 In case that the Driver User unilaterally terminates the Financial Leasing Agreement in advance, he/she does not need to pay the remaining rent and the last payment; 3.2.13.4 In case that the Driver User unilaterally terminates the Financial Leasing Agreement in advance, Party B shall collect the liquidated damages from the Driver User within 30% of the \"down payment + total monthly rent + last payment\" stipulated in the Financial Leasing Agreement; If major maintenance (maintenance fee is RMB3,000 or above) of the leased vehicle",
+    "start": 15404,
+    "end": 16215
+  },
+  "_doc_id": "SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement.txt",
+  "_char_count": 73890,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: China"
+    }
+  ]
+}

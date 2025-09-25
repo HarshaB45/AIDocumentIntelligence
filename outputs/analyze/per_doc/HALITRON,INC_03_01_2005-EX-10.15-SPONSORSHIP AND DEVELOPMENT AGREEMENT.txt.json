@@ -1,0 +1,31 @@
+{
+  "_doc_id": "HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT.txt",
+  "_char_count": 30102,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Arizona applicable to agreements fully executed and performed therein"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of Arizona applicable to agreements fully executed and performed therein",
+    "incomplete"
+  ],
+  "governing_law": "the State of Arizona applicable to agreements fully executed and performed therein",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

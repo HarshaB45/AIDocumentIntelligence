@@ -1,0 +1,31 @@
+{
+  "_doc_id": "FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement.txt",
+  "_char_count": 30309,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: Spain and the language of the process will be Spanish"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:Spain and the language of the process will be Spanish",
+    "incomplete"
+  ],
+  "governing_law": "Spain and the language of the process will be Spanish",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

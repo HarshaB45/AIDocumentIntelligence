@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "[ * * * ] (the \"Provider\")",
+    "TELCOSTAR PTE"
+  ],
+  "effective_date": null,
+  "governing_law": "Singapore",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination. 3.1 Termination of Agreement. This Agreement be deemed effective as of the Effective Date, Agreement and shall terminate on December 31, 2020, unless terminated earlier in accordance with Section 3.2. 3.2 Each of the Recipient and the Provider may, in their sole discretion, terminate this Agreement in whole or in part, at any time without cause, and without liability except, in the case of the Recipient, for required payment for services rendered and reimbursement for authorized expenses incurred, by providing at least 90 (ninety) days' prior written notice to the other party (such date, the \"Services Termination Date\"). 3.3 Breach. Any Party (the \"Non-Breaching Party\") may terminate this Agreement with respect to any Service, in whole but not in part, at any time upon prior written noti",
+    "start": 9649,
+    "end": 10460,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "ABILITYINC_06_15_2020-EX-4.25-SERVICES AGREEMENT.txt",
+  "_char_count": 26346,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "Array BioPharma Inc., a company organized under the laws of Delaware",
+    "having its principal place of business at 3200 Walnut Street"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination).\n\n(c)  Ono shall in all cases remain responsible for any actions of its Affiliates and Sublicensees exercising rights under a sublicense of the rights granted by Array to Ono under this Agreement to the same extent as if such actions had been taken by Ono itself.\n\n(d)  Promptly following the execution of each Sublicense to a Sublicensee, Ono shall provide Array with an executed copy of such Sublicense which may be redacted as described below (together with a detailed English summary of such sublicense agreement if such Sublicense was originally executed in a language other than English); and Ono shall also provide to Array an executed copy (which may be redacted as described below) of any amendment to a Sublicense that relates to a Product (together with a detailed English summary of suc",
+    "start": 47350,
+    "end": 48161
+  },
+  "_doc_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT.txt",
+  "_char_count": 272018
+}

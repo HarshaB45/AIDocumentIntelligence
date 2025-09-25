@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "ADMA BioManufacturing, LLC, a Delaware limited liability company, having a place of business at 5800 Park of Commerce Boulevard NW, Boca Raton, Florida 33487 USA (\"ADMA\")",
+    "Sanofi Pasteur S"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination. In such a case, the remaining Source Plasma shall be immediately returned to Sanofi Pasteur, under ADMA's liability and expenses. Shipment of the Source Plasma to Sanofi Pasteur shall be made in compliance with the transportation conditions as provided in the Quality Agreement (as defined below), to be further amended by the Parties as contemplated in Section 9 below.\n\nBPC Initials ___ Sanofi Pasteur Initials ___ 2\n\n\n\n\n\nConfidential treatment has been requested with respect to portions of this agreement as indicated by \"[***]\" and such confidential portions have been deleted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 4. In the event of a non-conformance in the Source Plasma at the time of del",
+    "start": 5791,
+    "end": 6602
+  },
+  "_doc_id": "ADMA BioManufacturing, LLC -  Amendment 3 to Manufacturing Agreement.txt",
+  "_char_count": 15312,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

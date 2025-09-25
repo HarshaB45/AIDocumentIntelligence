@@ -1,0 +1,20 @@
+{
+  "_doc_id": "XENCORINC_10_25_2013-EX-10.24-COLLABORATION AGREEMENT (3).txt",
+  "_char_count": 140106,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ],
+  "risk_score": 3,
+  "risk_bucket": "low",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": "2012-02-10"
+}

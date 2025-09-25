@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "InfinixSoft Global LLC, a Florida Limited Liability Company, with its principal office located at 360 NE 75 St Miami, Suite #127, 33138, Miami, Florida (the \"Developer\")",
+    "Clickstream Corporation with its principal office located at 1801 Century Park East Suite 1201 Los Angeles"
+  ],
+  "effective_date": null,
+  "governing_law": "the state of Florida",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION. (a) Types of Termination. This Agreement may be terminated: 1. By either Party on provision of seven (7) days written notice to the other Party in case of a Force Majeure Event. 2. Client has the unilateral right to cancel this agreement at any time within a 7-day notice period. Further, Developer can only cancel due to lack of payment. Client will have a 30 day right to cure before a cancelation can occur. 3. By either Party for a material breach of any provision of this Agreement by the other Party, if the other Party's material breach is not cured within three (3) days of receipt of written notice thereof. This shall include any delays to the timeline specified in Exhibit A. 4. By the Client at any time and without prior notice, if the Developer is convicted of any crime or offense, f",
+    "start": 2145,
+    "end": 2956
+  },
+  "_doc_id": "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.txt",
+  "_char_count": 34191,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the state of Florida"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

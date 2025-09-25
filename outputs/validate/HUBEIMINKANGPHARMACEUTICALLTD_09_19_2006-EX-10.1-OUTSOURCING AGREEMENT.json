@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "the parties concerning this Agreement, its enforceability or the interpretation thereof, the same shall be settled by a single arbitrator appointed pursuant to the provisions of the Commercial Arbitration Act of the State of Nevada, or any successor legislation then in force. The language to be used in the arbitration proceedings shall be English.   Notices:   All payments, reports",
+    "notices or other documents that any of the parties hereto are required or may desire to deliver to any other party hereto may be delivered only by personal delivery or by registered or certified mail"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination:   DGT shall be entitled to terminate this Agreement if Dolphin fails to meet its requirements and material obligation hereunder and only after DGT have given Dolphin written notice of such failure and only after Dolphin has not rectified such failure within 10 days of the notice. Dolphin shall be entitled to terminate this Agreement only after DGT fails to meet a material obligation hereunder and only after Dolphin has given DGT written notice of such failure and only after the DGT has not rectified such failure within 30 days of the notice.     Page 3 of 5\n\n\n\n\n\n    General:   1.Dolphin shall be entitled to defer any obligation hereunder in the event of force majeure, where force majeure is defined as an act of God, war, revolution, insurrection, riot, blockade or any other unlawful act",
+    "start": 6535,
+    "end": 7346
+  },
+  "_doc_id": "HUBEIMINKANGPHARMACEUTICALLTD_09_19_2006-EX-10.1-OUTSOURCING AGREEMENT.txt",
+  "_char_count": 11322,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

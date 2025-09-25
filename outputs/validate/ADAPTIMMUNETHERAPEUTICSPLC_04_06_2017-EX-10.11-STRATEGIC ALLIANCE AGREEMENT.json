@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "The University of Texas M. D. Anderson Cancer Center, with a place of business located at 1515 Holcombe Blvd., Houston, TX 77030, USA (\"MD Anderson\"), a member institution of The University of Texas System (\"System\")",
+    "Adaptimmune LLC"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Texas",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, it will be allocated to studies, research or tests agreed by the JSC, and such Alliance Funding will be payable in accordance with agreed milestones relevant to such agreed studies, research or tests.   The Parties understand that the compensation being paid to MD Anderson under this Agreement constitutes the fair market value of the services to be provided hereunder. Neither MD Anderson nor Principal Investigator shall seek or accept reimbursement from any third-party payor for any Study items or procedures supplied by or paid for by Adaptimmune under this Agreement. MD Anderson acknowledges that Adaptimmune may be obligated to disclose all payments made hereunder, including the provision of non-monetary items of value, as may be required under Applicable Law, includin",
+    "start": 5975,
+    "end": 6786
+  },
+  "_doc_id": "ADAPTIMMUNETHERAPEUTICSPLC_04_06_2017-EX-10.11-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 101167,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Texas"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Paratek Pharmaceuticals, Inc",
+    "CARBOGEN AMCIS AG"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination   38\n\n18.1  Termination   38\n\n18.2  Consequences of Termination   39\n\n18.3  Return of Samples   40\n\n18.4  Return of Confidential Information   40\n\n18.5  Survival   40\n\nArticle 19  Miscellaneous   41\n\n19.1  Assignment; Inurement   41    CONFIDENTIAL  Page 5 of 49\n\nSource: PARATEK PHARMACEUTICALS, INC., 10-K/A, 5/5/2017\n\n\n\n\n\nTHIS EXHIBIT HAS BEEN REDACTED AND IS THE SUBJECT OF A CONFIDENTIAL TREATMENT REQUEST. REDACTED MATERIAL IS MARKED WITH [* * *] AND HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.\n\n19.2  Change of Control   41\n\n19.3  Counterparts   41\n\n19.4  Dispute Resolution   41\n\n19.5  Force Majeure   42\n\n19.6  Performance   42\n\n19.7  Further Assurances   42\n\n19.8  Independent Contractors   42\n\n19.9  Injunctions   43\n\n19.10 Notices   43\n\n19.11  Entire Agreement",
+    "start": 4852,
+    "end": 5663
+  },
+  "_doc_id": "ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement.txt",
+  "_char_count": 114893,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

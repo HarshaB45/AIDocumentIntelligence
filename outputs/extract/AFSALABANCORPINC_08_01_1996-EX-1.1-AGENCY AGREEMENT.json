@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Capital Resources",
+    "the Company and the Association in connection with the offering of Common Stock"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or abandonment of the  Plan  by  the  Company  or  the  Association  or  upon  termination  of the Subscription  and  Public  Offerings,  or if the  terms  of the  Conversion  are substantially  amended  so as to  materially  and  adversely  change the role of Capital  Resources,  but in no event later than 45 days after the  completion of the Subscription and Public Offerings (the \"End Date\").  All fees due to Capital Resources  but unpaid will be payable to Capital  Resources in next day funds at the earlier of the Closing Date (as hereinafter defined) or the End Date. In the event the  Subscription  and Public  Offerings are extended beyond the End Date, the Company, the\n\n                                       -2-\n\nAssociation  and Capital  Resources may mutually  agree to renew this",
+    "start": 6873,
+    "end": 7684,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT.txt",
+  "_char_count": 121559,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

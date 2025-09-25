@@ -1,0 +1,36 @@
+{
+  "parties": null,
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination.\n\n9.   Distributions. During the term of the Joint Venture, no interest shall be      allowed to any Joint Venturer upon the amount of his contribution. No Joint      Venturer shall withdraw, transfer or have paid to him in any manner any      part of his capital contribution or account, or any other funds or property      of the Joint Venture without the consent of both Joint Venturers; provided,      however, there may be distributed to the Joint Venturers, from time to      time, so much of the gross income of the Joint Venture as shall not be      needed to defray the necessary and expected costs and expenses of the Joint      Venture business. Distributions may only be made if after any distribution      is made, the Joint Venture assets are in excess of all liabilities of the      J",
+    "start": 6251,
+    "end": 7062
+  },
+  "_doc_id": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT.txt",
+  "_char_count": 13038,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "parties",
+      "type": "MISSING",
+      "detail": "Required field 'parties' is missing"
+    }
+  ]
+}

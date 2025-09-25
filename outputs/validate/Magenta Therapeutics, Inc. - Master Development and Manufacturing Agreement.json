@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "Magenta Therapeutics, Inc., a Delaware corporation having offices at 50 Hampshire Street, 8t h Floor, Cambridge, MA 02139 (\"Magenta\")",
+    "Bachem Americas"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of New York",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement. Bachem shall make accessible for review by Magenta during an audit or inspection, or following Product release by Bachem's Quality Assurance Department, either onsite or on an electronic platform with restricted access rights only (as reasonably requested by Magenta), at a mutually agreeable time, all specific Batch and lot records relevant to Bachem's performance hereunder, including written investigations of any deviations and \"out-of-specification\" events that may have been generated from manufacturing, packaging, inspection, or testing processes.\n\n6.5 CMC Responsibilities; Regulatory Submissions; Permits. Bachem shall be responsible for obtaining and maintaining, at its sole expense, any facility or other licenses or permits, and any regulatory approvals, necessary",
+    "start": 35061,
+    "end": 35872
+  },
+  "_doc_id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement.txt",
+  "_char_count": 73598,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York"
+    }
+  ]
+}

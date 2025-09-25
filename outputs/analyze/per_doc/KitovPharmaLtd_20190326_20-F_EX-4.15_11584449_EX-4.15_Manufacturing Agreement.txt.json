@@ -1,0 +1,31 @@
+{
+  "_doc_id": "KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement.txt",
+  "_char_count": 57436,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "parties",
+      "type": "AMBIGUOUS",
+      "detail": "Party names appear redacted"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "net:fast",
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": 30,
+  "payment_amounts": [],
+  "effective_date": null
+}

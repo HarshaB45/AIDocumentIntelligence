@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "Signature Orthopaedics Pty Ltd",
+    "CPM Medical Consultants LLC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination\n\n11.1 This agreement begins on the Commencement Date and, subject to clause 11.2, shall continue for an initial term of one (1) years (Initial Term) and indefinitely after that until terminated by either party giving at least twelve (12) months' prior written notice to expire on or after the expiry date of the initial term.\n\n11.2 Without affecting any other rights that it may be entitled to, either party may give notice in writing to the other terminating this agreement immediately if:\n\n(a) the other party fails to pay any amount due under this agreement on the due date for payment and remains in default not less than 14 days after being notified in writing to make such payment; or\n\n(b) the other party commits a material breach of any material term of this agreement and (if such breach is",
+    "start": 17966,
+    "end": 18777
+  },
+  "_doc_id": "FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt",
+  "_char_count": 32502
+}

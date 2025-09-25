@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "VITALIBIS INC a Nevada C having its principal place of business at 5348 Vegas Drive, Las Vegas, NV 89108 (hereinafter, -Licensee\")",
+    "VOTOCAST"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of California without giving effect to conflict or choice of law principles",
+  "payment_terms": {
+    "text": "Payment Terms. The SOW Services Fee will be invoiced twice monthly by VOTOCAST and invoiced in even increments between SOW execution and scheduled production deployment. Payment for the SOW Services Fee shall be in U.S. dollars and is due and payable within fifteen (15) days of the applicable VOTOCAST invoice. Except as othenwise provided herein, all payments due and payable under this Statement of Work shall be made in accordance with the payment terms set forth in Section 4 of the Agreement.\n\n 13\n\nSource: VITALIBIS, INC., 8-K, 3/16/2018\n\n\n\n\n\n\n\n  4. Change Orders. If Licensee desires to exten",
+    "start": 44457,
+    "end": 45057,
+    "text_normalized": "Payment Terms. The SOW Services Fee will be invoiced twice monthly by VOTOCAST and invoiced in even increments between SOW execution and scheduled production deployment. Payment for the SOW Services Fee shall be in U.S. dollars and is due and payable within 15 (15) days of the applicable VOTOCAST invoice. Except as othenwise provided herein, all payments due and payable under this Statement of Work shall be made in accordance with the payment terms set forth in Section 4 of the Agreement.\n\n 13\n\nSource: VITALIBIS, INC., 8-K, 3/16/2018\n\n\n\n\n\n\n\n  4. Change Orders. If Licensee desires to exten"
+  },
+  "termination_clause": {
+    "text": "termination.   1.4 Additional Services. VOTOCAST and Licensee agree that any additional services (\"Additional Services\") to be provided by VOTOCAST to Licensee shall be described in a statement of work (\"SOW'). which shall be executed by authorized representatives of both Parties. The Parties agree that maintenance and support services as set forth in Sections 2.2 and 2.3, respectively, shall not constitute Additional Services arid shall not require an SOW. Each SOW will be deemed to incorporate the terms and conditions of this Agreement unless SOW explicitly states otherwise. Each SOW shall reference this Agreement, contain a description of the services to be provided and the associated fees and charges, and such additional terms and conditions as the Parties may desire to include. The Services and",
+    "start": 3444,
+    "end": 4255
+  },
+  "_doc_id": "VitalibisInc_20180316_8-K_EX-10.2_11100168_EX-10.2_Hosting Agreement.txt",
+  "_char_count": 46187,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of California without giving effect to conflict or choice of law principles"
+    }
+  ]
+}

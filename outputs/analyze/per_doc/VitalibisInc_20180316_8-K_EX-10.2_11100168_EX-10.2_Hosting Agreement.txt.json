@@ -1,0 +1,26 @@
+{
+  "_doc_id": "VitalibisInc_20180316_8-K_EX-10.2_11100168_EX-10.2_Hosting Agreement.txt",
+  "_char_count": 46187,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of California without giving effect to conflict or choice of law principles"
+    }
+  ],
+  "risk_score": 4,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of California without giving effect to conflict or choice of law principles",
+    "incomplete"
+  ],
+  "governing_law": "the State of California without giving effect to conflict or choice of law principles",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

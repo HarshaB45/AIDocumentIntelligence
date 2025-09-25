@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "SYSTEMS APPLICATIONS PRODUCTS (AFRICA) (PTY) LIMITED   (\"SAP AFRICA\")   a company incorporated in accordance with the laws of the Republic of South Africa   with offices at SAP Business Park, 1 Woodmead Drive, Woodmead, Sandton",
+    "TELKOM SOUTH AFRICA LIMITED   (\"TELKOM\")   a company incorporated in accordance with the laws of the Republic of South Africa with   its head office at 152 Proes Street"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "PAYMENT TERMS   5. 1.     Licence Fee: In consideration for the licence granted hereunder, TELKOM shall   pay to SAP AFRICA the licence fee as stipulated in annexure 1 (\"the Licence   Fee\"). The Licence Fee is priced in US dollars (\"USD\"). Forthwith after the   effective date, SAP AFRICA shall invoice TELKOM for payment of the License   Fee. SAP AFRICA shall convert the agreed License Fee, expressed in USD, into   ZAR using the USD: ZAR rate of exchange ruling at the close of business on the   day immediately preceding the date of invoice. For the purposes of this   AGREEMENT, the \"ruling rate",
+    "start": 18972,
+    "end": 19572,
+    "text_normalized": "PAYMENT TERMS   5. 1.     Licence Fee: In consideration for the licence granted hereunder, TELKOM shall   pay to SAP AFRICA the licence fee as stipulated in annexure 1 (\"the Licence   Fee\"). The Licence Fee is priced in US dollars (\"USD\"). Forthwith after the   effective date, SAP AFRICA shall invoice TELKOM for payment of the License   Fee. SAP AFRICA shall convert the agreed License Fee, expressed in USD, into   ZAR using the USD: ZAR rate of exchange ruling at the close of business on the   day immediately preceding the date of invoice. For the purposes of this   AGREEMENT, the \"ruling rate"
+  },
+  "termination_clause": {
+    "text": "termination of this       AGREEMENT and is not replaced with a suitable alternative.\n\n\n\n-12-  TELKOM CONTRACT No. 076C/01   3. 15.      It is recorded for the avoidance of doubt that, provided TELKOM is receiving and   paying for Maintenance Service as contemplated in clause 9, SAP AFRICA shall   provide Maintenance Services in accordance with the provisions of clause 9 and   annexure 2, in respect of the third party software that is licensed by SAP   AFRICA to TELKOM in terms of this AGREEMENT provided that SAP AFRICA   shall not provide such Maintenance Services in respect of any THIRD PARTY   DATABASE software that is not licensed in terms of this AGREEMENT.   4.    DELIVERY AND INSTALLATION   4. 1.     Delivery:   SAP AFRICA shall deliver 1 (one) copy of the SOFTWARE and the   DOCUMENTATION, in m",
+    "start": 16562,
+    "end": 17373
+  },
+  "_doc_id": "TELKOMSALTD_01_30_2003-EX-10-LICENCE AND MAINTENANCE AGREEMENT.txt",
+  "_char_count": 105748,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ]
+}

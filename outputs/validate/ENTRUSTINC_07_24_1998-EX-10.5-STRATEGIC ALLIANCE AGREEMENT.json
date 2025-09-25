@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "NORTHERN TELECOM LIMITED, a Canadian corporation (\"NTL\")",
+    "---        ENTRUST TECHNOLOGIES INC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Patent License Term, and shall include any such application in or for a country for which rights under the law of the country are available for compensation for unauthorized use of the invention covered by such application.\n\n\"Party\" shall mean either NTL or the ETI, as the context requires except with  -----                                                                        respect to Article VIII where \"Party\" shall refer either to Nortel or Entrust, as the context requires.\n\n\"Patent License\" has the meaning specified in Section 6.03.  --------------\n\n\"Patent License Term\" shall mean that period of time that ETI is a Subsidiary of  -------------------                                                             NTL.\n\n\"Reseller Agreement\" has the meaning specified in Section 4.0",
+    "start": 5950,
+    "end": 6761
+  },
+  "_doc_id": "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 45879,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

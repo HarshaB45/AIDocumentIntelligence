@@ -1,0 +1,31 @@
+{
+  "_doc_id": "GWG HOLDINGS, INC. - ORDERLY MARKETING AGREEMENT.txt",
+  "_char_count": 25450,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York without regard to principles of conflicts of laws that would result in the application of the law of any other jurisdiction"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of New York without regard to principles of conflicts of laws that would result in the application of the law of any other jurisdiction",
+    "incomplete"
+  ],
+  "governing_law": "the State of New York without regard to principles of conflicts of laws that would result in the application of the law of any other jurisdiction",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

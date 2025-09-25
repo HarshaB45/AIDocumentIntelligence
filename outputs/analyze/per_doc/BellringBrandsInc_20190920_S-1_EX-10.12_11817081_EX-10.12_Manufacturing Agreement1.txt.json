@@ -1,0 +1,25 @@
+{
+  "_doc_id": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.txt",
+  "_char_count": 42473,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of California"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ],
+  "risk_score": 2,
+  "risk_bucket": "low",
+  "tags": [
+    "law:the State of California"
+  ],
+  "governing_law": "the State of California",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": "2017-07-01"
+}

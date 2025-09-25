@@ -1,0 +1,40 @@
+{
+  "parties": [
+    "the Principal",
+    "STASCO dated 1 November 1999"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "PAYMENT TERMS\n\n5.1  The Principal shall pay the Company a fee of $1.00 (one dollar), inclusive      of VAT, per one net tonne of Commodity shipped pursuant to this Contract.\n\n5.2  The Principal shall pay the commission fee for each delivered batch of      Commodity to the Company's account within 30 (thirty) banking days after      the Delivery Date.\n\n5.3  The payment shall be made in accordance with the invoice presented by the      Company and the tax invoice (original or a fax copy) in Tenge at the      official exchange rate of the National Bank of the Republic of Kazakhstan      effective",
+    "start": 13543,
+    "end": 14143,
+    "text_normalized": "PAYMENT TERMS\n\n5.1  The Principal shall pay the Company a fee of $1.00 (1 dollar), inclusive      of VAT, per 1 net tonne of Commodity shipped pursuant to this Contract.\n\n5.2  The Principal shall pay the commission fee for each delivered batch of      Commodity to the Company's account within 30 (30) banking days after      the Delivery Date.\n\n5.3  The payment shall be made in accordance with the invoice presented by the      Company and the tax invoice (original or a fax copy) in Tenge at the      official exchange rate of the National Bank of the Republic of Kazakhstan      effective"
+  },
+  "termination_clause": {
+    "text": "termination of this Contract (inclusive).\n\n\"STASCO\" means Shell Trading International Limited acting through its agent Shell International Trading and Shipping Company Limited.\n\n\"Tenge\" means official currency of the Republic of Kazakhstan.\n\n2.2 In this Contract, unless the context otherwise requires:\n\ni.   Headings are used for convenience only and do not affect the interpretation      of this Contract;\n\nii.  any expression, which means individual, includes any company, Partnership,      trust, joint venture, association, corporation, or other corporate      organization and vice versa;\n\niii. references to Articles and Sections, unless otherwise expressly provided in      this Contract, are references to articles and sections of this Contract;\n\niv.  except as otherwise expressly provided, any refere",
+    "start": 5690,
+    "end": 6501
+  },
+  "_doc_id": "CHAPARRALRESOURCESINC_03_30_2000-EX-10.66-TRANSPORTATION CONTRACT.txt",
+  "_char_count": 26830,
+  "payment_net_days": null,
+  "payment_amounts": [
+    {
+      "currency": "USD",
+      "amount": 1.0
+    }
+  ],
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ]
+}

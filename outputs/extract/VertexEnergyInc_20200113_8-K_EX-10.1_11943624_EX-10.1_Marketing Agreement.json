@@ -1,0 +1,20 @@
+{
+  "parties": [
+    "Bunker One (USA) Inc., with principal offices located at 107 St. Francis Street, Mobile, AL 36602 (\"Bunker One\")",
+    "Vertex Energy Operating"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment term. 4.1. Payment by Bunker One for the Product, as defined in clause 2.1, will be made by wire transfer within three (3) Business Days after the date Vertex invoices Bunker One, to an account desig- nated from time to time by Vertex. 4.2. On or before the seventh (7t h) Business Day after the end of each quarter during the Fiscal Year May 1- April 30) Bunker One shall prepare and send to Vertex the detailed ledger statement for the immediately preceding quarter. If any such quarterly detailed ledger statement, or the final detailed ledger statement issued by Bunker One, shows positiv",
+    "start": 17480,
+    "end": 18080
+  },
+  "termination_clause": {
+    "text": "termination of all resale and hedge transactions entered into during the term of this Agreement, Bunker One shall issue a final detailed ledger Statement. If the Remaining Exposure shown on such final detailed ledger Statement is less than zero then Vertex shall pay [****] percent ([****]%) of such amount to Bunker One. If the Remaining Exposure shown on such final detailed ledger Statement is greater than zero then Bunker One shall pay [****] percent ([****]%) of such amount to Vertex. 4.5. Payment for any amounts due in accordance with the above shall be made within three (3) Business Days after the date of the applicable detailed ledger Statement. If any detailed ledger State- ment is disputed in good faith, the Party owing money will pay the undisputed portion by the due date and will by such due",
+    "start": 20835,
+    "end": 21646
+  },
+  "_doc_id": "VertexEnergyInc_20200113_8-K_EX-10.1_11943624_EX-10.1_Marketing Agreement.txt",
+  "_char_count": 45072
+}

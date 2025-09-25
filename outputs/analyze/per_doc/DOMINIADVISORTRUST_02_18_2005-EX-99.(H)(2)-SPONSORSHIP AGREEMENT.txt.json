@@ -1,0 +1,31 @@
+{
+  "_doc_id": "DOMINIADVISORTRUST_02_18_2005-EX-99.(H)(2)-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 12555,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the Commonwealth of Massachusetts without reference to principles of conflicts of law"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the Commonwealth of Massachusetts without reference to principles of conflicts of law",
+    "incomplete"
+  ],
+  "governing_law": "the Commonwealth of Massachusetts without reference to principles of conflicts of law",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

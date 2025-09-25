@@ -1,0 +1,21 @@
+{
+  "_doc_id": "Sonos, Inc. - Manufacturing Agreement.txt",
+  "_char_count": 109219,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    }
+  ],
+  "risk_score": 3,
+  "risk_bucket": "low",
+  "tags": [
+    "law:California",
+    "incomplete"
+  ],
+  "governing_law": "California",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

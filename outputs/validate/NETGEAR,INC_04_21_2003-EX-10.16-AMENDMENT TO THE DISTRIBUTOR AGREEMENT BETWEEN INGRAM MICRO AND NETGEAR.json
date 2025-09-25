@@ -1,0 +1,35 @@
+{
+  "parties": [
+    "Distributor",
+    "NETGEAR with respect to the purchase"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of California except that body of law dealing with conflicts of law",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "NETGEAR,INC_04_21_2003-EX-10.16-AMENDMENT TO THE DISTRIBUTOR AGREEMENT BETWEEN INGRAM MICRO AND NETGEAR.txt",
+  "_char_count": 8113,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "MISSING",
+      "detail": "Required field 'termination_clause' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of California except that body of law dealing with conflicts of law"
+    }
+  ]
+}

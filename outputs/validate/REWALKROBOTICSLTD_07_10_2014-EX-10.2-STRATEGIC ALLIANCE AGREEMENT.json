@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Yaskawa Electric Corporation, a limited company duly organized",
+    "existing under the law of Japan"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination by either party. Either party may terminate this Agreement by giving written notice of termination to the other party, which termination will be effective immediately upon such notice, if the other party defaults in the performance of any of its material obligations provided for in this Agreement and fails to cure such default within sixty (60) days after receipt of notice from the other party of such default, unless a plan for remedying such default has been proposed by the defaulting party and accepted by the non- defaulting party within such period.\n\n  (b) Termination by both parties. ARGO and YEC may terminate this Agreement at any point provided that both parties agree in writingto such a termination.\n\n\n\n\n\n6. COORDINATION\n\nA contact person for each party will coordinate the efforts o",
+    "start": 6633,
+    "end": 7444
+  },
+  "_doc_id": "REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 14979,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

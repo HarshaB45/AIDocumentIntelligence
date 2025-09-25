@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "LEO PHARMA A/S of Industriparken 55, DK-2750 Ballerup, Denmark (hereinafter referred to as \"LEO\") ---",
+    "GALEN (CHEMICALS) LIMITED of 4 Adelaide Street"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement to the extent          permitted by applicable Law.\n\n4.4      In any case under this Article IV, where GALEN or LEO is to indemnify          the other, the control of the defence of any Action or Proceeding and          negotiations for settlement and compromise thereof, shall repose with          the indemnifying Party, except that nothing in this paragraph shall be          construed to relieve either Party hereto of the obligation to give the          other all reasonable co-operation, assistance and authority necessary          to permit full and complete defence of any Action or Proceeding;          provided, however, that no Party will settle any of such claims without          consent of the other Party; however, such consent shall not be          unreasonably wit",
+    "start": 11222,
+    "end": 12033
+  },
+  "_doc_id": "WARNERCHILCOTTPLC_12_31_2003-EX-4.36-DEVELOPMENT AGREEMENT.txt",
+  "_char_count": 29683,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: reasonable"
+    }
+  ]
+}

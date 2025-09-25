@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "INGRAM MICRO",
+    "NETGEAR"
+  ],
+  "effective_date": "1996-03-01",
+  "governing_law": "the State of California except that body of law dealing with conflicts of law",
+  "payment_terms": {
+    "text": "payment terms. All payments are to be made in U.S. dollars. Payment for shipments made outside of the United States shall be made by wire transfer in accordance with wire\n\n\n\n\n\ntransfer procedures provided by NETGEAR. If at any time Distributor is delinquent in the payment of any invoice, exceeds the credit line established by NETGEAR, or is otherwise in breach of the Agreement, NETGEAR may, in its discretion, withhold shipment (including partial shipments) of any order or may require Distributor to pay cash on delivery for further shipments. Payment not received by NETGEAR when due may be subj",
+    "start": 9776,
+    "end": 10376,
+    "text_normalized": "payment terms. All payments are to be made in U.S. dollars. Payment for shipments made outside of the United States shall be made by wire transfer in accordance with wire\n\n\n\n\n\ntransfer procedures provided by NETGEAR. If at any time Distributor is delinquent in the payment of any invoice, exceeds the credit line established by NETGEAR, or is otherwise in breach of the Agreement, NETGEAR may, in its discretion, withhold shipment (including partial shipments) of any order or may require Distributor to pay cash on delivery for further shipments. Payment not received by NETGEAR when due may be subj"
+  },
+  "termination_clause": {
+    "text": "TERMINATION\n\nA.       TERM. This Agreement will be in effect for one year from the Effective Date and will automatically renew for successive one (1) year periods unless terminated as provided below.\n\nB.       TERMINATION. This Agreement may be canceled at any time without cause, by either party upon ninety (90) days written notice to the other party. Either party may terminate this Agreement immediately if (i) the other party becomes insolvent, files or has filed against it a petition in bankruptcy, or ceases doing business; or (ii) the other party fails to cure a material breach of the Agreement within thirty (30) days after receipt of written notice of such breach from the party not in default. Upon termination of the Agreement by NETGEAR for Distributor's breach, NETGEAR may cancel all of Distrib",
+    "start": 30864,
+    "end": 31675
+  },
+  "_doc_id": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",
+  "_char_count": 41501,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of California except that body of law dealing with conflicts of law"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

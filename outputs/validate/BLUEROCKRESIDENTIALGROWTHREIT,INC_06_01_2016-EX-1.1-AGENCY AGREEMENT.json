@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "them. No indemnifying party shall, without the prior written consent of the indemnified party, effect any settlement of any pending or threatened action in respect of which any indemnified party is or could have been a party",
+    "indemnity could have been sought hereunder by such indemnified party unless such settlement (i) includes an unconditional release of such indemnified party from all liability on any claims that are the subject matter of such action and (ii) does not include a statement as to"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination, modification or acceleration under such Lease, except as to any such default as would not have a Material Adverse Effect on the Transaction Entities and their respective Subsidiaries, taken as a whole; (5) each of the Leases is valid and binding and in full force and effect, subject to applicable bankruptcy, insolvency, moratorium or other similar laws relating to creditors' rights and general principles of equity, except as would not have a Material Adverse Effect on the Transaction Entities or their respective Subsidiaries; and (6) none of the Transaction Entities, their respective Subsidiaries, or, to the Transaction Entities' knowledge, any other party to any Lease, is a party to any ground lease, sublease or operating sublease relating to any of their Properties.\n\n  13\n\n\n\n\n\n\n\n  (xx)",
+    "start": 37714,
+    "end": 38525
+  },
+  "_doc_id": "BLUEROCKRESIDENTIALGROWTHREIT,INC_06_01_2016-EX-1.1-AGENCY AGREEMENT.txt",
+  "_char_count": 134179,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

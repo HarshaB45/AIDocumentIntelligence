@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "StartEngine Crowdfunding, Inc., a Delaware corporation (\"Company\")",
+    "Solutions Vending International"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of Service. You shall be responsible for all taxes associated with Services other than U.S. taxes based on the Company's net income. c) Transaction Fees Company's transaction fees depend on the method of payment (e.g. ACH-US or WIRE-US). ACH transaction: $1 Wire: $15 d) AML Fees AML fees are charged per User per initial transaction. AML: $2 AML UK: $5\n\n\n\n\n\ne) Reimbursable expenses You shall reimburse the Company for the following expenses: (i) All credit card charges charged to the Company by its third-party credit card processor. (ii) All transaction fees charged to the Company or its affiliates by its third-party transaction processor. (iii) Escrow agent fees charged to the Company or its affiliates by third-party escrow agents. (iv) Return fees as set out in Section 4 (Returns, Reversa",
+    "start": 2159,
+    "end": 2970
+  },
+  "_doc_id": "SOLUTIONSVENDINGINTERNATIONAL,INC_03_31_2020-EX1A-1 UNDR AGMT-SERVICES AGREEMENT.txt",
+  "_char_count": 7124,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

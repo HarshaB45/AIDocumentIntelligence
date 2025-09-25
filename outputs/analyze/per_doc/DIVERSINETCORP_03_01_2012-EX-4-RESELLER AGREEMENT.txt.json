@@ -1,0 +1,31 @@
+{
+  "_doc_id": "DIVERSINETCORP_03_01_2012-EX-4-RESELLER AGREEMENT.txt",
+  "_char_count": 75389,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the province of Ontario"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ],
+  "risk_score": 5,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the province of Ontario",
+    "incomplete"
+  ],
+  "governing_law": "the province of Ontario",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

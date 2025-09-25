@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "PennTex North Louisiana Operating, LLC, a Delaware limited liability company (\"Transporter\")",
+    "MRD Operating LLC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement. Transporter shall be responsible for all Taxes or surcharges levied or imposed on it by any Governmental Authority with respect to the Transportation System and Transporter's other facilities, including without limitation, Transporter's Gas gathering system, processing plants and Gas liquids pipeline system.\n\nArticle XIII. Limitation of Liability & Indemnifications\n\nCUSTOMER SHALL RELEASE, DEFEND, INDEMNIFY AND HOLD HARMLESS TRANSPORTER AND TRANSPORTER'S MEMBERS, DIRECTORS, OFFICERS, AGENTS AND EMPLOYEES FROM AND AGAINST ANY AND ALL SUITS, ACTIONS, CAUSES OF ACTION, CLAIMS, DEMANDS, LOSSES, LIABILITIES AND EXPENSES (INCLUDING, WITHOUT LIMITATION, INTEREST, COURT COSTS, REASONABLE ATTORNEYS' FEES AND EXPENSES, AND OTHER COSTS OF DEFENSE) (COLLECTIVELY, \"CLAIMS\") RELATING",
+    "start": 37869,
+    "end": 38680
+  },
+  "_doc_id": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.txt",
+  "_char_count": 52008
+}

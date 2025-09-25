@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "the Parties, nothing in this Section 5 shall prevent either Party from disclosing any facts or circumstances with respect to any such litigation, arbitration or other proceeding. This Section 5 shall not (i) limit the power of any director of the Company to act in accordance with his or her fiduciary duties or otherwise in accordance with applicable law",
+    "(ii) limit any Party's ability to comply with any subpoena or other legal process or respond to a request for information from any governmental authority with jurisdiction over the party from whom information is sought"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of registration; (viii) seek, alone or in concert with others, representation on the Board, except as specifically permitted in Section 1; (ix) subject to Section 3(b) below, advise, knowingly encourage, knowingly support or knowingly influence any person or entity, in the MG Capital Parties' capacity as stockholders of the Company, with respect to the voting or disposition of any securities of the Company at any annual or special meeting of stockholders with respect to the appointment, election or removal of any director(s), except in accordance with Section 1; (x) make any request for stockholder list materials or other books and records of the Company in the MG Capital Parties' capacity as stockholders of the Company; (xi) institute, solicit, assist or join, as a party, any litigation,",
+    "start": 17408,
+    "end": 18219
+  },
+  "_doc_id": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT.txt",
+  "_char_count": 54866,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

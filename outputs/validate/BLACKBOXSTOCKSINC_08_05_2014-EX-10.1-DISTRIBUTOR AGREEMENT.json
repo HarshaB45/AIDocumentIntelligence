@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Snotarator LLC, a Texas limited liability company, with its principal place of business located at 2591 Dallas Parkway, Suite 102, Frisco, Texas  75034  (the \"Company\")",
+    "SMSA Ballinger Acquisition Corp"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Texas",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination shall not relieve either party of obligations incurred prior thereto.  The term of this Agreement may be extended for an additional two year period with the written consent of both parties.\n\n6.02.  Termination. This Agreement may be terminated only:\n\n(a)  By either party for substantial breach of any material provision of this Agreement by the other, provided due notice has been given to the other of the alleged breach and such other party has not cured the breach within (30) days] thereof; or\n\n(b)  By the Company if: there is an unacceptable change in the control or management of the Distributor; if the Distributor  makes an assignment for the benefit of creditors; if a petition in bankruptcy is filed by or against the Distributor, resulting in an adjudication of bankruptcy; or, if the D",
+    "start": 7743,
+    "end": 8554
+  },
+  "_doc_id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT.txt",
+  "_char_count": 17234,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Texas"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

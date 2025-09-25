@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the royalties received",
+    "those payable amounts to more than  % of the royalties received"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of this Agreement Diplomat will be deemed to       have assigned, transferred and conveyed to KI, Inc. any trade rights,       equities, good will, titles or other rights in and to KI's name which may       have been obtained by Diplomat or which may have vested in Diplomat in       pursuance of any endeavors covered by this Agreement, and that Diplomat       will execute any instruments requested by KI, Inc. to accomplish or       confirm the foregoing. Any such assignment, transfer, or conveyance shall       be without consideration other than the mutual covenants and       considerations of this Agreement.\n\n                  (c) Diplomat hereby agrees that its every use of KI's name       shall inure to the benefit of KI, Inc. and that Diplomat shall not at any       time",
+    "start": 19975,
+    "end": 20786,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "AMBASSADOREYEWEARGROUPINC_11_17_1997-EX-10.28-ENDORSEMENT AGREEMENT.txt",
+  "_char_count": 39727,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

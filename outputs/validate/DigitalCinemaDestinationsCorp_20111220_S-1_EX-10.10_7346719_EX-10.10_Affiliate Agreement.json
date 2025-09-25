@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "National CineMedia,  LLC, a Delaware limited liability company (\"NCM\")",
+    "Digital Cinema Destinations Corp"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Agreement for any  reason, Network Affiliate shall pay NCM the value of the NCM Equipment, if any, that remains on NCM's financial statements as of the time of  such expiration or termination. Upon payment of such amount to NCM by Network Affiliate at the time of such expiration or termination, NCM's  ownership interest in the NCM Equipment will transfer to Network Affiliate.\n\n\n\n  5\n\nSource: DIGITAL CINEMA DESTINATIONS CORP., S-1, 12/20/2011\n\n\n\n\n\n   Section 2.4 Ownership of Big D Equipment. Network Affiliate will own the Big D Equipment it has purchased or leased pursuant to  Section 2.1(c) (the \"Network Affiliate Equipment\") and NCM disclaims any ownership interest, rights or liens in the Network Affiliate Equipment.     Section 2.5 Installation. Except as otherwise provided herei",
+    "start": 12988,
+    "end": 13799
+  },
+  "_doc_id": "DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.txt",
+  "_char_count": 109014,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

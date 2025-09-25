@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "UTEK Corporation (\"UTEK\"), a Delaware Corporation, 2109 Palm Avenue, Tampa, Florida 33605",
+    "Manakoa Services Corporation (\"MKOS\")"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Strategic Alliance Agreement.   - 1 -\n\n\n\n\n\n  H. UTEK shall devote such time and efforts, as it deems commercially reasonable, under the circumstances to the affairs of MKOS, as is commercially reasonable and adequate to render the Services contemplated by this Agreement.\n\n  I. UTEK cannot guarantee results on behalf of MKOS, but shall pursue all reasonable avenues available through its network of contacts. The acceptance and consumption of any transaction is subject to acceptance of the terms and conditions by in its sole discretion.\n\n  J. MKOS will cooperate with UTEK and will promptly provide UTEK with all pertinent materials and requested information in order for UTEK to perform its Services pursuant to this Agreement\n\nII. INDEPENDENT CONTRACTOR\n\nUTEK shall be, and in all respe",
+    "start": 2346,
+    "end": 3157
+  },
+  "_doc_id": "MANAKOASERVICESCORP_11_21_2007-EX-7.5-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 14879,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: commercially reasonable, material, reasonable"
+    }
+  ]
+}

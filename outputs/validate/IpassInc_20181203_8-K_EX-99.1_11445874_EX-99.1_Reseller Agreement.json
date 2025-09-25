@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "IPASS INC., having a principal place of business at 3800 Bridge Parkway, Redwood Shores, CA 94065 (\"iPass\")",
+    "Pareteum Corporation"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms with reasonable notice, when, in its reasonable discretion, iPass believes that its payments may be at risk. All rights of Channel Partner are expressly made conditional upon timely payment, without the right of set off, of all amounts due by Channel Partner under the Agreement. Without limiting iPass' other available rights and remedies, iPass reserves the right to suspend or to terminate any Services ten (10) days after sending written notice of a payment that is thirty (30) or more days past due. iPass may include on an invoice, and Channel Partner agrees to pay for: (i) any S",
+    "start": 9828,
+    "end": 10428,
+    "text_normalized": "payment terms with reasonable notice, when, in its reasonable discretion, iPass believes that its payments may be at risk. All rights of Channel Partner are expressly made conditional upon timely payment, without the right of set off, of all amounts due by Channel Partner under the Agreement. Without limiting iPass' other available rights and remedies, iPass reserves the right to suspend or to terminate any Services 10 (10) days after sending written notice of a payment that is 30 (30) or more days past due. iPass may include on an invoice, and Channel Partner agrees to pay for: (i) any S"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreement or Disclosing Party's request, Receiving Party shall return and at Disclosing Party's option, destroy any and all Confidential Information exchanged under this Agreement. 7.3 In addition to any other remedies, the Disclosing Party shall be entitled to seek equitable relief. 7.4 For Confidential Information pertaining to the Licensed Software, the obligations set forth in this Section 7 are indefinite. For all other Confidential Information, such obligations shall continue for five (5) years from the date of initial disclosure.\n\nPage 6 of 22 iPass Channel Partner Reseller Agreement 04.18.2018 iPass Confidential\n\n[***] = Certain confidential information contained in this document, marked by brackets, is filed with the Securities and Exchange Commission pursuant to Rule 24b",
+    "start": 22117,
+    "end": 22928
+  },
+  "_doc_id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement.txt",
+  "_char_count": 73860,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: reasonable"
+    }
+  ]
+}

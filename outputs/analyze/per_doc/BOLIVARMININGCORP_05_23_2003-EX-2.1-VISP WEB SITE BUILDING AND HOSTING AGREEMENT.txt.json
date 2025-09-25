@@ -1,0 +1,31 @@
+{
+  "_doc_id": "BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT.txt",
+  "_char_count": 11539,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the state of New York"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the state of New York",
+    "incomplete"
+  ],
+  "governing_law": "the state of New York",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

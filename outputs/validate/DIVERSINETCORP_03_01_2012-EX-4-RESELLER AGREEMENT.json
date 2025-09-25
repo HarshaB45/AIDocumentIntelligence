@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Diversinet Corp. (\"Diversinet\"), an Ontario corporation  with its principal place of business located at 2235 Sheppard Avenue East, Suite 1700, Toronto, Ontario, Canada M2J 5B5",
+    "2205925 Ontario  Limited"
+  ],
+  "effective_date": null,
+  "governing_law": "the province of Ontario",
+  "payment_terms": {
+    "text": "Payment Terms. Invoices are due and payable within 30 calendar days from the invoice date or from when the amount is due, whichever is  later.    (d) Late Charges and Taxes. All overdue amounts shall bear interest at the rate of 1% per month (12% per annum, simple interest), or the  highest rate allowed by applicable law, whichever is less, until paid in full. Interest shall accrue on a daily basis. Fees do not include any  sales, transfer, use, property, value added and other taxes, or any customs duties, tariffs or other governmental charges, all of which (if any  are due and have been incur",
+    "start": 14881,
+    "end": 15481,
+    "text_normalized": "Payment Terms. Invoices are due and payable within 30 calendar days from the invoice date or from when the amount is due, whichever is  later.    (d) Late Charges and Taxes. All overdue amounts shall bear interest at the rate of 1% per month (12% per annum, simple interest), or the  highest rate allowed by applicable law, whichever is less, until paid in full. Interest shall accrue on a daily basis. Fees do not include any  sales, transfer, use, property, value added and other taxes, or any customs duties, tariffs or other governmental charges, all of which (if any  are due and have been incur"
+  },
+  "termination_clause": {
+    "text": "Termination  (a) Either Party may terminate this Agreement:  (i) Upon thirty (30) days' written notice to Reseller if Reseller fails to make any AMC payment when due under this Agreement, or when  an audit, as set out in Section 13, by Diversinet reveals any under-payment for any payment due, and it is not paid within the thirty (30)  day written notice period;   (ii) providing thirty (60) days' written notice to the other Party if the other Party breaches any material term or condition of this Agreement,  and fails to cure such breach within the 60 day period;  (iii) upon providing thirty (30) days' written notice to Reseller if Reseller terminates the provisions of the Annual Minimum Commitment  and fails to meet the sales targets as set out in Schedule 3.    (b) This Agreement shall terminate auto",
+    "start": 5457,
+    "end": 6268
+  },
+  "_doc_id": "DIVERSINETCORP_03_01_2012-EX-4-RESELLER AGREEMENT.txt",
+  "_char_count": 75389,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the province of Ontario"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

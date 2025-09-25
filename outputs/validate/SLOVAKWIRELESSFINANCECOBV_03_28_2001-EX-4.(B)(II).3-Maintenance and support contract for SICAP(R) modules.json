@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "both parties.\n\n6     Pricing\n\n6.1   Pricing for standard service\n\n      --------------------------------------------------------------------------       Description for                  annual fee after the   annual fee for       0-50'000 subscriber              initial period         the first year                                                               (during warranty                                                               period),                                                               beginning with                                                               launch of service       --------------------------------------------------------------------------\n\n      SICAP(R) modules VCA,            151'440.-- CHF         not applicable       PPB & OTA\n\n      --------------------------------------------------------------------------\n\n      --------------------------------------------------------------------------       Additional price                 annual fee after the   annual fee for the       for each further lot of 50 000   initial period         first year (during &sbsp;                                                             warranty period),                                                               beginning with\n\n\n\n\n\n                                                              launch of service       --------------------------------------------------------------------------\n\n      SICAP(R) modules VCA, PPB & OTA  49'500.-- CHF          not applicable\n\n      --------------------------------------------------------------------------\n\n      o     Additional lots of licenses shall just be charged from the beginning             of each six month period.\n\n                                                                    [LOGO] sicap\n\nM&S contract --------------------------------------------------------------------------------\n\n6.2   Pricing for additional support\n\n      --------------------------------------------------------------------------       Support service                                      Price       --------------------------------------------------------------------------       within Sicap Ltd working hours                       CHF 235.-- / hour       --------------------------------------------------------------------------       outside Sicap Ltd working hours                      CHF 352.50 / hour       --------------------------------------------------------------------------       Travel",
+    "accommodation expenses                    at cost       --------------------------------------------------------------------------"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination                                                    14\n\n  7.6 Liability                                                               15\n\n\n\n\n\n  7.7 Assignment                                                              15\n\n  7.8 Changes to the contract                                                 15\n\n  7.9 Counterparts                                                            16\n\n                                                                    [LOGO] sicap\n\nM&S contract --------------------------------------------------------------------------------\n\n1     Introduction\n\n      Sicap Ltd provides to EuroTel a standard service for the SICAP(R) PPB, VCA       and OTA modules.\n\n      EuroTel can also request additional support which is not part of the       offered standard support and",
+    "start": 3620,
+    "end": 4431
+  },
+  "_doc_id": "SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt",
+  "_char_count": 33577,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

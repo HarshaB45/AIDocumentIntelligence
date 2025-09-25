@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "ARCONIC INC., a corporation organized under the laws of Delaware (\"Licensee\")",
+    "ARCONIC ROLLED PRODUCTS CORP"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION. 4.1 Term. The Term of this Agreement will commence on the Effective Date and shall continue for the time periods set forth in Schedules 1 and 2 unless sooner terminated in accordance with the terms of this Agreement. 4.2 Termination for Breach. Licensor and Licensee will be entitled to terminate this Agreement by written notice to the other party in the event the other party is in material breach of any of its obligations hereunder and shall fail to remedy any such default within one hundred twenty (120) days after notice thereof by the non-breaching party. 4.3 Termination Upon Bankruptcy. Either party may terminate this Agreement by written notice to the other in the event of: (a) the other party's making assignment for the benefit of its creditors or filing a voluntary petition under a",
+    "start": 9101,
+    "end": 9912
+  },
+  "_doc_id": "ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark License Agreement.txt",
+  "_char_count": 18069,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

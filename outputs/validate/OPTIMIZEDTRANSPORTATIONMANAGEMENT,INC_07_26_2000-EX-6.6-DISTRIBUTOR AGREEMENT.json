@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the parties  relating to the subject  matter",
+    "is      intended by the parties as the  complete  and  exclusive  statement  of the      terms of the Agreement"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Texas",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION:  except as  specifically  described  elsewhere  in this  agreement,      either ITS or COMWARE shall have the right to terminate this Agreement with      30 days written notice from the other party, for any reason whatsoever.\n\n11.  GOVERNMENT SALES:  COMWARE reserves the right to incorporate,  as extension      of this Agreement,  additional  terms and conditions as may be required for      sale of Products to the US Government.  These terms and conditions  will be      expressly quoted in attachments to subject  purchase  orders.  ITS reserves      the right to reject such purchase orders only under those  conditions where      these terms and  conditions are in conflict with stated policy or corporate      condition of ITS at the time the purchase orders are received.\n\n\n\n\n\n12.  ENTIRE",
+    "start": 8706,
+    "end": 9517
+  },
+  "_doc_id": "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.txt",
+  "_char_count": 10801,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Texas"
+    }
+  ]
+}

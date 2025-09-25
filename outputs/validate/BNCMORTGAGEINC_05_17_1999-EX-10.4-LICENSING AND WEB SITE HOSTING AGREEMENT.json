@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "Mortgage Logic.com, Inc. (\"Client\"), with an address at Two Venture Plaza, 2 Venture, Irvine, California 92618",
+    "TrueLink"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION. Subject to Section 4 hereof, TrueLink will continue to provide the requested Hosting Services and Support Services until the last day of the month following the month in which Client provides TrueLink with a written notice of its election to terminate this Agreement.\n\n             15.     ASSIGNMENT OR TRANSFER. Neither party shall assign or transfer any of its rights under this Agreement without the prior written approval of the other party, except no such approval shall be required for an assignment to a financially responsible affiliate.\n\n             16.     MODIFICATIONS. This Agreement may be amended at any time and from time to time, but any amendment must be in writing and signed by the party to be charged.\n\n             17.     WAIVER. No waiver of any provision of this Agreemen",
+    "start": 25473,
+    "end": 26284
+  },
+  "_doc_id": "BNCMORTGAGEINC_05_17_1999-EX-10.4-LICENSING AND WEB SITE HOSTING AGREEMENT.txt",
+  "_char_count": 32680,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

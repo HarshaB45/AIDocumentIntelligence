@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Cutanea Life Sciences, Inc., a corporation duly organized",
+    "existing under the laws of the State of Delaware with its principal place of business at 1500 Liberty Ridge Drive"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms shall be [***] following the date that the Products are received and accepted (as per Article 4.4 of the LSA) by the Company, by wire transfer into an account designated by Ferrer. Invoices shall be generated upon shipment of Product from Supplier. Invoices should be sent by email to the following address: invoice@cutanea.com. Failure to send invoices to the email address provided herein may cause a delay in approval and payment. In the event that the Company does not fulfill such terms, Parties agree to discuss in good faith alternative payment conditions. In case there is not a",
+    "start": 61949,
+    "end": 62549,
+    "text_normalized": "payment terms shall be [***] following the date that the Products are received and accepted (as per Article 4.4 of the LSA) by the Company, by wire transfer into an account designated by Ferrer. Invoices shall be generated upon shipment of Product from Supplier. Invoices should be sent by email to the following address: invoice@cutanea.com. Failure to send invoices to the email address provided herein may cause a delay in approval and payment. In the event that the Company does not fulfill such terms, Parties agree to discuss in good faith alternative payment conditions. In case there is not a"
+  },
+  "termination_clause": {
+    "text": "TERMINATION 4.1 Term. This Agreement comes into force as of the Effective Date and shall remain valid during the term of the LSA. In consequence, if the LSA to be signed by the Parties is terminated for any reason whatsoever, the present Agreement will automatically terminate and be extinguished. 4.2 Termination. This Agreement may be terminated at any time upon the occurrence of any of the following events: 4.2.1 The failure of either party to comply with its obligations herein, which failure is not remedied within forty-five (45) calendar days after receipt by the breaching party of written notice of such default. 8 [***] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED BECAUSE THE INFORMATION (I) IS NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HAR",
+    "start": 19987,
+    "end": 20798
+  },
+  "_doc_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.txt",
+  "_char_count": 63723,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

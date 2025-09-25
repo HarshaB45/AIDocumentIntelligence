@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "BIRCH FIRST GLOBAL INVESTMENTS INC., a corporation incorporated in the U.S. Virgin Islands, with its main place of business located 9100 Havensight, Port of Sale, Ste. 15/16, St. Thomas, VI 0080 (referred to as \"Company\")",
+    "MOUNT KNOWLEDGE HOLDINGS INC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms. When fees are not collected directly from the corporate user, MA agrees to pay Company, in the manner and at the time specified below, the fee(s) on Company's current price list in effect at the time an order is received by Company as set forth in Schedule A.\n\nCurrency. All monies due Company shall be remitted in United States dollars. Amounts due to Company are to be calculated based upon the information contained in Schedule A of this agreement.\n\nRequired Documents. MA shall make payment for all Technology according to the terms in Schedule A of this Agreement, and provide upo",
+    "start": 11030,
+    "end": 11630,
+    "text_normalized": "Payment Terms. When fees are not collected directly from the corporate user, MA agrees to pay Company, in the manner and at the time specified below, the fee(s) on Company's current price list in effect at the time an order is received by Company as set forth in Schedule A.\n\nCurrency. All monies due Company shall be remitted in United States dollars. Amounts due to Company are to be calculated based upon the information contained in Schedule A of this agreement.\n\nRequired Documents. MA shall make payment for all Technology according to the terms in Schedule A of this Agreement, and provide upo"
+  },
+  "termination_clause": {
+    "text": "termination provisions contained in paragraph 18 of this Agreement. Company and MA acknowledge that this Agreement is not a franchise as that term is defined under any and all applicable local, state and/or federal laws in U.S., as amended.\n\nGrant of Rights.\n\nGeneral Rights. Subject to the terms and conditions of this Agreement, Company hereby grants to MA the right to advertise, market and sell to corporate users, government agencies and educational facilities (\"Clients\") for their own internal language learning, soft skills and communication purposes only, and not for remarketing or redistribution, and not for use in a data center environment for multiple users Clients, unless otherwise agreed to by Company prior in writing, the Technology listed in Schedule A of this Agreement, and to sell and/or",
+    "start": 1717,
+    "end": 2528
+  },
+  "_doc_id": "CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+  "_char_count": 33825,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ]
+}

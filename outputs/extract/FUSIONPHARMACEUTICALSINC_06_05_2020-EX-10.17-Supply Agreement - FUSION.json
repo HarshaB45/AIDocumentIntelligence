@@ -1,0 +1,20 @@
+{
+  "parties": [
+    "Centre for Probe Development",
+    "Commercialization"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms. Schedule 1 of this Supply Agreement details the pricing and payment terms for the Product. For supply of Product, CPDC shall invoice FUSION [***]. CPDC shall send such invoices to:\n\nAddress:\n\n270 Longwood Rd. South Hamilton, Ontario L8P 0J6 Canada [***]\n\nFUSION shall pay such invoice within [***] of receipt of the invoice in accordance with the Supply Agreement 3.6 Batch Testing. FUSION shall have the right but not the obligation to conduct any Batch testing [***] or investigation it determines to be of value to determine compliance of Product with the Specifications and/or purs",
+    "start": 9703,
+    "end": 10303
+  },
+  "termination_clause": {
+    "text": "Termination 7.1 Termination by FUSION, Without Cause. FUSION may terminate this Agreement by providing written notice to the CPDC where: (a) [***] following the Effective Date of this Supply Agreement, FUSION may terminate this Agreement without cause by providing CPDC with [***] prior written notice. (b) Fusion discontinues the trial or terminates the program, Fusion may terminate this agreement by giving [***] written notice to CPDC 7.2 Termination by FUSION, For Cause. FUSION may terminate this Agreement with immediate effect, by providing written notice to the CPDC, where: (a) CPDC commits a fundamental breach of any of its obligations under this Agreement, and such breach is not remedied (if capable of remedy) within [***] of notice in writing from FUSION requiring that such breach be remedied;",
+    "start": 24832,
+    "end": 25643
+  },
+  "_doc_id": "FUSIONPHARMACEUTICALSINC_06_05_2020-EX-10.17-Supply Agreement - FUSION.txt",
+  "_char_count": 40597
+}

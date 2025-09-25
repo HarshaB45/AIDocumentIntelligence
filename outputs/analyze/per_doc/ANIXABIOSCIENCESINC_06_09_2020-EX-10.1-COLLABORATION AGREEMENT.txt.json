@@ -1,0 +1,26 @@
+{
+  "_doc_id": "ANIXABIOSCIENCESINC_06_09_2020-EX-10.1-COLLABORATION AGREEMENT.txt",
+  "_char_count": 40519,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Delaware without regard to the conflict of laws provisions of any jurisdiction"
+    }
+  ],
+  "risk_score": 4,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of Delaware without regard to the conflict of laws provisions of any jurisdiction",
+    "incomplete"
+  ],
+  "governing_law": "the State of Delaware without regard to the conflict of laws provisions of any jurisdiction",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

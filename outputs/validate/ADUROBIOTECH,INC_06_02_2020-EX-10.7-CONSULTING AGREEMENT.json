@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "them with respect to the subject matter hereof. For the avoidance of doubt, this Agreement does not supersede or in modify in anyway any other written agreement between the parties. This Agreement may not be changed or modified, except by an agreement in writing signed by both of the parties hereto. The obligations of Consultant as set forth herein, other than Consultant's obligations to perform the Project, shall survive the termination of Consultant's engagement with Aduro. If any provision of this Agreement is found to be illegal or unenforceable, the other provisions of this Agreement shall remain effective",
+    "enforceable to the greatest extent permitted by law"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of this Agreement, Consultant shall immediately: (i) stop using Confidential Information; (ii) return all materials provided by Aduro to Consultant that contain Confidential Information, except for one copy that may be retained by Consultant's legal counsel to confirm compliance with the obligations under this Agreement; (iii) destroy all copies of Confidential Information in any form including Confidential Information contained in computer memory or data storage apparatus or materials prepared by or for Consultant; and (iv) provide a written warranty to Aduro that Consultant has taken all the actions described in the foregoing Subparagraphs 4(c)(i-iii).\n\n(d) Any breach of this Paragraph 4 by an employee or agent of Consultant shall be deemed to be a breach by Consultant.\n\n(",
+    "start": 3848,
+    "end": 4659
+  },
+  "_doc_id": "ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT.txt",
+  "_char_count": 12020,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

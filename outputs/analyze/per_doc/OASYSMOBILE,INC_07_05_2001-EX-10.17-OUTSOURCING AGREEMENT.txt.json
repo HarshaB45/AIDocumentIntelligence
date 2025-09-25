@@ -1,0 +1,26 @@
+{
+  "_doc_id": "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.txt",
+  "_char_count": 58860,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of California"
+    }
+  ],
+  "risk_score": 4,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of California",
+    "incomplete"
+  ],
+  "governing_law": "the State of California",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

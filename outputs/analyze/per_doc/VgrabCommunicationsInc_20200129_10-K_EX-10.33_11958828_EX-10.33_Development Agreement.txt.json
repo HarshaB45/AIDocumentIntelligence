@@ -1,0 +1,62 @@
+{
+  "_doc_id": "VgrabCommunicationsInc_20200129_10-K_EX-10.33_11958828_EX-10.33_Development Agreement.txt",
+  "_char_count": 14822,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ],
+  "risk_score": 6,
+  "risk_bucket": "medium",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [
+    {
+      "currency": "USD",
+      "amount": 100000.0
+    },
+    {
+      "currency": "USD",
+      "amount": 50000.0
+    },
+    {
+      "currency": "USD",
+      "amount": 50000.0
+    },
+    {
+      "currency": "USD",
+      "amount": 100000.0
+    },
+    {
+      "currency": "USD",
+      "amount": 50000.0
+    },
+    {
+      "currency": "USD",
+      "amount": 50000.0
+    },
+    {
+      "currency": "USD",
+      "amount": 100000.0
+    },
+    {
+      "currency": "USD",
+      "amount": 50000.0
+    },
+    {
+      "currency": "USD",
+      "amount": 50000.0
+    }
+  ],
+  "effective_date": null
+}

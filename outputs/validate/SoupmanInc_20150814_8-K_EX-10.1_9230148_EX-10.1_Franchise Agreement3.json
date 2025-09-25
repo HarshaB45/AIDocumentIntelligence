@@ -1,0 +1,41 @@
+{
+  "parties": null,
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or non-renewal of a franchise. If the Master Franchise Agreement contains provisions that are inconsistent with the law, the law will control.\n\n 2. The Master Franchise Agreement provides for termination upon bankruptcy. This provision may not be enforceable under Federal Bankruptcy Law (11 U.S.C.A. Sec. 101 et seq. ).\n\n 3. The Master Franchise Agreement contains covenants not to compete which extend beyond the termination of the agreement. These provisions may not be enforceable under California law.\n\n 4. Section 31125 of the California Corporation Code requires the franchisor to provide you with a disclosure document before asking you to agree to a material modification of an existing franchise.\n\n 5. Neither the franchisor, any person or franchise broker in Item 2 of the Disclosure Docu",
+    "start": 197,
+    "end": 1008
+  },
+  "_doc_id": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement3.txt",
+  "_char_count": 2974,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "parties",
+      "type": "MISSING",
+      "detail": "Required field 'parties' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

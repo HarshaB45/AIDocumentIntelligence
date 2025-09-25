@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "the Parties",
+    "supersedes all other agreements"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination   16.00 Unless earlier terminated in accordance with the terms of this Article XVI, this IP Agreement and the licenses granted herein will continue in effect from the Effective Date until the expiration of the last to expire of the Patents and any additional period of time thereafter that any of the Patents remain enforceable such as in the United States where a party can sue for infringement after a patent expires and seek damages for any infringement of the patent during the six years immediately preceding the filing of a suit for infringement.\n\nPage 12 of 15\n\nSource: RARE ELEMENT RESOURCES LTD, SC 13D, 10/19/2017\n\n\n\n\n\nRare Element Resources Ltd.  EXECUTION COPY   IP Rights Agreement   16.01 Investor at any time may provide written notice to Company of a material breach of this IP Agree",
+    "start": 25982,
+    "end": 26793
+  },
+  "_doc_id": "RareElementResourcesLtd_20171019_SC 13D_EX-99.4_10897534_EX-99.4_Intellectual Property Agreement.txt",
+  "_char_count": 34461,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

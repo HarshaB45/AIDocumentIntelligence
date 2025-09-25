@@ -1,0 +1,20 @@
+{
+  "_doc_id": "BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT.txt",
+  "_char_count": 40590,
+  "_issues": [
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ],
+  "risk_score": 3,
+  "risk_bucket": "low",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": "1999-01-05"
+}

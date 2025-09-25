@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "PhaseBio Pharmaceuticals Inc., a Delaware corporation, with a principal place of business at 1 Great Valley Parkway, Suite 30, Malvern, Pennsylvania 19355, USA (\"PB\")",
+    "SFJ Pharmaceuticals X"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the AZ License, (a) in the case of the conduct of human clinical trials with respect to a Competing Product, the period beginning on the Effective Date and ending on November 21, 2022, and (b) in the case of the sale or offer for sale of a Competing Product, the period beginning on the Effective Date and ending on November 21, 2024.\n\n1.1.69 \"Exercise Price\" has the meaning set forth in Section 8.1.\n\n1.1.70 \"Executive Officers\" means the executive officers of each of PB and SFJ identified on Exhibit E.\n\n1.1.71 \"Existing Licenses\" means: (a) the License, Development and Commercialization Agreement dated March 28, 2019, between PB and ImmunoForge Co., Ltd., including the ancillary agreements between such parties entered into in connection therewith; and (b) the License Agreement dated Apr",
+    "start": 20023,
+    "end": 20834
+  },
+  "_doc_id": "PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt",
+  "_char_count": 291873,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

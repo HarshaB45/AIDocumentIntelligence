@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the parties.\n\nAmendments\n\n4.4 No alteration or amendment of this Agreement will lake effect unless the same is  in writing duly executed by each of the parties in the same manner as this Agreement.\n\nWaiver\n\n4.5 No waiver of any provision of this Agreement shall be binding on any of the  parties hereto unless consented to in writing by such party. No waiver of any provision of this  Agreement by either of the parties hereto shall constitute a waiver of any other provision, nor  shall any waiver constitute a continuing waiver unless otherwise clearly provided.\n\nFurther Assurances\n\n4.6 Each party hereto covenants",
+    "agrees with each other party hereto that it will at  all times hereafter execute and deliver"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination\n\n3.5 W'estem Copper may, at its option, terminate this Agreement by written notice to  Glamis, effective immediately upon delivery of the notice, should Glamis cease conducting  business in the normal course, become insolvent, make a general assignment for the benefit of  creditors, suffer or permit the appointment of a receiver for its business or assets or avail itself  of, or become subject to, any proceedings under the Bankruptcy and Insolvency Act (Canada) or  any other statute of any province or state relating to insolvency or the protection of rights of  creditors.\n\nGlamis' Right of TerminaHon\n\n3.6 Glamis may, at its option, terminate this Agreement by written notice to Western  Copper, effective immediately upon delivery of the notice, should Western Copper cease  conducting busin",
+    "start": 10642,
+    "end": 11453
+  },
+  "_doc_id": "WESTERN COPPER - NON-COMPETITION AGREEMENT.txt",
+  "_char_count": 16402,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

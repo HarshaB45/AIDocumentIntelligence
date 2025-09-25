@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "and among the Parties signatory hereto  (hereinafter  collectively  called  \"Parties\"",
+    "individually  called \"Party\")"
+  ],
+  "effective_date": null,
+  "governing_law": "Switzerland",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of TAT-14 for any reason,  the relevant  Terminal Party, in          agreement with the other Parties,  shall take all necessary measures to          ensure that another suitable Cable Station will be available for TAT-14          on fair and equitable terms for the duration of this Agreement.\n\n18.10    Nothing  contained  in this  Agreement  shall be  deemed to vest in any          Party, other than the owner of the relevant Segment, any salvage rights          in Segments T1 to T7 or in the respective Cable Station or in any Cable          Station substituted for any of them.\n\n18.11    Payments due under this  Paragraph 18 shall be made in accordance  with          the following principles:\n\n         (i)    On the RFPA Date, or as soon after as  practicable  but no later",
+    "start": 77125,
+    "end": 77936
+  },
+  "_doc_id": "STARTECGLOBALCOMMUNICATIONSCORP_11_16_1998-EX-10.30-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt",
+  "_char_count": 116260,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: Switzerland"
+    }
+  ]
+}

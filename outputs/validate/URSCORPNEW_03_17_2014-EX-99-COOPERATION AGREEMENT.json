@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "JANA Partners LLC (\"JANA\")",
+    "URS Corporation (the \"Company\")"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination. This Agreement shall terminate on the expiry of the Cooperation Period.\n\n14. Counterparts. This Agreement may be executed in two (2) or more counterparts which together shall constitute a single agreement.\n\n15. No Third Party Beneficiaries. This Agreement is solely for the benefit of the parties hereto and is not enforceable by any other persons.\n\n\n\n\n\n\n\n\n\n16. No Waiver. No failure or delay by either party in exercising any right or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial waiver thereof preclude any other or further exercise thereof or the exercise of any other right or remedy hereunder.\n\n17. Entire Understanding. This Agreement contains the entire understanding of the parties with respect to the subject matter hereof and may be amended only by",
+    "start": 25053,
+    "end": 25864
+  },
+  "_doc_id": "URSCORPNEW_03_17_2014-EX-99-COOPERATION AGREEMENT.txt",
+  "_char_count": 37211,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "the parties in good faith as promptly as possible but failing such amicable settlement, shall be decided by Arbitration by the Arbitration Committee of the International Chamber of Commerce located in Switzerland. 8.2 The language to be used in the Arbitration proceedings shall be English. 8.3 The award/decision of the Arbitration Committee shall be final",
+    "binding on both the parties and enforceable in any jurisdiction"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "PAYMENT TERMS 5.1 Shipping Products delivered pursuant to the terms of this Agreement shall be suitably packed for shipment in the Manufacturer's standard shipping cartons, marked for shipment to the destination specified in the Customer's Purchase Order, and delivered to the destination Ex Works. The Customer agrees to pay freight, insurance and any associated expenses. The Customer agrees to help the Manufacturer select the most appropriate carrier for each of the Territories. All freight, insurance, and other shipping expenses shall be paid by the Customer. 5.2 Guarantee of packaging qualit",
+    "start": 5320,
+    "end": 5920,
+    "text_normalized": "PAYMENT TERMS 5.1 Shipping Products delivered pursuant to the terms of this Agreement shall be suitably packed for shipment in the Manufacturer's standard shipping cartons, marked for shipment to the destination specified in the Customer's Purchase Order, and delivered to the destination Ex Works. The Customer agrees to pay freight, insurance and any associated expenses. The Customer agrees to help the Manufacturer select the most appropriate carrier for each of the Territories. All freight, insurance, and other shipping expenses shall be paid by the Customer. 5.2 Guarantee of packaging qualit"
+  },
+  "termination_clause": {
+    "text": "TERMINATION 7.1 Notice of Breach Each party has an obligation to notify immediately the other party of any breach of this agreement. 7.2 Rectification of Breach Where the breach is rectifiable, the breaching party has 21 days from the date of notification of its breach to rectify. Following the expiry of this period, the non-breaching party may execute any rights it may have both in law and under this agreement. 7.3 Rights to termination Without prejudice to any right or remedy both parties may have against each other for breach or non-performance of this Agreement each party shall have the right to summarily terminate this Agreement: (a) On the committing of a material breach of this agreement providing that where the breach is capable of rectification the breaching party has been advised in writing",
+    "start": 8399,
+    "end": 9210
+  },
+  "_doc_id": "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.txt",
+  "_char_count": 20693,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

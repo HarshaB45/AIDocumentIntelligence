@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "Ford Motor Media, a division of J. Walter Thompson (\"FMM\") with offices at 300 Renaissance Center, Detroit, Michigan 48243",
+    "iVillage"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination.\n\n         A. Term. The initial production period shall be for a period of two (2) months to commence on November 4, 1998 (the \"Production Period\"), and the remaining term of this Agreement shall be for a period of twenty four (24) months to commence on the tentative launch date of January 4, 1999, unless terminated earlier as provided herein (the \"Promotion Period\"), (The Production Period and the Promotion Period shall be collectively referred to as the \"Initial Term\"). The Parties agree that prior to July 1, 2000, iVillage will provide FMM with the opportunity to renew this Agreement (the \"Renewal Term\") on terms set forth in a proposal (the \"Proposal) to be presented to FMM. FMM shall indicate its acceptance or rejection of the Proposal no later than August 31, 2000. If iVillage does",
+    "start": 1202,
+    "end": 2013
+  },
+  "_doc_id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 23723,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

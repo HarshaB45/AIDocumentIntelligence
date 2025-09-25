@@ -1,0 +1,20 @@
+{
+  "parties": [
+    "ExxonMobil Chemical Company, a division of Exxon Mobil Corporation (\"Seller\"),on behalf of itself",
+    "in the interest of the ExxonMobil affiliates listed on Attachment B (each an \"ExxonMobil Selling Affiliate\" or \"EMCC/A\" or collectively"
+  ],
+  "effective_date": "January 1, 2019",
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms for Products sold hereunder will be governed by the terms of the Pricing and Payment Terms sections of this Agreement.\n\nBuyer Affiliates shall pay ExxonMobil's Selling Affiliates invoice(s) not later than the days set forth in Attachment E hereto. All invoices shall be paid in full by wire transfer in accordance with the invoice's instructions.\n\nCrude Trigger Clause\n\nProduct price(s) shall be subject to the Average Brent crude oil price evolution (as further detailed below) in order to reflect the cost of energy. Should the Average Brent crude oil price at any moment during the t",
+    "start": 4690,
+    "end": 5290
+  },
+  "termination_clause": {
+    "text": "Termination Date: December 31, 2023\n\nPAYMENT TERMS\n\nBuyer/Buyer Affiliates shall pay for Product by Electronic Funds Transfer (EFT) through the Automated Clearing House (ACH) using the Corporate Trade Exchange (CTX) format, according to the payment terms described in Attachment E.\n\nTECHNICAL SUPPORT\n\nEMCC/A will provide technical expertise in the use of Products and will use its technical centers to enhance technical communications with West Pharmaceutical Services Affiliates technical centers. West/A will share its needs with EMCC/A and how they relate to West/A activities to help guide ExxonMobil Chemical Affiliates technical efforts.\n\nThe parties have created and continue to entertain a research and development governance structure with a steering team, program management team and working team. Th",
+    "start": 10310,
+    "end": 11121
+  },
+  "_doc_id": "WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement.txt",
+  "_char_count": 82898
+}

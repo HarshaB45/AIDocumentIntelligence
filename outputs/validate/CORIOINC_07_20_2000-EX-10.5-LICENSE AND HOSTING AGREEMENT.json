@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "Corio Inc., a Delaware corporation, having its principal place of business at 700 Bay Road, Suite 210, Redwood City, CA 94063 (\"CORIO\")",
+    "Commerce One"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of California",
+  "payment_terms": {
+    "text": "Payment terms of such license fees         shall be as set forth in EXHIBIT B hereto.\n\n4.2     Software Support and Maintenance Fees. Corio shall pay to Commerce One         an annual Software Maintenance and Support fee for the support services         to be provided by Commerce One specified in Exhibit C attached hereto         and made a part hereof, and Updates and Upgrades, according to the fees         set forth in Exhibit B hereto. Payment terms of annual Software         Maintenance and Support fees shall be as set forth in Exhibit B hereto.         Maintenance and Support shall automa",
+    "start": 17944,
+    "end": 18544,
+    "text_normalized": "Payment terms of such license fees         shall be as set forth in EXHIBIT B hereto.\n\n4.2     Software Support and Maintenance Fees. Corio shall pay to Commerce 1         an annual Software Maintenance and Support fee for the support services         to be provided by Commerce 1 specified in Exhibit C attached hereto         and made a part hereof, and Updates and Upgrades, according to the fees         set forth in Exhibit B hereto. Payment terms of annual Software         Maintenance and Support fees shall be as set forth in Exhibit B hereto.         Maintenance and Support shall automa"
+  },
+  "termination_clause": {
+    "text": "termination         or expiration of this Agreement with respect to all Software Users         granted access to the Software and MarketSite.net Service prior to         termination or expiration of this Agreement.\n\n5.4     Product Management Meetings. The parties agree to meet either in person         or via teleconference on no less than a quarterly basis to discuss,         without limitation, engineering, feature-functionality and         architecture-related issues as they pertain to the Software and         MarketSite.net Service. The specific topics of the meetings will be         determined on a meeting-by-meeting basis. Each party\n\n                                     6\n\n7         shall appoint a product manager to coordinate these meetings. Commerce         One shall provide Corio with info",
+    "start": 22547,
+    "end": 23358
+  },
+  "_doc_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.txt",
+  "_char_count": 62324,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of California"
+    }
+  ]
+}

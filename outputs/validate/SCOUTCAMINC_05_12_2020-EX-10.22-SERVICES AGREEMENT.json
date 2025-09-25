@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "Idan Maimon (\"Maimon\")",
+    "Intellisense Solutions"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination hereinafter provided, the term of this Agreement shall commence on the date hereof (the \"Effective Date\") and shall continue for a minimum period of 12 months (the \"Minimum Period\") and thereafter upon the mutual agreement of the Company and Maimon (the \"Service Term\"). 4. Compensation. In consideration of the services to be rendered by Maimon hereunder and for Maimon's service as a director on the Board of Directors of the Company, the Company will pay Maimon a monthly fee of $1,000 during the Minimum Period, beginning on the Effective Date. 5. Termination. If Maimon should become unable to serve as CEO, or should fail to perform any of the obligations hereunder for any cause including death or disability, always in the sole judgment and decision of the Company, then the Company shall ha",
+    "start": 1244,
+    "end": 2055
+  },
+  "_doc_id": "SCOUTCAMINC_05_12_2020-EX-10.22-SERVICES AGREEMENT.txt",
+  "_char_count": 8315,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

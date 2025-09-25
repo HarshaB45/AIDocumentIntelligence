@@ -1,0 +1,31 @@
+{
+  "_doc_id": "ARMSTRONGFLOORING,INC_01_07_2019-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt",
+  "_char_count": 69759,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Delaware"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of Delaware",
+    "incomplete"
+  ],
+  "governing_law": "the State of Delaware",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

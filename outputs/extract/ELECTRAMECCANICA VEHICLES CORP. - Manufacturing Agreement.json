@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "Manufacturer receiving an order",
+    "EMV receipt of the goods ordered"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION   8.1 Term   This Agreement shall have a term of four (4) years from the effective date first set forth above, and shall automatically renew for additional one year terms unless earlier terminated by either party.   8.2 Termination   EMV may terminate this Agreement in the event the Manufacturer fails to achieve satisfactory assessments in two consecutive assessments conducted in accordance with section 4.3 and the Manufacturer has failed to take corrective action to substantially meet the performance targets agreed by EMV and the Manufacturer within180 days of the second assessment.   Either party may terminate this Agreement in the event of a material breach of the Agreement provided such breach is not remedied within _sixty_ (_60_) calendar days following delivery of notice of such bre",
+    "start": 29201,
+    "end": 30012
+  },
+  "_doc_id": "ELECTRAMECCANICA VEHICLES CORP. - Manufacturing Agreement.txt",
+  "_char_count": 47889
+}

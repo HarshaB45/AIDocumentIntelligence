@@ -1,0 +1,42 @@
+{
+  "_doc_id": "SFGFINANCIALCORP_05_12_2009-EX-10.1-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.txt",
+  "_char_count": 51043,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ],
+  "risk_score": 6,
+  "risk_bucket": "medium",
+  "tags": [
+    "incomplete"
+  ],
+  "governing_law": null,
+  "payment_net_days": null,
+  "payment_amounts": [
+    {
+      "currency": "USD",
+      "amount": 0.15
+    },
+    {
+      "currency": "USD",
+      "amount": 0.2
+    },
+    {
+      "currency": "USD",
+      "amount": 63309.0
+    },
+    {
+      "currency": "USD",
+      "amount": 28309.0
+    }
+  ],
+  "effective_date": null
+}

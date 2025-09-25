@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "American Express Incentive Services, L.L.C., a Missouri limited liability company (\"AEIS\")",
+    "its Reseller"
+  ],
+  "effective_date": null,
+  "governing_law": "the          State of Missouri",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination Date\") unless earlier terminated or extended as provided for herein.\n\nThe following points outline this agreement:\n\n1.       PURPOSE\n\nUnder and subject to the terms of this Agreement:\n\na.       AEIS will provide Schoolpop for resale the following stored                   value cards: Encompass(R) Select, Persona(R) Select, Fill It                   Up(R), and Be My Guest(R), and any other stored value products                   developed by AEIS and mutually agreed upon by both parties,                   (\"Cards\"). The Cards shall be sold only to those of                   Schoolpop's clients and prospective clients (the \"Clients\"),                   in the United States who are nonprofit organizations, (\"NPO                   Marketplace\"), which are defined as organizations that are (i)",
+    "start": 1069,
+    "end": 1880
+  },
+  "_doc_id": "LOYALTYPOINTINC_11_16_2004-EX-10.2-RESELLER AGREEMENT.txt",
+  "_char_count": 117478,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the          State of Missouri"
+    }
+  ]
+}

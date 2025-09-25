@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "LIQUIDMETAL TECHNOLOGIES, INC., a Delaware corporation having its principal place of business at 20321 Valencia Circle, Lake Forest, California 92630 (\"Liquidmetal\")",
+    "EUTECTIX"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "PAYMENT TERMS, AND CAPACITY. 3.1 Pricing. During the Term of this Agreement, Liquidmetal may from time to time purchase from Eutectix such \"Liquidmetal Products\" as specifically described in a purchase order issued by Liquidmetal (an \"Order\") to Eutectix at the prices set forth in the Order (the \"Prices\"). The Parties shall negotiate the Prices in good faith on a project-by-project basis, taking into consideration strategic value, competitiveness, profitability, design issues, cost-drivers including input material costs, export licensing of the Liquidmetal Products and payment of broker's fees",
+    "start": 19476,
+    "end": 20076,
+    "text_normalized": "PAYMENT TERMS, AND CAPACITY. 3.1 Pricing. During the Term of this Agreement, Liquidmetal may from time to time purchase from Eutectix such \"Liquidmetal Products\" as specifically described in a purchase order issued by Liquidmetal (an \"Order\") to Eutectix at the prices set forth in the Order (the \"Prices\"). The Parties shall negotiate the Prices in good faith on a project-by-project basis, taking into consideration strategic value, competitiveness, profitability, design issues, cost-drivers including input material costs, export licensing of the Liquidmetal Products and payment of broker's fees"
+  },
+  "termination_clause": {
+    "text": "termination or expiration of the Agreement and in connection with any non-ordinary or non-routine revisions or alterations to the Licensed Equipment, (B) the removal and shipment of the Licensed Equipment, including upon termination or expiration of the Agreement, and (C) protecting or perfecting Liquidmetal's interest in the Licensed Equipment, including by executing and permitting Liquidmetal to file financing statements and other documents with respect thereto, at Liquidmetal's expense; and (h) shall be liable for all loss or damage to Licensed Equipment, except for normal wear and tear of the Licensed Equipment. 5\n\nSource: LIQUIDMETAL TECHNOLOGIES INC, 8-K, 2/5/2020\n\n\n\n\n\nEutectix may, with prior written consent of Liquidmetal (such consent not to be unreasonably withheld, conditioned or delayed),",
+    "start": 13690,
+    "end": 14501
+  },
+  "_doc_id": "LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement.txt",
+  "_char_count": 83972,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

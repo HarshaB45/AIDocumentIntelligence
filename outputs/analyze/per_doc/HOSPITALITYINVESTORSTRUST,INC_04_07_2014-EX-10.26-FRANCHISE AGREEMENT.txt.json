@@ -1,0 +1,26 @@
+{
+  "_doc_id": "HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT.txt",
+  "_char_count": 146992,
+  "_issues": [
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York without recourse to New York choice of law or conflicts of law principles"
+    }
+  ],
+  "risk_score": 4,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of New York without recourse to New York choice of law or conflicts of law principles",
+    "incomplete"
+  ],
+  "governing_law": "the State of New York without recourse to New York choice of law or conflicts of law principles",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": "2014-03-21"
+}

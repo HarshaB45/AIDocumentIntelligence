@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "iBio Inc., a Public corporation, with a location at iBio Inc., 600 Madison Ave, Suite 01601 NY, NY 10022-1735",
+    "Beijing CC-Pharming Ltd"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Texas",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination 6.1 The term of this Agreement (\"Term\") will begin on the date this Agreement is signed by the last signatory (\"Effective Date\") and remain in effect for [***]; provided, however, that the terms of this Agreement shall remain applicable to any SOW that was executed by the Parties prior to the expiration or termination of this Agreement but whose period of performance extends beyond the expiration or termination of this Agreement. 6.2 The term of any SOW will be as provided in the Statement of Work. 6.3 If either Party to this Agreement fails to perform or violates any material obligation of this Agreement, then, upon thirty (30) days written notice to the breaching Party specifying such failure or violation, the non-breaching Party may terminate this Agreement without liability, unless: (",
+    "start": 15019,
+    "end": 15830
+  },
+  "_doc_id": "IbioInc_20200313_8-K_EX-10.1_12052678_EX-10.1_Development Agreement.txt",
+  "_char_count": 30544,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Texas"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

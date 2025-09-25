@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "ScanSource, Inc., a South Carolina corporation, with its principal place of business at 6 Logue Court, Greenville, South Carolina, 29615 (\"Distributor\")",
+    "Cisco Systems"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms shall be [*****] days from shipping date. All payments shall be made in the currency in which the Price List is quoted for the applicable Purchase Order [*****].\n\n6.3 The purchase price does not include any federal, state or local taxes, or sales, use, excise, ad valorem, value-add, withholding or other taxes or duties that may be applicable to the purchase of Products. When Cisco has the legal obligation to collect such taxes, the appropriate amount shall be added to Distributor's invoice and paid by Distributor, unless Distributor provides Cisco with a valid tax exemption certi",
+    "start": 17399,
+    "end": 17999,
+    "text_normalized": "payment terms shall be [*****] days from shipping date. All payments shall be made in the currency in which the Price List is quoted for the applicable Purchase Order [*****].\n\n6.3 The purchase price does not include any federal, state or local taxes, or sales, use, excise, ad valorem, value-add, withholding or other taxes or duties that may be applicable to the purchase of Products. When Cisco has the legal obligation to collect such taxes, the appropriate amount shall be added to Distributor's invoice and paid by Distributor, unless Distributor provides Cisco with a valid tax exemption certi"
+  },
+  "termination_clause": {
+    "text": "Termination) or as otherwise stated herein, for all price adjustment related credits requested by the Distributor to be granted by Cisco, the\n\n6.7 Distributor must make the initial credit request to Cisco, in writing, within [*****] of the underlying point of sale transaction. Any initial credit requests submitted by the Distributor to Cisco greater than [*****] after the underlying point of sale transaction will not be honored by Cisco and Cisco will not grant such credit to Distributor.\n\n7.0 PRICE PROTECTION. 7.1 Definition: For purposes of this Section 7.0, Products \"In-Transit\" shall be defined as all Products with a particular Cisco part number shipped by Cisco to Distributor in the [*****] day period prior to the date on which Cisco announces a general price decrease for Products with such part",
+    "start": 19316,
+    "end": 20127
+  },
+  "_doc_id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt",
+  "_char_count": 84384,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    }
+  ]
+}

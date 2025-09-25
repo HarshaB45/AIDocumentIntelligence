@@ -1,0 +1,31 @@
+{
+  "_doc_id": "ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement.txt",
+  "_char_count": 60618,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the state in which the breach occurs"
+    }
+  ],
+  "risk_score": 7,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the state in which the breach occurs",
+    "incomplete"
+  ],
+  "governing_law": "the state in which the breach occurs",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

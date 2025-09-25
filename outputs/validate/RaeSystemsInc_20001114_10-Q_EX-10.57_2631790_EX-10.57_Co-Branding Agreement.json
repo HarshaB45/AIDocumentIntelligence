@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "NETTAXI Online Communities, Inc.,  a  Delaware  corporation with principal offices at 2165 S. Bascom Avenue, Campbell,  California  95008  (\"NETTAXI\")",
+    "Solutions  Media"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment  Terms. All fees will be paid on or before fifteen (15) days             -------------- after  the  end of the  month  in  which  the  party  has  received  payment\n\n     4.     Audit  Rights.  SpinRecords.com  shall maintain for a period of two             ------------- (2) years after the end of the year to which they pertain,  complete  records of it's customers in order to calculate and confirm  SpinRecords.com's  obligations hereunder.   Upon  reasonable  prior  notice,   NETTAXI  will  have  the  right, exercisable  not more  than  once  every  twelve  (12)  months,  to  appoint",
+    "start": 41537,
+    "end": 42137,
+    "text_normalized": "Payment  Terms. All fees will be paid on or before 15 (15) days             -------------- after  the  end of the  month  in  which  the  party  has  received  payment\n\n     4.     Audit  Rights.  SpinRecords.com  shall maintain for a period of 2             ------------- (2) years after the end of the year to which they pertain,  complete  records of it's customers in order to calculate and confirm  SpinRecords.com's  obligations hereunder.   Upon  reasonable  prior  notice,   NETTAXI  will  have  the  right, exercisable  not more  than  once  every  12  (12)  months,  to  appoint"
+  },
+  "termination_clause": {
+    "text": "TERMINATION\n\n     8.1     Term  of  Agreement.  This  Agreement  shall  be effective upon the              ------------------- Effective Date and shall remain in force for a period of one (1) year, and shall be automatically renewed for successive periods of one (1) year unless otherwise terminated  as provided  herein.\n\n     8.2     Convenience.  NETTAXI  may terminate this Agreement at any time for              ----------- its  convenience,  for  no  reason or for any reason, upon sixty (60) days prior written  notice  to  SpinRecords.com.  In  the  event  of  such  termination, Spinrecords.com  shall  be  entitled  to receive and retain all payments made or payable  by  NETTAXI  prior  to  the  date  of  termination. SpinRecords.com may terminate  this  Agreement  for no reason or for any reason u",
+    "start": 16336,
+    "end": 17147
+  },
+  "_doc_id": "RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement.txt",
+  "_char_count": 43179,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: reasonable"
+    }
+  ]
+}

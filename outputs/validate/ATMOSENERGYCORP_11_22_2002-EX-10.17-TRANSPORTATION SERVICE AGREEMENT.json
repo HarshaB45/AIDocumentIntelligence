@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "Arkansas Western Pipeline Company (\"Transporter\"), an Arkansas corporation",
+    "Associated Natural Gas Company"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination date: sixty (60) days for\n\n                  interruptible transportation under Rate Schedule ITS and 180                   days for firm transportation under Rate Schedule FTS.\n\n         5.2      Any portions of this Agreement necessary to balance receipts                   and deliveries under this Agreement as required by the FTS/ITS                   Rate Schedule, shall survive the other parts of this Agreement                   until such time as such balancing has been accomplished.\n\n                                   ARTICLE VI\n\n                           RATE SCHEDULE AND CHARGES\n\n         6.1      Shipper shall pay Transporter for the service hereunder an                   amount determined in accordance with Transporter's FTS/ITS                   Rate Schedule, and the General",
+    "start": 4588,
+    "end": 5399
+  },
+  "_doc_id": "ATMOSENERGYCORP_11_22_2002-EX-10.17-TRANSPORTATION SERVICE AGREEMENT.txt",
+  "_char_count": 24151,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

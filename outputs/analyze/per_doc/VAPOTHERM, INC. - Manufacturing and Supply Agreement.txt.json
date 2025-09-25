@@ -1,0 +1,31 @@
+{
+  "_doc_id": "VAPOTHERM, INC. - Manufacturing and Supply Agreement.txt",
+  "_char_count": 75632,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York without giving effect to principles of conflict of laws"
+    },
+    {
+      "field": "payment_terms",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ],
+  "risk_score": 5,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of New York without giving effect to principles of conflict of laws",
+    "incomplete"
+  ],
+  "governing_law": "the State of New York without giving effect to principles of conflict of laws",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Vayyar Imaging Ltd., having its principal place of business at 3 Avraham Giron St., POB. 325, Yehud 5621717, Israel (\"Supplier\")",
+    "Inde Living Holdings"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of New York and all disputes and controversies arising out of or in connection with the Agreement shall be brought exclusively before the competent courts in New York County",
+  "payment_terms": {
+    "text": "Payment Terms ***\n\nSource: HEALTHCARE INTEGRATED TECHNOLOGIES INC., 8-K, 8/12/2019",
+    "start": 22206,
+    "end": 22288,
+    "text_normalized": "Payment Terms ***\n\nSource: HEALTHCARE INTEGRATED TECHNOLOGIES INC., 8-K, 8/12/2019"
+  },
+  "termination_clause": {
+    "text": "Termination This Agreement shall become effective on the Effective Date and shall remain in effect for an initial period of 1 year (\"Initial Term\"). Thereafter, this Agreement shall automatically be renewed for successive 1-year terms (each a \"Renewal Term\", and together with the Initial Term, the \"Term\"). Following the Initial Term, either Party may terminate this Agreement without cause upon written notice to the other Party of at least 3 months. Without derogating from any other remedies that any Party may have under the terms of this Agreement or at law, each Party shall have the right to terminate this Agreement forthwith upon the occurrence of any of the following: (i) the other Party is in material breach of its obligations hereunder and fails to remedy such breach within 30 days after being r",
+    "start": 13285,
+    "end": 14096
+  },
+  "_doc_id": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+  "_char_count": 22288,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York and all disputes and controversies arising out of or in connection with the Agreement shall be brought exclusively before the competent courts in New York County"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

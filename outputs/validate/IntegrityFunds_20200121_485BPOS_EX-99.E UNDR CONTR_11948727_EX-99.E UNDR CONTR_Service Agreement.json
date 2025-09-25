@@ -1,0 +1,35 @@
+{
+  "parties": [
+    "them in the conduct of the defense of such action. SECTION 5. EFFECTIVENESS OF REGISTRATION Section 5.1 None of the Shares shall be offered by either Integrity or the Fund under any of the provisions of this Agreement",
+    "no orders for the purchase or sale of the Shares hereunder shall be accepted by the Fund if and so long as the effectiveness of the registration statement then in effect or any necessary amendments thereto shall be suspended under any of the provisions of the 1933 Act or if and so long as a current prospectus as required by Section 5(b)(2) of the 1933 Act is not on file with the SEC; provided"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement.txt",
+  "_char_count": 23845,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "MISSING",
+      "detail": "Required field 'termination_clause' is missing"
+    }
+  ]
+}

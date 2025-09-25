@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "MediWound Ltd., a corporation organized",
+    "existing under the laws of Israel (hereinafter referred to as \"MediWound\") and Challenge Bioproducts Corporation Ltd"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiry of this Agreement, provided however that any Confidential Information with respect to the Product, including without limiting, such information with respect to intellectual property rights in connection with and/or related to the Products shall remain confidential in perpetuity.   8.4 The provisions of this Section 8 shall in no event prevent MediWound from disclosing any Technical Information to Regulatory Authorities or other governmental agencies in support of any application for regulatory approvals of the Product or any amendments thereof or in general whenever required to disclose such information under any applicable law or regulation. MediWound shall make reasonable efforts to notify CBC of its intention and the identity of the intended recipient as soon as reasonably pr",
+    "start": 37869,
+    "end": 38680
+  },
+  "_doc_id": "MEDIWOUNDLTD_01_15_2014-EX-10.6-SUPPLY AGREEMENT.txt",
+  "_char_count": 49915,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: reasonable"
+    }
+  ]
+}

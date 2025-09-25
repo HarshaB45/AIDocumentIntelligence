@@ -1,0 +1,28 @@
+{
+  "parties": [
+    "Collectible Concepts Group, Inc.",
+    "CCGI",
+    "Pivotal Self Service Tech",
+    "the \"Party"
+  ],
+  "effective_date": null,
+  "governing_law": "United States",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination.\n\n9.   Distributions. During the term of the Joint Venture, no interest shall be      allowed to any Joint Venturer upon the amount of his contribution. No Joint      Venturer shall withdraw, transfer or have paid to him in any manner any      part of his capital contribution or account, or any other funds or property      of the Joint Venture without the consent of both Joint Venturers; provided,      however, there may be distributed to the Joint Venturers, from time to      time, so much of the gross income of the Joint Venture as shall not be      needed to defray the necessary and expected costs and expenses of the Joint      Venture business. Distributions may only be made if after any distribution      is made, the Joint Venture assets are in excess of all liabilities of the      J",
+    "start": 6251,
+    "end": 7062,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT.txt",
+  "_char_count": 13038,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

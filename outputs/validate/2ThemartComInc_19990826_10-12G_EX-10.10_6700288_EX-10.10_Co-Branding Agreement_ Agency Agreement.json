@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "I-ESCROW, INC., with its principal place of business at 1730 S. Amphlett Blvd., Suite 233, San Mateo, California 94402 (\"i-Escrow\")",
+    "2THEMART"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION.\n\n8.1 TERM.  The term of this Agreement shall continue for one (1) year following the Launch Date, unless earlier terminated as provided herein. This Agreement may be renewed for any number of successive one (1) year terms by mutual written agreement of the parties prior to the conclusion of the term of this Agreement.  A party wishing to renew this Agreement shall give the other party notice thereof no less than thirty (30) days before the expiration of the term then in effect.  In the event that either party does not give such notice, the term of this Agreement shall be automatically renewed for another one (1) year.\n\nSource: 2THEMART COM INC, 10-12G, 8/26/1999\n\n\n\n\n\n8.2 TERMINATION FOR BREACH.  In addition to other remedies that may be available to it, by providing written notice, a par",
+    "start": 15029,
+    "end": 15840
+  },
+  "_doc_id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.txt",
+  "_char_count": 29454,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

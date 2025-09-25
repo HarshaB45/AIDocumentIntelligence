@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "the Software Publisher",
+    "element 5"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of existing partnerships.\n\nSource: SOUTHERN STAR ENERGY INC., SB-2/A, 12/2/2005\n\n\n\n\n\nII. Affiliate Program\n\n§ 1 Affiliate Participation\n\nParticipation of an individual Affiliate in the Program is dependent on activation by the Software Publisher. Once the Affiliate has registered, element 5 will send an e-mail to Software Publisher with a request to activate the Affiliate. Once the Affiliate is activated by the Software Publisher, the Affiliate is considered to be a participant in this program and is bound by these General Terms and Conditions.\n\n§ 2 Products under the Agreement\n\n(1) The Products under the Agreement are software products designated by the respective Software Publisher for this purpose and which can be selected by the Affiliate from a product catalog in the Affiliate Contro",
+    "start": 2765,
+    "end": 3576
+  },
+  "_doc_id": "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.txt",
+  "_char_count": 22721,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

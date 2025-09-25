@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "Martin Operating Partnership L.P., a Delaware limited partnership (\"Owner\")",
+    "Midstream Fuel Service LLC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION\n\n\n\nThe initial term of this Agreement shall be for 3 years (the \"Initial Term\") commencing on the date first set forth above (the \"Commencement Date\") and ending on the 3rd anniversary of the Commencement Date. This Agreement will automatically renew for successive one year terms (each a \"Renewal Term\", and together with the Initial Term, the \"Term\"), unless either Charterer or Owner elects not to renew this Agreement by providing the other party with written notice of such election 30 days prior to the expiration of the Initial Term or Renewal Term, as applicable, at which point this Agreement will automatically terminate.\n\n\n\nWithin 30 days of the end of the Initial Term, and within 30 days of the end of each Renewal Term, both parties hereto shall have the right renegotiate the fee spec",
+    "start": 582,
+    "end": 1393
+  },
+  "_doc_id": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT.txt",
+  "_char_count": 13995
+}

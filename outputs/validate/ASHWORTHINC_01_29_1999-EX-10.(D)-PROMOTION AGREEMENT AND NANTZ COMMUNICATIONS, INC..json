@@ -1,0 +1,36 @@
+{
+  "parties": null,
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, as provided herein,      if this Agreement is terminated prior to May 30, 2001.\n\n16.  The second Option to purchase up to an additional 40,000 shares upon      payment of the aggregate Option Share Price for the number of Shares so      purchased shall become exercisable on June 1, 2000, unless this Agreement      is terminated as provided herein prior to such date, in which case this      Option shall be canceled.  Once exercisable, this Option may be exercised      in full or in any number of partial exercises or in combination with the      full or partial exercise of any other Option for a period terminating upon      the earlier to occur of (A) the fifth anniversary of the initial      exercisability date or (B) the date of termination of this Agreement, as      pr",
+    "start": 11979,
+    "end": 12790
+  },
+  "_doc_id": "ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC..txt",
+  "_char_count": 24999,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "parties",
+      "type": "MISSING",
+      "detail": "Required field 'parties' is missing"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Amazon.com Commerce Services, Inc., a Delaware corporation (\"ACSI\")",
+    "Audible Inc"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination].\n\n     8.3  Limitation of Damages. EXCEPT FOR LIABILITIES UNDER SECTION 7.2  [Indemnity], NEITHER PARTY'S AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), WARRANTY OR OTHERWISE, SHALL EXCEED [***].\n\n     8.4  Third Party Infringement Claims. In the event that either Party receives from a third party a bona fide claim of infringement concerning any advertising materials or other content supplied by the other Party, such Party may immediately remove such materials\n\n--------- *** Confidential Information has been omitted and has been filed separately with     the Securities and Exchange Commission.\n\n                                     -17-\n\nor content from its Web Site at its s",
+    "start": 54784,
+    "end": 55595
+  },
+  "_doc_id": "AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement.txt",
+  "_char_count": 77102,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

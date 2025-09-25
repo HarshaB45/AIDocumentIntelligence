@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "RMF Empire, Inc. DBA West Coast Customs, located at 2101 West Empire Avenue, Burbank, CA 91504 (hereinafter \"WCC\")",
+    "Bosch International"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, at which time XLI shall cease all use of the Trademarks. In further consideration of this Agreement, XLI shall not in any way disparage the Trademarks, nor any of WCC's parent, subsidiary, or affiliated companies' trademarks or its or their products. WCC shall provide XLI with all applicable logos and usage guidelines for the Trademarks. WCC shall have the right of prior written approval over all uses of the Trademarks by XLI.  The parties understand and acknowledge the importance of protecting the goodwill associated with their respective trademarks. Consequently, XLI hereby assigns to WCC all goodwill and all other rights developed in connection with XLI's use of WCC's trademarks which shall inure to the benefit of WCC.   1.1.2 XLI grants WCC a limited, non-exclusive,",
+    "start": 1619,
+    "end": 2430
+  },
+  "_doc_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",
+  "_char_count": 18240,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

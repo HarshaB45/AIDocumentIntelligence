@@ -1,0 +1,31 @@
+{
+  "_doc_id": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
+  "_char_count": 22288,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of New York and all disputes and controversies arising out of or in connection with the Agreement shall be brought exclusively before the competent courts in New York County"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ],
+  "risk_score": 5,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of New York and all disputes and controversies arising out of or in connection with the Agreement shall be brought exclusively before the competent courts in New York County",
+    "incomplete"
+  ],
+  "governing_law": "the State of New York and all disputes and controversies arising out of or in connection with the Agreement shall be brought exclusively before the competent courts in New York County",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

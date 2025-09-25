@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "professional golfer, TOM WATSON, (hereinafter referred to as \"CONSULTANT\")",
+    "ADAMS GOLF"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination within ninety (90) days of its senior management becoming aware of the conduct giving rise to the right of termination.\n\n[***** ]  Confidential Material redacted and filed separately with the Commission.   6\n\n\n\n\n\n  13.  FREEDOM TO CONTRACT\n\nCONSULTANT represents and warrants that CONSULTANT is free of all prior undertakings and obligations which would prevent or tend to impair either the full performance of CONSULTANT'S obligations hereunder or ADAMS GOLF'S full enjoyment of the rights and privileges granted to it by CONSULTANT.\n\n14. INDEMNITY\n\nCONSULTANT agrees to protect, indemnify and hold ADAMS GOLF harmless from any and all liability, claims, causes of action, suits, damages and expenses (including reasonable attorneys' fees and expenses) for which it becomes liable or is compelled t",
+    "start": 11218,
+    "end": 12029
+  },
+  "_doc_id": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT.txt",
+  "_char_count": 24632,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material, reasonable"
+    }
+  ]
+}

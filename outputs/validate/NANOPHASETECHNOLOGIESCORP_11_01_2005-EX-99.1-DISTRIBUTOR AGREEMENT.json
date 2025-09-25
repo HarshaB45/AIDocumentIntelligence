@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "JOHNSON MATTHEY CATALOG COMPANY, INC., a Delaware corporation, d/b/a ALFA AESAR (hereinafter referred to as \"ALFA AESAR\"), having a mailing address of 30 Bond Street, Ward Hill, MA 01835-8099",
+    "Nanophase Technologies Corporation"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.\n\n\n\na) For all referrals under Section 6.1, except where NTC has evidence that it referral the customer (including its affiliates) to ALFA AESAR to purchase a prior sample of the Product in question, or where NTC has made sales to the customer (including its affiliates) referred to NTC by ALFA AESAR within a period of twelve (12) months before ALFA AESAR's referral under Section 6.1, NTC shall pay ALFA AESAR a commission at the rate of [***] on the Net Sales made to each such customer so referred to NTC under Section 6.1. NTC shall pay ALFA AESAR on a monthly basis for all such commissions for a period of three (3) years from the date of such referred customer's first order of Products or Custom Services from NTC.\n\n*** CONFIDENTIAL TREATMENT REQUESTED—This confidential p",
+    "start": 11139,
+    "end": 11950
+  },
+  "_doc_id": "NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt",
+  "_char_count": 48612,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    }
+  ]
+}

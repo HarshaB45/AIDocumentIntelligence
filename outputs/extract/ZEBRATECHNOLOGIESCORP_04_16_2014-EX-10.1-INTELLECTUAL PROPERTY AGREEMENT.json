@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "Motorola Solutions, Inc., a Delaware corporation (the \"Seller\")",
+    "Zebra Technologies Corporation"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination of Third Party Contracts. The license rights granted to the Purchaser Licensees under any Licensed IP that constitutes Third-Party Intellectual Property, if any, are subject to the terms and conditions of the Contracts applicable to such Licensed IP, and will terminate upon (i) termination of such Contracts, or (ii) termination of the Seller Parties' right to sublicense the Purchaser Licensees under such Contracts, in each case by the applicable third party licensor or sublicensor, as applicable (and not by a Seller Party).\n\n(b) Compliance with Third Party Contracts. Following the Initial Closing Date, the Purchaser shall cause the Purchaser Licensees and its and their employees, contractors and agents to, comply with the terms and conditions of any such Contracts that are listed on Sched",
+    "start": 77930,
+    "end": 78741
+  },
+  "_doc_id": "ZEBRATECHNOLOGIESCORP_04_16_2014-EX-10.1-INTELLECTUAL PROPERTY AGREEMENT.txt",
+  "_char_count": 127205
+}

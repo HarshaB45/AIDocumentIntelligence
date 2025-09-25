@@ -1,0 +1,16 @@
+{
+  "parties": [
+    "the Company",
+    "the Contractor"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination\n\n5.1 Term. The term of this Agreement shall commence on January 10th, 2019 and shall expire on the day that is twenty-four (24) months from that date (the \"Term of Engagement\") unless terminated earlier in accordance with this Agreement. The parties may mutually agree to extend this Agreement in writing and all terms and conditions hereof shall remain in effect during any extension unless the parties agree otherwise.\n\n5.2 Contractor's Right to Terminate Agreement for any Reason. The Contractor may terminate this Agreement and his or her engagement for any reason at any time upon providing 30 days advance notice in writing to Emerald. Termination will be effective, at Emeralds' election, on a date which is no earlier than the date such notice is received and no later than the date which is",
+    "start": 4771,
+    "end": 5582
+  },
+  "_doc_id": "EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC..txt",
+  "_char_count": 20637
+}

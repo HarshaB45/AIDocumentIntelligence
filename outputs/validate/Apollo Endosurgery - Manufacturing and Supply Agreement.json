@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "(1) Apollo Endosurgery, Delaware corporation having offices at 1120 S Capital of Texas Highway #300, Austin, TX 78746 (\"APOLLO\")",
+    "(2) Establishment Labs"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms, delivery date, and Purchase Order number for billing purposes. The Parties shall cooperate to establish appropriate lead times for orders; requested delivery dates shall provide sufficient lead times for the products ordered.\n\n5.3Delivery. Unless expressly provided otherwise in the applicable Purchase Order, shipping to APOLLO for the Product shall be Ex Works - ESTABLISHMENT (Incoterms 2010). The Product will be packaged and shipped per the Specifications and using a shipper and insurance coverage approved by APOLLO. In the event that any delivery of the Product is anticipated",
+    "start": 14586,
+    "end": 15186,
+    "text_normalized": "payment terms, delivery date, and Purchase Order number for billing purposes. The Parties shall cooperate to establish appropriate lead times for orders; requested delivery dates shall provide sufficient lead times for the products ordered.\n\n5.3Delivery. Unless expressly provided otherwise in the applicable Purchase Order, shipping to APOLLO for the Product shall be Ex Works - ESTABLISHMENT (Incoterms 2010). The Product will be packaged and shipped per the Specifications and using a shipper and insurance coverage approved by APOLLO. In the event that any delivery of the Product is anticipated"
+  },
+  "termination_clause": {
+    "text": "TERMINATION\n\n2.1Term. This Agreement shall commence on the Effective Date and shall be valid for a period of five (5) years with automatic renewal of one year thereafter until terminated\n\n-2-\n\n\n\n\n\nby either party with one (1) year written notice prior to the expiration of the initial period or any extension period thereof.\n\n2.2Termination.\n\n(a) Either Party may terminate this Agreement (i) for material breach upon one hundred and twenty (120) days written notice specifying the nature of the breach, if such breach has not been substantially cured within the one hundred twenty (120) day period, or (ii) if the other Party shall formally declare bankruptcy, insolvency, reorganization, liquidation, or receivership; or is named in an action for bankruptcy, insolvency, reorganization, liquidation, or receiv",
+    "start": 4745,
+    "end": 5556
+  },
+  "_doc_id": "Apollo Endosurgery - Manufacturing and Supply Agreement.txt",
+  "_char_count": 48253,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

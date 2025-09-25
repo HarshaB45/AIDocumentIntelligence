@@ -1,0 +1,26 @@
+{
+  "_doc_id": "BELLRINGBRANDS,INC_02_07_2020-EX-10.18-MASTER SUPPLY AGREEMENT.txt",
+  "_char_count": 37876,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "NOTICE",
+      "detail": "Non-standard governing law: the State of Delaware without regard to its conflicts of law principles"
+    }
+  ],
+  "risk_score": 4,
+  "risk_bucket": "medium",
+  "tags": [
+    "law:the State of Delaware without regard to its conflicts of law principles",
+    "incomplete"
+  ],
+  "governing_law": "the State of Delaware without regard to its conflicts of law principles",
+  "payment_net_days": null,
+  "payment_amounts": [],
+  "effective_date": null
+}

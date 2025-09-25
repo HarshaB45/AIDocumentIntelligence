@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "Lightbridge Corporation, a Nevada Corporation  (\"Lightbridge\")",
+    "Lloyds Register FNMA"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.\n\nARTICLE V  EVENTS OF DEFAULT; TERM AND TERMINATION\n\nSection 5.1  Events of Default.  Each of the following events constitutes an event of default (an  \"Event  of Default\")  by a Party (the \"Defaulting Party\") under this Agreement:\n\n5.1.1 the Defaulting Party fails to perform in any material  respect any obligation under this Agreement. or any representation or warranty made by the Defaulting Party in this Agreement is untrue in any material respect, and such failure is not cured within 30 days after the non-Defaulting Party notifies the Defaulting Party of such failure; or\n\n- 4 -\n\n\n\n\n\n5.1.2  the Defaulting Party:\n\n(a) files a petition or otherwise commences, or authorizes or acquiesces in the commencement of. a proceeding or cause under any bankruptcy, winding up, liqu",
+    "start": 11122,
+    "end": 11933
+  },
+  "_doc_id": "LIGHTBRIDGECORP_11_23_2015-EX-10.26-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 19386,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}

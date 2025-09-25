@@ -1,0 +1,39 @@
+{
+  "parties": [
+    "XYBERNAUT  CORPORATION,  a Virginia  corporation  (\"XC\")",
+    "ALEX JOB RACING"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination as provided for herein, the term of this Agreement  shall commence as of the date hereof and shall  terminate at the end of the Season which is scheduled to end on October 12, 2002 (the \"Term\").\n\n                                      -5-\n\n     6. Licensed Materials.\n\n          (a) XC does hereby  grant AJR a limited and  non-transferable  license and  non-exclusive  right to use XC's logo and  trademarks and service marks set forth on Schedule A attached hereto (the \"Licensed  Materials\")  during the Term of this Agreement.  AJR shall only be permitted to use the Licensed Materials in connection  with  the  Sponsorship  and  only in the  limited  manner  expressly permitted as set forth on Schedule A attached hereto. No other use of any of the Licensed  Materials by AJR shall be  permitte",
+    "start": 16932,
+    "end": 17743
+  },
+  "_doc_id": "XYBERNAUTCORP_07_12_2002-EX-4-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 48489,
+  "payment_net_days": null,
+  "_issues": [
+    {
+      "field": "effective_date",
+      "type": "MISSING",
+      "detail": "Required field 'effective_date' is missing"
+    },
+    {
+      "field": "governing_law",
+      "type": "MISSING",
+      "detail": "Required field 'governing_law' is missing"
+    },
+    {
+      "field": "payment_terms",
+      "type": "MISSING",
+      "detail": "Required field 'payment_terms' is missing"
+    },
+    {
+      "field": "termination_clause",
+      "type": "AMBIGUOUS",
+      "detail": "Ambiguous language found: material"
+    }
+  ]
+}
