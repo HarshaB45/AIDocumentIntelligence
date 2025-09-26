@@ -69,7 +69,7 @@ AIDOC/
 # clone & enter
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/HarshaB45/AIDocumentIntelligence
 cd AIDOC
 ```
 # create & activate venv
