@@ -11,14 +11,18 @@ Ingests a collection of complex documents, and transforms them into actionable i
 # Pipeline
 
 ## Extractor Agent
-Input - Folder of PDFs + User Defined Schema 
+Input - Folder of PDFs + User Defined Schema  
+
 Task - Accurately locate specific clauses and terms 
 
 ## Validator Agent
 Input - Extracted Data from Extractor Agent 
+
 Task - Standardize dates, currencies and terminology
+
 Compare key data points across documents to flag inconsistencies
-Identidy missing clauses and ambiguous language
+
+Identify missing clauses and ambiguous language
 
 ## Analyst Agent
 Input - Validated data from Validator Agent
@@ -26,6 +30,7 @@ Tasks - Assign risk score, summarize and identify trends
 
 ## Reported Agent
 Input - Insights and Analysis from Analyst Agent
+
 Outputs - Structured CSV, Markdown Report with findings, risks and flagged inconsistencies
 
 # Repo Layout
