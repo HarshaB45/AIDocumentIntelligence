@@ -29,7 +29,8 @@ Input - Insights and Analysis from Analyst Agent
 Outputs - Structured CSV, Markdown Report with findings, risks and flagged inconsistencies
 
 Repo Layout
-
+```
+bash
 .
 ├─ .git/                    # git history
 ├─ .venv/                   # local virtual env (usually excluded from commits)
@@ -46,6 +47,7 @@ Repo Layout
 ├─ README                   # project readme (e.g., README.md)
 ├─ requirements             # python deps (e.g., requirements.txt)
 └─ test_openai_key          # small test script (e.g., test_openai_key.py)
+```
 
 # How to run this
 # clone & enter
