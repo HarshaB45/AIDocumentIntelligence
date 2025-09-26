@@ -30,37 +30,22 @@ Outputs - Structured CSV, Markdown Report with findings, risks and flagged incon
 
 Repo Layout
 
-AIDOC/
-├─ .venv/
-├─ config/
-├─ full_contract_pdf/
-│  ├─ Part_I/
-│  ├─ Part_II/
-│  └─ Part_III/
-├─ full_contract_txt/
-├─ full_contract2_txt/
-├─ outputs/
-├─ analyze/
-├─ extract/
-├─ report/
-├─ reports/
-├─ validate/
-├─ src/
-│  ├─ __pycache__/
-│  ├─ analyst.py
-│  ├─ extractor_nlp.py
-│  ├─ extractor_utils.py
-│  ├─ extractor.py
-│  ├─ ingest.py
-│  ├─ lc_extractor.py
-│  ├─ reporter.py
-│  └─ validator.py
-├─ .env
-├─ .gitignore
-├─ .lc_cache.db
-├─ app.py
-├─ README.md
-├─ requirements.txt
-└─ test_openai_key.py
+.
+├─ .git/                    # git history
+├─ .venv/                   # local virtual env (usually excluded from commits)
+├─ config/                  # schemas, rules, settings
+├─ full_contract_pdf/       # raw PDFs
+├─ full_contract_txt/       # extracted text (batch 1)
+├─ full_contract2_txt/      # extracted text (batch 2)
+├─ outputs/                 # CSV/JSON/MD reports, logs, charts
+├─ src/                     # source code modules (extractor/validator/analyst/reporter)
+├─ .env                     # environment variables (keys, paths)
+├─ .gitignore               # ignore patterns
+├─ .lc_cache                # local cache (e.g., indexes, temp db)
+├─ app                      # streamlit/runner script (e.g., app.py)
+├─ README                   # project readme (e.g., README.md)
+├─ requirements             # python deps (e.g., requirements.txt)
+└─ test_openai_key          # small test script (e.g., test_openai_key.py)
+
 
 
