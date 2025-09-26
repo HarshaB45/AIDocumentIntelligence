@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "eFashion Solutions, LLC, a New Jersey limited liability \ncompany having its principal place of business at 80 Enterprise Avenue South, Secaucus, NJ 07094 (“EFS”)",
+    "Playboy"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": {
+    "text": "payment terms, and therefore, the Merchandise purchased in connection with March 1, 2008 orders shall not \nbe subject to the discount for Client Inventory set forth in Section 6.6. \n\n2.4. Licensees. Client shall notify each of its Licensees (as defined below) of the provisions of this Agreement relating to \n\nthe sale and provision of Merchandise to EFS. EFS  \n\n8\n\nSource: PLAYBOY ENTERPRISES INC, 10-Q/A, 2/20/2009  \n  \n  \n  \n  \n  \n  \n\fshall be permitted to deal directly with and purchase Merchandise directly from those third parties licensed by Client to produce \nproducts under the PLAYBOY bran",
+    "start": 28242,
+    "end": 28842,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of these employees and their subsequent hire by EFS. Each of \nthe hired employees shall be required to comply with all policies and procedures of EFS which are generally applicable to its \nemployees; provided however that levels of seniority and tenure of hired employees (as they relate to vacation time, etc.) will \ncarry over to EFS. Client shall have  \n\n5\n\nSource: PLAYBOY ENTERPRISES INC, 10-Q/A, 2/20/2009  \n  \n \n \n \n  \n\finput and approval rights regarding the hiring of key positions in connection with the Playboy Commerce Business, including \nreplacement personnel, which approval shall not be unreasonably withheld. EFS agrees that ***** primary responsibilities will \ncontinue to be the Playboy Commerce Business. \n\n(k) Keywords. EFS may use Playboy Marks as keyword-targeted advertising",
+    "start": 17622,
+    "end": 18433,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.txt",
+  "_char_count": 117637,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

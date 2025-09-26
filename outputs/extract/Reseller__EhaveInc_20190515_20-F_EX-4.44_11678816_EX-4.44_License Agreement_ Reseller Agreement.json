@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "the Partiespertaining to the subject matter hereof",
+    "supersedes all prior agreements"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms provided by Ehave, the Parties shallrevise the Specifications and Implementation Plan and shall replace the Specifications and Implementation Plan attached hereto asSchedules “1” and “2”, and Ehave shall develop and implement the Change as so agreed. Changes shall be subject to acceptance testingby CHT prior to being deployed into production in accordance with procedures described in Section 3(d) or as otherwise agreed by theparties in writing. Ehave shall not refuse to accept a CHT Change request unless it is unable to make the Change requested usingcommercially reasonable effor",
+    "start": 22951,
+    "end": 23551,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination FeeSchedule “7”-Source Code Escrow(e)Entire AgreementThis Agreement, together with any other documents to be delivered pursuant hereto, constitutes the entire agreement between the Partiespertaining to the subject matter hereof and supersedes all prior agreements, negotiations, discussions and understandings, written or oral,between the Parties. Except as expressly provided in this Agreement, there are no representations, warranties, conditions other agreementsor acknowledgements, whether direct or collateral, express or implied, that form part of or affect this Agreement. The execution of thisAgreement has not been induced by, nor do either of the Parties rely upon or regard as material, any representations, warranties,conditions, other agreements or acknowledgements not expressly made i",
+    "start": 12732,
+    "end": 13543,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Reseller__EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.txt",
+  "_char_count": 85809,
+  "_provenance": {}
+}

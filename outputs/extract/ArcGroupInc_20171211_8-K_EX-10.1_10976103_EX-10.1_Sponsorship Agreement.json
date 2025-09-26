@@ -4,9 +4,14 @@
     "The ARC Group"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "ArcGroupInc_20171211_8-K_EX-10.1_10976103_EX-10.1_Sponsorship Agreement.txt",
-  "_char_count": 16773
+  "_char_count": 16773,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

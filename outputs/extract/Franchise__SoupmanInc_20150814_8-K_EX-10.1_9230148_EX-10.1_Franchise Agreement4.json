@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "THE DEPARTMENT",
+    "LITIGATION",
+    "Franchisor",
+    "C)is"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Franchise__SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement4.txt",
+  "_char_count": 3199,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
+}

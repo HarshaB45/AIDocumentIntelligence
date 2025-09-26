@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "REYNOLDS CONSUMER PRODUCTSLLC, a Delaware limited liability company with its headquarters at 1900 West Field Court, Lake Forest, IL 60045 (“Seller”)",
+    "PACTIV LLC"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination date elected by a Party in a written notice delivered to the other Party anytime after the expiration of the last Purchase Schedule; or (c) a termination date elected by a Party in a written notice delivered to the other Party asprovided in Subsection 11(d) of this Agreement. The rights and obligations of the Parties under this Agreement will survive the expiration or earliertermination of this Agreement with respect to any (i) products purchased and sold under this Agreement during the Term and products sold after theTerm for orders accepted during the Term; (ii) Confidential Information (as defined in Section 10 of this Agreement) disclosed or received by a Partyduring the Term; (iii) breach of this Agreement by a Party; (iv) any other statement, decision, act or omission of a Party con",
+    "start": 1235,
+    "end": 2046,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Supply__ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement.txt",
+  "_char_count": 60980,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

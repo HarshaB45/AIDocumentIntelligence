@@ -4,17 +4,26 @@
     "PHILIPS MEDICAL SYSTEMS NEDERLAND B"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Canada",
   "payment_terms": {
     "text": "payment terms of this Agreement in such instance where any such materials are not used in the production of any Products to meet any Purchase Orders of Customer within [Redacted - Commercially Sensitive] of the purchase of such materials. The same reimbursement obligation shall apply at the end of the Term for materials, parts and components then available at Philips. Such materials, parts and/or components shall be delivered to Customer [Redacted - Commercially Sensitive]. Upon payment the title of the materials, parts and/or components shall transfer to Customer.\n\n- 8 -\n\n\n\n\n\n4. PURCHASE ORDE",
     "start": 19359,
-    "end": 19959
+    "end": 19959,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination pursuant to clause 12 or (c) the applicable Purchase Order includes terms and conditions that supplement those contained in this Agreement, which Philips is unwilling to accept. Philips may not cancel any previously accepted Purchase Order hereunder. Customer may not cancel a previously accepted Purchase Order .\n\n- 9 -\n\n\n\n\n\n5. DELIVERY, TRANSFER OF RISK AND OWNERSHIP 5.1 [Redacted - Commercially Sensitive - Delivery Details] 5.2 If Customer fails to take Delivery of ordered Products at the date of Delivery acknowledged by Philips, then Philips may deliver the Products in consignment and at Customer's risk and cost. 5.3 Philips will manufacture, handle, properly pack, mark and ship the Products in accordance with Customer's instructions provided to Philips in writing as part of the Device",
     "start": 22247,
-    "end": 23058
+    "end": 23058,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT.txt",
-  "_char_count": 66442
+  "_char_count": 66442,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

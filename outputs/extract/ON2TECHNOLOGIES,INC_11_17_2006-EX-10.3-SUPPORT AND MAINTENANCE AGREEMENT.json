@@ -4,13 +4,20 @@
     "Wildform"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "TERMINATION\n\n      9.1 Term. Except as otherwise set forth in Sections 9.2 and 9.3 or Exhibit A hereof, the term of this Agreement shall be eighteen (18) months (\"Term\").\n\n      9.2 Termination. Either of Wildform or On2 may terminate this Agreement if the other Party is in material breach of this Agreement and fails to cure such breach within thirty (30) days after written notice. Either of On2 or Wildform may terminate this Agreement if the other Party becomes bankrupt or a receiver is appointed for a substantial part of its assets or business, or any order is made approving a petition or answer seeking reorganization under any applicable bankruptcy law.\n\n      9.3 Events Upon Termination. Upon the termination of this Agreement by either Party on account of an uncured material breach by the other P",
     "start": 25822,
-    "end": 26633
+    "end": 26633,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.txt",
-  "_char_count": 61392
+  "_char_count": 61392,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

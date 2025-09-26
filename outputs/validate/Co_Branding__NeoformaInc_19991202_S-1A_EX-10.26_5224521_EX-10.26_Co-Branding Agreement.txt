@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "the Partiesconcerning any breach or alleged breach of this Agreement or performance ornonperformance of any obligation under this Agreement which cannot be resolvedby negotiation will be resolved by binding arbitration under this Section 12.2  [ARBITRATION]and the then-current Commercial Rules",
+    "supervision of the AmericanArbitration Association (the \"AAA\")"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": {
+    "text": "PAYMENT TERMS. Except as otherwise provided in this Agreement, eachParty shall provide the other Party with all amounts due under this Agreementfor the prior calendar quarter within 30 days after the end of each calendarquarter during the Term. Each payment shall be accompanied by a statementdetailing the amount of applicable gross revenue received, the calculation ofthe amount due to the other Party and the amount of the payment accompanyingsuch statement. All payments due to either Party hereunder shall be made inimmediately available U.S. funds, without set-off or counterclaim, less anytaxe",
+    "start": 48290,
+    "end": 48890,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "TERMINATION        11.1 AUTOMATIC RENEWAL. This Agreement will automatically renew at theend of the Initial Term or a subsequent renewal term on a year to year basis(each, a \"Renewal Term\"), unless either Party notifies the other at least 30days prior to the end of the Initial Term or then current Renewal Term, asapplicable, of its intention not to renew this Agreement (a \"TerminationNotice\").Source: NEOFORMA INC, S-1/A, 12/2/1999\f        11.2 TERMINATION FOR CAUSE. Either Party may terminate this Agreementimmediately upon written notice to the other Party in the event any materialbreach of a material term of this Agreement by such other Party that remainsuncured 30 days in the case of a breach of a payment obligation, or 45 days forall other breaches, after notice of such breach was received by such",
+    "start": 51999,
+    "end": 52810,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Co_Branding__NeoformaInc_19991202_S-1A_EX-10.26_5224521_EX-10.26_Co-Branding Agreement.txt",
+  "_char_count": 97831,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": []
+}

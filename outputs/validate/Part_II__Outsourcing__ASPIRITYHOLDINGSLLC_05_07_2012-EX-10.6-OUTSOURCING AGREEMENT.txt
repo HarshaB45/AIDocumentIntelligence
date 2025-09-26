@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Twin Cities Power Holdings, LLC, a \n\nt h\n\nMinnesota limited liability company (the “Company”)",
+    "Redwater LLC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION \n\nSection 8.01 Effective Date of this Agreement \n\nSection 8.02 Termination Prior to Initial Closing Date \n\nSection 8.03 Notice of Termination \n\nSection 8.04 Termination After Initial Closing Date \n\nSection 8.05 Termination Without Termination of Offering \n\nARTICLE IX MISCELLANEOUS \n\n31\n\n32\n\n35\n\n35\n\n36\n\n36\n\n36\n\n37\n\n37\n\n38\n\n38\n\n  \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n \n \n \n \n \n\fSection 9.01 Survival \n\nSection 9.02 Notices \n\nSection 9.03 Successors and Assigns; Transfer \n\nSection 9.04 Cumulative Remedies \n\nSection 9.05 Attorneys’ Fees \n\nSection 9.06 Entire Agreement \n\nSection 9.07 Choice of Law; Venue \n\nSection 9.08 Rights to Investor Lists \n\nSection 9.09 Waiver; Subsequent Modification \n\nSection 9.10 Severability \n\nSection 9.11 Joint Preparation \n\nSection 9.12 Ca",
+    "start": 2039,
+    "end": 2850,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Outsourcing__ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT.txt",
+  "_char_count": 67516,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

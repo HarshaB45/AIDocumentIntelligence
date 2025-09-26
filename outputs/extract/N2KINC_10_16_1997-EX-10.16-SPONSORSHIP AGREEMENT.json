@@ -4,13 +4,20 @@
     "N2K Inc"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "California",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement, each                   party will cease using the trademarks, service marks and/or                   trade names of the other except:\n\n               i)       As the parties may agree in writing; or\n\n               ii)      To the extent permitted by applicable law.\n\n11.      TERMINATION             a)       If Excite fails to deliver the guaranteed number of                   Impressions on the Excite Site during the first year, Excite                   will use commercially reasonable efforts to \"make good\" the                   shortfall. If Excite fails to \"make good\" the shortfall within                   [****] following the first year end, Sponsor may terminate the                   Agreement in accordance with Section 11 (b).\n\n      b)       If Excite fails to d",
     "start": 28907,
-    "end": 29718
+    "end": 29718,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "N2KINC_10_16_1997-EX-10.16-SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 49518
+  "_char_count": 49518,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

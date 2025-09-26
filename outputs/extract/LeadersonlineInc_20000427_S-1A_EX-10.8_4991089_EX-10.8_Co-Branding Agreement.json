@@ -4,13 +4,20 @@
     "LeadersOnline"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement.  All information contained in the Resume Bank shall be handled by LeadersOnline in accordance with VerticalNet's standard Privacy Policy as it may be posted on the VerticalNet Sites from time to time.  The foregoing restrictions shall cease to apply from and after the time that a Candidate registers through an online form or takes other affirmative action to become a member of the LeadersOnline \"Candidate Community.\"\n\n                                       5\n\n6.   THE COMMERCIAL TERMS\n\n    6.1.  Fees. As set forth in Section 6.2  [Payment of Fees], LeadersOnline shall pay to VerticalNet the following:\n\n        6.1.1.  Slotting fees for the Employer Spotlights of $***;\n\n        6.1.2.  Banner and Newsletter Ad sponsorship fees of $*** as provided in Section 3.1  [Purchas",
     "start": 15324,
-    "end": 16135
+    "end": 16135,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "LeadersonlineInc_20000427_S-1A_EX-10.8_4991089_EX-10.8_Co-Branding Agreement.txt",
-  "_char_count": 55296
+  "_char_count": 55296,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

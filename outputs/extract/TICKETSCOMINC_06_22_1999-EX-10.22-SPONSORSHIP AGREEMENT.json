@@ -4,13 +4,20 @@
     "MP3"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination. This Agreement shall commence on the Effective Date and shall remain in full force and effect until one (1) year subsequent to the Effective Date, provided however, that Tickets may terminate this Agreement for any reason upon thirty (30) days' notice to MP3. com at any time prior to the expiration of sixty (60) days subsequent to the Effective Date. Furthermore, for a thirty (30) day period, beginning thirty (30) days prior to the first anniversary of this Agreement, Tickets shall have the right to renew the Agreement for another year with Sponsor Fees that do not exceed a [***] percent increase over the existing Sponsor Fees. Any payments which have accrued prior to the date of termination shall remain due and payable. Sections 6, 7, and 8 shall survive termination of this agreement.",
     "start": 2610,
-    "end": 3421
+    "end": 3421,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "TICKETSCOMINC_06_22_1999-EX-10.22-SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 8080
+  "_char_count": 8080,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

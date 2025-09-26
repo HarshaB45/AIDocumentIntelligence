@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Nationwide Fund Management LLC (“Nationwide”), on behalf of Nationwide MutualFunds or its surviving entity (“the Trust”)",
+    "American United Life Insurance Company"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Agreement.16. Anti-Money Laundering ProgramNationwide and the Funds will rely upon you to establish a written Anti-Money Laundering Program (the “Program”) to include policies,procedures, and controls that comply with the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept andObstruct Terrorism Act (USA Patriot Act) of 2001, (“the ACT”) and the Bank Secrecy Act of 1970 (“BSA”). Each party to this Agreementacknowledges, represents, and warrants that it has adopted and implemented an Anti-Money Laundering Program that complies and will continueto comply with all aspects and requirements of the ACT, the BSA, and all other applicable anti-money laundering laws and regulations.Upon request, you shall promptly certify to having such Program that complie",
+    "start": 14910,
+    "end": 15721,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Service__AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT.txt",
+  "_char_count": 35619,
+  "_provenance": {}
+}

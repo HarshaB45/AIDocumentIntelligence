@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "PageMaster Corporation",
+    "Go Call"
+  ],
+  "effective_date": null,
+  "governing_law": "Canada",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of thisAgreement, Go Call agrees not to use or advertise any trademarks, logos or otherproperty rights of PageMaster Corporation or any third parties participating inthe promotion. Any advertising, artwork, presentation, or other promotionalactivities (collectively \"Advertising\") concerning the pager Promotion notpre-approved in writing by PageMaster Corporation shall be deemed to beunauthorized by PageMaster Corporation and shall constitute a breach of thisAgreement. In addition to the duty to indemnify PageMaster Corporation asprovided in Paragraph 9 hereof, Go Call shall also have the duty to indemnifyMotorola, Inc. or any affiliated entity from and against any and all claims,expense, suits or demands arising from such unauthorized Advertising by Go Call,or its agent, aff",
+    "start": 8701,
+    "end": 9512,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Promotion__GOCALLINC_03_30_2000-EX-10.7-Promotion Agreement.txt",
+  "_char_count": 21969,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

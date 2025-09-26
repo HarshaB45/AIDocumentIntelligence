@@ -4,13 +4,20 @@
     "GAINSCO"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Texas",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination).\n\n4. Compliance with Applicable Rules and Regulations. Provision of the Benefits pursuant to this Agreement is subject to rules and  requirements of each organization and venue hosting a racing event in which the Racing Team competes during the term hereof, and the Sponsor  agrees to submit to Racing all advertising and other promotional material relating to each such event in sufficient time to enable Racing to assure  compliance with such rules and requirements. If as a result of such rules and requirements Racing is unable to provide a Benefit in the form  requested by the Sponsor, Racing shall be permitted to provide a substitute promotion or advertisement in compliance with such requirements.      2\n\n\n\n\n\n5. Sponsor's Maximum Obligation; Indemnification. Racing represents to the Spon",
     "start": 4854,
-    "end": 5665
+    "end": 5665,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 15696
+  "_char_count": 15696,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination of Remarketing Agreement 12 Section 11. Remarketing Agent's Performance; Duty of Care 13 Section 12. Amendment, Supplement or Modification of Agreements 13 Section 13. Books and Records 13 Section 14. Governing Law 13 Section 15. Waiver of Jury Trial 14 Section 16. Certain Provisions to Survive Termination of Agreement 14 Section 17. Successors and Assigns 14 Section 18. Headings 14 Section 19. Severability 14 Section 20. Counterparts 14 Section 21. Remarketing Agent Not Acting as Underwriter 15 Section 22. Amendment 15 i\n\n\n\n\n\nSection 23. Benefits 15 Section 24. Notices and Wire Instructions 15 Section 25. Liability of Officers, Trustees and Shareholders 16 Section 26. Nonpetition Covenant 16\n\nExhibit A Form of Tender Notice (Optional Tenders)\n\nExhibit B Form of Remarketing Notice (Option",
     "start": 730,
-    "end": 1541
+    "end": 1541,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "NUVEEN - REMARKETING AGREEMENT.txt",
-  "_char_count": 70631
+  "_char_count": 70631,
+  "_provenance": {}
 }

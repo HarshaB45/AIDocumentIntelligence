@@ -1,0 +1,35 @@
+{
+  "parties": [
+    "Dialog Semiconductor (UK) Ltd., a corporation organized under the laws of England",
+    "Wales"
+  ],
+  "effective_date": null,
+  "governing_law": "United Kingdom",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of ENERGOUS' exclusivity obligations to the Key Customer set forth in Exhibit F (the \"Key Customer\") existing as of the Effective Date with respect to the following applications, or (ii) [***] that incorporates ENERGOUS wireless charging technology, or (iii) [***] and subject to the exceptions set out in Section 2.3, DIALOG will not be permitted to Sell Licensed Products for use in the following applications (the \"Excluded Applications\"):   (a) [***];   * Confidential Treatment Requested\n\n  Page 5\n\n\n\n\n\n\n\n  (b) [***];   (c) [***];   (d) [***]; and   (e) [***] designed for use with any of the applications in paragraphs (a) to (d) of this Section 2.2.   For the avoidance of doubt, DIALOG will be permitted to Sell Licensed Products for use in any or all of the Excluded Applications (A) at any",
+    "start": 15137,
+    "end": 15948,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 81926,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "GOVERNING_LAW_INCONSISTENT",
+      "party_key": "DIALOG SEMICONDUCTOR (UK) LTD., A CORPORATION ORGANIZED UNDER THE LAWS OF ENGLAND | WALES",
+      "value": "United Kingdom",
+      "party_mode": "Delaware"
+    }
+  ]
+}

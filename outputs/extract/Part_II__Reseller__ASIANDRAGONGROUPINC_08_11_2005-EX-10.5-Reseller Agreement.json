@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "695014 B.C. Ltd. dba Galaxy Telecom, having a principal office at200 – 375 Water Street, Vancouver, British Columbia V6B 5C6 Canada (“Galaxy”)",
+    "Galaxy Telnet SRL"
+  ],
+  "effective_date": null,
+  "governing_law": "Canada",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination through one or more termination partners.Galaxy shall have the right, at its sole discretion, to reroute the communication traffic originating from Telnet or Subscribersbetween Galaxy’s different termination partners.7.5411 and 911 ServiceGalaxy shall arrange with third parties for the provision of:411 directory assistance service; and911 emergency call response service,which services will be provided through Galaxy as part of the Services.7.6PricesThe prices charged by Galaxy to Telnet for each of the Services (the “Service Prices”) shall be as listed in Schedule “A”;Galaxy shall have the right, but not the obligation, to:during the term of this Agreement, adjust any of the Service Prices by an amount that is proportionate with any changes toGalaxy’s direct third party costs in providing",
+    "start": 14870,
+    "end": 15681,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Reseller__ASIANDRAGONGROUPINC_08_11_2005-EX-10.5-Reseller Agreement.txt",
+  "_char_count": 43969,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

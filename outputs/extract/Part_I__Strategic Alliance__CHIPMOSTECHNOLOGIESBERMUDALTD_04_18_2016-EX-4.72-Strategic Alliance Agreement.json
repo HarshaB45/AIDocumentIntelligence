@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the Parties",
+    "supersedes all priordocuments and agreements in connection with the Transaction"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination This Agreement may be terminated as follows:(1) Tsinghua Unigroup and ChipMOS Taiwan terminate this Agreement by mutual agreement in writing;(2) In the event that Tsinghua Unigroup or ChipMOS materially breaches this Agreement and such breach is incurable, the other Party mayimmediately terminate this Agreement by giving written notice to the breaching Party; if such breach is curable, this Agreement will be terminatedautomatically after ten (10) days from the date on which the breaching Party received the written notice given by the other Party, if the breachingParty fails to cure such breach; or(3) This Agreement shall be simultaneously terminated, rescinded or become invalid upon the termination, rescission, or invalidation of theShare Subscription Agreement.2.3 Effects of Termination",
+    "start": 5317,
+    "end": 6128,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Strategic Alliance__CHIPMOSTECHNOLOGIESBERMUDALTD_04_18_2016-EX-4.72-Strategic Alliance Agreement.txt",
+  "_char_count": 13247,
+  "_provenance": {}
+}

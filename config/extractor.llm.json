@@ -2,7 +2,11 @@
   "use_spacy": true,
   "use_llm": true,
   "llm_model": "gpt-4o-mini",
-  "llm_top_k_chunks": 2,
-  "regex_confidence": 0.7,
-  "min_span_len": 60
+  "llm_top_k_chunks": 1,
+  "regex_confidence": 0.6,
+  "min_span_len": 20,
+  "max_workers": 8,
+  "llm_concurrency": 3,
+  "chunk_size": 2000,
+  "chunk_overlap": 150
 }

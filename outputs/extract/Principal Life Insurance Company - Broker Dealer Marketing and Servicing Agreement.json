@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination, or suspension of its   status as a broker dealer or FINRA member. Broker Dealer shall immediately notify Distributor with   respect to i) the initiation and disposition of any form of disciplinary action by the FINRA or any other   agency or instrumentality having jurisdiction with respect to the subject matter hereof against Broker   Dealer or any Registered Representative; ii) the issuance of any form of deficiency notice made part of   the public record by FINRA or any such agency regarding Broker Dealer's training, supervision or sales   practices; and/or iii) the effectuation of any consensual order with respect thereto.      14. Broker Dealer agrees to notify Distributor and Issuer immediately of any customer complaints or legal   or regulatory inquiries (including, but not limited",
     "start": 11206,
-    "end": 12017
+    "end": 12017,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "Principal Life Insurance Company - Broker Dealer Marketing and Servicing Agreement.txt",
-  "_char_count": 29599
+  "_char_count": 29599,
+  "_provenance": {}
 }

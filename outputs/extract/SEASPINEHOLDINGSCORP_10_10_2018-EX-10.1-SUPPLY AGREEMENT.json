@@ -4,17 +4,26 @@
     "PcoMed"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": {
     "text": "Payment Terms and Reports. Payments due under Section 2.2 shall be payable to PcoMed by Integra on a quarterly basis within 45 days following the end of each calendar quarter. Each such payment shall be accompanied by a statement setting forth in reasonable detail (i) the number and type of Treated Integra Product and Partially Treated Integra Product sold and the Net Sales applicable thereto, (ii) a breakdown of all the components of Net Sales for the determination of payments due under Sections 2.2 (the numbers may be and type of products may be stated in the aggregate and not by customer an",
     "start": 37569,
-    "end": 38169
+    "end": 38169,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "TERMINATION.\n\n4.1. Initial Term. The initial term of this Agreement (the \"Initial Term\") shall commence on the Effective Date and shall end on the date that payment is due for Minimum Payment Period 7, pursuant to Section 2.4 hereof and as set forth in Attachment B hereof, unless earlier terminated as provided herein.\n\n4.2. Right to Renew. Thereafter, this Agreement may be renewed for such periods of time and under such terms and conditions as are mutually agreed to in writing and pursuant to Section 12.7.\n\n4.3. Termination for Cause. Without limiting the other rights to terminate set forth in this Agreement, this Agreement may be terminated by either party as follows:\n\n(a) Material Breach. In the event that a party materially defaults under or materially breaches any of the provisions of this Agreem",
     "start": 26244,
-    "end": 27055
+    "end": 27055,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.txt",
-  "_char_count": 70898
+  "_char_count": 70898,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

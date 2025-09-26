@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination Agreement attached hereto as Exhibit B and (ii) Licensee and Licensor desire to enter into this Agreement, on or prior to the consummation of the transactions contemplated by the Share Purchase Agreement.   NOW, THEREFORE, for and in consideration of the mutual covenants and agreement of the Parties and the faithful performance thereof, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto agree as follows:   ARTICLE I DEFINITIONS   As used herein, the following terms shall have the meanings ascribed to them below.   \"Action\" has the meaning set forth in Section 8.1.   \"Affiliate\" means, when used with respect to any specified Person, a Person that directly or indirectly through one or more intermediaries, controls, is",
     "start": 1726,
-    "end": 2537
+    "end": 2537,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement1.txt",
-  "_char_count": 46696
+  "_char_count": 46696,
+  "_provenance": {}
 }

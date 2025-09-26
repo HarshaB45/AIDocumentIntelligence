@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement or, as applicable, upon earlier expiration of a party's rights thereto in accordance with this Agreement.  Each party further acknowledges and agrees that because: (i) an award of money damages in inadequate to compensate a party for any breach of  this Article 4; and (ii) any breach of this Article 4 will causes irreparable harm, if there is a breach or threatened breach of this Article 4 by either  party, the non-breaching party shall be entitled to equitable relief, including injunctive relief and specific performance, without proof of actual  damages. The covenants and agreements contained herein with respect to any Confidential Information deemed a trade secret under applicable law  shall continue until the information ceases to be a trade secret under applicable la",
     "start": 19118,
-    "end": 19929
+    "end": 19929,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "AURASYSTEMSINC_06_16_2010-EX-10.25-STRATEGIC ALLIANCE AGREEMENT.txt",
-  "_char_count": 45033
+  "_char_count": 45033,
+  "_provenance": {}
 }

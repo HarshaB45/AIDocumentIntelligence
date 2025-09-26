@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "them with respect to thesubject matter hereof. For the avoidance of doubt, this Agreement does not supersede or in modify in anyway any other written agreement between theparties. This Agreement may not be changed or modified, except by an agreement in writing signed by both of the parties hereto. The obligations ofConsultant as set forth herein, other than Consultant’s obligations to perform the Project, shall survive the termination of Consultant’s engagement withAduro. If any provision of this Agreement is found to be illegal or unenforceable, the other provisions of this Agreement shall remain effective andenforceable to the greatest extent permitted by law. This Agreement shall not be assignable by Consultant. This Agreement may be executed in anynumber of counterparts",
+    "each such counterpart shall be deemed to be an original instrument"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of this Agreement, Consultant shall immediately: (i) stop using ConfidentialInformation; (ii) return all materials provided by Aduro to Consultant that contain Confidential Information, except for one copy that may be retained byConsultant’s legal counsel to confirm compliance with the obligations under this Agreement; (iii) destroy all copies of Confidential Information in anyform including Confidential Information contained in computer memory or data storage apparatus or materials prepared by or for Consultant; and (iv)provide a written warranty to Aduro that Consultant has taken all the actions described in the foregoing Subparagraphs 4(c)(i-iii).(d) Any breach of this Paragraph 4 by an employee or agent of Consultant shall be deemed to be a breach by Consultant.(e) Defen",
+    "start": 3800,
+    "end": 4611,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Consulting Agreements__ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT.txt",
+  "_char_count": 11882,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

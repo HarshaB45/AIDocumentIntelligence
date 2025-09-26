@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination shall not relieve either party of obligations incurred prior thereto.  The term of this Agreement may be extended for an additional two year period with the written consent of both parties.\n\n6.02.  Termination. This Agreement may be terminated only:\n\n(a)  By either party for substantial breach of any material provision of this Agreement by the other, provided due notice has been given to the other of the alleged breach and such other party has not cured the breach within (30) days] thereof; or\n\n(b)  By the Company if: there is an unacceptable change in the control or management of the Distributor; if the Distributor  makes an assignment for the benefit of creditors; if a petition in bankruptcy is filed by or against the Distributor, resulting in an adjudication of bankruptcy; or, if the D",
     "start": 7743,
-    "end": 8554
+    "end": 8554,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BLACKBOXSTOCKSINC_08_05_2014-EX-10.1-DISTRIBUTOR AGREEMENT.txt",
-  "_char_count": 17234
+  "_char_count": 17234,
+  "_provenance": {}
 }

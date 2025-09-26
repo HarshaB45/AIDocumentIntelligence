@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "Whitesmoke Inc., with registered offices/principle place of business at 501 Silverside Road, Suite 105, \nWilmington DE 19809, USA, (“Distributor”)",
+    "Google Inc whose principle place of business is at 1600 Amphitheatre Parkway"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "PAYMENT TERMS \n\nPayments. Subject to Clause 4.2, during the Term on a [ * ] basis, Google shall pay to Distributor the applicable payment set out in Exhibit \nA for each [ * ] and each [ * ] that occurred during the previous [ * ]. Google shall determine the [ * ] in respect of which each [ * ] and \n[ * ] took [ * ] (using the relevant [ * ]). Notwithstanding the foregoing, in no event will the [ * ] of [ * ] by Google to Distributor for all \n[ * ] and all [ * ] in respect of [ * ] (as set out in Exhibit A) exceed [ * ] ([ * ]) of the [ * ] to Distributor for such [ * ]. \n\n[ * ]. Notwithstandin",
+    "start": 17340,
+    "end": 17940,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreement, Distributor shall not, and shall not \nengage any third party to: (a) restrict, modify, or reconfigure in any manner any of the Products that have been installed by End Users \n(such End Users, “Installed Base End Users”) in connection with this Agreement; or (b) engage in activities that encourage Installed \nBase End Users to modify, uninstall or reconfigure any or the Products. \n\n3.7 \n\n3.8 \n\n*Confidential treatment requested \nGoogle Confidential \n\n- 5 -\n\n \n  \n  \n  \n  \n  \n  \n \n  \n  \n  \n \n \n  \n  \n \n\f3.9  \n\nReporting. \n\n(a) \n\n(b) \n\nBy Distributor. During the Term, Distributor shall, on a [ * ] basis, no later than the [ * ] of the following [ * ], provide Google \nwith a report identifying, on a country-by-country basis, the total number of: (i) Bundles distributed; (ii) In",
+    "start": 14901,
+    "end": 15712,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Promotion__WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT.txt",
+  "_char_count": 71247,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "Revolution Medicines, Inc., a corporation organized",
+    "existing under the laws of Delaware"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": {
+    "text": "Payment Terms; Exchange Rate. Notwithstanding any term to the contrary of this Agreement, RevMed shall deliver an invoice to Sanofi for allpayments owed by Sanofi to RevMed under this Agreement. Sanofi will make all payments owed to RevMed within [***] after the date on which Sanofireceives an undisputed invoice for such owed amount, except where a different timeframe is expressly provided in another Section of this Agreement(e.g., for the reimbursement of RevMed R&D Costs pursuant to Sections 4.5 and 5.5; the payment of the buy-in payment pursuant to Section 5.6(b)B; theupfront payment set fo",
+    "start": 145900,
+    "end": 146500,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination ProductSection 12.3(c)(ii)(A)ParentSection 1.12Party or PartiesPreamblePharmacovigilance AgreementSection 6.517Source: REVOLUTION MEDICINES, INC., S-1, 1/17/2020\fDefined TermSectionProduct InfringementSection 10.4(a)Product MarksSection 10.5(a)Profit/Loss Share AgreementSection 9.4Quality AgreementSection 7.3Receiving PartySection 11.1(a)RemainderSection 10.4(f)Remedial ActionSection 6.7Research BudgetSection 4.2(a)Research PlanSection 4.1[***]Section 4.2(b)RevMedPreambleRevMed Commercialization CostsSection 8.2RevMed IndemniteeSection 14.2RevMed Program InventionSection 12.3(c)(ii)RevMed StudySection 5.6(b)Royalty FloorSection 9.3(c)(iii)Royalty TermSection 9.3(b)SanofiPreambleSanofi IndemniteeSection 14.1Sanofi Program InventionSection 12.3(c)(ii)Sanofi Prosecuted PatentsSection 10.2(a)",
+    "start": 49712,
+    "end": 50523,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement.txt",
+  "_char_count": 262918,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": []
+}

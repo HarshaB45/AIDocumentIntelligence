@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "theCompany",
+    "the Contractor"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination will be effective, at Emeralds’ election, on a datewhich is no earlier than the date such notice is received and no later than the date which is 30 days following that date.5.3 Emeralds’ Right to Terminate this Agreement for Cause. The Company may terminate this Agreement and the Contractor's engagement forCause at any time on written notice to the Contractor. The date of termination will be the date specified in the written notice and may be, in the solediscretion of the Company, the same day the notice is given to the Contractor, or such later date as the Company may decide.5.4 Emeralds’ Right to Terminate this Agreement without Cause. The Company may terminate this Agreement and the engagement of theContractor without Cause at any time on 30 days prior written notice. The date of termi",
+    "start": 5332,
+    "end": 6143,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Consulting Agreements__EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC..txt",
+  "_char_count": 20316,
+  "_provenance": {}
+}

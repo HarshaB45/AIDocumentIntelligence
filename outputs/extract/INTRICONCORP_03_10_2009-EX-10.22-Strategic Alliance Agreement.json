@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement, provided that:\n\n\n\n\n\n\n\n   6.3 If in any audit, the auditor finds an underpayment or an overpayment of fees due under this Agreement, the party who has received  the overpayment or has underpaid will within 7 days repay the excess or pay the shortfall (as the case may be) to the other party.\n\n   7.1 Each party must:\n\n\n\n\n\n\n\n\n\n   7.2 This Agreement is confidential and each party must not disclose any part of this Agreement to any person without the prior written  consent of the other party.     12\n\n       (a)    such inspection, copying or audit must only be made after at least one Business Day's written notice;\n\n       (b)    such audit must not unreasonably interfere with the day to day operations of IntriCon; and\n\n       (c)    such audit must be at Dynamic Hearing's exp",
     "start": 27329,
-    "end": 28140
+    "end": 28140,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement.txt",
-  "_char_count": 52967
+  "_char_count": 52967,
+  "_provenance": {}
 }

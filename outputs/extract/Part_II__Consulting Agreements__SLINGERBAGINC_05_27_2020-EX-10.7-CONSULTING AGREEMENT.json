@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Slinger Bag Inc., a Nevada company (the “Company”)",
+    "AitanZacharin"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of his services for the Company, he will immediately surrender to the Company allCompany Confidential Information then in his possession or under his control.3.2 Exceptions. The general prohibition contained in Section 4.1 against the unauthorized disclosure, use or dissemination of the Company’sConfidential Information will not apply in respect of any Company Confidential Information that:(a)is available to the public generally;(b)becomes part of the public domain through no fault of the Consultant;(c)is already in the lawful possession of the Consultant at the time of receipt of the Company’s Confidential Information; or(d)is compelled by applicable law or regulation to be disclosed, provided that the Consultant gives the Company prompt writtennotice of such requirement prior to such di",
+    "start": 6477,
+    "end": 7288,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Consulting Agreements__SLINGERBAGINC_05_27_2020-EX-10.7-CONSULTING AGREEMENT.txt",
+  "_char_count": 32951,
+  "_provenance": {}
+}

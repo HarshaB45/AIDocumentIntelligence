@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the Parties",
+    "attached hereto as Exhibit A (the “Product Specifications”)and supply to NeuroBo the Licensed Products and/or their matching placebo"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of this Agreement, in whole or in part, shall be without prejudice to the right of either Dong-A and NeuroBoto receive all payments accrued and unpaid at the effective date of such termination or expiration, without prejudice to the remedy of either Dong-Aand NeuroBo in respect to any previous breach of any of the representations, warranties, covenants or obligations herein contained and withoutprejudice to any other provisions hereof which expressly or necessarily call for performance after such termination or expiration.5Source: NEUROBO PHARMACEUTICALS, INC., S-4, 9/3/2019\f6. GOVERNING LAWThe laws of the State of New York (without giving effect to its conflicts of law principles) govern all matters arising out of or relating tothis Agreement and all of the transactions it",
+    "start": 16653,
+    "end": 17464,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Manufacturing__NeuroboPharmaceuticalsInc_20190903_S-4_EX-10.36_11802165_EX-10.36_Manufacturing Agreement_ Supply Agreement.txt",
+  "_char_count": 19677,
+  "_provenance": {}
+}

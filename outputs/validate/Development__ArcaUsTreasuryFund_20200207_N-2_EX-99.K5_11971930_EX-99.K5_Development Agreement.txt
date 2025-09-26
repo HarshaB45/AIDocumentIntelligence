@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "ARCA U.S. TREASURY FUND, a Delaware statutory trust (the \"Fund\"),and ARCA CAPITAL MANAGEMENT, LLC, a Delaware limited liability company (the \"Blockchain Administrator\").WHEREAS, the Fund is a closed-end management investment fund that has registered as an investment company under the Investment CompanyAct of 1940, as amended (the \"Investment Company Act\")",
+    "that intends to operate as an interval fund pursuant to Rule 23c-3 under theInvestment Company Act;WHEREAS"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Agreement or otherwise on written request. The BlockchainAdministrator further agrees that all records which it maintains for the Fund pursuant to Rule 31a-1 under the Investment Company Act will bepreserved for the periods prescribed by Rule 31a-2 under the Investment Company Act unless any such records are earlier surrendered as providedabove. Records shall be surrendered in usable machine-readable form. The Blockchain Administrator shall have the right to retain copies of suchrecords subject to observance of its confidentiality obligations under this Agreement.3. ConfidentialityThe parties hereto agree that each shall treat confidentially the terms and conditions of this Agreement and all information provided byeach party to the other regarding its business and operations. All c",
+    "start": 5832,
+    "end": 6643,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement.txt",
+  "_char_count": 15149,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

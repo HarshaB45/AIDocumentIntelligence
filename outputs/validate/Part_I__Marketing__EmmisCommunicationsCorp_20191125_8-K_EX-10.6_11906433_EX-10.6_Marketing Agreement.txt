@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "MediaCo Holding Inc., an Indiana corporation (the “Licensee”)",
+    "WBLS-WLIB LLC"
+  ],
+  "effective_date": null,
+  "governing_law": "New York",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of the Studio Lease (definedbelow), (iii) election to terminate and notice thereof given by Programmer to Licensee, and (iv) mutual written consent of Licenseeand Programmer (the “Term”), unless extended or earlier terminated pursuant to Section 11 hereof. The term “Studio Lease”means that certain Lease dated as of February 23, 1996 of certain real estate located on the 7th Floor of an office building locatedat 395 Hudson St., New York, New York.2.Programmer’s Use of Airtime and Provision of Programming. During the Term, and subject in all respects toSection 6 hereof, Programmer shall be entitled to simulcast the programming of WLIB (the “WLIB Programs”) on the HD2Channel, excluding the period from 6:00 a.m. to 8:00 a.m. each Sunday morning, on the terms specified below, and",
+    "start": 1489,
+    "end": 2300,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Marketing__EmmisCommunicationsCorp_20191125_8-K_EX-10.6_11906433_EX-10.6_Marketing Agreement.txt",
+  "_char_count": 16986,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

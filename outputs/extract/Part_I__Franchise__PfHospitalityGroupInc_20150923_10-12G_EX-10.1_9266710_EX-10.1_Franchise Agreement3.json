@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "FRANCHISEE",
+    "ITS PERSONNEL)THIS SAMPLE OF NON-DISCLOSURE AND NON-COMPETITION AGREEMENT (“Agreement”) is made this _____ day of_________"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Franchise Agreement (regardless of thecause for termination); (c) termination of Member’s employment with Franchisee; and/or (d) a final order of a duly authorized arbitrator, panel ofarbitrators, or a court of competent jurisdiction (after all appeals have been taken) with respect to any of the foregoing or with respect to theenforcement of this Agreement; either directly or indirectly (through, on behalf of, or in conjunction with any persons, partnership, corporation orentity).3. Injunctive Relief. Member acknowledges that any failure to comply with the requirements of this Agreement will cause Franchisorirreparable injury, and Member agrees to pay all court costs and reasonable attorney’s fees incurred by Franchisor in obtaining specificperformance of, or an injunction against",
+    "start": 4224,
+    "end": 5035,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Franchise__PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3.txt",
+  "_char_count": 6686,
+  "_provenance": {}
+}

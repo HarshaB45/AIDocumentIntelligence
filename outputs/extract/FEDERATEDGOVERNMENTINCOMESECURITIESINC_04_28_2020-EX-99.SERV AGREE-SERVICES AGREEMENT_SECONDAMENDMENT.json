@@ -4,9 +4,14 @@
     "FEDERATED ADVISORY SERVICES COMPANY"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_SECONDAMENDMENT.txt",
-  "_char_count": 5466
+  "_char_count": 5466,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

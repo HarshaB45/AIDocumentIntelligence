@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the Parties, Party B will acknowledge",
+    "accept the changes in cooperation business and mode proposed byParty A due to business development"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the cooperation between the Parties, if no legal dispute involving Party B has occurred, Party A willrefund (without interest) the performance bond to Party B within 30 working days upon the day immediately following the 2nd anniversary of thecooperation termination.6.6 The correspondent bank account for performance bond:Account name of Party A: Dazzle Interactive Network Technologies Co., Ltd.Deposit bank: Shanghai Pudong Development Bank, Business Office of Nanjing BranchA/C:   Account name of Party B: Shenzhen iDreamSky Technology Co., Ltd.Deposit Bank: China Merchants Bank Co., Ltd., CMB Shenzhen Sungang Sub-branchA/C:   6.7 This article shall be applied to all agreements executed by and between the Parties.Article 7 Billing and Settlement7.1 The prices of information fee shall be",
+    "start": 34050,
+    "end": 34861,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Collaboration__IDREAMSKYTECHNOLOGYLTD_07_03_2014-EX-10.39-Cooperation Agreement on Mobile Game Business.txt",
+  "_char_count": 75184,
+  "_provenance": {}
+}

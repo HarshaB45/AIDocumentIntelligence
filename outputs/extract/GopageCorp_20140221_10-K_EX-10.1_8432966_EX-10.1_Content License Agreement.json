@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of the License Term for such Content Item.   4.2 Required Notices. Licensee shall display with each Content Item the appropriate copyright and trademark notices and any other source attribution required by Licensor. Licensee shall not alter, remove or obstruct any such notices or attribution included with any Content Item as delivered by Licensor.\n\n5\n\nSource: GO-PAGE CORP, 10-K, 2/21/2014\n\n\n\n\n\n\n\n4.3 Terms of Use. Throughout the Term, Licensee shall have in effect and maintain accessible on the Licensee Site and Related Media website terms of use (\"Terms of Use\") and privacy policy (\"Privacy Policy\") on which use of the Licensee Site and Related Media, including the Licensed Content, is expressly conditioned, and which in form and substance are reasonably acceptable to Licensor.   4.4 Cont",
     "start": 11658,
-    "end": 12469
+    "end": 12469,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt",
-  "_char_count": 39622
+  "_char_count": 39622,
+  "_provenance": {}
 }

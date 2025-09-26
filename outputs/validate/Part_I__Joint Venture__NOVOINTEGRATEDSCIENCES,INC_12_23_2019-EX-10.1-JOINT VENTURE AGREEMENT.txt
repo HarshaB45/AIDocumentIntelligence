@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Novo Integrated Sciences Inc., a Nevada Corporation with offices locatedat 11120 NE 2nd Street, Suite 200, Bellevue, Washington 98004, U.S.A (herein referred to as “NVOS”)",
+    "Harvest Gold Farms Inc"
+  ],
+  "effective_date": null,
+  "governing_law": "Washington",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination.9.3To remunerate HGF on the basis of thirty percent (30%) of net Company income basis on an annual basis commencing 12 months after thefirst full 12-month revenue period.9.4To purchase product from the Company at a price of cost plus five percent (5%).9.5To issue two (2) million NVOS common stock upon successful target of twenty-five million dollars ($25M) of net profit achieved by theCompany each fiscal year. NVOS common stock will be delivered to HGF via Novo Healthnet Limited (“NHL”) exchangeable preferredshares. All parties understand NVOS is a U.S. reporting publicly traded corporation and that any NVOS common shares issued, fromexchanging the NHL exchangeable preferred shares, will be provided under the guiding U.S. rules and regulations. Furthermore, all partiesunderstand these sha",
+    "start": 11199,
+    "end": 12010,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Joint Venture__NOVOINTEGRATEDSCIENCES,INC_12_23_2019-EX-10.1-JOINT VENTURE AGREEMENT.txt",
+  "_char_count": 21560,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

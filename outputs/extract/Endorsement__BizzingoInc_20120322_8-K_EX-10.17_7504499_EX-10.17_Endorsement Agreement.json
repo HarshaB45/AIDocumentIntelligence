@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Bizzingo, Inc., a Nevada \ncorporation with offices at 63 Main Street, Suite 202, Flemington, NJ 08822 (“Bizzingo”)",
+    "Joseph Theismann"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the preceding \nfull calendar quarter. The foregoing notwithstanding, if this Agreement is terminated in accordance with the provisions herein \nduring a Royalty Period, the Royalty shall be calculated up to and including the Termination Date and payment of the Royalty shall \nbe made as provided herein.\nFor each Royalty Period, Bizzingo shall provide Theismann with a written royalty statement in a form acceptable to Theismann \ncertified by a duly authorized officer of Bizzingo.\nTheismann shall be responsible for all federal, state and local taxes related to the Royalty.\n\nb.\n\nc.\n\nd.\n\n2\n\nSource: BIZZINGO, INC., 8-K, 3/22/2012  \n  \n  \n  \n  \n  \n  \n \n\f4. PROMOTIONAL APPEARANCES. \nIn addition to the other terms and conditions herein, during the Term, Theismann also will; \n\na. Make himself avai",
+    "start": 5080,
+    "end": 5891,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Endorsement__BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement.txt",
+  "_char_count": 24292,
+  "_provenance": {}
+}

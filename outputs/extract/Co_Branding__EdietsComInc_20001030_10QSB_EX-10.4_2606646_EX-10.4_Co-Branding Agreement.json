@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "WOMEN.COM NETWORKS, INC., a Delawarecorporation having a place of business at 1820 Gateway Drive Suite 150, SanMateo, CA 94404 (\"Women.com\")",
+    "EDIETS"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination for all pre-paidimpressions or other promotions not delivered as of the date of termination.Women.com agrees that if eDiets elects to extend the Agreement the monthly feedue and payable during the Make Good Period will be recalculated and reduced toreflect the changes in the revised delivery schedule.                                       3         3.2 Women.com and eDiets agree that all media metrics (e.g. pageviewsand impressions) with respect to the Gateway Page of the Diet Center shall beallocated to Women.com.         4. PUBLICITY. Neither party will make any public statement, pressrelease or other announcement relating to the terms of or existence of thisAgreement without the prior written consent of the other. Notwithstanding theforegoing, each party hereby grants to the other the",
+    "start": 9577,
+    "end": 10388,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Co_Branding__EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
+  "_char_count": 62992,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

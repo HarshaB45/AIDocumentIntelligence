@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Chase Bank USA, N.A. (?Chase?)",
+    "you as an “Affiliate” in the ChaseAffiliate Program (the “Affiliate Program”)"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination. At the time of termination, any links to Chase’s Website must be removed immediately. Affiliate will continue to receiveCommission payments for all Approved Accounts placed during the term of this Agreement. Notwithstanding the foregoing, Chase may terminate this Agreement if Affiliate does not comply with the terms and conditions herein. 6. Links Affiliate agrees to place Chase’s links provided by Linkshare NetworkTM which manages the Affiliate Program (“Links”) on its Affiliate’s website.Affiliate is responsible for obtaining prior written approval from the Chase Affiliate manager or Linkshare Network to link any or all other sitesowned or managed by the Affiliate, other than the site that was approved at the time of original registration. Affiliate may select or remove Links, atany ti",
+    "start": 7679,
+    "end": 8490,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Affiliate_Agreements__CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.txt",
+  "_char_count": 28232,
+  "_provenance": {}
+}

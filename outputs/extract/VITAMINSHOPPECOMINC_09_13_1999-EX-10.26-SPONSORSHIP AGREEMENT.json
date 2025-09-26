@@ -4,13 +4,20 @@
     "Vitamin Shoppe Industries Inc"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "TERMINATION\n\n              a)       Unless terminated earlier in accordance with the                           specific terms of this Agreement, the term of this                           Agreement will begin on the Launch Date and will not                           end until Excite displays a total of [*****]                           impressions of the Client advertising banners and                           promotional placements on the Excite Network as                           described in this Agreement and pushes [*****]                           emails using the email vehicles specified in Exhibit                           B.  Regardless of Excite's actual delivery of                           impressions, the term of this Agreement will not be                           shorter than [*****]",
     "start": 33201,
-    "end": 34012
+    "end": 34012,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 88105
+  "_char_count": 88105,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

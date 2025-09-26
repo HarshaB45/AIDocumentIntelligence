@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "an Agent",
+    "the members of any sub-agent group or selling group formed in connection with the Offering shall containthe restrictions in Schedule A hereto"
+  ],
+  "effective_date": null,
+  "governing_law": "Canada",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination(a)Regulatory Proceedings OutIf, after the date hereof and prior to the Closing Time, any enquiry, action, suit, investigation or other proceeding, whetherformal or informal, is instituted or announced or any order is made by any federal, provincial or other Governmental Authorityin relation to the Corporation which, in the opinion of any of the Agents, operates to prevent or restrict the distribution ortrading of the Offered Shares, then such Agent shall be entitled, at its option and in accordance with Section 10(e), toterminate its obligations under this Agreement by notice to that effect given to the Corporation any time at or prior to theClosing Time.(b)Disaster OutIf prior to the Closing Time there should develop, occur or come into effect or existence any event, action, state, condi",
+    "start": 54904,
+    "end": 55715,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Agency Agreements__OLDAPIWIND-DOWNLTD_01_08_2016-EX-1.3-AGENCY AGREEMENT1.txt",
+  "_char_count": 96662,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

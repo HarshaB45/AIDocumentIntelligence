@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination), howsoever arising. (ee) \"Seller Licensed Trademarks\" means the Arizona Licensed Trademarks and the Diamond Licensed Trademarks. (ff) \"Third Party\" means any Person other than Arizona, the Company, and their respective Affiliates. (gg) \"Trademarks\" means any trademarks, service marks, trade names, trade dress, and other similar designations of source or origin, and registrations and applications for any of the foregoing. (hh) \"Trademark License Agreement\" means the Trademark License Agreement by and between Armstrong World Industries, Inc., AWI Licensing LLC and Armstrong Flooring, Inc, dated as of April 1, 2016 and attached hereto as Exhibit A. 4\n\nSource: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019\n\n\n\n\n\n1.2 Interpretation. Section 10.5 and 10.14 of the Stock Purchase Agreement shall apply h",
     "start": 9372,
-    "end": 10183
+    "end": 10183,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement.txt",
-  "_char_count": 56858
+  "_char_count": 56858,
+  "_provenance": {}
 }

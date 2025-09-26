@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "Payment Terms     5.2.6 Crude Oil Quality     5.2.7 About Utilization     5.3 The corresponding Party shall assume any taxes as indicated by law. The Transportation Tax is the responsibility of the Sender and is not  included in the fee.     CLAUSE 6 SPECIAL SERVICES     6.1 Increases in the Transportation Capacity.     6.1.1 In the event in which the Pipeline falls short in the effective Capacity of Transportation for the Shipment of Hydrocarbons of any of the  Senders and if there is the technical possibility to increase it through the use of any friction reduction agents or other Operationa",
     "start": 73708,
-    "end": 74308
+    "end": 74308,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of the Contract, subject to the existence of Available  Capacity in the Pipeline during the month of Operation in which the Service is to be provided.    3.3 the obligation of the monthly payment borne by the SENDER for the Service shall be made during the totality of the term of execution of the  Contract.    CLAUSE FOURTH  AMOUNT OF THE CONTRACT    4.1 The initial estimated amount of the Contract hereof is as indicated in the Specific Conditions. The final amount of the Contract shall correspond  to the total of the actual invoicing by ECOPETROL and shall be established upon termination and final liquidation of the same.\n\n\n\n  1.2 By virtue of this Contract and as indicated in the Specific Conditions, the SENDER shall have a limited capacity for shipment by the  Pipeline of crudes of its",
     "start": 7084,
-    "end": 7895
+    "end": 7895,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt",
-  "_char_count": 229670
+  "_char_count": 229670,
+  "_provenance": {}
 }

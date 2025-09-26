@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement, or upon Company's earlier request, Consultant will deliver to Company all Confidential Information and Company's property relating thereto and all tangible embodiments thereof, in Consultant's possession or control.\n\n3. Ownership. Consultant hereby irrevocably assigns to Company all right, title and interest in and to any information (including, without limitation, business plans and/or business information), technology, know-how, materials, notes, records, designs, ideas, inventions, improvements, devices, developments, discoveries, compositions, trade secrets, processes, methods and/or techniques, whether or not patentable or copyrightable, that are conceived, reduced to practice or made by Consultant alone or jointly with others in the course of performing the Servic",
     "start": 4031,
-    "end": 4842
+    "end": 4842,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT.txt",
-  "_char_count": 18403
+  "_char_count": 18403,
+  "_provenance": {}
 }

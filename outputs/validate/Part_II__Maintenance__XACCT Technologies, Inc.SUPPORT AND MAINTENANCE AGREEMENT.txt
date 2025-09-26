@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "XACCT Technologies, Inc., a Delaware corporation (\"XACCT\") with itsprincipal place of business at 2900 Lakeside Drive, Suite 100, Santa Clara,California 95054",
+    "________________________________"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of Support Services for such         Product, provided that XACCT no longer generally provides Support         Services for such Product, or no longer provides the specific Support\f         Services previously offered.5.3      Product Maintenance and Support Services shall automatically terminate         upon termination of the License Agreement.6.       REINSTATEMENT OR RENEWAL OF PRODUCT MAINTENANCE AND SUPPORT SERVICES         In the event Product Maintenance and Support Services are terminated by         Licensee by notice of non-renewal, Product Maintenance and Support         Services shall be discontinued at the end of the then current term. If         Product Maintenance and Support Services are terminated for any reason,         at XACCT's sole option, Licensee may reinstate or r",
+    "start": 10004,
+    "end": 10815,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Maintenance__XACCT Technologies, Inc.SUPPORT AND MAINTENANCE AGREEMENT.txt",
+  "_char_count": 14002,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

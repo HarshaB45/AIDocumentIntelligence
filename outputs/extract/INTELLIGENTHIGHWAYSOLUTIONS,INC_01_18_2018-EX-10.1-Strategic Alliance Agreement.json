@@ -4,13 +4,20 @@
     "Fazync LLC"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Texas",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement, the parties shall treat as confidential all information and take every reasonable precaution and use all reasonable efforts to prevent the unauthorized disclosure of the same. The parties agree to take all steps reasonably necessary and appropriate to ensure that their employees, agents, and/or assistants treat all information as confidential and to ensure that such employees, agents, and/or assistants are familiar with and abide by the terms of this Agreement.   7) Term   The term of this Agreement is twelve (12) months from the date hereof, and will be automatically renewed for one (1) additional twelve month period unless either party shall notify the other in writing of its intention not to renew. Such notice must be given ninety (90) days prior to expiration of the",
     "start": 5279,
-    "end": 6090
+    "end": 6090,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "INTELLIGENTHIGHWAYSOLUTIONS,INC_01_18_2018-EX-10.1-Strategic Alliance Agreement.txt",
-  "_char_count": 8288
+  "_char_count": 8288,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

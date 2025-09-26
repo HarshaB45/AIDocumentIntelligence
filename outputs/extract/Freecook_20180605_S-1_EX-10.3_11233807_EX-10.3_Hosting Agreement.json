@@ -8,9 +8,12 @@
   "payment_terms": {
     "text": "Payment Terms. Upon the signing of this Agreement, Client agrees to pay to Company a total of $5,000. Client shall make a prepayment of $1,900 and pay the remaining $3,100 on completion of the Scope of Work.\n\n3. Business Hours; Rush Work. Company representatives are available during Company's normal business hours which are 9 a.m. to 5 p.m. UTC +2, Monday through Friday. Any email or telephone correspondence received after normal business hours will be processed the following business day. Client shall pay an additional surcharge for any services requiring work to be performed outside of norma",
     "start": 3613,
-    "end": 4213
+    "end": 4213,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": null,
   "_doc_id": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement.txt",
-  "_char_count": 6341
+  "_char_count": 6341,
+  "_provenance": {}
 }

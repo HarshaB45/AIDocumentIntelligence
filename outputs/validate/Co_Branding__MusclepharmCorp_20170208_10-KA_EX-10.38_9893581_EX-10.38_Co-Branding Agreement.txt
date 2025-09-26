@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "four to eight (4 to 8) products, subject toSection 2(b) below), that will be marketed",
+    "advertised under the Endorser’s name and likeness"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement and will continue for so long as MusclePharm continues tomanufacture, sell or otherwise market the Licensed Products. Notwithstanding the foregoing, Lender shall be entitled to receive a guaranteed minimum royalty for each Contract Year including theAdditional Term, if any (the “Guaranteed Minimum Royalty”), payable in accordance with Exhibit “C” attached hereto. 8. Stock: (a) Within three (3) days of the execution and delivery of this Agreement and prior to any news release or public disclosure of theexistence of this Agreement, its terms and conditions, or the relationship of the parties hereto, whether pursuant to a press release, a current reporton Form 8-K or other filing with the Securities and Exchange Commission or otherwise (the “Issuance Date”), MusclePharm sha",
+    "start": 26497,
+    "end": 27308,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Co_Branding__MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.txt",
+  "_char_count": 86349,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

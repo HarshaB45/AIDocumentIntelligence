@@ -1,9 +1,19 @@
 {
-  "parties": null,
+  "parties": [
+    "COVID-19",
+    "the \"Joint Venture",
+    "Marv Enterprises",
+    "LLC"
+  ],
   "effective_date": null,
   "governing_law": null,
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT.txt",
-  "_char_count": 23282
+  "_char_count": 23282,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
 }

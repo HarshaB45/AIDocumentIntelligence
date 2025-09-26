@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination of Agreement\"\n\nThis Agreement may be terminated at any time while the Employee is living by written notice thereof by either the Employer or the Employee to the other; and, in any event, this Agreement will terminate upon termination of the Employee's employment. ARTICLE VII \"Plan Management\"\n\nFor purposes of the Employee Retirement Income Security Act of 1974, the Employer will be the \"Named Fiduciary\" and Plan Administrator of the split-dollar life insurance plan for which this Agreement is hereby designated the written plan instrument. The Employer's board of directors may authorize a person or group of persons to fulfill the responsibilities of the Employer as Plan Administrator. The Named Fiduciary or the Plan Administrator may employ others to render advice with regard to its respon",
     "start": 5960,
-    "end": 6771
+    "end": 6771,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PrudentialBancorpInc_20170606_8-K_EX-10.4_10474434_EX-10.4_Endorsement Agreement.txt",
-  "_char_count": 14155
+  "_char_count": 14155,
+  "_provenance": {}
 }

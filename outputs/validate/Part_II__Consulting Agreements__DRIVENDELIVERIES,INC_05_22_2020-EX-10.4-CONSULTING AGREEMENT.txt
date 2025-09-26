@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "Driven Deliveries, Inc.(“Company”), a Nevada corporation",
+    "TruckThat LLC (“Consultant”)"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.2.3. Other Client Confidential Information. Consultant agrees that Consultant will not improperly use, disclose, or induce the Company to use anyproprietary information or trade secrets of any former or concurrent employer of Consultant or other person or entity with which Consultant has anobligation to keep in confidence. Consultant also agrees that Consultant will not bring onto the Company’s premises or transfer onto theCompany’s technology systems any unpublished document, proprietary information, or trade secrets belonging to any third party unlessdisclosure to, and use by, the Company has been consented to in writing by such third party.2.4. Third Party Confidential Information. Consultant recognizes that the Company has received, and in the future will receive, fr",
+    "start": 5804,
+    "end": 6615,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Consulting Agreements__DRIVENDELIVERIES,INC_05_22_2020-EX-10.4-CONSULTING AGREEMENT.txt",
+  "_char_count": 27581,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

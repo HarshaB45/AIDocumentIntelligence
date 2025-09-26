@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement or a cancellation of a Purchase Order, and/or discontinuance of a Product, or excess materials created by an Engineering Change, Customer agrees to compensate Contractor for unused material inventory which are affected by such termination, cancellation or discontinuance, as follows: (i) The cost of material inventory, whether in raw form or work in process, which are not returnable to the vendor without charge (unless the charge was approved by Customer, or usable for other Contractor's customers, including EOQ of unique parts. (ii) The cost of materials on order which cannot be cancelled without charge (unless the charge was approved by Customer. (iii) To the above applicable compensation, the Contractor shall be entitled to a handling fee of 2% of the compensation due.",
     "start": 5632,
-    "end": 6443
+    "end": 6443,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement.txt",
-  "_char_count": 39588
+  "_char_count": 39588,
+  "_provenance": {}
 }

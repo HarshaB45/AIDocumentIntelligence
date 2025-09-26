@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Stallings Capital Group \nConsultants, Ltd., a Texas limited partnership dba Bob Stallings Racing (“Racing”)",
+    "GAINSCO"
+  ],
+  "effective_date": null,
+  "governing_law": "Texas",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination).  \n\n4. Compliance with Applicable Rules and Regulations. Provision of the Benefits pursuant to this Agreement is subject to rules and \nrequirements of each organization and venue hosting a racing event in which the Racing Team competes during the term hereof, and the Sponsor \nagrees to submit to Racing all advertising and other promotional material relating to each such event in sufficient time to enable Racing to assure \ncompliance with such rules and requirements. If as a result of such rules and requirements Racing is unable to provide a Benefit in the form \nrequested by the Sponsor, Racing shall be permitted to provide a substitute promotion or advertisement in compliance with such requirements.  \n\n2  \n\n  \n\f5. Sponsor’s Maximum Obligation; Indemnification. Racing represents to the Sp",
+    "start": 4880,
+    "end": 5691,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Sponsorship__GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 15795,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

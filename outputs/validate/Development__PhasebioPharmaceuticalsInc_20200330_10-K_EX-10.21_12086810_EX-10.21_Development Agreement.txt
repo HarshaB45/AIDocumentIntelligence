@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "MedImmune",
+    "PB dated November 21"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the AZ License, (a) in the case of theconduct of human clinical trials with respect to a Competing Product, the period beginning on the Effective Date and ending onNovember 21, 2022, and (b) in the case of the sale or offer for sale of a Competing Product, the period beginning on the EffectiveDate and ending on November 21, 2024.1.1.69 “Exercise Price” has the meaning set forth in Section 8.1.1.1.70 “Executive Officers” means the executive officers of each of PB and SFJ identified on Exhibit E.1.1.71 “Existing Licenses” means: (a) the License, Development and Commercialization Agreement dated March28, 2019, between PB and ImmunoForge Co., Ltd., including the ancillary agreements between such parties entered into inconnection therewith; and (b) the License Agreement dated April 13, 2018",
+    "start": 19711,
+    "end": 20522,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.txt",
+  "_char_count": 287989,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

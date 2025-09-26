@@ -1,0 +1,35 @@
+{
+  "parties": [
+    "DIGITAL",
+    "ARTS INC.",
+    "Suite",
+    "TDA"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Term for possibleinspection by Smith.6.    TERM      6.1 Term. The term of this Agreement (the \"Term\") shall commence on theEffective Date and terminate at the end of the Exclusivity Period (i.e., athree (3) year period commencing on the Effective Date).      6.2 Post-Term Sales. Upon expiration of this Agreement, TDA shall ceaseall uses of the Rights and/or Smith's Likeness with respect to advertising,endorsing and/or promoting TDA, but TDA shall be free to continue to distributeand sell its Golf Instruction Related Products which incorporate Smith'sLikeness for up to 180 days after the expiration of the Term (although TDA maynot use the Rights or Smith's Likeness to promote or advertise TDA or any ofTDA's non-Golf Instruction Related Products when selling the Golf InstructionRela",
+    "start": 10954,
+    "end": 11765,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Sponsorship__HALITRON,INC_03_01_2005-EX-10.15-SPONSORSHIP AND DEVELOPMENT AGREEMENT.txt",
+  "_char_count": 29620,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "McDATA",
+    "Reseller with respect to the subjectmatter hereof"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION WITHOUT CAUSE. Either party may terminate this Agreement withoutcause upon sixty (60) days prior written notice to the other party.4.2 TERMINATION FOR BREACH. In addition to any other rights or remedies that maybe available at law or in equity, either party may terminate this Agreement ifthe other party is in material breach of this Agreement and has not cured thebreach within thirty (30) days of receiving written notice specifying thebreach. If the breach is not cured within the thirty (30) day period,termination will become effective on the thirty-first (31st) day following thewritten notice.4.3 TERMINATION FOR INSOLVENCY. Either party, upon written notice to the otherparty, may elect to immediately terminate this Agreement upon the occurrence ofany of the following events: (i) a receiv",
+    "start": 4200,
+    "end": 5011,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Reseller__MTITECHNOLOGYCORP_11_16_2004-EX-10.102-Reseller Agreement Premier Addendum.txt",
+  "_char_count": 32807,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

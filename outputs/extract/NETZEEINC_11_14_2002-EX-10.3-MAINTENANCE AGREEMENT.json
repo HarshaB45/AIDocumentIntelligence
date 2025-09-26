@@ -4,9 +4,14 @@
     "6:30 p"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Georgia",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "NETZEEINC_11_14_2002-EX-10.3-MAINTENANCE AGREEMENT.txt",
-  "_char_count": 3474
+  "_char_count": 3474,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

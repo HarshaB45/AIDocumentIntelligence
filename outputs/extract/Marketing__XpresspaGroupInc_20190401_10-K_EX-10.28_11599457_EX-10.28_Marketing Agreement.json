@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Calm.com, Inc., a Delaware corporation, having offices at 140 2nd Street, 3rd Floor, San Francisco, California 94105 (“Calm”)and XpresSpa Group, Inc., a Delaware corporation, having offices at 780 Third Avenue, 12th Floor, New York, New York 10017 (“XSPA”). Each ofCalm",
+    "XSPA may be referred to herein individually as a “Party” and collectively as the “Parties”"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, neither XSPA nor any ofits affiliates shall, directly or indirectly, sell, offer for sale, market or promote any digital meditation or digital sleep products (other than theProducts), including online or in any Store in the Territory, without the express prior written consent of Calm.3.02. Throughout the Term and for a period of six (6) months after the expiration or termination of this Agreement, neither Calm nor any ofits affiliates shall, directly or indirectly, sell, offer for sale, market or promote any digital meditation or digital sleep products in any retail locationlocated in an airport other than in collaboration with XSPA, without the express prior written consent of XSPA.3.03. Throughout the Term and for a period of six (6) months after the expiration or ter",
+    "start": 3238,
+    "end": 4049,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Marketing__XpresspaGroupInc_20190401_10-K_EX-10.28_11599457_EX-10.28_Marketing Agreement.txt",
+  "_char_count": 51468,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

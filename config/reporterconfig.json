@@ -1,0 +1,17 @@
+{
+  "inputs": {
+    "validated_dir": "outputs/validate",
+    "per_doc_json": "outputs/analyze/per_doc.json",
+    "kpis_json": "outputs/analyze/corpus_kpis.json"
+  },
+  "outputs": {
+    "report_dir": "outputs/report",
+    "findings_csv": "outputs/report/findings.csv",
+    "findings_json": "outputs/report/findings.json",
+    "report_md": "outputs/report/report.md"
+  },
+  "report": {
+    "top_risky_docs": 25,
+    "max_quote_chars": 400
+  }
+}

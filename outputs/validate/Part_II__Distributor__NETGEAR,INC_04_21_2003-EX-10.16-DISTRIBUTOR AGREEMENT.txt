@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "INGRAM MICRO",
+    "NETGEARNETGEAR Agreement Number: N115                     Effective Date: March 1"
+  ],
+  "effective_date": "March 1, 1996",
+  "governing_law": "California",
+  "payment_terms": {
+    "text": "payment terms. Allpayments are to be made in U.S. dollars. Payment for shipments made outside ofthe United States shall be made by wire transfer in accordance with wire\ftransfer procedures provided by NETGEAR. If at any time Distributor isdelinquent in the payment of any invoice, exceeds the credit line established byNETGEAR, or is otherwise in breach of the Agreement, NETGEAR may, in itsdiscretion, withhold shipment (including partial shipments) of any order or mayrequire Distributor to pay cash on delivery for further shipments. Payment notreceived by NETGEAR when due may be subject to a lat",
+    "start": 9641,
+    "end": 10241,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "TERMINATION. This Agreement may be canceled at any time without cause,by either party upon ninety (90) days written notice to the other party. Eitherparty may terminate this Agreement immediately if (i) the other party becomesinsolvent, files or has filed against it a petition in bankruptcy, or ceasesdoing business; or (ii) the other party fails to cure a material breach of theAgreement within thirty (30) days after receipt of written notice of such breachfrom the party not in default. Upon termination of the Agreement by NETGEAR forDistributor's breach, NETGEAR may cancel all of Distributor's unfulfilled orderswithout further obligation. This Agreement may be terminated at any time withoutcause by either party upon ninety (90) days written notice to the other party.C.       EFFECT OF TERMINATION. Ex",
+    "start": 30569,
+    "end": 31380,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Distributor__NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.txt",
+  "_char_count": 40793,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "effective_date_normalized": "1996-03-01",
+  "_issues": []
+}

@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the parties.MEDIANET GROUP TECHNOLOGIES",
+    "RESELLER AGREE AS FOLLOWS:1"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, there shall be no use or     disclosure by the Receiving Party of any Confidential Information of the     Disclosing Party, and the Receiving Party shall not develop any software,     devices, components or assemblies utilizing the Disclosing Party's     Intellectual Property. Both parties agree that the terms and conditions of     this Agreement are confidential and shall not be disclosed to any third     party, unless disclosure is compelled by final, non-appealable order of a     court of competent jurisdiction.     6.2 EXCLUSIONS. Confidential Information does not include information     permitted to be disclosed under section 5 and any information that the     Receiving Party can demonstrate by written records: (a) was known to the     Receiving Party prior to its",
+    "start": 5957,
+    "end": 6768,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Reseller__OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.txt",
+  "_char_count": 28281,
+  "_provenance": {}
+}

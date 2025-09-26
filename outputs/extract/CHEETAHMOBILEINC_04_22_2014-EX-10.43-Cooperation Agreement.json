@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement, and taking any applicable civil or criminal remedial actions against fraud and any other legal causes. Party B shall have the right to final interpretation of this provision.\n\n\n\n4.3.6 Party B retains the right to adjust the public price of the service and the service content, including but not limited to adding or reducing the service items, and raising or lowering the prices. In the event that Party B wishes to carry on such adjustment, it shall notify Party A in writing two weeks in advance. If Party A objects to such adjustment, it has the right to notify Party B to terminate this Agreement in writing within 2 weeks upon receipt of the notification. Within 3 working days upon termination of this Agreement, Party B shall settle with Party A. Failure to exercise such t",
     "start": 12496,
-    "end": 13307
+    "end": 13307,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CHEETAHMOBILEINC_04_22_2014-EX-10.43-Cooperation Agreement.txt",
-  "_char_count": 39177
+  "_char_count": 39177,
+  "_provenance": {}
 }

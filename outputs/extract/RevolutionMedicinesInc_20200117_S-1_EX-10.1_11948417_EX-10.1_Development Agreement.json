@@ -4,17 +4,26 @@
     "existing under the laws of Delaware"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": {
     "text": "Payment Terms; Exchange Rate. Notwithstanding any term to the contrary of this Agreement, RevMed shall deliver an invoice to Sanofi for all payments owed by Sanofi to RevMed under this Agreement. Sanofi will make all payments owed to RevMed within [***] after the date on which Sanofi receives an undisputed invoice for such owed amount, except where a different timeframe is expressly provided in another Section of this Agreement (e.g., for the reimbursement of RevMed R&D Costs pursuant to Sections 4.5 and 5.5; the payment of the buy-in payment pursuant to Section 5.6(b)B; the upfront payment se",
     "start": 147935,
-    "end": 148535
+    "end": 148535,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "Termination Product Section 12.3(c)(ii)(A) Parent Section 1.12 Party or Parties Preamble Pharmacovigilance Agreement Section 6.5 17\n\nSource: REVOLUTION MEDICINES, INC., S-1, 1/17/2020\n\n\n\n\n\nDefined Term Section Product Infringement Section 10.4(a) Product Marks Section 10.5(a) Profit/Loss Share Agreement Section 9.4 Quality Agreement Section 7.3 Receiving Party Section 11.1(a) Remainder Section 10.4(f) Remedial Action Section 6.7 Research Budget Section 4.2(a) Research Plan Section 4.1 [***] Section 4.2(b) RevMed Preamble RevMed Commercialization Costs Section 8.2 RevMed Indemnitee Section 14.2 RevMed Program Invention Section 12.3(c)(ii) RevMed Study Section 5.6(b) Royalty Floor Section 9.3(c)(iii) Royalty Term Section 9.3(b) Sanofi Preamble Sanofi Indemnitee Section 14.1 Sanofi Program Invention Sec",
     "start": 50459,
-    "end": 51270
+    "end": 51270,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement.txt",
-  "_char_count": 266213
+  "_char_count": 266213,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

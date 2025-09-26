@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination. This Agreement and the license granted herein shall remain effective until terminated. Customer may terminate this Agreement and the license at any time by destroying all copies of Software including any Documentation. Customer's rights under this Agreement will terminate immediately without notice from Cisco if Customer fails to comply with any provision of this Agreement. Upon termination, Customer shall destroy all copies of Software and Documentation in its possession or control.\n\nCustomer Records. Customer grants to Cisco and its independent accountants the right to examine Customer's books, records and accounts during Customer's normal business hours to verify compliance with this Agreement. In the event such audit discloses non-compliance with this Agreement, Customer shall prompt",
     "start": 6256,
-    "end": 7067
+    "end": 7067,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement2.txt",
-  "_char_count": 13330
+  "_char_count": 13330,
+  "_provenance": {}
 }

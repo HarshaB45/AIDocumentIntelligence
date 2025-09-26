@@ -1,0 +1,17 @@
+{
+  "parties": [
+    "the date of expiration",
+    "theAmendment Effective Date shall be in all respects deemed made under the Agreement as in effect prior to this Amendment"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Distributor__ScansourceInc_20190822_10-K_EX-10.39_11793959_EX-10.39_Distributor Agreement.txt",
+  "_char_count": 10721,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

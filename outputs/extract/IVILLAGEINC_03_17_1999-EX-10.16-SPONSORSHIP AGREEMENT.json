@@ -4,13 +4,20 @@
     "iVillage"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination.\n\n         A. Term. The initial production period shall be for a period of two (2) months to commence on November 4, 1998 (the \"Production Period\"), and the remaining term of this Agreement shall be for a period of twenty four (24) months to commence on the tentative launch date of January 4, 1999, unless terminated earlier as provided herein (the \"Promotion Period\"), (The Production Period and the Promotion Period shall be collectively referred to as the \"Initial Term\"). The Parties agree that prior to July 1, 2000, iVillage will provide FMM with the opportunity to renew this Agreement (the \"Renewal Term\") on terms set forth in a proposal (the \"Proposal) to be presented to FMM. FMM shall indicate its acceptance or rejection of the Proposal no later than August 31, 2000. If iVillage does",
     "start": 1202,
-    "end": 2013
+    "end": 2013,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 23723
+  "_char_count": 23723,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

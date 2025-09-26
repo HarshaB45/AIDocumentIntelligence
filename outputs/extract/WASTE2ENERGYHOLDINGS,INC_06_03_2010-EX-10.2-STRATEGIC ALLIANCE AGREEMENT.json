@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination).     4. COOPERATION OBLIGATIONS     4.1 Without prejudice to the other provisions of this Agreement, each Party shall perform its obligations under this Agreement in accordance with  Good Industry Practice.     4.2 Each Party shall, during the course of its normal business, use reasonable endeavours subject to the terms of this Agreement to:     4.2.1 promote and market the experience and capabilities of the Parties in order to identify opportunities for W2E, such promotion and  marketing activities to be as agreed by the Parties from time to time;     4.2.2 identify, assess and communicate opportunities for W2E; and     4.2.3 undertake joint marketing initiatives and other marketing activities which are mutually beneficial for the business interests of both  Parties and as shall be agre",
     "start": 7569,
-    "end": 8380
+    "end": 8380,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.txt",
-  "_char_count": 40442
+  "_char_count": 40442,
+  "_provenance": {}
 }

@@ -1,0 +1,38 @@
+{
+  "parties": [
+    "an HOF Entity or affiliate",
+    "Constellation which may include amaster retail electricity supply agreement in substantially the form of Exhibit C-1"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of thisAgreement, Constellation shall cease all use of the HOF Entity Marks as soon as practicable, but in any event within thirty (30) days unless theparticular media which has been approved requires a longer lead time, but in no event longer than ninety (90) days.5Source: GPAQ ACQUISITION HOLDINGS, INC., S-4/A, 1/23/2020\f(c) Quality Control – Marks.(i) Each licensee Party agrees, in connection with its use of any of the licensor Party’s Marks, to comply with anyquality-control standards as such licensor Party may provide hereunder from time to time and which may be revised by the Party owningthe Marks from time to time. Each Party shall take such actions as the Party owning the Marks may reasonably request to ensurecompliance with such quality-control standards in connecti",
+    "start": 16506,
+    "end": 17317,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Service__GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.txt",
+  "_char_count": 54354,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "AMBIGUOUS",
+      "field": "termination_clause",
+      "reason": "Ambiguous language detected",
+      "span": {
+        "start": 16506,
+        "end": 17317
+      }
+    },
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

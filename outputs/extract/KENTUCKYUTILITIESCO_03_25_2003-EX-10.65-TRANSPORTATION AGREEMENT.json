@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement.   12.3 This Agreement will terminate automatically upon written notice from Transporter in the event Shipper fails to pay all of the amount of any bill for service rendered by Transporter hereunder in accord with the terms and conditions of Article VI of the General Terms and Conditions of Transporter's FERC Gas Tariff.   ARTICLE XIII - NOTICE   Except as otherwise provided in the General Terms and Conditions applicable to this Agreement, any notice under this Agreement shall be in writing and mailed to the post office address of the Party intended to receive the same, as follows:\n\nTRANSPORTER: Tennessee Gas Pipeline Company P. O. Box 2511 Houston, Texas 77252-2511\n\nAttention: Director, Transportation Control\n\nSHIPPER:\n\n\n\nNOTICES: Louisville Gas and Electric Company P.",
     "start": 10149,
-    "end": 10960
+    "end": 10960,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT.txt",
-  "_char_count": 16901
+  "_char_count": 16901,
+  "_provenance": {}
 }

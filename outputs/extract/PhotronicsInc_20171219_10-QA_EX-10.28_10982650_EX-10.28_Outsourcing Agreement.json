@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination (a \"Product EOL Notice\"), provided that (a) the relevant Supplier shall supply, and the Company shall purchase, such Product ordered pursuant to this Agreement until the effective date of such termination and including any accepted Purchase Orders outstanding on the effective date of termination, and (b) the relevant Supplier is [***]to its other [***] with respect to such Product. When the Company becomes aware that any of its customers will finish purchasing any type of the Products, the Company shall promptly notify the Supplier(s) thereof. Notwithstanding the above, if the Company has a long term supply agreement with a customer and the Suppliers (i) has confirmed in writing its intention to [***] hereunder and (ii) are actually providing Product in support of such supply agreement, n",
     "start": 7846,
-    "end": 8657
+    "end": 8657,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement.txt",
-  "_char_count": 25392
+  "_char_count": 25392,
+  "_provenance": {}
 }

@@ -4,9 +4,14 @@
     "BOSCH TECHNOLOGIES"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Canada",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "XLITECHNOLOGIES,INC_12_02_2015-EX-10.02-STRATEGIC ALLIANCE AGREEMENT.txt",
-  "_char_count": 5712
+  "_char_count": 5712,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

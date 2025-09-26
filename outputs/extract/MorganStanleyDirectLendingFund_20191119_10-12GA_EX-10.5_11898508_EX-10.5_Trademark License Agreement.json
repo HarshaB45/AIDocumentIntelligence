@@ -4,13 +4,20 @@
     "Morgan Stanley Direct Lending Fund"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination rights of Licensor and (ii) obligations for sublicensee with respect to the Brand that are consistent with those of Licensee herein. Any act or omission by a sublicensee that would breach this Agreement if committed by Licensee shall constitute a breach of this Agreement by Licensee. 2. Ownership. Licensee acknowledges and agrees that, as between the parties, Licensor is the sole owner of all right, title and interest in and to the Brand. Licensee agrees not to do anything inconsistent with such ownership, including (i) filing to register any trademark or service mark containing the Brand or (ii) directly or indirectly challenging, contesting or otherwise\n\nSource: MORGAN STANLEY DIRECT LENDING FUND, 10-12G/A, 11/19/2019\n\n\n\n\n\ndisputing the validity, enforceability or Licensor's ownership o",
     "start": 2568,
-    "end": 3379
+    "end": 3379,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt",
-  "_char_count": 16153
+  "_char_count": 16153,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

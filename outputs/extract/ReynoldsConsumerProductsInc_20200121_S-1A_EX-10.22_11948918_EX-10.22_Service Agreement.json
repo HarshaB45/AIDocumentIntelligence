@@ -4,13 +4,20 @@
     "Reynolds Consumer Products Inc"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination Date\" has the meaning set forth in Section 6.1.\n\n\"Transition Services\" has the meaning set forth in Section 2.1(a).\n\n\"TSA Records\" has the meaning set forth in Section 7.1(a).\n\nARTICLE II SERVICES AND INTERNAL CONTROLS\n\nSection 2.1 Services.\n\n(a) During the applicable Term of any Service, and in accordance with the terms and conditions of this Agreement, RGHI shall provide, or shall cause its Affiliates or, subject to Section 2.2, third parties to provide, to the Company or one or more of its Affiliates (in connection with the conduct of the Business) the services described on Exhibit A hereto (the \"Transition Services\"). Notwithstanding the content of Exhibit A, RGHI agrees to consider in good faith any reasonable request by the Company for access to any additional service that is necess",
     "start": 7773,
-    "end": 8584
+    "end": 8584,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ReynoldsConsumerProductsInc_20200121_S-1A_EX-10.22_11948918_EX-10.22_Service Agreement.txt",
-  "_char_count": 112910
+  "_char_count": 112910,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

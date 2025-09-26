@@ -1,0 +1,32 @@
+{
+  "parties": [
+    "Quaker Chemical Corporation",
+    "Gulf Houghton Lubricants Ltd.",
+    "Gulf Oil International Limited",
+    "GOCL Corporation Limited"
+  ],
+  "effective_date": null,
+  "governing_law": "India",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Part_I__Non_Compete_Non_Solicit__Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT.txt",
+  "_char_count": 22384,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the Company",
+    "the Supplier (including the[***] (as defined below))"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination (a “Product EOL Notice”), providedthat (a) the relevant Supplier shall supply, and the Company shall purchase, such Product ordered pursuant to this Agreement until the effectivedate of such termination and including any accepted Purchase Orders outstanding on the effective date of termination, and (b) the relevant Supplieris [***]to its other [***] with respect to such Product. When the Company becomes aware that any of its customers will finish purchasing anytype of the Products, the Company shall promptly notify the Supplier(s) thereof. Notwithstanding the above, if the Company has a long termsupply agreement with a customer and the Suppliers (i) has confirmed in writing its intention to [***] hereunder and (ii) are actually providingProduct in support of such supply agreement, neither",
+    "start": 7681,
+    "end": 8492,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Outsourcing__PhotronicsInc_20171219_10-QA_EX-10.28_10982650_EX-10.28_Outsourcing Agreement.txt",
+  "_char_count": 24881,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

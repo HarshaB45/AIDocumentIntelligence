@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Bioeq IP AG, having its place of business at [***] (Bioeq)",
+    "Coherus BioSciences"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION; NON-SOLICITATION3716.GENERAL PROVISIONS43SchedulesAnnex 1: [***] AgreementAnnex 2: Term Sheet for Manufacturing and Supply AgreementSchedule 1.36: Licensed PatentsSchedule 3.2: Initial Development & Manufacturing PlanSchedule 3.5.1: [***]Schedule 6.2(c): Initial Commercialization CommitmentsSchedule 6.3: Contents of Commercialization Plan for Planned ActivitiesSchedule 16.5: Pre-Approved SubcontractorsSource: COHERUS BIOSCIENCES, INC., 10-K, 2/27/2020\fConfidentialExecution VersionLICENSE AND DEVELOPMENT AGREEMENTThis LICENSE AND DEVELOPMENT AGREEMENT (this Agreement) is entered into effective as of Nov. 02, 2019(the Effective Date) by and between Bioeq IP AG, having its place of business at [***] (Bioeq) and Coherus BioSciences, Inc.,having its principal place of business at 333 Twin Dol",
+    "start": 838,
+    "end": 1649,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Development__CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.txt",
+  "_char_count": 143605,
+  "_provenance": {}
+}

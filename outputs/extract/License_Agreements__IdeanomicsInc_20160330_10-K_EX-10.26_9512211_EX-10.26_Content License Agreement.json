@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Beijing Sun Seven Stars Culture Development Limited, aP.R.C. company with an address at Eastern Fangzheng Road, Southern Dongying Village, HancunheTown, Fangshan District, Beijing City, P.R.C. (“Licensor”)",
+    "YOU ON DEMAND HOLDINGS"
+  ],
+  "effective_date": null,
+  "governing_law": "New York",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination.(a) The Term of this Agreement (the “Term”) shall commence on the Effective Date listed aboveand continue for twenty (20) years, unless sooner terminated as provided in Section 7(b) [Term andTermination].7Source: IDEANOMICS, INC., 10-K, 3/30/2016\f(b) This Agreement may be terminated at any time by either party, effective immediately uponwritten notice, if the other party: (i) becomes insolvent; (ii) files a petition in bankruptcy; or(iii) makes an assignment for the benefit of its creditors. Either party may terminate thisAgreement upon written notice if the other party materially breaches this Agreement and fails tocure such breach within thirty (30) days after the date that it receives written notice of suchbreach from the non-breaching party.(c) Sections 2(a) [License Grant], 2(b) [Sub",
+    "start": 17119,
+    "end": 17930,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
+  "_char_count": 40080,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

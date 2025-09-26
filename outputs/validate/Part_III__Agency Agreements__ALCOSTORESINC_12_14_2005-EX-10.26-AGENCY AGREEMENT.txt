@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "General Electric Capital Corporation, a Delaware corporation(together with its successors",
+    "assigns"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or the expiration of the Lease in the event the Company does notelect to exercise any purchase option that may be provided for in the Lease; and (viii) all conditions precedent set forth in the Lease, including thedelivery and execution of the Schedule and the Certificate of Acceptance, must be completed by no later than the Last Basic Term CommencementDate specified in Section 2.05. \fThe Company additionally agrees that all Purchase Orders executed by the Company as Lessor’s agent hereunder shall: (A) condition Lessor’sobligation to pay for and purchase the Equipment on the Company’s acceptance of such Equipment; (B) not permit passage of title or risk of lossfor the Equipment earlier than such acceptance by the Company; (C) not permit the Supplier or any other person or entity to retain",
+    "start": 5916,
+    "end": 6727,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_III__Agency Agreements__ALCOSTORESINC_12_14_2005-EX-10.26-AGENCY AGREEMENT.txt",
+  "_char_count": 11194,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

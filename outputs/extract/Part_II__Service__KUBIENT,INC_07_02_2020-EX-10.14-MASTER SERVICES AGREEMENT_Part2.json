@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "Kubient, Inc. (\"Kubient\")",
+    "The Associated Press (\"Customer\")"
+  ],
+  "effective_date": "February 5, 2020",
+  "governing_law": null,
+  "payment_terms": {
+    "text": "PAYMENT TERMS: The Parties agree to reconcile revenue numbers and the revenue share calculations no later than 10 daysfollowing the end of each calendar month during which the Services were rendered. Subject to the doctrine of sequential liability, payment shall bemade to the appropriate Party net 30 days from the end of the calendar month.NON-CIRCUMVENT: As part of the Services provided under the Agreement and any applicable exhibits, Kubient will be working with andintroducing certain third-party advertisers, sponsors, agencies, media buyers, service providers, vendors, publishers, affiliate",
+    "start": 1137,
+    "end": 1737,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination thereof, Customer agrees not to work with, directly orindirectly, any Third-Party that Customer comes to know through disclosure by Kubient as part of the Services, without the express written consentof Kubient and compensation to Kubient under the applicable exhibit and/or schedule. Provided however, this provision shall not apply in theevent Customer can establish, in writing, that it had a preexisting working relationship with such Third-Party prior to the Agreement and withoutKubient's assistance. Customer acknowledges that this provision is reasonable and necessary for the protection of Kubient and that Kubient willbe irrevocably damaged if such covenant is not specifically enforced. Customer further agrees that Kubient will be entitled to seek injunctive relieffor the purpose of res",
+    "start": 1975,
+    "end": 2786,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Service__KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part2.txt",
+  "_char_count": 7450,
+  "_provenance": {}
+}

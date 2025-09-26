@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "two parties, based on the principle of equality",
+    "autonomy"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of thecontact, Party B has the disposition right to the project. 2.The intellectual property of the project belongs to Party A. Without written consent of Party A, Party B is not allowed to disclose theintellectual property to the other third party.  \f    Item Nine Quality Assurance 1.Party A is responsible for the equipment quality, technical performance, and construction quality. Party B is responsible for the technicalspecifications and energy media quality. 2.For the CDQ system and waste heat power generation of CDQ system of Party A, Party B shall keep the coking and CDQ process functional,and provide necessary guidance and assistance. Parties shall fully cooperate to ensure the quality of the project. Item Ten Warrants of Party A Besides responsibilities in this agreement, Party A s",
+    "start": 8977,
+    "end": 9788,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Collaboration__CHINARECYCLINGENERGYCORP_11_14_2013-EX-10.6-Cooperation Agreement.txt",
+  "_char_count": 16173,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

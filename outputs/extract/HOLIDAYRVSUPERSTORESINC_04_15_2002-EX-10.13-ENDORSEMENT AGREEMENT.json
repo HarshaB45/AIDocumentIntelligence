@@ -4,13 +4,20 @@
     "Affinity Group"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement, whether by expiration of its term pursuant to Paragraph 6A or otherwise, the Company shall cease all uses of the Trademarks and the Good Sam logo and name in any fashion.\n\n        2. Endorsement. Subject to the Terms of Section 7 hereof, AGI hereby grants the Company the right to hold the Business out as having the License (the \"Endorsement\").\n\n        3. Term and Termination.\n\n               A. Unless otherwise provided for in this Agreement, the term of this Agreement shall be three years, commencing on the date of this Agreement and expiring on the third anniversary date of this Agreement (the \"Termination\n\n\n\n\n\nDate\"). In the event that the Company desires to terminate the Agreement prior to the Termination Date, it shall provide AGI with at least 60 days prior writt",
     "start": 4455,
-    "end": 5266
+    "end": 5266,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "HOLIDAYRVSUPERSTORESINC_04_15_2002-EX-10.13-ENDORSEMENT AGREEMENT.txt",
-  "_char_count": 14157
+  "_char_count": 14157,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "ArTara",
+    "the University"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Iowa",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration each Party (the“Receiving Party”) shall maintain in confidence and, except as authorized by this Agreement, not use any know-how, data, processes, techniques,formulas, test data and other information disclosed by the other Party (the “Disclosing Party”) and which for any of the foregoing, if written, ismarked “Confidential” by the Disclosing Party or, if verbal or visual, is identified in writing as “Confidential” at the time of disclosure and reducedto writing by the Disclosing Party within thirty (30) days of the verbal or visual disclosure (“Confidential Information”).5.2 Exceptions. The obligations of confidentiality and non-use set forth in paragraph 5.1 shall not apply to the extent that it can be established byReceiving Party that the information:(a) was already known",
+    "start": 19520,
+    "end": 20331,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.txt",
+  "_char_count": 37737,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

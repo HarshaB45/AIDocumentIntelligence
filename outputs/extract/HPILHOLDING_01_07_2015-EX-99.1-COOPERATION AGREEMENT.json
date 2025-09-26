@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination...................................................................................................................... 8 22. Captions..................................................................................................................................... 8 23. Entire Agreement....................................................................................................................... 8         1\n\n\n\n\n\n    COOPERATION AGREEMENT   THIS COOPERATION AGREEMENT (\"Agreement\") is signed this 5th day of January, 2015 (the \"Closing Date\"), by and between HPIL ENERGYTECH Inc., a Nevada (USA) corporation (hereafter \"HPIL ET\") and GINARES GROUP AG,  a private company domiciled in Switzerland (hereafter \"GINARES\").   R E C I T A L S:   The following is a recital of facts underlying",
     "start": 3039,
-    "end": 3850
+    "end": 3850,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT.txt",
-  "_char_count": 20008
+  "_char_count": 20008,
+  "_provenance": {}
 }

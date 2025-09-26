@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination\n\n  6.1 Prior to the expiration of the Term of Cooperation , this Agreement shall only be terminated upon occurrence of the followingcircumstances:\n\n  6.1.1 Party B shall have the right to terminate this Agreement in advance without the prior written consent from Party A, bysending a written notice to Party A but Party A may not terminate or rescind this Agreement;\n\n  6.1.2 One Party requests to terminate this Agreement when the other Party is declared bankrupt in accordance with the laws;\n\n  6.1.3 Party B fails to provide Party B's Services to Party A for more than three consecutive years due to the force majeure event.\n\n  6.2 Rights and Obligations of the Parties upon Termination\n\n  6.2.1 If this Agreement is terminated according to the aforementioned Article 6.1.1, neither Party shall a",
     "start": 7148,
-    "end": 7959
+    "end": 7959,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT.txt",
-  "_char_count": 17917
+  "_char_count": 17917,
+  "_provenance": {}
 }

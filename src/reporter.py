@@ -1,151 +1,261 @@
 """
-Reporter Agent (Communicator)
------------------------------
-Reads Analyst outputs and produces:
-- CSV: outputs/reports/contracts.csv  (one row per contract, key fields + risk)
-- Markdown: outputs/reports/summary.md (portfolio KPIs + per-contract highlights)
+Reporter Agent
+--------------
+Inputs:
+  - Validated docs: outputs/validate/*.json        (from Validator)
+  - Per-doc metrics: outputs/analyze/per_doc.json  (from Analyst)
+  - KPIs: outputs/analyze/corpus_kpis.json         (from Analyst)
 
-No external dependencies required.
+Outputs:
+  - findings.csv  : issue-level structured data for easy import
+  - findings.json : same as JSON
+  - report.md     : comprehensive, human-readable report with direct quotes
+
+What it includes:
+  - Portfolio KPIs and risk distribution
+  - Top risky documents (table)
+  - Flagged inconsistencies and anomalies (issue-level) with direct quotes
+  - Missing fields & ambiguous clauses lists
+  - Outlier net terms / amount warnings with evidence
 """
 
+from __future__ import annotations
+
 import json
-import csv
 from pathlib import Path
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional
+import pandas as pd
+import numpy as np
 
-# ---- Paths ----
-ROOT_DIR       = Path(__file__).resolve().parents[1]
-ANALYZE_DIR    = ROOT_DIR / "outputs" / "analyze"
-PER_DOC_DIR    = ANALYZE_DIR / "per_doc"
-REPORTS_DIR    = ROOT_DIR / "outputs" / "reports"
+ROOT = Path(__file__).resolve().parents[1]
 
-PORTFOLIO_JSON = ANALYZE_DIR / "portfolio.json"
-CSV_PATH       = REPORTS_DIR / "contracts.csv"
-MD_PATH        = REPORTS_DIR / "summary.md"
+CFG_FILE = ROOT / "config" / "reporter.config.json"
 
-REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+def load_cfg() -> Dict[str, Any]:
+    if CFG_FILE.exists():
+        return json.loads(CFG_FILE.read_text(encoding="utf-8"))
+    # Safe defaults if config is missing
+    return {
+        "inputs": {
+            "validated_dir": "outputs/validate",
+            "per_doc_json": "outputs/analyze/per_doc.json",
+            "kpis_json": "outputs/analyze/corpus_kpis.json"
+        },
+        "outputs": {
+            "report_dir": "outputs/report",
+            "findings_csv": "outputs/report/findings.csv",
+            "findings_json": "outputs/report/findings.json",
+            "report_md": "outputs/report/report.md"
+        },
+        "report": {"top_risky_docs": 25, "max_quote_chars": 400}
+    }
 
+# ---------------- Helpers ----------------
 
-def load_portfolio() -> Dict[str, Any]:
-    if not PORTFOLIO_JSON.exists():
-        raise SystemExit(f"Missing portfolio.json at {PORTFOLIO_JSON}. Run analyst.py first.")
-    return json.loads(PORTFOLIO_JSON.read_text(encoding="utf-8"))
+def clamp_quote(text: str, max_chars: int) -> str:
+    if not text:
+        return ""
+    t = " ".join(text.split())
+    return t[:max_chars] + ("…" if len(t) > max_chars else "")
 
+def get_field_text(doc: Dict[str, Any], field: Optional[str]) -> Optional[str]:
+    """Return the clause text for a field if it exists as a span dict."""
+    if not field:
+        return None
+    v = doc.get(field)
+    if isinstance(v, dict):
+        return v.get("text")
+    if isinstance(v, str):  # in case any field is plain string
+        return v
+    return None
 
-def load_per_doc() -> List[Dict[str, Any]]:
-    docs: List[Dict[str, Any]] = []
-    for p in sorted(PER_DOC_DIR.glob("*.json")):
+def load_validated_docs(validated_dir: Path) -> List[Dict[str, Any]]:
+    docs = []
+    for p in sorted(validated_dir.glob("*.json")):
+        if p.name.startswith("_"):
+            continue
         docs.append(json.loads(p.read_text(encoding="utf-8")))
-    if not docs:
-        raise SystemExit(f"No per-doc analysis files in {PER_DOC_DIR}. Run analyst.py first.")
     return docs
 
+def load_json(path: Path) -> Any:
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
 
-def write_csv(per_docs: List[Dict[str, Any]]) -> None:
-    # Choose compact, useful columns for business reviewers
-    cols = [
-        "_doc_id",
-        "risk_score",
-        "risk_bucket",
-        "governing_law",
-        "payment_net_days",
-        "effective_date",
-        "_issues_count",
-        "tags",
-    ]
-    with CSV_PATH.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=cols)
-        w.writeheader()
-        for r in per_docs:
-            issues = r.get("_issues", [])
-            row = {
-                "_doc_id": r.get("_doc_id"),
-                "risk_score": r.get("risk_score"),
-                "risk_bucket": r.get("risk_bucket"),
-                "governing_law": r.get("governing_law"),
-                "payment_net_days": r.get("payment_net_days"),
-                "effective_date": r.get("effective_date"),
-                "_issues_count": len(issues),
-                "tags": ";".join(r.get("tags", [])),
-            }
-            w.writerow(row)
+def write_json(path: Path, obj: Any):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
 
+def write_md(path: Path, lines: List[str]):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(lines), encoding="utf-8")
 
-def write_markdown(portfolio: Dict[str, Any], per_docs: List[Dict[str, Any]]) -> None:
+# ---------------- Findings assembly ----------------
+
+ISSUE_COLUMNS = [
+    "doc_id",
+    "issue_type",
+    "field",
+    "governing_law",
+    "payment_net_days",
+    "payment_amount",
+    "details",
+    "quote"
+]
+
+def build_issue_rows(validated_docs: List[Dict[str, Any]], max_quote_chars: int) -> List[Dict[str, Any]]:
+    rows: List[Dict[str, Any]] = []
+    for d in validated_docs:
+        doc_id = d.get("_doc_id")
+        glaw = d.get("governing_law")
+        nd = d.get("payment_net_days")
+        amt = d.get("payment_amount_normalized")
+
+        issues = d.get("_issues", []) or []
+        for iss in issues:
+            itype = iss.get("type", "")
+            field = iss.get("field")
+            details = {k: v for k, v in iss.items() if k not in ("type", "field")}
+
+            # direct quote: prefer the field's span text
+            quote = get_field_text(d, field)
+            quote = clamp_quote(quote or "", max_quote_chars)
+
+            rows.append({
+                "doc_id": doc_id,
+                "issue_type": itype,
+                "field": field or "",
+                "governing_law": glaw or "",
+                "payment_net_days": nd if isinstance(nd, (int, float)) else "",
+                "payment_amount": amt if isinstance(amt, (int, float)) else "",
+                "details": json.dumps(details, ensure_ascii=False),
+                "quote": quote
+            })
+    return rows
+
+# ---------------- Markdown report ----------------
+
+def md_table_from_df(df: pd.DataFrame, max_rows: int = 25) -> List[str]:
+    if df.empty:
+        return ["_none_"]
+    df2 = df.head(max_rows)
+    # Build a simple Markdown table
+    cols = list(df2.columns)
+    lines = ["|" + "|".join(cols) + "|",
+             "|" + "|".join(["---"] * len(cols)) + "|"]
+    for _, r in df2.iterrows():
+        vals = [str(r[c]) if r[c] != "" else "-" for c in cols]
+        lines.append("|" + "|".join(vals) + "|")
+    return lines
+
+def build_markdown_report(
+    kpis: Dict[str, Any],
+    per_doc_df: pd.DataFrame,
+    findings_df: pd.DataFrame,
+    top_risky_docs: int
+) -> List[str]:
     lines: List[str] = []
-    lines.append("# Contract Portfolio Summary\n")
+    lines.append("# Contract Analysis Report (Reporter)\n")
 
-    # Portfolio KPIs
+    # KPIs
     lines.append("## Portfolio KPIs\n")
-    lines.append(f"- **Documents:** {portfolio.get('count_documents', 0)}")
-    lines.append(f"- **Avg Risk Score:** {portfolio.get('avg_risk_score', 0)}")
-    lines.append(f"- **Median Risk Score:** {portfolio.get('median_risk_score', 0)}")
-    dist = portfolio.get("risk_distribution", {})
-    lines.append(f"- **Risk Distribution:** low={dist.get('low',0)}, medium={dist.get('medium',0)}, high={dist.get('high',0)}")
-    lines.append(f"- **Median Net Days:** {portfolio.get('median_net_days')}")
-    laws = portfolio.get("governing_law_distribution", {})
-    if laws:
-        top_laws = ", ".join([f"{k}({v})" for k, v in list(laws.items())[:10]])
-        lines.append(f"- **Top Governing Laws:** {top_laws}")
-    amb = portfolio.get("top_ambiguous_terms", [])
-    if amb:
-        lines.append(f"- **Top Ambiguous Terms:** {', '.join(amb)}")
-    lines.append("")
-
-    # Top Issue Types
-    lines.append("### Top Issue Types\n")
-    if portfolio.get("top_issue_types"):
-        for t, c in portfolio["top_issue_types"].items():
-            lines.append(f"- **{t}**: {c}")
+    if kpis:
+        if "avg_risk_score" in kpis:
+            lines.append(f"- **Average Risk Score:** {kpis.get('avg_risk_score')}")
+        rb = kpis.get("risk_bucket_counts", {})
+        if rb: lines.append(f"- **Risk Buckets:** {rb}")
+        if "net_days_median" in kpis:
+            lines.append(f"- **Net Days (Median / P90):** {kpis['net_days_median']} / {kpis.get('net_days_p90','n/a')}")
+        gl = kpis.get("top_governing_law", {})
+        if gl: lines.append(f"- **Top Governing Law:** {gl}")
+        party = kpis.get("party_avg_risk_top10", {})
+        if party: lines.append(f"- **Highest Avg Risk (Top Parties):** {dict(list(party.items())[:5])}")
+        lines.append("")
     else:
-        lines.append("- (none detected)")
-    lines.append("")
+        lines.append("_No KPIs available._\n")
 
-    # Table: Per-document snapshot (sorted by risk desc)
-    lines.append("## Contracts (sorted by risk)\n")
-    header = ["Doc ID", "Risk", "Bucket", "Law", "Net Days", "Issues", "Tags"]
-    lines.append("| " + " | ".join(header) + " |")
-    lines.append("|" + "|".join(["---"] * len(header)) + "|")
-
-    per_docs_sorted = sorted(per_docs, key=lambda r: r.get("risk_score", 0), reverse=True)
-    for r in per_docs_sorted:
-        row = [
-            r.get("_doc_id", ""),
-            str(r.get("risk_score", "")),
-            r.get("risk_bucket", ""),
-            r.get("governing_law", "") or "—",
-            str(r.get("payment_net_days", "—")),
-            str(len(r.get("_issues", []))),
-            ", ".join(r.get("tags", [])) or "—",
+    # Top risky docs table
+    lines.append(f"## Top {top_risky_docs} Risky Documents\n")
+    if not per_doc_df.empty:
+        top_df = per_doc_df.sort_values("risk_score", ascending=False)[
+            ["doc_id", "risk_score", "risk_bucket", "issues_count", "payment_net_days", "governing_law"]
         ]
-        lines.append("| " + " | ".join(row) + " |")
-
-    # Optional: list top-N high-risk contracts with brief issue bullets
-    lines.append("\n### High-Risk Highlights\n")
-    topN = per_docs_sorted[:10]
-    if not topN:
-        lines.append("- (none)")
+        lines.extend(md_table_from_df(top_df, max_rows=top_risky_docs))
     else:
-        for r in topN:
-            lines.append(f"- **{r.get('_doc_id','')}** — Risk {r.get('risk_score','?')} ({r.get('risk_bucket','')})")
-            issues = r.get("_issues", [])
-            for i in issues[:5]:  # limit bullets
-                lines.append(f"  - {i.get('field','?')}: {i.get('type','?')} — {i.get('detail','')}")
-            if len(issues) > 5:
-                lines.append(f"  - (+{len(issues)-5} more issues)")
+        lines.append("_No documents._")
     lines.append("")
 
-    MD_PATH.write_text("\n".join(lines), encoding="utf-8")
+    # Issue sections
+    def section(title: str, filter_func):
+        lines.append(f"## {title}\n")
+        sub = findings_df[findings_df.apply(filter_func, axis=1)]
+        if sub.empty:
+            lines.append("_none_\n")
+            return
+        # brief table of first 10
+        cols = ["doc_id", "issue_type", "field", "payment_net_days", "payment_amount"]
+        lines.extend(md_table_from_df(sub[cols], max_rows=10))
+        lines.append("")
+        # quotes
+        lines.append("**Representative Quotes:**")
+        for _, row in sub.head(10).iterrows():
+            q = str(row.get("quote", "")).replace("\n", " ").strip()
+            if q:
+                lines.append(f"> {q}")
+        lines.append("")
 
+    section("Missing Fields", lambda r: r["issue_type"] == "MISSING")
+    section("Ambiguous Clauses", lambda r: r["issue_type"] == "AMBIGUOUS")
+    section("Net Days Outliers", lambda r: r["issue_type"] in ("NET_DAYS_OUTLIER", "NET_DAYS_OVER_MAX", "NET_DAYS_DRIFT_VS_PARTY"))
+    section("Governing Law Inconsistencies", lambda r: r["issue_type"] == "GOVERNING_LAW_INCONSISTENT")
+    section("High Payment Amount Warnings", lambda r: r["issue_type"] == "PAYMENT_AMOUNT_HIGH")
+
+    return lines
+
+# ---------------- Main ----------------
 
 def run_reporter():
-    portfolio = load_portfolio()
-    per_docs = load_per_doc()
-    write_csv(per_docs)
-    write_markdown(portfolio, per_docs)
-    print(f"✓ Reporter wrote CSV -> {CSV_PATH}")
-    print(f"✓ Reporter wrote Markdown -> {MD_PATH}")
+    cfg = load_cfg()
 
+    # Inputs
+    validated_dir = ROOT / cfg["inputs"]["validated_dir"]
+    per_doc_json  = ROOT / cfg["inputs"]["per_doc_json"]
+    kpis_json     = ROOT / cfg["inputs"]["kpis_json"]
+
+    # Outputs
+    report_dir    = ROOT / cfg["outputs"]["report_dir"]
+    findings_csv  = ROOT / cfg["outputs"]["findings_csv"]
+    findings_json = ROOT / cfg["outputs"]["findings_json"]
+    report_md     = ROOT / cfg["outputs"]["report_md"]
+
+    report_dir.mkdir(parents=True, exist_ok=True)
+
+    # Load data
+    docs = load_validated_docs(validated_dir)
+    per_doc = load_json(per_doc_json)
+    kpis    = load_json(kpis_json)
+
+    if per_doc is None or kpis is None:
+        raise SystemExit("Analyst artifacts missing. Run analyst.py first.")
+
+    per_doc_df = pd.DataFrame(per_doc)
+    issue_rows = build_issue_rows(docs, max_quote_chars=int(cfg["report"]["max_quote_chars"]))
+    findings_df = pd.DataFrame(issue_rows, columns=ISSUE_COLUMNS)
+
+    # Write structured outputs
+    findings_df.to_csv(findings_csv, index=False, encoding="utf-8")
+    write_json(findings_json, json.loads(findings_df.to_json(orient="records", force_ascii=False)))
+
+    # Write Markdown
+    lines = build_markdown_report(
+        kpis=kpis,
+        per_doc_df=per_doc_df,
+        findings_df=findings_df,
+        top_risky_docs=int(cfg["report"]["top_risky_docs"])
+    )
+    write_md(report_md, lines)
+
+    print(f"✓ Findings CSV  : {findings_csv.relative_to(ROOT)}")
+    print(f"✓ Findings JSON : {findings_json.relative_to(ROOT)}")
+    print(f"✓ Report MD     : {report_md.relative_to(ROOT)}")
 
 if __name__ == "__main__":
     run_reporter()

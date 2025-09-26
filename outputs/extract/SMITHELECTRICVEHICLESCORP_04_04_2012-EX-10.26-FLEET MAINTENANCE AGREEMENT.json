@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination Date.     \"Fleet Size\" means the total number of Operational Vehicles and Spare Vehicles in use by DCL from time to time and included in  this Agreement.     \"FTA\" means Freight Transport Association or such other replacement association or organisation operating in the United  Kingdom from time to time whose aims are to represent the freight transport industry generally     \"Future Maintenance Services\" means any services which are the same as or similar to the Maintenance Services, which will be  provided by DCL and/or any Replacement Supplier after the Termination Date.     \"Future Transfer Date\" means the date(s) on which the Future Transferring Employees are transferred to DCL and/or any  Replacement Supplier pursuant to Clauses 19 or 20 (as the case may be).     \"Future Transferring",
     "start": 3666,
-    "end": 4477
+    "end": 4477,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "SMITHELECTRICVEHICLESCORP_04_04_2012-EX-10.26-FLEET MAINTENANCE AGREEMENT.txt",
-  "_char_count": 85963
+  "_char_count": 85963,
+  "_provenance": {}
 }

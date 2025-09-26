@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Centrack International, a Florida corporation(\"the Customer\")",
+    "i-on interactive"
+  ],
+  "effective_date": null,
+  "governing_law": "Florida",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement for any reasonwhatsoever shall relieve the Customer of the obligation to pay all amounts dueto i-on and to make such payments on a timely basis.LIMITATION OF LIABILITYi-on will not be liable under any circumstances for any lost profits or otherconsequential damages, even if i-on has been advised as to the possibility ofsuch damages. i-on's liability for damages to the Customer for any causewhatsoever, regardless of the form of action, and whether in contract or intort, including negligence, shall be limited to one (1) month's fees and theremaining portion of any prepaid fees.INDEMNIFICATIONThe Customer agrees to indemnify and hold harmless i-on, against any lawsuits,claims, damages, or liabilities (or actions or proceedings in respect thereof)to which i-on may become sub",
+    "start": 10907,
+    "end": 11718,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Hosting__CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT.txt",
+  "_char_count": 14933,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

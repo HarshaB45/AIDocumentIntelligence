@@ -4,13 +4,20 @@
     "(c) the operating plan and any amendments thereto"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Canada",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of        this Agreement immediately by the other Party.\n\n13.3   The Parties agree to ensure that their respective Dangerous Goods        Handling Procedures are compatible to ensure complete adherence with the        Legislation and Regulations. Each Party agrees to promptly advise the        other of any changes to its Dangerous Goods Handling Procedures.\n\n14.0   RECORDS AND REPORTS    14.1   Each Party shall maintain performance reports, comparing actual to        scheduled departure and arrival times for Services provided. Such        reports shall be made available for review by the other Party and in        connection with same, a Party shall provide copies of all data and        records relating thereto.\n\n11                                      - 11 -\n\n14.2   Each Party shall maint",
     "start": 25996,
-    "end": 26807
+    "end": 26807,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.txt",
-  "_char_count": 49218
+  "_char_count": 49218,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

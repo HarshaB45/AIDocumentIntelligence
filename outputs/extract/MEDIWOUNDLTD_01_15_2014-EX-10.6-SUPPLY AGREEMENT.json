@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination or expiry of this Agreement, provided however that any Confidential Information with respect to the Product, including without limiting, such information with respect to intellectual property rights in connection with and/or related to the Products shall remain confidential in perpetuity.   8.4 The provisions of this Section 8 shall in no event prevent MediWound from disclosing any Technical Information to Regulatory Authorities or other governmental agencies in support of any application for regulatory approvals of the Product or any amendments thereof or in general whenever required to disclose such information under any applicable law or regulation. MediWound shall make reasonable efforts to notify CBC of its intention and the identity of the intended recipient as soon as reasonably pr",
     "start": 37869,
-    "end": 38680
+    "end": 38680,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "MEDIWOUNDLTD_01_15_2014-EX-10.6-SUPPLY AGREEMENT.txt",
-  "_char_count": 49915
+  "_char_count": 49915,
+  "_provenance": {}
 }

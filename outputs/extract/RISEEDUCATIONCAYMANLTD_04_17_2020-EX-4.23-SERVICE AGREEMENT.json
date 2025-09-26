@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement. 4\n\n\n\n\n\nRise Education Group 9. Events of Default\n\nFailure by a Party to perform its obligations under this Agreement or any non-compliance of its performance of obligations with this Agreement or any of its representations and warranties under this Agreement being materially untrue or inaccurate shall constitute an event of default. The defaulting Party shall indemnify the non-defaulting Party for all the direct and indirect losses arising from its default.\n\nNotwithstanding the foregoing, upon any delay by Service Recipient in its payment of any Service Fee to Service Provider, for each day of delay in such payment, Service Recipient must pay Service Provider liquidated damages at 0.5 percent (0.5%) of the Service Fee that are due and unpaid. In the event that such dela",
     "start": 10044,
-    "end": 10855
+    "end": 10855,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "RISEEDUCATIONCAYMANLTD_04_17_2020-EX-4.23-SERVICE AGREEMENT.txt",
-  "_char_count": 16372
+  "_char_count": 16372,
+  "_provenance": {}
 }

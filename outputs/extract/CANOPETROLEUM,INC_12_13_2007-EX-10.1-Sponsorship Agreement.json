@@ -4,9 +4,14 @@
     "Cano Petroleum"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Texas",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.txt",
-  "_char_count": 8852
+  "_char_count": 8852,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

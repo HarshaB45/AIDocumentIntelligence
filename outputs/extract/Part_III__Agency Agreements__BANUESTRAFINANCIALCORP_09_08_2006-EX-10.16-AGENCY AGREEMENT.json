@@ -1,0 +1,28 @@
+{
+  "parties": [
+    "QuickLinks",
+    "the \"Commission",
+    "RegistrationStatement",
+    "FreeWriting"
+  ],
+  "effective_date": null,
+  "governing_law": "THE",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Offering.In the event the Company is unable to sell a minimum of 1,875,000 Shares on or before June 30, 2007, this Agreement shall terminate and theCompany shall cause the Escrow Agent (as defined below) to refund to any persons who have subscribed for any of the Shares the full amount itreceived from them, without interest, as set forth in the Prospectus; and none of the parties to this Agreement shall have any obligation to the otherparties hereunder, except as set forth in this Section 2 and in Sections 8, 10, and 11.In the event the Offering is terminated and the Closing (as defined below) does not occur, then the Agent shall not receive the fees set forth insubparagraph (a) below (the \"Fees\"); provided, however, regardless of whether or not the Closing occurs, the Agent shall",
+    "start": 5211,
+    "end": 6022,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_III__Agency Agreements__BANUESTRAFINANCIALCORP_09_08_2006-EX-10.16-AGENCY AGREEMENT.txt",
+  "_char_count": 44661,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

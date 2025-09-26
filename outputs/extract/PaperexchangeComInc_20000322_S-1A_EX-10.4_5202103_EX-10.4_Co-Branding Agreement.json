@@ -4,17 +4,26 @@
     "PaperExchange"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": {
     "text": "Payment Terms. Each party shall provide the other party with all amounts due under this Agreement for the prior calendar quarter within 30 days after the end of each calendar quarter during the Term. Each payment shall be accompanied by a statement detailing the amount of applicable gross revenue received, the calculation of the amount due to the other party and the amount of the payment accompanying such statement. All payments due to either party hereunder shall be made in immediately available U.S. funds, without set-off or counterclaim, free and clear of (and without deduction for or gross",
     "start": 39456,
-    "end": 40056
+    "end": 40056,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of this Agreement, VerticalNet shall not, directly or indirectly, by itself, through its Affiliates or through any type of joint venture or similar affiliation with a third party, without prior written approval from PaperExchange, buy, sell or trade (a) paper pulp products through exchanges, auctions, or reverse auctions or any other e-commerce medium, (b) paper (other than finished paper-based products, including, but not limited to, books, stamps and labels) and copy paper (i) through exchanges, auctions or reverse auctions or (ii) in quantities greater than one ton through any e-commerce medium, (c) raw materials used to make paper packaging, including, but not limited to, linerboard, medium, other containerboard grades and corrugated sheet through exchanges, auctions, reverse auctions",
     "start": 25156,
-    "end": 25967
+    "end": 25967,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.txt",
-  "_char_count": 92875
+  "_char_count": 92875,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

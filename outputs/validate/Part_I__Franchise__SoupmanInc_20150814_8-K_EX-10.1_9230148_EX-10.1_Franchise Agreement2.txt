@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Franchisor",
+    "Master Franchisee having the effect of amending or altering the Master FranchiseAgreement or Master Franchisee’s obligations under this Guarantee"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of any obligations of Master Franchisee under the MasterFranchise Agreement by operation of law or otherwise; (3) the bankruptcy, insolvency, dissolution, or other liquidation of Master Franchisee,including, without limitation, any surrender or disclaimer of the Franchise Agreement by the trustee in bankruptcy of Master Franchisee; (4)Franchisor’s consent or acquiescence to any bankruptcy, receivership, insolvency, or any other creditor’s proceedings of or against MasterFranchisee, or by the winding-up or dissolution of Master Franchisee, or any other event or occurrence which would have the effect at law ofterminating the existence of Master Franchisee’s obligations prior to the termination of the Master Franchise Agreement; or (5) by any otheragreements or other dealings between Franchi",
+    "start": 2676,
+    "end": 3487,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Franchise__SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement2.txt",
+  "_char_count": 5326,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

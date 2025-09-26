@@ -4,13 +4,20 @@
     "NEON SYSTEMS"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination. . . . . . . . . . . . . . . . . . . . . .   16 Article 15  General . . . . . . . . . . . . . . . . . . . . . . . . . . . .   18\n\n                                       EXHIBITS\n\n          Exhibit A         List of Products           Exhibit B         The Territory           Exhibit C         Sublicense Agreement           Exhibit D         Agreement for Trial\n\n                                      i\n\n                                DISTRIBUTOR AGREEMENT\n\nDISTRIBUTOR AGREEMENT (the \"Agreement\") is made as of the 1st day of January, 1996 by and between Peregrine/Bridge Transfer Corporation, a Delaware corporation (the \"Licensor\"), and Neon Systems, Inc., a Delaware corporation (the \"Licensee\").\n\nWHEREAS, Licensor is engaged in the development, support and licensing of certain computer soft",
     "start": 1441,
-    "end": 2252
+    "end": 2252,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New.txt",
-  "_char_count": 61463
+  "_char_count": 61463,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

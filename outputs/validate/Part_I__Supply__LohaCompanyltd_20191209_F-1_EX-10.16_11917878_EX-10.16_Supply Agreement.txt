@@ -1,0 +1,32 @@
+{
+  "parties": [
+    "Chain Management Co., Ltd.",
+    "Buyer",
+    "Seller",
+    "LTD"
+  ],
+  "effective_date": null,
+  "governing_law": "the People",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Part_I__Supply__LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement.txt",
+  "_char_count": 11311,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    }
+  ]
+}

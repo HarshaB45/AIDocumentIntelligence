@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "R. C. Boyd Enterprises, LLC, a Texas limited liability company, whose principal \nplace of business is located at 2003 Navasota Cove, Westlake, Texas, referred to in this Agreement as \"Company\" or \"Boyd\"",
+    "Cano Petroleum"
+  ],
+  "effective_date": null,
+  "governing_law": "Texas",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Part_II__Sponsorship__CANOPETROLEUM,INC_12_13_2007-EX-10.1-Sponsorship Agreement.txt",
+  "_char_count": 8921,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    }
+  ]
+}

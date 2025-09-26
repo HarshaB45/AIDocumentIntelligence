@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "ZYNGA INC",
+    "ZYNGAGAME IRELAND LIMITED and their respective affiliates (“Zynga”)"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination in writing to the other party, which notice shall specify in reasonable detail the event(s) ofdefault that give rise to such termination. The other party shall have thirty (30) days from the effective date of such notice in whichto correct any such default(s) (except those which are not curable), and failing such correction by the end of such thirty (30) daycure period, this Agreement shall thereupon immediately terminate.7.RIGHTS AND OBLIGATIONS UPON TERMINATION OR EXPIRATION. Upon expiration or termination of this Agreement:a.All rights granted to WPT by Zynga shall immediately revert to Zynga, and WPT shall promptly cease any and all marketing andpromotional activities using Zynga’s Licensed Property.b.All rights granted to Zynga by WPT shall immediately revert to WPT, and Zynga shall",
+    "start": 25775,
+    "end": 26586,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement.txt",
+  "_char_count": 35013,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

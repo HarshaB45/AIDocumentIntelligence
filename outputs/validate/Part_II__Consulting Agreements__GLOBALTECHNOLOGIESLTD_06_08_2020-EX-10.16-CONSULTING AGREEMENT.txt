@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "GlobalTechnologies, Ltd (hereinafter the “Company”), a Delaware corporation whose address is 501 1st Ave N., Suite 901, St. Petersburg, FL 33701 andTimothy Cabrera (hereinafter the “Consultant”), an individual whose address is 11718 SE Federal Hwy., Suite 372, Hobe Sound, FL 33455(individually, a “Party”; collectively, the “Parties”). This Agreement is non-exclusive.RECITALSWHEREAS, the Company has asked to retain Consultant to provide various services to the Company as agreed to by both parties andoutlined in Section 3; andWHEREAS, the Consultant has advised the Company of its willingness",
+    "desire to provide such services as outlined in Section 3 andon the terms and conditions set forth in this Agreement"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination shall be the date such notice is received (by mail, overnight delivery, or fax) by theterminated Party.3. CONSULTING SERVICES. During the term of this Agreement, Consultant will perform the services described below (the “Consulting Services”)for the Company.(a) Transactional Business(i) Further development of the business plan for the Company’s subsidiaries; and1____ ____\f(ii) Seek and advise the Company on the acquisition of potential products for the Company’s subsidiaries; and(iii) Assist in negotiating acquisition or merger consideration as required by the Company; and(iv) Setting up meetings between the Company and acquisition candidates and arranging other liaisons between them; and(v) Assist the Company with certain day to day tasks of managing the Company’s subsidiaries; and(vi) A",
+    "start": 2213,
+    "end": 3024,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Consulting Agreements__GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT.txt",
+  "_char_count": 20577,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

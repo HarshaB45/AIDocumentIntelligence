@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "DEXCEL LTD., with its registered addressat ****, Israel (“Dexcel”)",
+    "KITOV Pharma Ltd"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement for any reason, therights and obligations of the Parties shall include the following:5.4.1Neither Party shall be relieved of its duty to discharge in full all obligations accrued or due prior to the date of termination,cancellation or expiration; all sums owed by either Party to the other shall become immediately due and payable thirty (30)days after such date.5.4.2Each Party shall remove all references to the other, if any, from its letterhead, business forms, advertising literature, websitesand place of business, and shall not thereafter use any name or trademark suggesting that it has any current relationshipwith the other Party.5.4.3Each Party shall return to the other all of the other’s Confidential Information and any other material, information or samplesrelating",
+    "start": 27194,
+    "end": 28005,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Manufacturing__KitovPharmaLtd_20190326_20-F_EX-4.15_11584449_EX-4.15_Manufacturing Agreement.txt",
+  "_char_count": 56556,
+  "_provenance": {}
+}

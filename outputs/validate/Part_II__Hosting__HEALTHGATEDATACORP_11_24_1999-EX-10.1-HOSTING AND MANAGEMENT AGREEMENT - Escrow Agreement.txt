@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the Licensee",
+    "NCC for the verification of the Material;      1"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination of this Agreement will not relieve NCC or its employees,            or the Licensee or its employees, from the obligations of            confidentiality contained in this Clause 7.\f8     Intellectual Property Rights      The release of the Material to the Licensee will not act as an assignment      of any Intellectual Property Rights that the Owner possesses in the      Material.9     Verification      9.1   Subject to the provisions of Clauses 9.2 and 9.3, NCC shall bear no            obligation or responsibility to any person, firm, company or entity            whatsoever to determine the existence, relevance, completeness,            accuracy, effectiveness or any other aspect of the Material.      9.2   Upon the Material being lodged with NCC, NCC shall perform those            tests",
+    "start": 21836,
+    "end": 22647,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Hosting__HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT - Escrow Agreement.txt",
+  "_char_count": 34807,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

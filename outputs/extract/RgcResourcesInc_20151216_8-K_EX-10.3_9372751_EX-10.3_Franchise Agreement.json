@@ -4,9 +4,14 @@
     "ROANOKE GAS COMPANY"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Virginia",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.txt",
-  "_char_count": 5171
+  "_char_count": 5171,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

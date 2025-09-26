@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "Payment terms of such revenue sharing fees shall be as set forth in          EXHIBIT B hereto.\n\n4.2      SOFTWARE SUPPORT AND MAINTENANCE FEES. Except with respect to Software          Support and Maintenance under the distribution license granted to Corio          pursuant to Section 2.5 of this Agreement, Corio shall pay to\n\n\n\n\n\n         Changepoint a Software Support and Maintenance fee for the support          services to be provided by Changepoint specified in Section 5.3 of this          Agreement and EXHIBIT C attached hereto and made a part hereof, and          Updates and Upgrades, ac",
     "start": 28716,
-    "end": 29316
+    "end": 29316,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination or          expiration of this Agreement.\n\n2.4      DEMONSTRATION LICENSE. Subject to the terms and conditions of this          Agreement, Changepoint hereby grants to Corio a nonexclusive,          nontransferable (except in accordance with Section 14.1 of this          Agreement) royalty-free, fully paid up right and license in the          Territory, on Corio Servers, to make a reasonable number of copies of          the Demonstration Software solely for demonstration purposes to          potential Customers. Demonstration Software shall be made available to          Corio's sales personnel and the parties agree to cooperate to make the          Changepoint demonstration database available to Corio sales personnel          on an ongoing basis. Corio shall not distribute any demonstrati",
     "start": 12185,
-    "end": 12996
+    "end": 12996,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT.txt",
-  "_char_count": 161066
+  "_char_count": 161066,
+  "_provenance": {}
 }

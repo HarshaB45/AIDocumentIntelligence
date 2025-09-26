@@ -4,13 +4,20 @@
     "the Board at the start of each calendar year"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "United Kingdom",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of your employment to the Company) on 31 December of the year to which your bonus entitlement applies.\n\n2\n\n\n\n\n\n4.5 Equity Incentives\n\nBTL has established the Bicycle Therapeutics 2019 Share Option Plan (the \"Option Plan\").\n\nOn or as soon as practicable following the Effective Date, it is intended that you will be granted an option under the Option Plan to acquire 107,417 ordinary shares in the capital of BTL (\"Shares\") (representing approximately 0.6% of the Company's issued share capital as at the Effective Date).\n\nIn addition, and conditional on completion of a transaction on terms set out below, you will be granted a second option under the Option Plan, such option being one of:\n\n(a) an option to acquire 44,757 Shares (representing approximately 0.25% of the Company's issued share capi",
     "start": 5999,
-    "end": 6810
+    "end": 6810,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT.txt",
-  "_char_count": 57041
+  "_char_count": 57041,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

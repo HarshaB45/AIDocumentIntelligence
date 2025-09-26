@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION OF THE FRANCHISE 39       16. RIGHTS AND OBLIGATIONS OF COMPANY AND FRANCHISE OWNER UPON TERMINATION OR EXPIRATION OF THE FRANCHISE 41   16.1 Payment of Amounts Owed to Company 41   16.2 Marks 41   16.3 De-Identification 41   16.4 Confidential Information 41   16.5 Joint Software 42   16.6 Company's Option to Purchase the Franchise 42   16.7 Continuing Obligations 43   16.8 Management of the Franchise 43         17. ENFORCEMENT 43   17.1 Invalid Provisions; Substitution of Valid Provisions 43   17.2 Unilateral Waiver of Obligations 44   17.3 Written Consents from Company 44   17.4 Lien 44   17.5 No Guarantees 45   17.6 No Waiver 45   17.7 Cumulative Remedies 45   17.8 Specific Performance; Injunctive Relief 45   17.9 Arbitration 46   17.10 Waiver of Punitive Damages and Jury Trial; Limita",
     "start": 3477,
-    "end": 4288
+    "end": 4288,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "JOINTCORP_09_19_2014-EX-10.15-FRANCHISE AGREEMENT.txt",
-  "_char_count": 167259
+  "_char_count": 167259,
+  "_provenance": {}
 }

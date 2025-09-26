@@ -4,17 +4,26 @@
     "551 FX IB Associates"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": {
     "text": "Payment Terms\n\n\n\n(c) Option\n\nThe Licensor shall grant to the Licensee a six month option (the \"Option\") to purchase up to 3,333,333 shares of its  common stock. If the Option is exercised in part or in whole on or before June 30, 2009, the exercise price of the Option  shall be $0.15. However, if the Option is exercised after July 1, 2009, the exercise price of the Option shall be $0.20. The Licensor acknowledges that to date the Licensee has advanced the aggregate sum of $63,309, of which $28,309 shall be  applied against the partial exercise of the Option. Additional sums advanced to SFG, pr",
     "start": 19878,
-    "end": 20478
+    "end": 20478,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of the Licensee's ability to use all or part of the system, or any inaccuracies or omissions  in any information or documentation provided, (d) any failure or delay suffered or allegedly suffered  by Licensee in initiating and terminating trades, (e) the termination of all or part of this Licensee  Agreement by the Licensor, (f) the termination or modification of any and all parts of the License.\n\n(a) use the Licensed Technology (all or any portion thereof) other than within the scope of the license granted by Licensor  under this Agreement;\n\n(b) disclose any Licensed Technology to, or permit the use or access of any Licensed Technology by, any third party for any  reason without the prior written consent of Licensor;\n\n(c) sublicense, assign, lease, transfer or distribute any Licensed Tec",
     "start": 12764,
-    "end": 13575
+    "end": 13575,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "SFGFINANCIALCORP_05_12_2009-EX-10.1-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.txt",
-  "_char_count": 51043
+  "_char_count": 51043,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

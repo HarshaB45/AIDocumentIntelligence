@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "SQUARE TWO GOLF INC., a New Jerseycorporation (the \"Company\")",
+    "KATHY WHITWORTH"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration.         IN WITNESS WHEREOF, the parties have executed this Agreement as of thedate first above written.         SQUARE TWO GOLF, INC.         By: /s/DOUGLAS A. BUFFINGTON             ---------------------------------                Douglas A. Buffington                President         PROFESSIONAL         /s/ KATHY WHITWORTH         ------------------------------         Kathy Whitworth                                      -9-   10                                                                  EXECUTION COPY                                    EXHIBIT A                          Intellectual Property Rights                Confidentiality and Non-Use Obligations Agreement         This Agreement by and between SQUARE TWO GOLF INC., a New Jerseycorporation (the \"Company\") and",
+    "start": 804,
+    "end": 1615,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Endorsement__WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement.txt",
+  "_char_count": 7063,
+  "_provenance": {}
+}

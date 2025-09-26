@@ -4,13 +4,20 @@
     "do not have any agreements"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of registration pursuant to Section 12(g)(4) of the Exchange Act;   (viii) call or seek to call, or request the call of, alone or in concert with others, any meeting of stockholders, whether or not such a meeting is permitted by the Company's Amended and Restated Certificate of Incorporation or Bylaws, including, but not limited to, a \"town hall meeting;\"   (ix) seek, alone or in concert with others, representation on the Board, except as expressly permitted by this Agreement;   (x) initiate, encourage or participate in any \"vote no,\" \"withhold\" or similar campaign;   (xi) deposit any Common Stock in any voting trust or subject any Common Stock to any arrangement or agreement with respect to the voting of any Common Stock (other than any such voting trust, arrangement or agreement solely",
     "start": 20497,
-    "end": 21308
+    "end": 21308,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "MEETGROUP,INC_06_29_2017-EX-10.1-COOPERATION AGREEMENT.txt",
-  "_char_count": 59532
+  "_char_count": 59532,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "Bank of America, N.A. (“Bank of America”)",
+    "Cardlytics"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms.”  Proprietary to Bank of America Page A-2 vTIP2010Source: CARDLYTICS, INC., S-1, 1/12/2018\fPRODUCTS LICENSED PROGRAMS: PROGRAM MATERIALS: PLATFORM:The Software consists of the following: The Program Materials include the following: The Platform consists of the following:Cardlytics OPS (Offer Placement System) Version3.0 Installation GuidesOperational Guides Computer: database servers, applicationservers and web servers Operating System: Microsoft.net and SQL 2008 Other Required Components Client side adserving technology PAYMENT TERMSThe Software License and Maintenance will be",
+    "start": 2562,
+    "end": 3162,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination” of the Agreement. If Bank of America terminates the Maintenance Services, Bank of Americashall have the right to reinstate the Maintenance Services without paying any reinstatement fee. During the initial Maintenance Term and anyrenewal term, Maintenance Fees shall be paid in the increments described below under “Payment Terms.”  Proprietary to Bank of America Page A-2 vTIP2010Source: CARDLYTICS, INC., S-1, 1/12/2018\fPRODUCTS LICENSED PROGRAMS: PROGRAM MATERIALS: PLATFORM:The Software consists of the following: The Program Materials include the following: The Platform consists of the following:Cardlytics OPS (Offer Placement System) Version3.0 Installation GuidesOperational Guides Computer: database servers, applicationservers and web servers Operating System: Microsoft.net and SQL 2008",
+    "start": 2234,
+    "end": 3045,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Maintenance__CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.txt",
+  "_char_count": 5160,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

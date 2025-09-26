@@ -4,13 +4,20 @@
     "Food For Athletes"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "California",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement, Company will refrain from further use of the Licensed Marks used pursuant to this Agreement. Company will not sublicense pass-through or otherwise grant to any third parties the rights granted to Company hereunder without the NFLA prior written consent, including but not limited to the right to use the Licensed Marks. Company acknowledges that this Agreement does not grant Company any rights with respect to any other NFLA Marks (defined below), the name, likeness, signature, or other attributes of any NFLA member or other individual, or any audio or video of any NFLA event. Company agrees that the quality of all services offered by Company under the Licensed Marks will conform to Licensor's written quality control standards and that Company will annually provide to NFLA",
     "start": 4190,
-    "end": 5001
+    "end": 5001,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement.txt",
-  "_char_count": 29208
+  "_char_count": 29208,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

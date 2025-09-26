@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination\n\n3.1   Term\n\nThis Agreement will be effective beginning on 12:01 a.m., Eastern Time, on the day after the date of last signature to these Base Terms (\"Effective Date\") and ending on the expiration and/or termination of all Service Option Attachments, unless the Agreement is terminated earlier in accordance with the terms herein. The term of each Service Option Attachment is as specified on the applicable Order Form.\n\n3.2   Renewal\n\nEach Service Option Attachment will renew automatically for an additional term equal in duration to the previous term of the applicable Service Option Attachment unless either party notifies the other party in writing at least ninety (90) days prior to the end of the then-current term for the applicable Service Option Attachment that it has elected to terminate",
     "start": 5411,
-    "end": 6222
+    "end": 6222,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BLUEFLYINC_03_27_2002-EX-10.27-e-business Hosting Agreement.txt",
-  "_char_count": 37351
+  "_char_count": 37351,
+  "_provenance": {}
 }

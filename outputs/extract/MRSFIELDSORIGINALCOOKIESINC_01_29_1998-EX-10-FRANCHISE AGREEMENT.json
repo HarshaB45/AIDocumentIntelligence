@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "payment  terms of the proposed  sale and the sources and terms of any financing for the proposed purchase price. To be a valid, bona fide offer, the proposed purchase price shall be denominated in a dollar amount.  The offer must apply only to an interest in this  Agreement,  Franchisee or the Unit and may not  include  an offer to  purchase  any  other  property  or  rights of Franchisee (or its Owners).  However,  if the offeror  proposes to buy any other property  or  rights  from   Franchisee   (or  its  Owners)  under  a  separate, contemporaneous offer, the price and terms of purchase of",
     "start": 164663,
-    "end": 165263
+    "end": 165263,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "TERMINATION..............................................17          6.E.     TRADEMARK ENFORCEMENT....................................17          6.F.     USE OF SERVICE MARK......................................17\n\n7.       SELECTION OF FRANCHISE LOCATION...................................18          7.A.     SITE SELECTION...........................................18          7.B.     LEASE....................................................18          7.C.     RELOCATION...............................................20\n\n8.       DEVELOPMENT OF UNIT...............................................21          8.A.     UNIT DESIGN SPECIFICATIONS AND CONSTRUCTION PLANS........21          8.B.     DEVELOPMENT OF THE UNIT..................................21          8.C.     EQUIPMENT, FIXTURES, FURNISHI",
     "start": 2452,
-    "end": 3263
+    "end": 3263,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT.txt",
-  "_char_count": 249359
+  "_char_count": 249359,
+  "_provenance": {}
 }

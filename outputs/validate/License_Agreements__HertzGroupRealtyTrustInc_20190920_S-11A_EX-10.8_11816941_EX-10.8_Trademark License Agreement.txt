@@ -1,0 +1,38 @@
+{
+  "parties": [
+    "Licensor",
+    "Licensee or any of Licensee's subsidiaries"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, Licensed Users shall immediately cease use of the Licensed Trade Name and Licensed Mark assoon as practicable, but no longer than thirty (30) days, after termination.ARTICLE 4.GENERAL PROVISIONS4.1 Indemnification. Licensed Users, at Licensed Users' own expense, shall indemnify, hold harmless and defend Licensor, its affiliates,successors and assigns, and its and their directors, officers, employees and agents, against any claim, demand, cause of action, debt, expense orliability (including attorneys' fees and costs), to the extent that the foregoing (a) is based on a claim resulting solely from any service provided oroffered by Licensed Users, (b) results from a material breach, or is based on a claim that, if true, would be a material breach, of this Agreement byLicen",
+    "start": 6275,
+    "end": 7086,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement.txt",
+  "_char_count": 14104,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "AMBIGUOUS",
+      "field": "termination_clause",
+      "reason": "Ambiguous language detected",
+      "span": {
+        "start": 6275,
+        "end": 7086
+      }
+    },
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

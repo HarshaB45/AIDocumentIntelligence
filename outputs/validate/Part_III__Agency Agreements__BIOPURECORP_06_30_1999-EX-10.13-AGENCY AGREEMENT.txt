@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "the partiesgiven pursuant to this Agreement will be deemed to have been sufficiently givenwhen delivered by personal service or sent by recognized overnight courierservice, telecommunication or registered U.S. Mail to the recipient at theaddress indicated on the signature page hereof. All such communications will bedeemed effective on the earlier of (a) actual receipt or (b) if sent by courierservice, on the next business day following the date delivered to the courierservice (the courier service's receipt being evidence of the date of suchdelivery), or (c) if sent by telecommunication on the next business date(subject to confirmation of receipt in complete readable form), or (d) if sentby registered U.S. Mail, five (5) business days after delivery to the U.S.Postal Service, postage prepaid. Either party may give to the other writtennotice of change of address, in which event any communication will thereafter begiven to such party at such changed address.      5.2. Assignment. This Agreement will be binding upon",
+    "inure to thebenefit of the parties hereto and their respective successors and permittedassigns"
+  ],
+  "effective_date": "January 5, 1999",
+  "governing_law": "Massachusetts",
+  "payment_terms": {
+    "text": "Payment      Terms) or program terms promptly in payment of goods shipped to the      Customer. Product(s) shipped to the Customer will be billed to the Agent      at the price stated on a current price list or according to the current      price program minus a ten (10) percent discount as outlined in Paragraph      1.5(d). It is the responsibility of the Agent to evaluate the credit      worthiness of the Customer. Upon transmitting an order for shipment to the      Company, the Agent accepts full responsibility for payment of the product      from the Customer.            (m) transmit all o",
+    "start": 8539,
+    "end": 9139,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreement, the Agent will immediatelycease all use of the Trademarks.      3.3. Insurance. The Company and the Agent will each maintain, at their ownexpense, insurance with reputable insurers, such insurance to be in such formand amounts as are customary in the case of entities of established reputationengaged in the same or similar businesses and similarly situated, provided thatsuch insurance will in any event include commercial general liability andumbrella liability insurance (including product liability coverage) for propertydamage, bodily injury and personal injury in an amount not less than FiveMillion Dollars ($5,000,000) combined single amount per occurrence and in theaggregate. Each such liability insurance policy of the Agent will name theCompany (as its interest may ap",
+    "start": 18629,
+    "end": 19440,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_III__Agency Agreements__BIOPURECORP_06_30_1999-EX-10.13-AGENCY AGREEMENT.txt",
+  "_char_count": 40167,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "effective_date_normalized": "1999-01-05",
+  "_issues": []
+}

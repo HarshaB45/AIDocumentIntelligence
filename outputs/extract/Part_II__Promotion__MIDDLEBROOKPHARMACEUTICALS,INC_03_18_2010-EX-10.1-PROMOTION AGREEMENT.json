@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "MiddleBrook Pharmaceuticals, Inc. (“MBRK”) ,  a Delaware corporation with offices at 7 Village Circle, Suite 100, \nWestlake, TX 76262",
+    "DoctorDirectory"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination Fee”  means that amount equal to the most recent month’s Promotion Fee prior to \n\ntermination, multiplied by the number of unexpired months remaining in the current year of the Agreement. \n\n(j)   “End of Agreement Fee”  means the fee, in addition to any other amounts due, payable to DD (when this \nAgreement is terminated as further described in Section 18(f)) that is equal to two (2) times the last month’s \nPromotional Fee earned by DD during the last month of the Agreement. \n\n(k)  “FDA” means the federal Food and Drug Administration. \n\n(l)   “Gross Margin Per Tablet”  means the Gross Margin calculated in accordance with GAAP and which excludes \nthose non-recurring and unusual items that the Parties agree are not resulting from activities under this Agreement \n(“GM Adjustment Items”)  div",
+    "start": 3974,
+    "end": 4785,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Promotion__MIDDLEBROOKPHARMACEUTICALS,INC_03_18_2010-EX-10.1-PROMOTION AGREEMENT.txt",
+  "_char_count": 58031,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

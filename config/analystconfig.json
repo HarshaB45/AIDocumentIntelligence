@@ -1,0 +1,30 @@
+{
+  "weights": {
+    "MISSING": 3.0,
+    "AMBIGUOUS": 2.0,
+    "BAD_DATE": 1.0,
+    "NET_DAYS_OVER_MAX": 3.5,
+    "NET_DAYS_OUTLIER": 2.5,
+    "NET_DAYS_DRIFT_VS_PARTY": 2.0,
+    "GOVERNING_LAW_INCONSISTENT": 2.0,
+    "PAYMENT_AMOUNT_HIGH": 2.5
+  },
+  "risk_buckets": {
+    "low": 0,
+    "medium": 5,
+    "high": 10
+  },
+  "top_k_summary_sentences": 10,
+  "risk_keywords": [
+    "termination", "indemnify", "liability", "jurisdiction", "payment",
+    "net", "late fee", "penalty", "warranty", "force majeure",
+    "assignment", "notice", "confidential", "arbitration", "governing law"
+  ],
+  "outputs": {
+    "analyze_dir": "outputs/analyze",
+    "per_doc_csv": "outputs/analyze/per_doc.csv",
+    "per_doc_json": "outputs/analyze/per_doc.json",
+    "kpis_json": "outputs/analyze/corpus_kpis.json",
+    "summary_md": "outputs/analyze/corpus_summary.md"
+  }
+}

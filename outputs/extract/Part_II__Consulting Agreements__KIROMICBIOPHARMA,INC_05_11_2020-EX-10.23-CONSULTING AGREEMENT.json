@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Consultant",
+    "Company"
+  ],
+  "effective_date": null,
+  "governing_law": "theState of Texas",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, or upon Company’s earlier request, Consultant will deliver to Company all Confidential Information andCompany’s property relating thereto and all tangible embodiments thereof, in Consultant’s possession or control.3. Ownership. Consultant hereby irrevocably assigns to Company all right, title and interest in and to any information (including, withoutlimitation, business plans and/or business information), technology, know-how, materials, notes, records, designs, ideas, inventions, improvements,devices, developments, discoveries, compositions, trade secrets, processes, methods and/or techniques, whether or not patentable or copyrightable, thatare conceived, reduced to practice or made by Consultant alone or jointly with others in the course of performing the Services or",
+    "start": 3974,
+    "end": 4785,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Consulting Agreements__KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT.txt",
+  "_char_count": 18154,
+  "_provenance": {}
+}

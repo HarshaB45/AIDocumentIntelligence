@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "CRO Consulting (Pty) Limited, whose RegisteredOffice is at OnQ House 250 Market Street Fairland Johannesburg 2170 South Africa (hereinafter referred to as \"CRO\")",
+    "Purinix PharmaceuticalsLLC whose Registered Office is at 1266 East Main Street"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Connecticut",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination by Client for reasonsother than default by CRO, Client shall pay all sums owing to CRO, but unpaid, for work performed to date of receipt of termination notice,and all reasonable and necessary costs associated with the termination itself or to which CRO is committed to pay. In the event oftermination by Client, CRO shall use all efforts to minimize any such costs, including cancelling orders and services to the extent possible.4.3.In the event of early termination under 4.1. above where CRO is in material breach, any credit held in favour of CRO shall be returned toClient within thirty (30) days following such termination, provided that the Client will then be liable for all outstanding third party costslawfully incurred hereunder by CRO prior to the termination.4.4.Either party shall be",
+    "start": 4165,
+    "end": 4976,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Service__PAXMEDICA,INC_07_02_2020-EX-10.12-Master Service Agreement.txt",
+  "_char_count": 16457,
+  "_provenance": {}
+}

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Company andDistributor will be by INCOTERMS Ex-works, in origin farm, in Brazil. So will must be respected the Transite Time to destiny delivery. ShouldCompany fail to timely accept or reject an order from Distributor in accordance with this Section, such order shall be deemed accepted",
+    "shallbecome binding on Company"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or nonrenewal of this Agreement for a period of thee (3)years. For the avoidance of doubt, the customer and sub-distributor lists of Distributor shall be deemed to constitute Proprietary Information underthis agreement.7Source: GENTECH HOLDINGS, INC., 1-A, 8/8/2019\f7. DURATION & TERMINATION.(a) Effective Date and Duration. This Agreement shall become effective on the date first written above and shall continue in effect for a period ofThree (3) years.(b) Distributor Option to Renew. Distributor shall have the option to renew this Agreement for an additional Three (3) year period by providingprior written notice to Company within Ninety (90) days of the end of the initial period of this Agreement.(c) Termination. Either Party may terminate this Agreement prior to its expiration upon the oc",
+    "start": 14236,
+    "end": 15047,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Distributor__GentechHoldingsInc_20190808_1-A_EX1A-6 MAT CTRCT_11776814_EX1A-6 MAT CTRCT_Distributor Agreement.txt",
+  "_char_count": 26397,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

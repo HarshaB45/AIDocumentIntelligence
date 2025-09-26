@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the hoursof 6:00 a.m to 6:00 p.m. Pacific time, Monday through Friday excluding nationalholidays.In the event of a breach (other than Downtime) of the warranty set forth inSection 6.1(i) above, Customer's sole",
+    "exclusive remedy"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, each partyshall return to the other party all confidential information of the other party,and all copies thereof, in the possession, custody or control of the partyunless otherwise expressly provided in this Agreement.      9. Indemnification. Subject to the limitations set forth in this Section9, eGain will defend any third-party suit or action against Customer to theextent such suit or action is based on a claim that the Software or the eGainSystem infringes any valid United States patent, copyright, trade secret orother proprietary right, and eGain will pay those damages and costs finallyawarded against Customer in any monetary settlement of such suit or action whichare specifically attributable to such claim. These obligations do not includeany claims to the extent",
+    "start": 12514,
+    "end": 13325,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Hosting__WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt",
+  "_char_count": 19454,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

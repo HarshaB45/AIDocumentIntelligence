@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement, each party shall return to the other party all confidential information of the other party, and all copies thereof, in the possession, custody or control of the party unless otherwise expressly provided in this Agreement.\n\n9. Indemnification. Subject to the limitations set forth in this Section 9, eGain will defend any third-party suit or action against Customer to the extent such suit or action is based on a claim that the Software or the eGain System infringes any valid United States patent, copyright, trade secret or other proprietary right, and eGain will pay those damages and costs finally awarded against Customer in any monetary settlement of such suit or action which are specifically attributable to such claim. These obligations do not include any claims to the e",
     "start": 12445,
-    "end": 13256
+    "end": 13256,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT.txt",
-  "_char_count": 19257
+  "_char_count": 19257,
+  "_provenance": {}
 }

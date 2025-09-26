@@ -4,17 +4,26 @@
     "SOFTWARE"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": {
     "text": "Payment Terms. Except as set forth in such Part 3 of Exhibit \"A\",           payments from Co-Host to NAI shall be due thirty (30) days from the           date of invoice. All payments will be made in United States dollars,           free of any taxes then currently applicable, at the address designated           above by NAI. Late payments shall bear interest at the lesser of: (i)           the maximum rate permitted by law, and (ii) the rate of 1.5% per month           from the due date until paid.\n\n4.   EQUITABLE RELIEF. Each party acknowledges that any breach of its      obligations under t",
     "start": 13169,
-    "end": 13769
+    "end": 13769,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "TERMINATION.\n\n  (a)  Term. This Agreement will commence on the Effective Date, and will           terminate on the third anniversary of the Effective Date (the \"Term\"),           unless earlier terminated as provided in this Agreement.\n\n\n\n\n\n  (b)  Termination. A party may terminate this Agreement immediately: (i) if           the other party engages in any material unlawful business practice and           such practice continues uncured thirty (30) days following written           notice thereof, (ii) if the other party fails to perform any material           obligation, (which shall include, without limitation, the payment           obligations hereunder and compliance with the Uptime Requirements in           respect of the Originating Locations) or violates any material           restriction conta",
     "start": 14921,
-    "end": 15732
+    "end": 15732,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BEYONDCOMCORP_08_03_2000-EX-10.2-CO-HOSTING AGREEMENT.txt",
-  "_char_count": 58300
+  "_char_count": 58300,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

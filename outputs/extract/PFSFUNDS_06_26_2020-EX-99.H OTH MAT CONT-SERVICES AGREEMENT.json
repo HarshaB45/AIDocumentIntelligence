@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination. The term of this Services Agreement shall begin on the date of execution and shall continue in effect for a period of two years. This Services Agreement shall continue in effect from year to year thereafter, subject to termination as hereinafter provided, if such continuance is approved at least annually by vote of a majority of the Trustees who are not interested persons of the Trust or the Adviser. This Agreement may be terminated without the payment of any penalty by either party upon sixty (60) days' written notice to the other party. Upon the termination of this Agreement, the Trust shall pay the Adviser such compensation as may be payable for the period prior to the effective date of such termination. This Agreement shall automatically terminate in the event the Management Agreemen",
     "start": 12147,
-    "end": 12958
+    "end": 12958,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT.txt",
-  "_char_count": 15052
+  "_char_count": 15052,
+  "_provenance": {}
 }

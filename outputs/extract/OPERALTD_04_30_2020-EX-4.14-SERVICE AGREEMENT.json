@@ -4,13 +4,20 @@
     "PC Financial according to the service content"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "India",
   "payment_terms": null,
   "termination_clause": {
     "text": "TERMINATION 9.1 The Agreement shall commence on the Effective Date and continue in effect for the Service Period, unless terminated earlier as provided in this Section. This Agreement is a memorialization of an earlier oral Agreement and shall be deemed to apply for the entire Service Period. The Agreement may be extended or renewed by the Parties in a writing executed by authorized representatives of each of the Parties. 9.2 This Agreement may be terminated by either Party prior to the end of the Service Period if the other Party is in material breach of any tem, or condition of this Agreement and such breach la not remedied for a period of thirty (30) days after the Party in breach has been notified In writing of such breach by the other Party. 9.3 This Agreement terminates automatically, with no f",
     "start": 15951,
-    "end": 16762
+    "end": 16762,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT.txt",
-  "_char_count": 20983
+  "_char_count": 20983,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

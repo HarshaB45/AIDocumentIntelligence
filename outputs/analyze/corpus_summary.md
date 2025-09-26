@@ -1,0 +1,22 @@
+# Portfolio Summary (Analyst — Pure NLP)
+
+## Key Metrics
+
+- **Average risk score:** 4.162745098039216
+- **Risk buckets:** {'low': 297, 'medium': 213}
+- **Net days (median / p90):** 30.0 / 30.0
+- **Top governing law:** {'Delaware': 124, 'California': 29, 'New York': 25, 'Canada': 13, 'Texas': 12}
+- **Highest avg risk (top 5 parties):** {'THE AGENTS NAMED THEREIN | THE CORPORATION': 9.0, 'THE BISYS GROUP, INC | UNITED NATIONAL BANCORP ENTERS INTO OUTSOURCING AGREEMENT': 9.0, 'AMENDS THAT CERTAIN MANUFACTURING AGREEMENT BETWEEN HERITAGE AND PREMIER DATED JULY 1 | STREMICK\'S HERITAGE FOODS, LLC ("HERITAGE") PREMIER NUTRITION CORPORATION ("PREMIER") IS EFFECTIVE AS OF JUNE 11, 2018 ("AMENDMENT EFFECTIVE DATE': 9.0, 'AMENDS THAT CERTAIN MANUFACTURING AGREEMENT BETWEEN HERITAGE AND PREMIER DATED JULY 1 | STREMICK\'S HERITAGE FOODS, LLC, ("HERITAGE"), PREMIER NUTRITION CORPORATION ("PREMIER") IS EFFECTIVE AS OF OCTOBER 1, 2018 ("SECOND AMENDMENT EFFECTIVE DATE': 9.0, 'SCHEDULE | THOMAS SIPP THOMAS SIPP': 9.0}
+
+## Concise Extractive Summary (no LLM)
+
+- Either Party may terminate this Agreement immediately upon written notice to the other Party in the event any material breach of a material term of this Agreement by such other Party that remains uncured 30 days in the case of a breach of a payment obligation, or 45 days for all other breaches, after notice of such breach was rece
+- Termination 3.1 Term This Agreement will be effective beginning on 12:01 a.m., Eastern Time, on the day after the date of last signature to these Base Terms ("Effective Date") and ending on the expiration and/or termination of all Service Option Attachments, unless the Agreement is terminated earlier in accordance with the terms herein.
+- By providing written notice, a party may immediately terminate this Agreement: (a) if the other party materially breaches this Agreement and fails to cure that breach within 15 days after receiving written notice of the breach, or (b) as provided in Sections 2.6 [Boxlot Content] or 12.7 [Force Majeure] or Exhibit B.
+- Either party may terminate this Agreement immediately if (i) the other party becomes insolvent, files or has filed against it a petition in bankruptcy, or ceases doing business; or (ii) the other party fails to cure a material breach of the Agreement within thirty (30) days after receipt of written notice of such breach from the party not in default.
+- In addition to expiration of this Agreement as set forth in Section 3(a) hereof in the event either party fails to perform any of its material obligations hereunder, the other party may terminate this Agreement at its election after thirty (30) days written notice to the party of such breach, if such breach is not cured by the party within such thirty (30) day period.
+- Governing Law and Jurisdiction 21 Table of Appendices 23 Appendix A - [Template for Licensee Reports] 24 Appendix B - Preliminary Business Plan 25 Appendix C*- Purpose of the JSC pre and post MA * No such appendix completed by the parties. ii Source: NLS PHARMACEUTICS LTD., F-1, 2/28/2
+- The initial term of this Agreement (the "Initial Term") shall commence on the Effective Date and shall end on the date that payment is due for Minimum Payment Period 7, pursuant to Section 2.4 hereof and as set forth in Attachment B hereof, unless earlier terminated as provided herein.
+- 7.3 Rights to termination Without prejudice to any right or remedy both parties may have against each other for breach or non-performance of this Agreement each party shall have the right to summarily terminate this Agreement: (a) On the committing of a material breach of this agreement providing that where the breach is capable of rectification the breaching party has been advised in writing
+- Termination 38 18.1 Termination 38 18.2 Consequences of Termination 39 18.3 Return of Samples 40 18.4 Return of Confidential Information 40 18.5 Survival 40 Article 19 Miscellaneous 41 19.1 Assignment; Inurement 41 CONFIDENTIAL Page 5 of 49 Source: PARATEK PHARMACEUTICALS, INC., 10-K/A, 5/5/2017 THIS EXHIBIT HAS BEEN REDACTED AND IS THE SUBJECT OF A CONFIDENTIAL TREATMENT REQUEST.
+- Licensor and Licensee will be entitled to terminate this Agreement by written notice to the other party in the event the other party is in material breach of any of its obligations hereunder and shall fail to remedy any such default within one hundred twenty (120) days after notice thereof by the non-breaching party.

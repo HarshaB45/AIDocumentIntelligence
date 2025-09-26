@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "ABG",
+    "PAPA JOHN’S in connection withCELEBRITY in Press Releases"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.5.Taxes & Fees. All sales, use, value added, withholding, local privilege, excise taxes, tariffs, duties or othercharges of any kind, character or description which may be levied or imposed upon any of the Products, PAPA JOHN’S business operation relatingto the Products, or on any aspect of performance of this Agreement, shall be PAPA JOHN’S responsibility. ABG shall only be responsible for theactual taxes on ABG’s net income resulting from this Agreement.6.Union Fees; Other Fees. PAPA JOHN’S hereby acknowledges that CELEBRITY is a member of SAG-AFTRA.In addition to and separate from the Cash Payment and any other compensation payable to ABG (and, as applicable, CELEBRITY) hereunder, forpurposes of this Agreement, forty percent (40%) of the Cash Payment shall be allocate",
+    "start": 31641,
+    "end": 32452,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Endorsement__PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
+  "_char_count": 67269,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

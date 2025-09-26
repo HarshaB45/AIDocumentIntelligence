@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the Bank",
+    "the Agent (a copy of which is attached hereto as Exhibit A) (the “Engagement Letter”)"
+  ],
+  "effective_date": null,
+  "governing_law": "Illinois",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Offering, but in no event later than 45 days after \nthe completion of the Subscription Offering (the “End Date”). All fees or expenses due to the Agent but unpaid will be payable to the Agent in \nnext day funds at the earlier of the Closing Date (as hereinafter defined) or the End Date. In the event the Offering is extended beyond the End \nDate, the Company and the Agent may agree to renew this Agreement under mutually acceptable terms.  \n\nIn the event the Company is unable to sell a minimum of    Shares within the period herein provided, this Agreement shall terminate and the \nCompany shall refund to any persons who have subscribed for any of the Shares the full amount which it may have received from them plus \naccrued interest, as set forth in the Prospectus; and none of the part",
+    "start": 6989,
+    "end": 7800,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Agency Agreements__ATHENSBANCSHARESCORP_11_02_2009-EX-1.2-AGENCY AGREEMENT , 2009.txt",
+  "_char_count": 145778,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

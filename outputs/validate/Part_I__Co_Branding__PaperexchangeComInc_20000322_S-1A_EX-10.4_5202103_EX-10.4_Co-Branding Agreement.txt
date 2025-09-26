@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "VerticalNet, Inc., a Pennsylvaniacorporation having a principal place of business at 700 Dresher Road, Suite 100,Horsham, Pennsylvania, PA 19044 (\"VerticalNet\")",
+    "PaperExchange"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms. Each party shall provide the other party with allamounts due under this Agreement for the prior calendar quarter within 30 daysafter the end of each calendar quarter during the Term. Each payment shall beaccompanied by a statement detailing the amount of applicable gross revenuereceived, the calculation of the amount due to the other party and the amount ofthe payment accompanying such statement. All payments due to either partyhereunder shall be made in immediately available U.S. funds, without set-off orcounterclaim, free and clear of (and without deduction for or grossed up f",
+    "start": 38802,
+    "end": 39402,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination for Cause].            7.1.4. Professional e-Bookstore Sales. VerticalNet will payPaperExchange ***** of the gross sales of the Professional e-Bookstore on Pulpand Paper Online that originated from the PaperExchange Site.      7.2. Advertising Revenue.            7.2.1. During the Term, VerticalNet shall not share any revenuederived from advertisements hosted on Pulp and Paper Online or any otherVerticalNet Site with PaperExchange; provided, however, that if PaperExchangebrings VerticalNet a Qualified Lead* Confidential Treatment Requested: material has been omitted and filed  separately with the Commission                                       11(as defined below) for a new customer that turns into a sale of advertisingon Pulp and Paper. Online or Packaging Online, including, without lim",
+    "start": 34387,
+    "end": 35198,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Co_Branding__PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.txt",
+  "_char_count": 90992,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

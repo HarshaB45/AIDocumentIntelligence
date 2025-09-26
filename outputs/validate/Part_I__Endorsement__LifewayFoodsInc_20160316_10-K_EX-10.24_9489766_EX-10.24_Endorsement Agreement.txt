@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Lifeway Foods, Inc. (\"Lifeway\") with a principalbusiness address of 6431 West Oakton Street, Morton Grove, IL 60053",
+    "LudmilaSmolyansky(\"Individual\") on her own behalf with an address of 182 N"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination, remain in effect untilfulfilled, and apply to respective successors and assigns.17. Force Majeure - If performance hereunder is prevented, restricted or interferedwith by any act or condition whatsoever beyond the reasonable control of a party, theparty so affected, upon giving prompt notice to the other party, will be excused fromsuch performance to the extent of such prevention, restriction or interference.18. Waiver - The waiver by either party of a breach or a default of any provision ofthis Agreement by the other party will not be construed as a waiver of any succeedingbreach of the same or any other provision.Source: LIFEWAY FOODS, INC., 10-K, 3/16/2016\f19. Counterparts and Facsimile Signatures - This Agreement may be executed in multiplecounterparts and via facsimile, each of whic",
+    "start": 9012,
+    "end": 9823,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Endorsement__LifewayFoodsInc_20160316_10-K_EX-10.24_9489766_EX-10.24_Endorsement Agreement.txt",
+  "_char_count": 10827,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

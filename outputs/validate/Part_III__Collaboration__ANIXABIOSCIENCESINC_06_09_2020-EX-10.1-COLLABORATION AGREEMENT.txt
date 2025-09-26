@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "the chemical or three-dimensional structure of a compound",
+    "itsbiological activity"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": {
+    "text": "Payment Terms. Payments to OntoChem will be made by check or by wire transfer of immediately availablefunds to such bank account as designated in writing by OntoChem from time to time. Taxes (and any penalties and interest thereon)imposed on any payment made by Anixa to OntoChem will be the responsibility of OntoChem. The fees for the respective banktransfers will be borne by Anixa.3.5 Financial Records. OntoChem will maintain complete and accurate books and accounting records related to allout-of-pocket expenses incurred in performing the Research Plan. These records will be available for ins",
+    "start": 13313,
+    "end": 13913,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreement or such longerperiod as may be required by applicable law or regulation.3\f2.8 Debarment. Each Party hereby represents and warrants to the other Party that neither it nor any of its Affiliatesor personnel has been debarred under any health care laws or regulations and that, to its knowledge, no investigations, claims orproceedings with respect to debarment are pending or threatened against such Party or any of its Affiliates or personnel. NeitherParty nor any of its Affiliates will use in any capacity, in connection with the Research Program, any person or entity who has beendebarred. Each Party agrees and undertakes to promptly notify the other Party if such Party or any of its Affiliates or personnelbecomes debarred or proceedings have been initiated against any of them",
+    "start": 9951,
+    "end": 10762,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_III__Collaboration__ANIXABIOSCIENCESINC_06_09_2020-EX-10.1-COLLABORATION AGREEMENT.txt",
+  "_char_count": 39987,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": []
+}

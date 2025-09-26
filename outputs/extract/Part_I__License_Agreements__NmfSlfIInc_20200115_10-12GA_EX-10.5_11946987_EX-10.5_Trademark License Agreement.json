@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the parties, no party shall have, or shall represent that it has, any power, right or authority to bind the other party to anyobligation or liability, or to assume or create any obligation or liability on behalf of the other party.5.4. Notices. All notices, requests, claims, demands",
+    "other communications hereunder shall be in writing and shall be given or made(and shall be deemed to have been duly given or made upon receipt) by delivery in person"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination, amendment, acceleration, suspension, revocation or cancellation of any contract, agreement, lease, sublease,license, permit, franchise or other instrument or arrangement to which it is a party.ARTICLE 4TERM AND TERMINATION4.1. Term. The license granted to the Licensee under this Agreement shall continue perpetually. Notwithstanding the foregoing, thisAgreement shall expire if the Investment Advisor or one of its affiliates ceases to serve as investment adviser to the Licensee. This Agreement shallbe terminable (a) by the Licensor (i) at any time and in its sole discretion in the event that the Licensor or the Licensee receives notice of any ThirdParty Claim arising out of the Licensee’s use of the Licensed Mark or (ii) upon sixty (60) days’ written notice by the Licensor to the Licensee",
+    "start": 9938,
+    "end": 10749,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__NmfSlfIInc_20200115_10-12GA_EX-10.5_11946987_EX-10.5_Trademark License Agreement.txt",
+  "_char_count": 16849,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

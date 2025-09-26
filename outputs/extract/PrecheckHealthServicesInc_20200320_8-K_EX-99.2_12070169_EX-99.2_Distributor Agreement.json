@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination, the Distributor shall be entitled to receive all orders accepted by the Principal prior to the date of termination and may sell the ordered Products in the Territory. Payment to be made upon shipment.\n\nSource: PRECHECK HEALTH SERVICES, INC., 8-K, 3/20/2020\n\n\n\n\n\n12. In the event of termination, neither party, their heirs nor successors shall issue any challenge whatsoever to contest the termination. 13. The Distributor is an independent contractor and nothing contained in this agreement shall be deemed or interpreted to constitute the Distributor as a partner or employee of the Principal, nor shall either party have any authority to bind the other in any respect, it being understood and agreed that all orders submitted by the Distributor are subject to acceptance by Principal in its sole",
     "start": 3794,
-    "end": 4605
+    "end": 4605,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement.txt",
-  "_char_count": 6320
+  "_char_count": 6320,
+  "_provenance": {}
 }

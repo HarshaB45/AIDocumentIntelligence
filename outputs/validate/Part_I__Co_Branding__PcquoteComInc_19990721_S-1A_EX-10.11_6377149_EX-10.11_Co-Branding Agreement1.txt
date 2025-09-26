@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "PC QUOTE,INC. (hereinafter referred to as \"PCQ\"), a Delaware Corporation with itsprincipal place of business at 300 South Wacker Drive, Chicago, Illinois60605",
+    "AB Wately"
+  ],
+  "effective_date": null,
+  "governing_law": "New York",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination dateSource: PCQUOTE COM INC, S-1/A, 7/21/1999\fspecified in the Termination Notice.  The remedies contained herein arecumulative and are in addition to all other rights and remedies available to PCQunder this Agreement, by operation of law, or otherwise.     I.   Upon termination as provided for in this Agreement, ABW will pay allcharges for services and fees for the entire month in which that terminationbecomes effective.4. Technical Support     A.   ABW agrees to field all initial customer support requests and assistits clients to the best of its knowledge and ability.  If the support issue isof a complex nature that ABW is unable to solve, ABW may forward the call on tothe PCQ technical support staff.5. Exchange Authorization     A.   The ABW hereby acknowledges and agrees that the HYPE",
+    "start": 6535,
+    "end": 7346,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Co_Branding__PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.txt",
+  "_char_count": 19534,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

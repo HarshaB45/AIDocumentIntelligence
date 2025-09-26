@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "FEDERATED INVESTMENT MANAGEMENT COMPANY",
+    "ADVISORY SERVICES COMPANY",
+    "Adviser",
+    "FASC"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Part_II__Service__FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_AMENDMENT.txt",
+  "_char_count": 3808,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

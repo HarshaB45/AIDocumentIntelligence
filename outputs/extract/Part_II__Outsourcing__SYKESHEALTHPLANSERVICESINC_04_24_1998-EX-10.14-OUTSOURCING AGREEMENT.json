@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Sykes HealthPlan Services, Inc., a Floridacorporation (\"SHPS\")",
+    "HealthPlan Services"
+  ],
+  "effective_date": null,
+  "governing_law": "Florida",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION                  1.1 AGREEMENT TO OUTSOURCE CARE MANAGEMENT SERVICES. HPSagrees to outsource to SHPS, and hereby appoints SHPS as the exclusive providerof, Care Management Services to the Clients, subject to the terms and conditionsset forth in this Agreement. SHPS shall provide the Care Management Servicesdirectly to the Clients in accordance with the terms of the Client Agreements.\"Care Management Services\" means the business of providing utilization review(which includes, but is not limited to, pre-admission certification, priorauthorization, prospective length of stay approvals, second opinions, concurrentreview and discharge planning), catastrophic medical case management, diseasemanagement and demand management (24 hours per day, 7 days per week) services tobenefits payors and healt",
+    "start": 1075,
+    "end": 1886,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Outsourcing__SYKESHEALTHPLANSERVICESINC_04_24_1998-EX-10.14-OUTSOURCING AGREEMENT.txt",
+  "_char_count": 12737,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

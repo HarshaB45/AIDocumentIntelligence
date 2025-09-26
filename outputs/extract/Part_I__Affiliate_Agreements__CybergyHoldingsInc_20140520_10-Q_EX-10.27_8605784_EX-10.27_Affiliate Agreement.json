@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "BIRCH FIRST GLOBAL INVESTMENTS INC., a corporation incorporated\nin the U.S. Virgin Islands, with its main place of business located 9100 Havensight, Port of Sale, Ste.\n15/16, St. Thomas, VI 0080 (referred to as “Company”)",
+    "MOUNT KNOWLEDGE HOLDINGS"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms. When fees are not collected directly from the corporate user, MA\nagrees to pay Company, in the manner and at the time specified below, the fee(s) on\nCompany’s current price list in effect at the time an order is received by Company as\nset forth in Schedule A.\n\n7.2\n\nCurrency. All monies due Company shall be remitted in United States dollars. Amounts\ndue to Company are to be calculated based upon the information contained in Schedule\nA of this agreement.\n\n7.3\n\nRequired Documents. MA shall make payment for all Technology according to the\nterms in Schedule A of this Agreement, and p",
+    "start": 10967,
+    "end": 11567,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination provisions contained in paragraph 18 of this Agreement. Company and MA\nacknowledge that this Agreement is not a franchise as that term is defined under any and all applicable\nlocal, state and/or federal laws in U.S., as amended.\n\n2.\n\nGrant of Rights.\n\n2.1\n\nGeneral Rights. Subject to the terms and conditions of this Agreement, Company hereby\ngrants to MA the right to advertise, market and sell to corporate users, government\nagencies and educational facilities (“Clients”) for their own internal language learning, soft\nskills and communication purposes only, and not for remarketing or redistribution, and not\nfor use in a data center environment for multiple users Clients, unless otherwise agreed to by\nCompany prior in writing, the Technology listed in Schedule A of this Agreement, and to sel",
+    "start": 1699,
+    "end": 2510,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Affiliate_Agreements__CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt",
+  "_char_count": 33799,
+  "_provenance": {}
+}

@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the Adviser",
+    "FASC and may be changed onlyby a writing signed by both of them"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Limited Power of Attorney with respect to actionstaken by FASC on behalf of the Adviser during the term of this Limited Power of Attorney.Any person, partnership, corporation or other legal entity dealing with FASC in its capacity as attorney-in-fact hereunder forthe Adviser on behalf of any Fund is hereby expressly put on notice that FASC is acting solely in the capacity as an agent of theAdviser as agent for the Fund and that any such person, partnership, corporation or other legal entity must look solely to the Fund inquestion for enforcement of any claim against the Fund, as FASC assumes no personal liability whatsoever for obligations of the Fundentered into by FASC in its capacity as attorney-in-fact for the Adviser.Each person, partnership, corporation or other legal entity",
+    "start": 4395,
+    "end": 5206,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Service__FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT_POWEROF.txt",
+  "_char_count": 14162,
+  "_provenance": {}
+}

@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "CURORECEIVABLES FINANCE II, LLC, a Delaware limited liability company (the “Owner”)",
+    "CURO MANAGEMENT"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination by the Owner to the Servicerpursuant to Section 7(c), in each case upon which event this Agreement shall automatically terminate unless otherwise agreed inwriting between the Servicer and the Owner.(b) Subject to Section 7(d), the Servicer may resign its duties hereunder by providing the Owner with at least 60 days’ priorwritten notice.(c) Subject to Section 7(d), and subject to the prior written consent of the Agent so long as the Loan Agreement remainsoutstanding, the Owner may remove the Servicer immediately upon written notice of termination from the Owner to the Servicer ifany of the following events shall occur (each, a “Servicer Termination Right - Owner”):(i) the Servicer shall default in the performance of any of its duties under this Agreement and, after notice of such default,",
+    "start": 9659,
+    "end": 10470,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Service__CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.txt",
+  "_char_count": 36073,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

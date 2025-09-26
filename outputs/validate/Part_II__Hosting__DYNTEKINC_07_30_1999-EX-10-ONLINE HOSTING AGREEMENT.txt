@@ -1,0 +1,38 @@
+{
+  "parties": [
+    "themselves,such claim, right or cause of action, to the extent that the relief sought bysuch party is for monetary damages or awards, shall be determined by arbitrationin accordance with the Rules of the American Arbitration Association (\"AAA\"),\fthrough the adjudication by a single arbitrator, in New York, New York, with thedecision of such arbitrator to be final",
+    "binding upon all parties"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.                  (d) Diplomat shall have the right (but not the obligation) toterminate this Agreement and the rights granted to Tadeo hereunder if:                           (i) Tadeo is in material breach of any of itsobligations hereunder, which breach is not cured within five days of receipt ofwritten notice from Diplomat of such breach;                           (ii) The Web Agreement is terminated by any of Tadeo,Diplomat, or any other party thereto [in the event the rights and obligations ofany party(ies) to such Web Agreement have been duly assigned to a thirdparty(ies) under the terms thereof] in accordance with the terms of the WebAgreement, but not if the Web Agreement is terminated by Diplomat or itsassignee(s) other than in accordance with the terms of the",
+    "start": 5067,
+    "end": 5878,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Hosting__DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT.txt",
+  "_char_count": 26371,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "AMBIGUOUS",
+      "field": "termination_clause",
+      "reason": "Ambiguous language detected",
+      "span": {
+        "start": 5067,
+        "end": 5878
+      }
+    },
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

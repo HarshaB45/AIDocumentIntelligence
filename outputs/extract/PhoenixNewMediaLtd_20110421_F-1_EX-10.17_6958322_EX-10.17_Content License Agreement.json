@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement, Party B shall return to Party A or destroy any document,  material or software containing such business secrets and delete the same from any memory devices.     6.3 Party B warrants that it will take all technical methods and confidential measures reasonably available to Party B to ensure that only Party A and  certain of Party B personnel designated by Party A may have access to the Program Content licensed by Party A to Party B. Without  Party A's permission in writing, Party B may not disclose or sublicense the Program Content to any third party, except for the Program  Content related to Party B Business.     ARTICLE SEVEN REPRESENTATIONS AND WARRANTIES     7.1 Party A represents and warrants that     7.1.1 it owns copyrights and other related rights to the Program",
     "start": 12771,
-    "end": 13582
+    "end": 13582,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement.txt",
-  "_char_count": 25060
+  "_char_count": 25060,
+  "_provenance": {}
 }

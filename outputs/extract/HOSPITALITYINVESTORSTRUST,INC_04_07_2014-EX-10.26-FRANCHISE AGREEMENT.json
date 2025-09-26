@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION 22           14.1 Termination with Opportunity to Cure 22   14.2 Immediate Termination by Us 22   14.3 Suspension Interim Remedies 23   14.4 Liquidated Damages on Termination 24   14.5 Actual Damages Under Special Circumstances 24   14.6 Your Obligations on Termination or Expiration 24         15.0 INDEMNITY 25       16.0 RELATIONSHIP OF THE PARTIES 26           16.1 No Agency Relationship 26   16.2 Notices to Public Concerning Your Independent Status 26         17.0 MISCELLANEOUS 26           17.1 Severability and Interpretation 26   17.2 Governing Law, Jurisdiction and Venue 27   17.3 Exclusive Benefit 27   17.4 Entire Agreement 27   17.5 Amendment and Waiver 27   17.6 Consent; Business Judgment 27   17.7 Notices 28   17.8 General Release 28   17.9 Remedies Cumulative 28   17.10 Economi",
     "start": 1708,
-    "end": 2519
+    "end": 2519,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT.txt",
-  "_char_count": 146992
+  "_char_count": 146992,
+  "_provenance": {}
 }

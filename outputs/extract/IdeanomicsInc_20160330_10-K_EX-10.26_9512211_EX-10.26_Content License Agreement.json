@@ -4,13 +4,20 @@
     "YOU ON DEMAND HOLDINGS"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination.\n\n(a) The Term of this Agreement (the \"Term\") shall commence on the Effective Date listed above and continue for twenty (20) years, unless sooner terminated as provided in Section 7(b) [Term and Termination].\n\n7\n\nSource: IDEANOMICS, INC., 10-K, 3/30/2016\n\n\n\n\n\n(b) This Agreement may be terminated at any time by either party, effective immediately upon written notice, if the other party: (i) becomes insolvent; (ii) files a petition in bankruptcy; or (iii) makes an assignment for the benefit of its creditors. Either party may terminate this Agreement upon written notice if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) days after the date that it receives written notice of such breach from the non-breaching party.\n\n(c) Sections 2(a) [Licen",
     "start": 17447,
-    "end": 18258
+    "end": 18258,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt",
-  "_char_count": 40866
+  "_char_count": 40866,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "Payment Terms ***\n\nSource: HEALTHCARE INTEGRATED TECHNOLOGIES INC., 8-K, 8/12/2019",
     "start": 22206,
-    "end": 22288
+    "end": 22288,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "Termination This Agreement shall become effective on the Effective Date and shall remain in effect for an initial period of 1 year (\"Initial Term\"). Thereafter, this Agreement shall automatically be renewed for successive 1-year terms (each a \"Renewal Term\", and together with the Initial Term, the \"Term\"). Following the Initial Term, either Party may terminate this Agreement without cause upon written notice to the other Party of at least 3 months. Without derogating from any other remedies that any Party may have under the terms of this Agreement or at law, each Party shall have the right to terminate this Agreement forthwith upon the occurrence of any of the following: (i) the other Party is in material breach of its obligations hereunder and fails to remedy such breach within 30 days after being r",
     "start": 13285,
-    "end": 14096
+    "end": 14096,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.txt",
-  "_char_count": 22288
+  "_char_count": 22288,
+  "_provenance": {}
 }

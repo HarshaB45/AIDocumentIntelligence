@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "PAYMENT TERMS\n\n4.1 Payments. Subject to Clause 4.2, during the Term on a [ * ] basis, Google shall pay to Distributor the applicable payment set out in Exhibit  A for each [ * ] and each [ * ] that occurred during the previous [ * ]. Google shall determine the [ * ] in respect of which each [ * ] and  [ * ] took [ * ] (using the relevant [ * ]). Notwithstanding the foregoing, in no event will the [ * ] of [ * ] by Google to Distributor for all  [ * ] and all [ * ] in respect of [ * ] (as set out in Exhibit A) exceed [ * ] ([ * ]) of the [ * ] to Distributor for such [ * ].\n\n4.2 [ * ]. Notwiths",
     "start": 17242,
-    "end": 17842
+    "end": 17842,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of this Agreement, Distributor shall not, and shall not  engage any third party to: (a) restrict, modify, or reconfigure in any manner any of the Products that have been installed by End Users  (such End Users, \"Installed Base End Users\") in connection with this Agreement; or (b) engage in activities that encourage Installed  Base End Users to modify, uninstall or reconfigure any or the Products.\n\n  - 5 -\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   *Confidential treatment requested  Google Confidential\n\n\n\n3.9  Reporting.\n\n  (a) By Distributor. During the Term, Distributor shall, on a [ * ] basis, no later than the [ * ] of the following [ * ], provide Google  with a report identifying, on a country-by-country basis, the total number of: (i) Bundles distributed; (ii) Installs Completed; (iii)  Google",
     "start": 14856,
-    "end": 15667
+    "end": 15667,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT.txt",
-  "_char_count": 70383
+  "_char_count": 70383,
+  "_provenance": {}
 }

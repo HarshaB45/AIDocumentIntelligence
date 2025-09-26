@@ -4,13 +4,20 @@
     "B C Marketing Concepts Inc"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination or expiration of this Agreement. 7. Confidentiality. Each of Reed's and Company (a \"Receiving Party\") shall hold in confidence and not make any commercial or other use of any or all Confidential Information conveyed, acquired or learned from the other party (the \"Disclosing Party\") at any time, except in association with this Agreement. Except as otherwise expressly permitted herein, Receiving Party shall not disclose such information to third persons without the prior written consent of the Disclosing Party. Receiving Party shall limit access to the Confidential Information to those of its directors, officers, employees, contractors, agents, attorneys and accountants (the \"Representatives\") with the need to know the same and shall advise such Representatives of, and hold them to, Receivi",
     "start": 12194,
-    "end": 13005
+    "end": 13005,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
-  "_char_count": 28331
+  "_char_count": 28331,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

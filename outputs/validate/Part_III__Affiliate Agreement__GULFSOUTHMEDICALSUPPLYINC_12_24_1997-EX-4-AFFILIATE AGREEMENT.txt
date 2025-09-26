@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "theundersigned",
+    "PSS regarding certain rights and obligations of the undersignedin connection with the shares of PSS to be received by the undersigned as aresult of the Merger"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Delaware",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Part_III__Affiliate Agreement__GULFSOUTHMEDICALSUPPLYINC_12_24_1997-EX-4-AFFILIATE AGREEMENT.txt",
+  "_char_count": 26463,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    }
+  ]
+}

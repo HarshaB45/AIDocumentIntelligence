@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination                                                    14\n\n  7.6 Liability                                                               15\n\n\n\n\n\n  7.7 Assignment                                                              15\n\n  7.8 Changes to the contract                                                 15\n\n  7.9 Counterparts                                                            16\n\n                                                                    [LOGO] sicap\n\nM&S contract --------------------------------------------------------------------------------\n\n1     Introduction\n\n      Sicap Ltd provides to EuroTel a standard service for the SICAP(R) PPB, VCA       and OTA modules.\n\n      EuroTel can also request additional support which is not part of the       offered standard support and",
     "start": 3620,
-    "end": 4431
+    "end": 4431,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules.txt",
-  "_char_count": 33577
+  "_char_count": 33577,
+  "_provenance": {}
 }

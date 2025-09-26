@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this contract\n\n7    CONSIDERATION  TO  PROVIDER\n\nSeven hundred fifty thousand (750,000) shares of Kingdom Connect, Inc. Series A Preferred Stock.  Such stock issued assuming ten million (10,000,000) shares total issued and outstanding and to be adjusted accordingly to represent the same percentage should a different number be outstanding.  Once the common stock has been registered, or, after the one year period applicable under Rule 144, whichever occurs first, the Company at its sole cost and expense have its attorney issue an opinion letter for removal of the legend and release all stock transfer instructions on the common stock, except as maybe required under Rule 144. In the event the Company fails to have its attorney issue the required opinion letter within 20 days of a written r",
     "start": 5053,
-    "end": 5864
+    "end": 5864,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT.txt",
-  "_char_count": 11539
+  "_char_count": 11539,
+  "_provenance": {}
 }

@@ -1,10 +1,30 @@
 {
-  "standard_payment_days": 30,
-  "allowed_governing_law": ["Delaware", "California", "New York"],
-  "required_fields": ["effective_date", "governing_law", "payment_terms", "termination_clause", "parties"],
-  "flag_missing_as_issue": true,
-  "flag_redactions_in_parties": true,
-  "ambiguous_terms": ["reasonable", "material", "best efforts", "commercially reasonable"],
-  "max_net_days": 120
-}
+  "required_fields": ["payment_terms", "termination_clause", "governing_law"],
 
+  "standards": {
+    "net_days_standard": 30,
+    "max_net_days": 120,
+    "amount_upper_warn": 1000000.0
+  },
+
+  "corpus_outliers": {
+    "net_days_pct_from_median": 0.5
+  },
+
+  "cross_reference": {
+    "check_per_party_governing_law_consistency": true,
+    "per_party_net_days_tolerance": 15
+  },
+
+  "ambiguity_terms": [
+    "reasonable efforts",
+    "commercially reasonable",
+    "material breach",
+    "best efforts",
+    "undue delay",
+    "as soon as practicable",
+    "without unreasonable delay",
+    "may at its discretion",
+    "good faith"
+  ]
+}

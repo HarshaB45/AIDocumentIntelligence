@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "Payment Terms 3 3.8 Delay in Payment 4\n\nARTICLE 4 QUALITY OF THE CARTRIDGE 4\n\n4.1 Conformity with Specifications 4 4.2 Conditions to Rejection 4 4.3 Rejection 4 4.4 Nonconformity Default Rights 5 4.5 Acceptance of Cartridges 5 4.6 Quality Monitoring 5\n\nARTICLE 5 PRODUCTION PROCESS 5\n\n5.1 Joint Review Committee 5 5.2 Process Development 5 5.3 Inventory of Raw Materials and Spare Parts 5 5.4 [* * *] 5 -i-\n\n[* * *] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 40",
     "start": 744,
-    "end": 1344
+    "end": 1344,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "TERMINATION; BUSINESS CONTINUITY 15\n\n13.1 Term 15 13.2 Termination 16 13.3 Effect of Termination 17 13.4 Business Continuity 17\n\nARTICLE 14 MISCELLANEOUS 18\n\n14.1 Definitions 18 14.2 Further Assurances 21 14.3 Governing Law 21 14.4 Dispute Resolution 21 14.5 Arbitration 22 14.6 Force Majeure 22 14.7 Assignment 22 14.8 Notices 22 14.9 Severability 23 14.10 Entire Agreement 23 14.11 Amendment 23 14.12 Independent Contractor 23 14.13 Counterparts 23 14.14 Compliance with Laws 24 -iii-\n\n[* * *] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.\n\n\n\n\n\nMANUFACTURING AND SUPPLY AGREEMENT\n\nThis Manufacturing and Supply Agreement (this",
     "start": 2826,
-    "end": 3637
+    "end": 3637,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "VAPOTHERM, INC. - Manufacturing and Supply Agreement.txt",
-  "_char_count": 75632
+  "_char_count": 75632,
+  "_provenance": {}
 }

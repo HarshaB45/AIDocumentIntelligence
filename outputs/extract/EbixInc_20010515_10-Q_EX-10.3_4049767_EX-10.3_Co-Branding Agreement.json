@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this agreement as detailed in section       2.1: Personal Insurance, Senior Health, Retirement Planning, Consumer       Information/Advocacy, Auto Repair, Vintage Cars, Motorcycles, 4 Wheel       Drive/SUVs, Trucks, Cars, Power Boating, and Sailing for as long as such       Guide Sites are in existence, substantially as depicted in EXHIBIT E, ;       and (iv) Links from the Advertising Placements, as set forth in the       greater detail in Section 4. Notwithstanding Section 7.1, all the above       links on the About.com Home Page and Channels listed above, in addition to       the Partnership Box integration on the Guide Site Home Pages and all the       subsequent Guide Site Sub-Pages shall be maintained by about, until the       termination of this agreement as detailed in Section",
     "start": 14161,
-    "end": 14972
+    "end": 14972,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement.txt",
-  "_char_count": 42972
+  "_char_count": 42972,
+  "_provenance": {}
 }

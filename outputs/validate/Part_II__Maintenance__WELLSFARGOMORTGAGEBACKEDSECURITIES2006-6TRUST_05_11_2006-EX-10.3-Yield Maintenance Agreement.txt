@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "us on the Trade Date specified below. ThisConfirmation constitutes a \"Confirmation\" as referred to in the Master Agreementor Agreement specified below.The definitions contained in the 2000 ISDA Definitions as published by theInternational Swaps",
+    "Derivatives Association"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination Currency) on the Trade Date of the firstTransaction between us (hereinafter the \"Agreement\"). In the event of anyinconsistency between the provisions of any such Agreement and thisConfirmation, this Confirmation will prevail for the purposes of thisTransaction.The terms of the particular Swap Transaction to which this Confirmation relatesare as follows:General TermsTrade Date:                       27 April 2006Effective Date                    01 April 2006Termination Date:                  1 April 2009Calculation Amount:               The lesser of (a) USD 20,000,000.00 and (b)                                  the aggregate Principal Balance (as defined                                  in the Pooling and Servicing Agreement) of the                                  Class I-A-22 Certifica",
+    "start": 2444,
+    "end": 3255,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Maintenance__WELLSFARGOMORTGAGEBACKEDSECURITIES2006-6TRUST_05_11_2006-EX-10.3-Yield Maintenance Agreement.txt",
+  "_char_count": 37282,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

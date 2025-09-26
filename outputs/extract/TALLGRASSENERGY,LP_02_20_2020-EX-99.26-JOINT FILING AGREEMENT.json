@@ -1,9 +1,22 @@
 {
-  "parties": null,
+  "parties": [
+    "the Securities Exchange Act",
+    "Tallgrass Energy, LP",
+    "L.L.C.",
+    "Sean Klimczak Title"
+  ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "TALLGRASSENERGY,LP_02_20_2020-EX-99.26-JOINT FILING AGREEMENT.txt",
-  "_char_count": 3971
+  "_char_count": 3971,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

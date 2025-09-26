@@ -4,13 +4,20 @@
     "other communications hereunder shall be in writing and shall be given or made (and shall be deemed to have been duly given or made upon receipt) by delivery in person"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination, amendment, acceleration, suspension, revocation or cancellation of any contract, agreement, lease, sublease, license, permit, franchise or other instrument or arrangement to which it is a party. ARTICLE 4 TERM AND TERMINATION 4.1. Term. The license granted to the Licensee under this Agreement shall continue perpetually. Notwithstanding the foregoing, this Agreement shall expire if the Investment Advisor or one of its affiliates ceases to serve as investment adviser to the Licensee. This Agreement shall be terminable (a) by the Licensor (i) at any time and in its sole discretion in the event that the Licensor or the Licensee receives notice of any Third Party Claim arising out of the Licensee's use of the Licensed Mark or (ii) upon sixty (60) days' written notice by the Licensor to the Li",
     "start": 10041,
-    "end": 10852
+    "end": 10852,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "NmfSlfIInc_20200115_10-12GA_EX-10.5_11946987_EX-10.5_Trademark License Agreement.txt",
-  "_char_count": 17064
+  "_char_count": 17064,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

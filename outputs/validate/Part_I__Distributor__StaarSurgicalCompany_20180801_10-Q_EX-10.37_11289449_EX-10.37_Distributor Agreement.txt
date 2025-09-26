@@ -1,0 +1,38 @@
+{
+  "parties": [
+    "STAAR SURGICAL AG, a Swiss corporation, with a principal place of business at Hauptstrasse 104, CH - 2560 Nidau,Switzerland, (“STAAR”)",
+    "_______________"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, Distributor shall transfer to STAAR (or its nominee) allright and title to all sponsorships or import licenses or permits governing the importation and resale of the Products into the Territory.7Source: STAAR SURGICAL CO, 10-Q, 8/1/2018\f11.2 STAAR shall provide to Distributor all necessary information and data to obtain appropriate health registrations and applications inthe Territory. Distributor shall use its best efforts to obtain all necessary registrations, which registrations shall be obtained in the name of STAAR.Distributor agrees that it will have no right or interest in said registrations and applications; that STAAR is and shall remain the exclusive owner ofsuch registrations and applications free and clear of any claims by Distributor; and that Distributor s",
+    "start": 22597,
+    "end": 23408,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Distributor__StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.txt",
+  "_char_count": 49160,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "AMBIGUOUS",
+      "field": "termination_clause",
+      "reason": "Ambiguous language detected",
+      "span": {
+        "start": 22597,
+        "end": 23408
+      }
+    },
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION:  except as  specifically  described  elsewhere  in this  agreement,      either ITS or COMWARE shall have the right to terminate this Agreement with      30 days written notice from the other party, for any reason whatsoever.\n\n11.  GOVERNMENT SALES:  COMWARE reserves the right to incorporate,  as extension      of this Agreement,  additional  terms and conditions as may be required for      sale of Products to the US Government.  These terms and conditions  will be      expressly quoted in attachments to subject  purchase  orders.  ITS reserves      the right to reject such purchase orders only under those  conditions where      these terms and  conditions are in conflict with stated policy or corporate      condition of ITS at the time the purchase orders are received.\n\n\n\n\n\n12.  ENTIRE",
     "start": 8706,
-    "end": 9517
+    "end": 9517,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT.txt",
-  "_char_count": 10801
+  "_char_count": 10801,
+  "_provenance": {}
 }

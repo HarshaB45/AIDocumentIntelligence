@@ -4,13 +4,20 @@
     "Stamps"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement for any reason.  No such audit may occur more      than once a year during the Term.\n\n9.   EXCLUSIVITY\n\n     Throughout the Term Intuit will not place, and will not allow any party      acting on its behalf to place, any graphic, link or other form of      advertising or media on any page of the Quicken.com Site and/or on any page      on the AOL.com Personal Finance Site (other than the Channel Home Page),      which markets or promotes any electronic postage product, postage meter\n\n\n\n\n\n     and/or service (\"Postage Products\") offered by a Client Competitor.      Notwithstanding the above, Intuit may include editorial content or tools      about or from a Client Competitor and include Client Competitors in      directory listings.\n\n10.  FEES\n\n10.1 Sponsorship, Advertisi",
     "start": 18629,
-    "end": 19440
+    "end": 19440,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 40856
+  "_char_count": 40856,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION\n\n62\n\n12.1 Term. 62\n\n- ii -\n\nSource: HARPOON THERAPEUTICS, INC., 10-K, 3/12/2020\n\n\n\n\n\n12.2 Termination for Material Breach. 62 12.3 Additional Termination Rights by AbbVie. 63 12.4 Termination for Insolvency. 63 12.5 Rights in Bankruptcy. 63 12.6 Termination in Entirety. 63 12.7 Reversion of Harpoon Products. 66 12.8 Termination of Terminated Territory. 67 12.9 Remedies. 67 12.10 Accrued Rights; Surviving Obligations. 67\n\nARTICLE 13 MISCELLANEOUS 68\n\n13.1 Force Majeure. 68 13.2 Change in Control of Harpoon. 68 13.3 Export Control. 69 13.4 Assignment. 69 13.5 Severability. 70 13.6 Governing Law, Jurisdiction and Service. 70 13.7 Dispute Resolution. 70 13.8 Notices. 71 13.9 Entire Agreement; Amendments. 72 13.10 English Language. 72 13.11 Equitable Relief. 72 13.12 Waiver and Non-Exclusion o",
     "start": 3343,
-    "end": 4154
+    "end": 4154,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement.txt",
-  "_char_count": 249551
+  "_char_count": 249551,
+  "_provenance": {}
 }

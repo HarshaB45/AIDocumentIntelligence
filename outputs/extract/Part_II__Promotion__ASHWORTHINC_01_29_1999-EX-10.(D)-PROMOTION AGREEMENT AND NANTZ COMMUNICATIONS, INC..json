@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "JAMES W. NANTZ III",
+    "NANTZ COMMUNICATIONS",
+    "INC",
+    "AGREEMENT"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, as provided herein,     if this Agreement is terminated prior to May 30, 2001.16.  The second Option to purchase up to an additional 40,000 shares upon     payment of the aggregate Option Share Price for the number of Shares so     purchased shall become exercisable on June 1, 2000, unless this Agreement     is terminated as provided herein prior to such date, in which case this     Option shall be canceled.  Once exercisable, this Option may be exercised     in full or in any number of partial exercises or in combination with the     full or partial exercise of any other Option for a period terminating upon     the earlier to occur of (A) the fifth anniversary of the initial     exercisability date or (B) the date of termination of this Agreement, as     provided herei",
+    "start": 12121,
+    "end": 12932,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Promotion__ASHWORTHINC_01_29_1999-EX-10.(D)-PROMOTION AGREEMENT AND NANTZ COMMUNICATIONS, INC..txt",
+  "_char_count": 25225,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
+}

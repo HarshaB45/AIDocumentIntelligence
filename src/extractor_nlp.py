@@ -12,8 +12,8 @@ US_STATES = {"Delaware","California","New York","Texas","Florida","Washington","
 COUNTRIES = {"United States","Singapore","India","United Kingdom","Canada","Germany","France"}
 
 def nlp_parties(text: str) -> Optional[List[str]]:
-    # Parties often appear early; scan first 6k chars
-    doc = nlp()(text[:6000])
+    # Limit to the first 3000 chars (faster; parties usually up front)
+    doc = nlp()(text[:3000])
     orgs = [ent.text.strip() for ent in doc.ents if ent.label_ in ("ORG","PERSON")]
     uniq = []
     for x in orgs:
@@ -31,8 +31,8 @@ def nlp_governing_law(text: str) -> Optional[str]:
             if s.lower() in cand.lower():
                 return s
         return cand
-    # fallback: NER for places
-    doc = nlp()(text)
+    # fallback: NER (scan is cheap; small model)
+    doc = nlp()(text[:4000])
     for ent in doc.ents:
         if ent.label_ in ("GPE","LOC") and ent.text in (US_STATES | COUNTRIES):
             return ent.text

@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Life Insurance Company",
+    "Thrivent Life Insurance Company",
+    "Lutheran Brotherhood VariableInsurance Products Company",
+    "Thrivent Financial forLutherans"
+  ],
+  "effective_date": "July 1, 2019",
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Part_I__Endorsement__ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement.txt",
+  "_char_count": 4726,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
+}

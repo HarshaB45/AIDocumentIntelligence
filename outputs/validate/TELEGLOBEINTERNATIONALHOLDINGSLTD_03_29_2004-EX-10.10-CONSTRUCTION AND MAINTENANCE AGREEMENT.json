@@ -4,36 +4,26 @@
     "individually called \"Party\")"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Singapore",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement, the owner of the respective Segment T, with the agreement of the Parties hereto, shall take all necessary   23\n\n\n\n\n\n  measures to ensure that the Terminal Station in question will be available for the APCN 2 for the duration of this Agreement on fair and equitable terms. If the Terminal Station in question is not available for the landing and terminating of the APCN 2 for any reason, the owner of the Terminal Station shall provide reasonable advance notice to all Parties and such owner, in agreement with the Parties hereto, shall take all necessary measures to ensure that another appropriate Terminal Station will be available for the APCN 2 for the duration of this Agreement on terms and conditions similar to those contained in this Agreement. Applicable costs to the Pa",
     "start": 51446,
-    "end": 52257
+    "end": 52257,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt",
   "_char_count": 94266,
-  "payment_net_days": null,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
   "_issues": [
     {
-      "field": "effective_date",
       "type": "MISSING",
-      "detail": "Required field 'effective_date' is missing"
-    },
-    {
-      "field": "governing_law",
-      "type": "MISSING",
-      "detail": "Required field 'governing_law' is missing"
-    },
-    {
-      "field": "payment_terms",
-      "type": "MISSING",
-      "detail": "Required field 'payment_terms' is missing"
-    },
-    {
-      "field": "termination_clause",
-      "type": "AMBIGUOUS",
-      "detail": "Ambiguous language found: reasonable"
+      "field": "payment_terms"
     }
   ]
 }

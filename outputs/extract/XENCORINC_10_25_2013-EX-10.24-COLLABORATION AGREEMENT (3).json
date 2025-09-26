@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "Payment Terms\n\n  21\n\n\n\n\n\n\n\n\n\n\n\n 5.2.5   License\n\n  21\n\n\n\n\n\n\n\n\n\n  5.3\n\n  Acknowledgement\n\n  21\n\n\n\n\n\n\n\n  6\n\n  Representations, Warranties and Indemnification\n\n  22\n\n  6.1\n\n  Mutual Representations, Warranties and Covenants\n\n  22\n\n  6.2\n\n  XENCOR Warranties\n\n  22\n\n  6.3\n\n  BII Warranties\n\n  22\n\n  6.4\n\n  Process for Defense of Infringement of Third Party Intellectual Property\n\n  23\n\n  6.5\n\n  Disclaimer of Warranties\n\n  24\n\n    3\n\n\n\n\n\n\n\n                                                       7\n\n  Liability, Indemnification, Limitations and Insurance\n\n  24\n\n  7.1\n\n  General\n\n  24\n\n  7.2\n\n  Liability",
     "start": 4014,
-    "end": 4614
+    "end": 4614,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "Termination\n\n  30\n\n  10.1\n\n  Term\n\n  30\n\n  10.2\n\n  Termination of this Agreement\n\n  30\n\n\n\n 10.2.1\n\n\n\n 30\n\n\n\n\n\n\n\n\n\n 10.2.2\n\n\n\n 30\n\n\n\n\n\n\n\n  10.3\n\n  Effects of Termination of this Agreement\n\n  31\n\n\n\n\n\n\n\n\n\n 10.3.2\n\n\n\n 31\n\n\n\n\n\n\n\n\n\n 10.3.3\n\n\n\n 32\n\n\n\n\n\n\n\n  10.4\n\n  Surviving Provisions\n\n  32\n\n\n\n\n\n\n\n  11\n\n  Miscellaneous\n\n  32\n\n  11.1\n\n  Force Majeure\n\n  32\n\n  11.2\n\n  Conflict with Improvements under the MTA\n\n  33\n\n  11.3\n\n  Secrecy Agreement between the Parties\n\n  33\n\n  11.4\n\n  Publicity\n\n  33\n\n  11.5\n\n  Notices\n\n  33\n\n  11.6\n\n  Applicable Law and Arbitration\n\n  34\n\n  11.7\n\n  Entire Agreement\n\n  34\n\n  11.8\n\n  Waiver; Amendment\n\n  34\n\n  11.9\n\n  Severability\n\n  35\n\n  11.10\n\n  Dispute Resolution\n\n  35\n\n  11.11\n\n  Assignment\n\n  35\n\n  11.12\n\n  Independent Contractors\n\n  35\n\n  11.13\n\n  Counterparts\n\n  35\n\n    4",
     "start": 5260,
-    "end": 6071
+    "end": 6071,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "XENCORINC_10_25_2013-EX-10.24-COLLABORATION AGREEMENT (3).txt",
-  "_char_count": 140106
+  "_char_count": 140106,
+  "_provenance": {}
 }

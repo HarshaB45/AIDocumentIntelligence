@@ -4,13 +4,20 @@
     "Timothy Cabrera (hereinafter the \"Consultant\")"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination shall be the date such notice is received (by mail, overnight delivery, or fax) by the terminated Party. 3. CONSULTING SERVICES. During the term of this Agreement, Consultant will perform the services described below (the \"Consulting Services\") for the Company. (a) Transactional Business (i) Further development of the business plan for the Company's subsidiaries; and 1 ____ ____\n\n\n\n\n\n(ii) Seek and advise the Company on the acquisition of potential products for the Company's subsidiaries; and (iii) Assist in negotiating acquisition or merger consideration as required by the Company; and (iv) Setting up meetings between the Company and acquisition candidates and arranging other liaisons between them; and (v) Assist the Company with certain day to day tasks of managing the Company's subsidia",
     "start": 2234,
-    "end": 3045
+    "end": 3045,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT.txt",
-  "_char_count": 20805
+  "_char_count": 20805,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

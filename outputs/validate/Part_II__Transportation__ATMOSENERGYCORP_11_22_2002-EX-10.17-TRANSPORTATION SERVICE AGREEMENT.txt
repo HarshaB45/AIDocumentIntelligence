@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Transporter",
+    "Shipper concerning the                  subject matter hereof and supersedes all prior understandings                  and written and oral agreements relative to said matter"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination date: sixty (60) days for                  interruptible transportation under Rate Schedule ITS and 180                  days for firm transportation under Rate Schedule FTS.         5.2      Any portions of this Agreement necessary to balance receipts                  and deliveries under this Agreement as required by the FTS/ITS                  Rate Schedule, shall survive the other parts of this Agreement                  until such time as such balancing has been accomplished.                                   ARTICLE VI                           RATE SCHEDULE AND CHARGES         6.1      Shipper shall pay Transporter for the service hereunder an                  amount determined in accordance with Transporter's FTS/ITS                  Rate Schedule, and the General Terms and Condi",
+    "start": 4558,
+    "end": 5369,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Transportation__ATMOSENERGYCORP_11_22_2002-EX-10.17-TRANSPORTATION SERVICE AGREEMENT.txt",
+  "_char_count": 23700,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "CytoDyn",
+    "Vyera"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.1.18 “Calendar Year” means the twelve-month period ending on December 31; provided, however, that (a) the first Calendar Year of the Term shall beginon the Effective Date and end on December 31, 2019; and (b) the last Calendar Year of the Term shall end on the effective date of expiration or terminationof this Agreement.1.19 “Change of Control” means, with respect to Vyera, (a) the sale of all or substantially all of its assets; (b) any merger, consolidation or acquisition ofVyera, by or into another Person; and/or (c) any change in the ownership of more than fifty percent (50%) of the voting capital stock of Vyera or its director indirect parent entities, other than: (i) transactions involving solely Vyera (or an Affiliate, as applicable) and/or one or more Affiliates,",
+    "start": 5329,
+    "end": 6140,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement.txt",
+  "_char_count": 157522,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

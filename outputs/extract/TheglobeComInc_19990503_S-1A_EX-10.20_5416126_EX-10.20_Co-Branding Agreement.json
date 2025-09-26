@@ -4,17 +4,26 @@
     "The Boxlot Company"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": {
     "text": "PAYMENT TERMS.\n\n     6.1  Payments.  The parties shall make the payments described in Exhibit A. Overdue payments shall accrue interest, at the lesser of 1 1/2% per month or the maximum allowable interest under applicable law, from due date until paid, and the owing party shall pay the owed party's costs of collection (including reasonable attorneys' fees).\n\n     6.2  Taxes.  All fees and payments stated herein exclude, and the party making payment shall pay, any sales, use or other tax related to the parties' performance of their obligations or exercise of their rights under this Agreement, e",
     "start": 16151,
-    "end": 16751
+    "end": 16751,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "TERMINATION.\n\n     8.1  Term.  This Agreement will become effective on the Effective Date and will continue in effect for 2 years following the Launch Date.\n\n     8.2  Termination for Failure to Perform.  By providing written notice, a party may immediately terminate this Agreement: (a) if the other party materially breaches this Agreement and fails to cure that breach within 15 days after receiving written notice of the breach, or (b) as provided in Sections 2.6  [Boxlot Content] or 12.7  [Force Majeure] or Exhibit B.  In addition, by providing written notice, theglobe may immediately terminate this Agreement, or at its option immediately suspend its promotion and other efforts hereunder, in the case of Boxlot's breach of Section 12.1  [Compliance with Laws].\n\n     8.3  Termination for Change of Con",
     "start": 19558,
-    "end": 20369
+    "end": 20369,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.txt",
-  "_char_count": 48004
+  "_char_count": 48004,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

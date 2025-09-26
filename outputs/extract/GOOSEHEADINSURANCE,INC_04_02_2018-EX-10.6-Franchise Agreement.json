@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination 43 18 Obligations Upon Termination Or Expiration 46 19 Covenants 49 20 Taxes, Permits, And Indebtedness 51 21 Independent Contractor And Indemnification 52 22 Force Majeure 53 23 Approvals And Waivers 54 24 Notices 54 25 Entire Agreement And Amendment 54 26 Severability And Construction 55 27 Applicable Law And Dispute Resolution 55 28 Acknowledgments 57 Exhibits A Declarations Page E ADA Certification B Guarantee, Indemnification, and Acknowledgement F1- 3 Sample Forms of Non-Disclosure and Non- Competition Agreements C List of Principals G Site Selection Addendum D ACH - Authorization Agreement for H Lease Rider Prearranged Payments (Direct Debits) I Promissory Note\n\ni\n\n\n\n\n\nGoosehead Insurance Agency, LLC Franchise Agreement THIS FRANCHISE AGREEMENT (the \"Agreement\") is made and entered",
     "start": 1306,
-    "end": 2117
+    "end": 2117,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement.txt",
-  "_char_count": 300768
+  "_char_count": 300768,
+  "_provenance": {}
 }

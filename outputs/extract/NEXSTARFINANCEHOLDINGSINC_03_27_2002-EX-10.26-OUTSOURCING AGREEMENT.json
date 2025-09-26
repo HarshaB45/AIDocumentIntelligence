@@ -4,13 +4,20 @@
     "by the rules"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Illinois",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement, WYZZ shall have the right, upon prior written request to Nexstar, to review all of the books and records of Nexstar relating to the BCF Report and the Distributions. Any such review must take place during normal business hours between Monday through Friday.\n\n            (f) The parties agree that, to the extent permitted by law and by the rules, regulations and policies of the FCC, the Stations shall be operated in a manner consistent with industry standards for commercial broadcast television stations providing general entertainment programming and with a view toward maximizing the combined broadcast cash flow of the Stations.\n\n            (g) Notwithstanding anything herein to the contrary, if, with respect to any month, the Section 2(a) Amount is a negative amount, t",
     "start": 13074,
-    "end": 13885
+    "end": 13885,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "NEXSTARFINANCEHOLDINGSINC_03_27_2002-EX-10.26-OUTSOURCING AGREEMENT.txt",
-  "_char_count": 120459
+  "_char_count": 120459,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

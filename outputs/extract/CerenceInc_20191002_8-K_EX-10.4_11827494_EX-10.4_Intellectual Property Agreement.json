@@ -4,13 +4,20 @@
     "Cerence Inc"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "TERMINATION\n\nSection 9.01. Termination by Both Parties 13 Section 9.02. Termination prior to the Distribution 13 Section 9.03. Effect of Termination; Survival 13\n\nARTICLE X FURTHER ASSURANCES\n\nSection 10.01. Further Assurances 13\n\nARTICLE XI MISCELLANEOUS\n\nSection 11.01. Counterparts; Entire Agreement; Corporate Power 14 Section 11.02. Dispute Resolution 14 Section 11.03. Governing Law; Jurisdiction 15 Section 11.04. Waiver of Jury Trial 15 Section 11.05. Court-Ordered Interim Relief 15 Section 11.06. Specific Performance 16 Section 11.07. Third-Party Beneficiaries 16 Section 11.08. Notices 16 Section 11.09. Import and Export Control 17 Section 11.10. Bankruptcy 17 Section 11.11. Severability 18 Section 11.12. Expenses 18 Section 11.13. Headings 18 Section 11.14. Survival of Covenants 18 Section 11.1",
     "start": 1582,
-    "end": 2393
+    "end": 2393,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt",
-  "_char_count": 62170
+  "_char_count": 62170,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

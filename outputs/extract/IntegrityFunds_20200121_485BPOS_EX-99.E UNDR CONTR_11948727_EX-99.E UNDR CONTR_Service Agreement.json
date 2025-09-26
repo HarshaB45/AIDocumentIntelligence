@@ -4,9 +4,14 @@
     "no orders for the purchase or sale of the Shares hereunder shall be accepted by the Fund if and so long as the effectiveness of the registration statement then in effect or any necessary amendments thereto shall be suspended under any of the provisions of the 1933 Act or if and so long as a current prospectus as required by Section 5(b)(2) of the 1933 Act is not on file with the SEC; provided"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement.txt",
-  "_char_count": 23845
+  "_char_count": 23845,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

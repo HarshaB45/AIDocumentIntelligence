@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "theglobe.com, Inc., with itsprincipal place of business at 31 West 21st Street, New York, NY  10010(\"theglobe\")",
+    "The Boxlot Company"
+  ],
+  "effective_date": null,
+  "governing_law": "New York",
+  "payment_terms": {
+    "text": "PAYMENT TERMS.     6.1  Payments.  The parties shall make the payments described in Exhibit A.Overdue payments shall accrue interest, at the lesser of 1 1/2% per month or themaximum allowable interest under applicable law, from due date until paid, andthe owing party shall pay the owed party's costs of collection (includingreasonable attorneys' fees).     6.2  Taxes.  All fees and payments stated herein exclude, and the partymaking payment shall pay, any sales, use or other tax related to the parties'performance of their obligations or exercise of their rights under thisAgreement, exclusive of",
+    "start": 15925,
+    "end": 16525,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "TERMINATION.     8.1  Term.  This Agreement will become effective on the Effective Date andwill continue in effect for 2 years following the Launch Date.     8.2  Termination for Failure to Perform.  By providing written notice, aparty may immediately terminate this Agreement: (a) if the other partymaterially breaches this Agreement and fails to cure that breach within 15 daysafter receiving written notice of the breach, or (b) as provided in Sections 2.6  [Boxlot Content]or 12.7  [Force Majeure] or Exhibit B.  In addition, by providing written notice, theglobe mayimmediately terminate this Agreement, or at its option immediately suspend itspromotion and other efforts hereunder, in the case of Boxlot's breach of Section12.1  [Compliance with Laws].     8.3  Termination for Change of Control.  By prov",
+    "start": 19268,
+    "end": 20079,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Co_Branding__TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.txt",
+  "_char_count": 47136,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": []
+}

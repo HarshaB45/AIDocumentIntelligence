@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Dova Pharmaceuticals, Inc., a Delaware corporation (“Dova”)",
+    "Valeant Pharmaceuticals NorthAmerica LLC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination for Cause.41Source: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018\f12.3 Other Early Termination.4212.4 Effects of Termination.4212.5 Tail Period.42iiCONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY FILED HEREWITH OMITS THE INFORMATIONSUBJECT TO A CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILEDSEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.Source: DOVA PHARMACEUTICALS INC., 10-Q, 11/8/2018\fTABLE OF CONTENTS(continued)12.6 Survival.43ARTICLE 13 MISCELLANEOUS4313.1 Force Majeure.4313.2 Assignment.4313.3 Severability.4413.4 Notices.4413.5 Governing Law.4513.6 Dispute Resolution.4513.7 Waiver of Jury Trial.4513.8 Entire Agreement; Amendments.4613.9 Headings.4613.10 Independent Contractors.4613.11 Thi",
+    "start": 3101,
+    "end": 3912,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Promotion__DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.txt",
+  "_char_count": 173038,
+  "_provenance": {}
+}

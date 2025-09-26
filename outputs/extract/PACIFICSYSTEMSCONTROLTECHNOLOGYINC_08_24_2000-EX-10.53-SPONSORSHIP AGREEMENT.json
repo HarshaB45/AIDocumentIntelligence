@@ -4,9 +4,14 @@
     "ACM"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "PACIFICSYSTEMSCONTROLTECHNOLOGYINC_08_24_2000-EX-10.53-SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 4066
+  "_char_count": 4066,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

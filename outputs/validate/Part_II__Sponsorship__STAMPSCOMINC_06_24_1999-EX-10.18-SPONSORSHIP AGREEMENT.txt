@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Intuit Inc. a Delaware corporation,located at 2550 Garcia Ave., Mountain View, California 94043 (\"Intuit\"), andStamps.com Inc., a Delaware corporation, located at 2900 31st Street, Suite 150,Santa Monica, CA 90405-3035 (\"Client\").                                   RECITALSA.   Intuit maintains sites on the Internet at http://www.quicken.com (the     \"Quicken.com Site\")",
+    "at http://www"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement for any reason.  No such audit may occur more     than once a year during the Term.9.   EXCLUSIVITY     Throughout the Term Intuit will not place, and will not allow any party     acting on its behalf to place, any graphic, link or other form of     advertising or media on any page of the Quicken.com Site and/or on any page     on the AOL.com Personal Finance Site (other than the Channel Home Page),     which markets or promotes any electronic postage product, postage meter\f     and/or service (\"Postage Products\") offered by a Client Competitor.     Notwithstanding the above, Intuit may include editorial content or tools     about or from a Client Competitor and include Client Competitors in     directory listings.10.  FEES10.1 Sponsorship, Advertising and Exclusivity Fe",
+    "start": 18322,
+    "end": 19133,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Sponsorship__STAMPSCOMINC_06_24_1999-EX-10.18-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 40119,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "ScanSource, Inc., a South Carolina corporation, with its principalplace of business at 6 Logue Court, Greenville, South Carolina, 29615 (\"Distributor\")",
+    "Cisco Systems"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": {
+    "text": "payment terms shall be [*****] days from shipping date. All payments shall be made in thecurrency in which the Price List is quoted for the applicable Purchase Order [*****].6.3 The purchase price does not include any federal, state or local taxes, or sales, use, excise, ad valorem, value-add, withholding or other taxes orduties that may be applicable to the purchase of Products. When Cisco has the legal obligation to collect such taxes, the appropriate amount shallbe added to Distributor's invoice and paid by Distributor, unless Distributor provides Cisco with a valid tax exemption certificat",
+    "start": 17151,
+    "end": 17751,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination) or asotherwise stated herein, for all price adjustment related credits requested by the Distributor to be granted by Cisco, the6.7 Distributor must make the initial credit request to Cisco, in writing, within [*****] of the underlying point of sale transaction. Any initial creditrequests submitted by the Distributor to Cisco greater than [*****] after the underlying point of sale transaction will not be honored by Cisco andCisco will not grant such credit to Distributor.7.0 PRICE PROTECTION.7.1 Definition: For purposes of this Section 7.0, Products \"In-Transit\" shall be defined as all Products with a particular Cisco part number shippedby Cisco to Distributor in the [*****] day period prior to the date on which Cisco announces a general price decrease for Products with such partnumber, e",
+    "start": 19049,
+    "end": 19860,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Distributor__ScansourceInc_20190822_10-K_EX-10.38_11793958_EX-10.38_Distributor Agreement1.txt",
+  "_char_count": 82872,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

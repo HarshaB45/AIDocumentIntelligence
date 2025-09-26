@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "ANDY NORTH",
+    "GOLFERS INCORPORATED"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination/Remedies \n  Company’s Debts \nIndemnification \nInsurance \n\n  Waiver \n  Notices \n  Assignment \n\nIndependent Contractor \nJoint Venture \n  Governing Law \n  Entire Agreement \n  Amendments \n  Authority \n  Severability \n  Compliance with Laws \n  Attorney’s Fees and Costs \n  Force Majeure \n  Confidentiality \n  Counterparts \n\nPage 2 of 12\n\nPage \n\n3 \n4 \n4 \n4 \n4 \n5 \n6 \n7 \n8 \n8 \n8 \n8 \n9 \n9 \n9 \n9 \n9 \n10 \n10 \n10 \n10 \n10 \n10 \n10 \n11 \n11 \n11 \n11 \n11 \n11 \n11 \n\nSource: PERFORMANCE SPORTS BRANDS, INC., S-1, 9/9/2011  \n \n  \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fENDORSEMENT AGREEMENT \n\nTHIS ENDORSEMENT AGREEMENT (herein the “Agreement”) is effective on this 21s t day of February 2011, by and between Golfers \nIncorporated, a Delaware Corporation, having a maili",
+    "start": 625,
+    "end": 1436,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Endorsement__PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.txt",
+  "_char_count": 27497,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

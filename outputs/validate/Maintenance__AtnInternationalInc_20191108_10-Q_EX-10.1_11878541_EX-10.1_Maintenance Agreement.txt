@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Commnet Wireless, LLC, a Delaware limited liability company(hereinafter referred to as “Vendor”)",
+    "AT&T Mobility LLC"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the last Addendum to expire orbe terminated, at which time this Agreement will expire, unless this Agreement is sooner terminated inaccordance with the terms and provisions of this Agreement.2.0 Definitions2.1 Affiliate. “Affiliate” of a Person means any other Person, directly or indirectly, through one or moreintermediaries, Controlling, Controlled by or under common Control with such Person or any otherPerson in which such Person beneficially owns a majority of the outstanding capital stock, membershipinterests or partnership interests.Proprietary and ConfidentialThis Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, andthird party representatives, and Vendor except under written agreement by the contracting parties.1stSource: A",
+    "start": 7838,
+    "end": 8649,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Maintenance__AtnInternationalInc_20191108_10-Q_EX-10.1_11878541_EX-10.1_Maintenance Agreement.txt",
+  "_char_count": 225447,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

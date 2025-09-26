@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "the Projects.ii.Dispute Resolution. Assist the Parties in resolving any disputes.(e)Votes. Each Party only gets one vote on the SC regardless of the number of SC members it appoints. Except asotherwise stated in this Agreement, all decisions by the SC will be by unanimous agreement. In the absence ofunanimity, ExxonMobil’s SC representatives will have final decision making authority with respect to only thefollowing decisions required by the SC: whether",
+    "where to seek patent protection and whether to maintainpatent assets"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of New York without recourse to its conflicts of law rules",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination), and 12.05 (Bankruptcy)), non-transferable (except pursuant to Article 14 (Assignment)) right and license to practice ExxonMobilBackground Information and ExxonMobil Background Patents for Generation 1 Technology in anyapplications outside of Carbon Capture Applications. More particularly, said right and license topractice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 1Technology in any applications outside of Carbon Capture Applications includes the right to use,reproduce, and create derivative works of ExxonMobil Background Information under applicablecopyrights and the right to make, use, import, and sell or offer to sell under the claims of ExxonMobilBackground Patents. All rights and licenses in this Paragraph (b)(1)(i) may be extended to contrac",
+    "start": 33223,
+    "end": 34034,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
+  "_char_count": 103782,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

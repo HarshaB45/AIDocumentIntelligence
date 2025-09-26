@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "CEIS",
+    "XFN and     supersedes any prior written or oral agreement between them in relation to     its subject matter"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination..........................................................     59.  Further Assurance....................................................     610. Entire Agreement; Amendments.........................................     611. Severance............................................................     612. No Waiver............................................................     613. Costs And Expenses...................................................     614. Counterparts.........................................................     615. Notice...............................................................     616. Governing Law And Arbitration........................................     7Execution................................................................     8Schedule 1 - Contents",
+    "start": 1628,
+    "end": 2439,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__XinhuaSportsEntertainmentLtd_20070221_F-1_EX-99.4_645553_EX-99.4_Content License Agreement.txt",
+  "_char_count": 18739,
+  "_provenance": {}
+}

@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the Company",
+    "the Agent (a copyof which is attached  hereto as Exhibit A)"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination  or  abandonment  of the Plan by the Company or upontermination  of the  Offering,  but in no event  later  than the date  (the \"EndDate\") which is 45 days after the Closing  Date (as  hereinafter  defined).  Allfees or  expenses  due to the Agent but  unpaid  will be payable to the Agent innext day funds at the earlier of the Closing  Date (as  hereinafter  defined) orthe End Date.  In the event the  Offering is extended  beyond the End Date,  theCompany, the MHC, the Bank and the Agent may agree to renew this Agreement undermutually acceptable terms.         In the event the Company is unable to sell a minimum of 708,050  Shareswithin the period  herein  provided,  this  Agreement  shall  terminate  and theCompany shall refund to any persons who have  subscribed  for any of the Shares,t",
+    "start": 6685,
+    "end": 7496,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_III__Agency Agreements__ALAMOGORDOFINANCIALCORP_12_16_1999-EX-1-AGENCY AGREEMENT.txt",
+  "_char_count": 141232,
+  "_provenance": {}
+}

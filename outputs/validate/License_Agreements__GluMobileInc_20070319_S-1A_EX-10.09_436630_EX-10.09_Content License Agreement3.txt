@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "Fox Mobile Entertainment, Inc. (“Fox”), as Administrator forTwentieth Century Fox Film Corporation (“Trademark Licensor”)",
+    "Glu Mobile"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "License_Agreements__GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3.txt",
+  "_char_count": 3367,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement.   CERTAIN PORTIONS OF THIS EXHIBIT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT UNDER RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF 1934. OMISSIONS ARE DESIGNATED [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION. 9\n\n\n\n\n\n    6.6 Recall. In the event that either Party believes it may be necessary to conduct a recall, field correction, market withdrawal, stock recovery, or other similar action with respect to any Product which was sold under this Agreement (a \"Recall\"), CARDAX and CAPSUGEL shall promptly consult with each other in good faith as to how best to proceed, it being understood and agreed that the final decision as to any Recall of any Product sold by Marketer(s) shall be made",
     "start": 24974,
-    "end": 25785
+    "end": 25785,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.txt",
-  "_char_count": 56539
+  "_char_count": 56539,
+  "_provenance": {}
 }

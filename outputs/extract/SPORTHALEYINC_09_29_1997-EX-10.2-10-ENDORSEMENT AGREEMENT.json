@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination or          expiration of this Agreement, the Company shall cease usage of all           publicity, promotion and advertising materials which contain the          Professional's Image, it being the understanding of the parties that          during such 90-day period the Company shall have the right to use           such remaining publicity, promotion or advertising materials as shall          then be available to the Company.\n\n    7.   NOTICE. All notices and communications required or permitted to be          given hereunder shall be in writing, signed by the sender, and           delivered by registered or certified mail to:\n\n    If to the Company:       Robert G. Tomlinson, Chairman and CEO                              Sport-Haley, Inc.                              4600 East 48th Avenu",
     "start": 7544,
-    "end": 8355
+    "end": 8355,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "SPORTHALEYINC_09_29_1997-EX-10.2-10-ENDORSEMENT AGREEMENT.txt",
-  "_char_count": 11930
+  "_char_count": 11930,
+  "_provenance": {}
 }

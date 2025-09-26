@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "TWENTIETHCENTURY FOX LICENSING & MERCHANDISING, a division of Fox Entertainment Group, Inc. (“Fox”), as Administrator for Twentieth Century FoxFilm Corporation (“Trademark Licensor”)",
+    "Sorrent"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms. Payment of all royalties and other payments by either party to the other shall be made in United States Dollars by check or wiretransfer to a bank account to be designated by the receiving party. Payment of all royalties shall be made without deduction, reduction or set-off ofany kind, provided that the paying party shall be permitted to deduct withholding taxes as permitted by applicable law. Each party agrees that itshall not be entitled to withhold any portion of the royalties as a reserve. Each party agrees to provide the other with all necessary withholding taxforms.(d) Acc",
+    "start": 38886,
+    "end": 39486,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of Licensee’s exclusivity for Licensee’s failure to achievethe Market Penetration Targets, Fox shall not distribute the Wireless Products which have been developed by Licensee prior to suchtermination, without first obtaining a license from Licensee on terms to be mutually agreed in each party’s reasonable discretion, for theexploitation of the Licensee Materials.(2) Targeted Releases: Fox acknowledges that Licensee may not be able to secure placement of all Targeted Releases at the levels set forth forthe Market Penetration Targets defined in the previous sub-Paragraph. Notwithstanding the foregoing, Licensee shall use all commerciallyreasonable efforts to secure the widest possible distribution of the Wireless Products derived from the Targeted Releases in Europe.(ii) VGSL and T-Mobile",
+    "start": 21901,
+    "end": 22712,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement1.txt",
+  "_char_count": 110805,
+  "_provenance": {}
+}

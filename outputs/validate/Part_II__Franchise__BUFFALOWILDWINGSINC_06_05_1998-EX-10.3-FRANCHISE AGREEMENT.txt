@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "bw-3 FRANCHISE SYSTEMS, INC. an Ohio corporation whichhas its principal place of business at 1919 Interchange Tower, 600 South Highway169, Minneapolis, Minnesota 55426 (\"we\" or \"us\")",
+    "_________________________________________________________________________________________________________________________________________________________________________________________________________ (\"you\")"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION. . . . . . . . . . . . . . . . . . . . . . . 20XVII.  RIGHTS AND DUTIES OF PARTIES UPON EXPIRATION OR       TERMINATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23XVIII. TRANSFERABILITY OF INTEREST. . . . . . . . . . . . . . . . . . . . . 24XIX.   YOUR DEATH OR INCAPACITY . . . . . . . . . . . . . . . . . . . . . . 26XX.    RIGHT OF FIRST REFUSAL . . . . . . . . . . . . . . . . . . . . . . . 26XXI.   OPERATION IN THE EVENT OF ABSENCE, DISABILITY OR DEATH . . . . . . . 26XXII.  INDEPENDENT CONTRACTOR AND INDEMNIFICATION . . . . . . . . . . . . . 27XXIII. MISCELLANEOUS. . . . . . . . . . . . . . . . . . . . . . . . . . . . 27XXIV.  APPLICABLE LAW . . . . . . . . . . . . . . . . . . . . . . . . . . . 29XXV.   DISPUTE RESOLUTION . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start": 1584,
+    "end": 2395,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Franchise__BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT.txt",
+  "_char_count": 151782,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

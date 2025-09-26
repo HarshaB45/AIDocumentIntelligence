@@ -1,0 +1,40 @@
+{
+  "parties": [
+    "Bunker One (USA) Inc., with principal offices located at 107 St.Francis Street, Mobile, AL 36602 (”Bunker One\")",
+    "Vertex Energy Operating"
+  ],
+  "effective_date": null,
+  "governing_law": "Texas",
+  "payment_terms": {
+    "text": "Payment term.4.1.Payment by Bunker One for the Product, as defined in clause 2.1, will be made by wire transfer within three (3) Business Days after thedate Vertex invoices Bunker One, to an account desig- nated from time to time by Vertex.4.2.On or before the seventh (7th) Business Day after the end of each quarter during the Fiscal Year May 1- April 30) Bunker One shallprepare and send to Vertex the detailed ledger statement for the immediately preceding quarter. If any such quarterly detailed ledgerstatement, or the final detailed ledger statement issued by Bunker One, shows positive Remain",
+    "start": 17269,
+    "end": 17869,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of all resale andhedge transactions entered into during the term of this Agreement, Bunker One shall issue a final detailed ledger Statement. If theRemaining Exposure shown on such final detailed ledger Statement is less than zero then Vertex shall pay [****] percent ([****]%) ofsuch amount to Bunker One. If the Remaining Exposure shown on such final detailed ledger Statement is greater than zero then BunkerOne shall pay [****] percent ([****]%) of such amount to Vertex.4.5.Payment for any amounts due in accordance with the above shall be made within three (3) Business Days after the date of the applicabledetailed ledger Statement. If any detailed ledger State- ment is disputed in good faith, the Party owing money will pay the undisputedportion by the due date and will by such due date pr",
+    "start": 20586,
+    "end": 21397,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Marketing__VertexEnergyInc_20200113_8-K_EX-10.1_11943624_EX-10.1_Marketing Agreement.txt",
+  "_char_count": 44512,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "AMBIGUOUS",
+      "field": "termination_clause",
+      "reason": "Ambiguous language detected",
+      "span": {
+        "start": 20586,
+        "end": 21397
+      }
+    }
+  ]
+}

@@ -4,13 +4,20 @@
     "EuroMedia Holdings Corp"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Canada",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination or expiration of this Agreement, Rogers shall either return to Licensor all such Masters then in its possession, or issue a certificate of erasure.     (b) To the extent any Master delivered by Licensor hereunder is determined by Rogers, in its sole discretion, acting reasonably, to be defective: (i) Licensor shall forthwith provide Rogers with a replacement Master; and (ii) if Rogers is unable to distribute and/or exhibit the Licensed Program on the availability date as a result of the defectiveness of any such Master, the License Fee payable in respect of such Licensed Program shall be reduced by 10% for the balance of the License Period.     9. TECHNICAL STANDARDS.   In carrying out its obligations hereunder, Licensor agrees to comply with Rogers' technical standards for materials, as",
     "start": 8821,
-    "end": 9632
+    "end": 9632,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt",
-  "_char_count": 30050
+  "_char_count": 30050,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

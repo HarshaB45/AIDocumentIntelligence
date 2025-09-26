@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination or expiration of this Agreement, and will include any amounts due: for the last month that the Programming is available, prorated based on the number of days in such final period.\n\n(c) Other Exceptions. All payments hereunder are exclusive of: (i) any trial or promotional periods during which a Subscriber receives access to the Programming before such Subscriber's credit card is charged; and (ii) refunds, charge backs and fees attributable to contested credit card transactions\n\n(d) Summary of Timing. The parties acknowledge the following that establishes timing of payments: (1) Distributor receives a carrier statement saying how much Distributor will be paid; (2) 30-45 days later the Carrier pays Distributor; (3) when Distributor is paid by a carrier, Distributor makes royalty payments to",
     "start": 19120,
-    "end": 19931
+    "end": 19931,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "GlobalTechnologiesGroupInc_20050928_10KSB_EX-10.9_4148808_EX-10.9_Content License Agreement.txt",
-  "_char_count": 39596
+  "_char_count": 39596,
+  "_provenance": {}
 }

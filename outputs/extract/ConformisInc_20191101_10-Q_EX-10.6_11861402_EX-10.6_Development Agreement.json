@@ -4,13 +4,20 @@
     "Conformis"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination Notice\" means a written notice delivered by one Party to the other Party of its election to terminate this   Agreement pursuant to Article VIII.   \"Third Party\" has the meaning set forth in the Asset Purchase Agreement.   \"Trademarks\" has the meaning set forth in the Asset Purchase Agreement.   \"Transferred IP\" has the meaning set forth in the Asset Purchase Agreement.   \"Triathlon\" has the meaning set forth in the Asset Purchase Agreement.   \"Wire Instructions\" has the meaning set forth in the Asset Purchase Agreement.   7   Source: CONFORMIS INC, 10-Q, 11/1/2019\n\n\n\nARTICLE II   RESEARCH AND DEVELOPMENT PROGRAM   2.1 R&D Work Plan. The Parties agree to conduct the R&D Program pursuant to the R&D Work Plan and to perform   their respective obligations therein. To the extent Conformis' per",
     "start": 11725,
-    "end": 12536
+    "end": 12536,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.txt",
-  "_char_count": 63217
+  "_char_count": 63217,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

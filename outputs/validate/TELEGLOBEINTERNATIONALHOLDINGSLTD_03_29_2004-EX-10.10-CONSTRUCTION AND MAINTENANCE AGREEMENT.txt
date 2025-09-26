@@ -1,0 +1,35 @@
+{
+  "parties": [
+    "and among the Parties signatory hereto (hereinafter collectively called \"Parties\"",
+    "individually called \"Party\")"
+  ],
+  "effective_date": null,
+  "governing_law": "Singapore",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, the owner of the respective Segment T, with the agreement of the Parties hereto, shall take all necessary   23\n\n\n\n\n\n  measures to ensure that the Terminal Station in question will be available for the APCN 2 for the duration of this Agreement on fair and equitable terms. If the Terminal Station in question is not available for the landing and terminating of the APCN 2 for any reason, the owner of the Terminal Station shall provide reasonable advance notice to all Parties and such owner, in agreement with the Parties hereto, shall take all necessary measures to ensure that another appropriate Terminal Station will be available for the APCN 2 for the duration of this Agreement on terms and conditions similar to those contained in this Agreement. Applicable costs to the Pa",
+    "start": 51446,
+    "end": 52257,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "TELEGLOBEINTERNATIONALHOLDINGSLTD_03_29_2004-EX-10.10-CONSTRUCTION AND MAINTENANCE AGREEMENT.txt",
+  "_char_count": 94266,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "GOVERNING_LAW_INCONSISTENT",
+      "party_key": "AND AMONG THE PARTIES SIGNATORY HERETO (HEREINAFTER COLLECTIVELY CALLED \"PARTIES | INDIVIDUALLY CALLED \"PARTY",
+      "value": "Singapore",
+      "party_mode": "Switzerland"
+    }
+  ]
+}

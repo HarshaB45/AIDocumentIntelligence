@@ -4,13 +4,20 @@
     "(ii) limit any Party's ability to comply with any subpoena or other legal process or respond to a request for information from any governmental authority with jurisdiction over the party from whom information is sought"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of registration; (viii) seek, alone or in concert with others, representation on the Board, except as specifically permitted in Section 1; (ix) subject to Section 3(b) below, advise, knowingly encourage, knowingly support or knowingly influence any person or entity, in the MG Capital Parties' capacity as stockholders of the Company, with respect to the voting or disposition of any securities of the Company at any annual or special meeting of stockholders with respect to the appointment, election or removal of any director(s), except in accordance with Section 1; (x) make any request for stockholder list materials or other books and records of the Company in the MG Capital Parties' capacity as stockholders of the Company; (xi) institute, solicit, assist or join, as a party, any litigation,",
     "start": 17408,
-    "end": 18219
+    "end": 18219,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT.txt",
-  "_char_count": 54866
+  "_char_count": 54866,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

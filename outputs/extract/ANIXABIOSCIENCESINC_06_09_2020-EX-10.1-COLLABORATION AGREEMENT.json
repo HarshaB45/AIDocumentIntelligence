@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "Payment Terms. Payments to OntoChem will be made by check or by wire transfer of immediately available funds to such bank account as designated in writing by OntoChem from time to time. Taxes (and any penalties and interest thereon) imposed on any payment made by Anixa to OntoChem will be the responsibility of OntoChem. The fees for the respective bank transfers will be borne by Anixa.\n\n3.5 Financial Records. OntoChem will maintain complete and accurate books and accounting records related to all out-of-pocket expenses incurred in performing the Research Plan. These records will be available f",
     "start": 13498,
-    "end": 14098
+    "end": 14098,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of this Agreement or such longer period as may be required by applicable law or regulation.\n\n3\n\n\n\n\n\n2.8 Debarment. Each Party hereby represents and warrants to the other Party that neither it nor any of its Affiliates or personnel has been debarred under any health care laws or regulations and that, to its knowledge, no investigations, claims or proceedings with respect to debarment are pending or threatened against such Party or any of its Affiliates or personnel. Neither Party nor any of its Affiliates will use in any capacity, in connection with the Research Program, any person or entity who has been debarred. Each Party agrees and undertakes to promptly notify the other Party if such Party or any of its Affiliates or personnel becomes debarred or proceedings have been initiated agains",
     "start": 10074,
-    "end": 10885
+    "end": 10885,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ANIXABIOSCIENCESINC_06_09_2020-EX-10.1-COLLABORATION AGREEMENT.txt",
-  "_char_count": 40519
+  "_char_count": 40519,
+  "_provenance": {}
 }

@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "Beijing SINA Internet Information Service Co. (“Beijing SINA”)",
+    "Shanghai SINA Leju Information Technology Co"
+  ],
+  "effective_date": null,
+  "governing_law": "the PRC",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION AGREEMENT\n\nTHIS MUTUAL TERMINATION AGREEMENT (“Termination Agreement”) is made and entered into this day of , 2009, by and between\n\nBeijing SINA Internet Information Service Co. (“Beijing SINA”) and Shanghai SINA Leju Information Technology Co. Ltd. (“SINA Leju”).\n\nWITNESSETH:\n\nWHEREAS, Beijing SINA and SINA Leju entered into that certain Domain Name License Agreement dated May 8, 2008 (the “Original\n\nAgreement”); and\n\nWHEREAS, Beijing SINA and SINA Leju desire to mutually terminate the Original Agreement effective as of the date of this Termination\n\nAgreement.\n\nNOW, THEREFORE, in consideration of the mutual covenants and conditions contained herein, and other good and valuable\n\nconsideration, receipt of which is hereby acknowledged by each of the parties hereto, the parties agree as foll",
+    "start": 18,
+    "end": 829,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement2.txt",
+  "_char_count": 2304,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

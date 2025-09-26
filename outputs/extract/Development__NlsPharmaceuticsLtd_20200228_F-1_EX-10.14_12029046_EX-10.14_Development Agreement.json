@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the date atwhich the outstanding amount was due for payment to Licensor",
+    "the date is actually paid"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination for Change of Control1819.3.Termination for Bankruptcy, Liquidation and similar proceedings1819.4.Early Termination for Material Breach1819.5.Early Termination by the Licensor1919.6.Early Termination by the Licensee1919.7.Consequences of Expiration or Termination2020.General Provisions2020.1.Amendments2020.2.Notices2020.3.Severability / Good Faith2020.4.No Waiver2120.5.No Assignment2120.6.Appendices2120.7.Public Announcements2121.Governing Law and Jurisdiction21Table of Appendices23Appendix A – [Template for Licensee Reports]24Appendix B – Preliminary Business Plan25Appendix C*– Purpose of the JSC pre and post MA* No such appendix completed by the parties.iiSource: NLS PHARMACEUTICS LTD., F-1, 2/28/2020\fLicense and Development AgreementWHEREASA.NLS carries on the business of researching,",
+    "start": 1892,
+    "end": 2703,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__NlsPharmaceuticsLtd_20200228_F-1_EX-10.14_12029046_EX-10.14_Development Agreement.txt",
+  "_char_count": 66476,
+  "_provenance": {}
+}

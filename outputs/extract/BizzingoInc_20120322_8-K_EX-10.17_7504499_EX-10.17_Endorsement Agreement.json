@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of the preceding  full calendar quarter. The foregoing notwithstanding, if this Agreement is terminated in accordance with the provisions herein  during a Royalty Period, the Royalty shall be calculated up to and including the Termination Date and payment of the Royalty shall  be made as provided herein. c. For each Royalty Period, Bizzingo shall provide Theismann with a written royalty statement in a form acceptable to Theismann  certified by a duly authorized officer of Bizzingo. d. Theismann shall be responsible for all federal, state and local taxes related to the Royalty.\n\n2\n\nSource: BIZZINGO, INC., 8-K, 3/22/2012\n\n\n\n\n\n   4. PROMOTIONAL APPEARANCES.  In addition to the other terms and conditions herein, during the Term, Theismann also will;\n\n   Bizzingo recognizes that Theismann's sc",
     "start": 5089,
-    "end": 5900
+    "end": 5900,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BizzingoInc_20120322_8-K_EX-10.17_7504499_EX-10.17_Endorsement Agreement.txt",
-  "_char_count": 24223
+  "_char_count": 24223,
+  "_provenance": {}
 }

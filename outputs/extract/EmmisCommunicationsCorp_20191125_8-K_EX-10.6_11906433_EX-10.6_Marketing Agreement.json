@@ -4,13 +4,20 @@
     "WBLS-WLIB LLC"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination or expiration of the Studio Lease (defined below), (iii) election to terminate and notice thereof given by Programmer to Licensee, and (iv) mutual written consent of Licensee and Programmer (the \"Term\"), unless extended or earlier terminated pursuant to Section 11 hereof. The term \"Studio Lease\" means that certain Lease dated as of February 23, 1996 of certain real estate located on the 7th Floor of an office building located at 395 Hudson St., New York, New York.\n\n2. Programmer's Use of Airtime and Provision of Programming. During the Term, and subject in all respects to Section 6 hereof, Programmer shall be entitled to simulcast the programming of WLIB (the \"WLIB Programs\") on the HD2 Channel, excluding the period from 6:00 a.m. to 8:00 a.m. each Sunday morning, on the terms specified b",
     "start": 1519,
-    "end": 2330
+    "end": 2330,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "EmmisCommunicationsCorp_20191125_8-K_EX-10.6_11906433_EX-10.6_Marketing Agreement.txt",
-  "_char_count": 17300
+  "_char_count": 17300,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

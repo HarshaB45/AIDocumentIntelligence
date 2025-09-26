@@ -4,13 +4,20 @@
     "AMERICAN GENERAL LIFE INSURANCE COMPANY OF DELAWARE"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination (the \"Termination Date\"); PROVIDED, HOWEVER, that AIG agrees        not to terminate this Agreement unless (a) AIG significantly modifies        the corporate structure or ownership of the Company, or (b) AIG sells        the Company to an acquirer (i) having a rating from at least one of S&P,        Moody's, A.M. Best or a substitute agency, which is a nationally        recognized statistical rating organization, that is at least equal to        the lower of (x) AIG's then-current rating from such agency or (y) the        Company's then-current rating as supported by this Agreement from such        agency; or (ii) such that, immediately on the effective date of the sale        by AIG of the Company, the Company's capitalization is consistent with        the minimum capital adequacy stand",
     "start": 12343,
-    "end": 13154
+    "end": 13154,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "SEPARATEACCOUNTIIOFAGL_05_02_2011-EX-99.(J)(4)-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT.txt",
-  "_char_count": 20121
+  "_char_count": 20121,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

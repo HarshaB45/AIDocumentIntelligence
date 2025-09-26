@@ -4,13 +4,20 @@
     "Derivatives Association"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination Currency) on the Trade Date of the first Transaction between us (hereinafter the \"Agreement\"). In the event of any inconsistency between the provisions of any such Agreement and this Confirmation, this Confirmation will prevail for the purposes of this Transaction.\n\nThe terms of the particular Swap Transaction to which this Confirmation relates are as follows:\n\nGeneral Terms\n\nTrade Date:                       27 April 2006\n\nEffective Date                    01 April 2006\n\nTermination Date:                  1 April 2009\n\nCalculation Amount:               The lesser of (a) USD 20,000,000.00 and (b)                                   the aggregate Principal Balance (as defined                                   in the Pooling and Servicing Agreement) of the                                   Cl",
     "start": 2397,
-    "end": 3208
+    "end": 3208,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "WELLSFARGOMORTGAGEBACKEDSECURITIES2006-6TRUST_05_11_2006-EX-10.3-Yield Maintenance Agreement.txt",
-  "_char_count": 37683
+  "_char_count": 37683,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the     Parties,  it being  specifically  agreed that the relationship is",
+    "shall     remain  that  of  independent   Parties  to  a  contractual   relationship"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement,  any  Confidential     Information  provided  to such  Party and in its  possession  and retain no     copies or back-up tapes;          h. Parties agrees to mitigate, to the extent practicable,  any harmful     effect  that is  known to a Party of a use or  disclosure  of  Confidential     Information by a Party in violation of the requirements of this Agreement;          i. To inform a Party of any  changes  in the form of notice of privacy     practices  that the other  Party  provides to  individuals  and provide the     Party a copy of the notice currently in use; and          j. To  inform  the Party of any  changes  in, or  withdrawal  of,  the     consent  or  authorization   provided  to  a  Party  by  individuals  whose     Confidential Information may be used",
+    "start": 4480,
+    "end": 5291,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Affiliate_Agreements__UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate Agreement.txt",
+  "_char_count": 13833,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

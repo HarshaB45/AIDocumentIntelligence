@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Erchonia Corporation. (“Erchonia”) whose addressis 650 Atlantis Rd., Melbourne, Florida, USA, 32904",
+    "InnerScope Hearing Technologies Inc"
+  ],
+  "effective_date": null,
+  "governing_law": "Florida",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination.a.Unless terminated earlier as provided in this agreement, this Agreement shall have an initial term ofthree (3) years. This agreement shall automatically renew for a period of three (3) years and uponthe parties mutual agreement on new minimum performance goals for the renewal period.b.Either party may terminate this Agreement in the event of a material breach by the other party,provided the breaching party is first given reasonably detailed, written notice of the breach. If thebreach is not cured within ten days of such notice, the Agreement will terminate immediately.c.This Agreement may be terminated immediately by Erchonia under any of the following conditions:(a) if the Distributor is declared insolvent or bankrupt; (b) if a petition is filed in any court to declareDistributor bankr",
+    "start": 8096,
+    "end": 8907,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Distributor__InnerscopeHearingTechnologiesInc_20181109_8-K_EX-10.6_11419704_EX-10.6_Distributor Agreement.txt",
+  "_char_count": 21931,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

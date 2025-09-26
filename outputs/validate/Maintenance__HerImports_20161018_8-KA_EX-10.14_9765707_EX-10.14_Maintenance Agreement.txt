@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Leader Act Ltd HK(“LEADER”), a Nevada Corporation, (hereinafter referred to as “Leader”)",
+    "EZJR"
+  ],
+  "effective_date": null,
+  "governing_law": "the State ofNevada",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Maintenance__HerImports_20161018_8-KA_EX-10.14_9765707_EX-10.14_Maintenance Agreement.txt",
+  "_char_count": 10028,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    }
+  ]
+}

@@ -4,13 +4,20 @@
     "organised under the laws of Bermuda"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "United Kingdom",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement,\n\n6\n\n\n\n\n\nCERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT WERE OMITTED AND REPLACED WITH \"[***]\". A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECRETARY OF THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO AN APPLICATION REQUESTING CONFIDENTIAL TREATMENT PURSUANT TO RULE 24B-2 PROMULGATED UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. Fleet shall determine the applicable purchase price for that calendar year and shall notify Juniper in writing of any underpayment or overpayment within [***] of expiration or termination (as applicable). In the event of any underpayment by Juniper, Juniper shall pay to Fleet an amount equal to the amount of any such underpayment within [***] of receipt by Juniper of such written notice. In the event of any ov",
     "start": 20883,
-    "end": 21694
+    "end": 21694,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "Columbia Laboratories, (Bermuda) Ltd. - AMEND NO. 2 TO MANUFACTURING AND SUPPLY AGREEMENT.txt",
-  "_char_count": 45846
+  "_char_count": 45846,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

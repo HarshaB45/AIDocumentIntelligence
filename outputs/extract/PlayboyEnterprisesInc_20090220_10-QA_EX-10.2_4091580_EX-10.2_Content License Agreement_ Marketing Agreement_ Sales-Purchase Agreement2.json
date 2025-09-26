@@ -4,13 +4,20 @@
     "shall  supersede any conflicting or contrary terms and conditions of any purchase order or other order form whether supplied  by Purchaser or Supplier"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination or waiver  shall be binding unless also signed by an authorized representative of Playboy.\n\n40\n\nSource: PLAYBOY ENTERPRISES INC, 10-Q/A, 2/20/2009\n\n\n\n\n\n\n\n\n\n\n\n7. VIOLATION OF THIS AGREEMENT BY SUPPLIER MAY RESULT IN PROSECUTION FOR PLAYBOY PROPERTIES INFRINGEMENT, UNFAIR COMPETITION AND OTHER CAUSES OF ACTION AND THE  IMPOSITION OF FINES AND/OR CRIMINAL PENALTIES.\n\nSUPPLIER PURCHASER  (Name of Company - Please Print)  By: By:  Title: Title:  Date: Date:  SUPPLIER INFORMATION PLAYBOY  Name: Name: PLAYBOY.COM, INC.  Address: Address: 730 Fifth Avenue  New York, NY 10019  Contact: Contact:  Telephone: Telephone: 212-261-5000  Facsimile: Facsimile: 212-957-2950\n\n41\n\nSource: PLAYBOY ENTERPRISES INC, 10-Q/A, 2/20/2009",
     "start": 2826,
-    "end": 3558
+    "end": 3558,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2.txt",
-  "_char_count": 3558
+  "_char_count": 3558,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

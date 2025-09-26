@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the parties in good faith as promptly as possible but failing such amicable settlement, shall be decided byArbitration by the Arbitration Committee of the International Chamber of Commerce located in Switzerland.8.2The language to be used in the Arbitration proceedings shall be English.8.3The award/decision of the Arbitration Committee shall be final",
+    "binding on both the parties and enforceable in any jurisdiction"
+  ],
+  "effective_date": null,
+  "governing_law": "England",
+  "payment_terms": {
+    "text": "payment terms are agreed to outside of this Agreement by both parties in writing, payment terms will be as follows:(i)50% of the Total Order Cost must be paid on placement of the customer’s order.(ii)The remaining 50% of the total order cost must be paid prior to the goods leaving the warehouse of the manufacturer. TheManufacturer will notify the Customer when the goods are ready for shipment prior to the goods leaving the warehouse.ODM Supply Agreement5Organic Preparations INC. & Agape ATP International Holding LimitedSource: AGAPE ATP CORP, 10-K/A, 12/2/2019\f6.INDEMNITY / INSURANCE6.1The Man",
+    "start": 6893,
+    "end": 7493,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of this agreement shall be without prejudice to the rights of either party to payment or other claims due or accruedup to the termination of this agreement.For termination to be effective, written notice of termination must be served on the other party. Where valid, termination takes effectimmediately upon service.8.ARBITRATION8.1Any and all disputes, claims or differences arising out of or relating to this agreement or the alleged breach thereto shall be settled bymutual consultation between the parties in good faith as promptly as possible but failing such amicable settlement, shall be decided byArbitration by the Arbitration Committee of the International Chamber of Commerce located in Switzerland.8.2The language to be used in the Arbitration proceedings shall be English.8.3The award/d",
+    "start": 10170,
+    "end": 10981,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Supply__AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.txt",
+  "_char_count": 20211,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

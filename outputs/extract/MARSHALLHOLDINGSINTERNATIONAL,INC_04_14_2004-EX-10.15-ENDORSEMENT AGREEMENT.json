@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION\n\n     The COMPANY and CELEBRITY may terminate this Agreement under the following      conditions:\n\n     (A)  By the COMPANY.           --------------\n\n          (i)  If during the Term of this Agreement the CELEBRITY  is unable to                provide the Services as set forth herein for thirty (30)                consecutive business days because of illness, accident, or other                incapacity of CELEBRITY Personnel; or,\n\n          (ii) If CELEBRITY willfully breaches or neglects the duties required                to be performed hereunder; or,\n\n     (B)  By CELEBRITY           ------------\n\n          (i)  If the COMPANY fails to make any payments or provide information                required hereunder; or,\n\n          (ii) If the COMPANY ceases business or, other than in an I",
     "start": 5229,
-    "end": 6040
+    "end": 6040,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "MARSHALLHOLDINGSINTERNATIONAL,INC_04_14_2004-EX-10.15-ENDORSEMENT AGREEMENT.txt",
-  "_char_count": 12962
+  "_char_count": 12962,
+  "_provenance": {}
 }

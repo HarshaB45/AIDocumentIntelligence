@@ -4,13 +4,20 @@
     "the Plans"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination. This Agreement shall terminate (a) at the option of any party, upon 90 days' advance written notice to the other parties hereto; or (b) in the event of a material breach that has not been cured within ten days following a written notice of breach to the breaching party. The provisions of Sections 5, I l, 13 and 14 shall survive any termination of this agreement. 13. Effect of Termination. Notwithstanding any termination of this Agreement, the Administrator may require the Trust to continue to make available additional shares of the Fund for so long after the termination of this Agreement as the Administrator desires pursuant to the terms and conditions of this Agreement as provided in paragraph (b) below, for all Contracts in effect on the effective date of termination of this Agreement",
     "start": 17874,
-    "end": 18685
+    "end": 18685,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "TALCOTTRESOLUTIONLIFEINSURANCECO-SEPARATEACCOUNTTWELVE_04_30_2020-EX-99.8(L)-SERVICE AGREEMENT.txt",
-  "_char_count": 29797
+  "_char_count": 29797,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

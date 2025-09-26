@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "payment terms as set out in article 9.2.4., Parties agree that T-Mobile is entitled *** ELEPHANT TALK following the '*** with the amounts which ELEPHANT TALK ( or any of its Affiliates) is due to T-Mobile according to this Agreement.\n\n9.4.3. As soon as article 9.4.2. does no longer apply - ***.   10.  CUSTOMER CARE SUPPORT\n\nSource: PARETEUM CORP, 8-K, 10/1/2008\n\n\n\n\n\nCONFIDENTIAL TREATMENT REQUESTED WITH RESPECT TO CERTAIN PORTIONS HEREOF DENOTED WITH \"***\"   Hosting Agreement between ELEPHANT TALK and T-Mobile, 18/9/2008\n\n  10.1  ELEPHANT TALK shall for its own account and at its own cost main",
     "start": 35382,
-    "end": 35982
+    "end": 35982,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of Hosting Services 14. Force Majeure 15. Intellectual Property Rights 16. SIM cards and Calling Credit 17. Duration of the Agreement 18. Termination of the Agreement 19. Modifications 20. Miscellaneous 21. Governing Law 22. Dispute resolution 23. Counterpart\n\nSource: PARETEUM CORP, 8-K, 10/1/2008\n\n\n\n\n\nCONFIDENTIAL TREATMENT REQUESTED WITH RESPECT TO CERTAIN PORTIONS HEREOF DENOTED WITH \"***\"   Hosting Agreement between ELEPHANT TALK and T-Mobile, 18/9/2008\n\n  MOBILE VIRTUALNETWORK ENABLER HOSTING AGREEMENT by and between ELEPHANT TALK and T-Mobile\n\n(T-Mobile hosting ELEPHANT TALK)\n\nThis Agreement is made between \"Elephant Talk Communication Holding AG\", a company incorporated under the laws of Switzerland, having its registered office at Baarerstrasse 135, CH-6301 Zug, Switzerland, legal",
     "start": 789,
-    "end": 1600
+    "end": 1600,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.txt",
-  "_char_count": 66253
+  "_char_count": 66253,
+  "_provenance": {}
 }

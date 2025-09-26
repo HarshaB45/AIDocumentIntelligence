@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "iMine Corporation, (hereinafter referred to as “JRVS”)",
+    "SUNWAI Technology"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms. JRVS shall submit an invoice to the Distributor upon shipment of Products to the Distributor. Theinvoice shall state the amount to be paid by the Distributor for all Products in such shipment, as well as any taxes, duties orexcises paid by JRVS which shall be reimbursed by the Distributor in accordance with Section 5.4. Terms of payment shall be netthirty (30) days. All payments shall be in U.S. Dollars.6.2 Late Payments. All amounts which are not timely paid by the Distributor as required by this Agreement shall be subjectto a late charge equal to one and one-half percent (1.5%",
+    "start": 12120,
+    "end": 12720,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreementfor any reason, such authorization will cease.8.2 No Other Rights. The Distributor may not, directly or through any person or entity, in any form or manner, copy,distribute, reproduce, incorporate, use or allow access to the Products or modify, prepare derivative works of, decompile, reverseengineer, disassemble or otherwise attempt to derive source code or object code from the Products, except as explicitly permittedunder this Agreement or otherwise agreed in writing.8.3 Proprietary Notice. The Distributor will ensure that all copies of the Products will incorporate copyright and otherproprietary notices in the same manner that JRVS incorporates such notices in the Products or in any manner reasonablyrequested by JRVS. The Distributor will not remove any copyright or oth",
+    "start": 15035,
+    "end": 15846,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Distributor__ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
+  "_char_count": 34057,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

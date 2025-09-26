@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "theTOWN OF VINTON, VIRGINIA, a Virginia municipal corporation (“Grantor”)",
+    "ROANOKE GAS COMPANY"
+  ],
+  "effective_date": null,
+  "governing_law": "Virginia",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Franchise__RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement.txt",
+  "_char_count": 5064,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    }
+  ]
+}

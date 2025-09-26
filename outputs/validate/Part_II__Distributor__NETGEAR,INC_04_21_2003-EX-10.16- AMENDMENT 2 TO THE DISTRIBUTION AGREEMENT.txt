@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "NETGEAR, Inc. (\"NETGEAR\"), a wholly owned subsidiary of BayNetworks, Inc",
+    "Ingram Micro (\"Distributor\") acting on behalf of itself andits affiliates"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Part_II__Distributor__NETGEAR,INC_04_21_2003-EX-10.16- AMENDMENT 2 TO THE DISTRIBUTION AGREEMENT.txt",
+  "_char_count": 4481,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

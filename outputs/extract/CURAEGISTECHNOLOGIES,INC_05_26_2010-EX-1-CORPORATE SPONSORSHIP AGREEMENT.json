@@ -4,13 +4,20 @@
     "Torvec Inc"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination\n\n(a) Either party may terminate this Agreement immediately if the other party (i) files a petition commencing a voluntary case under the  Bankruptcy Code; (ii) makes a general assignment for the benefit of creditors; (iii) admits in writing its inability to pay its debts as they become  due; (iv) seeks, consents to or acquiesces in the appointment of any trustee, receiver or liquidator of it or any part of its property; or (v) has  commenced against it an involuntary case under the Bankruptcy Code or a proceeding under any receivership, composition, readjustment,  liquidation, insolvency, dissolution or like law or statute, which case or proceeding is not dismissed or vacated within sixty (60) days.\n\n(b) Upon termination of this Agreement, NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR AN",
     "start": 919,
-    "end": 1730
+    "end": 1730,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 12624
+  "_char_count": 12624,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

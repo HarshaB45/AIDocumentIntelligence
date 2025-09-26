@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the parties, Licensor is the sole owner of all right, title",
+    "interest inand to the Brand"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination rights of Licensorand (ii) obligations for sublicensee with respect to the Brand that are consistent with those of Licensee herein. Any act or omission by asublicensee that would breach this Agreement if committed by Licensee shall constitute a breach of this Agreement by Licensee.2. Ownership. Licensee acknowledges and agrees that, as between the parties, Licensor is the sole owner of all right, title and interest inand to the Brand. Licensee agrees not to do anything inconsistent with such ownership, including (i) filing to register any trademark or service markcontaining the Brand or (ii) directly or indirectly challenging, contesting or otherwiseSource: MORGAN STANLEY DIRECT LENDING FUND, 10-12G/A, 11/19/2019\fdisputing the validity, enforceability or Licensor’s ownership of the Brand",
+    "start": 2546,
+    "end": 3357,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__MorganStanleyDirectLendingFund_20191119_10-12GA_EX-10.5_11898508_EX-10.5_Trademark License Agreement.txt",
+  "_char_count": 15947,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

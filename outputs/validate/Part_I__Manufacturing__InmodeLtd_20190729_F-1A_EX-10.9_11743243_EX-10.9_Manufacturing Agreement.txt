@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Contractor andCustomer. Either party may initiate negotiation proceedings by written notice to the other party setting forth the particulars of the dispute.The parties agree to meet in good faith to jointly define the scope",
+    "method to remedy the dispute"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement or a cancellation of a Purchase Order, and/or discontinuance of a Product, or excess materialscreated by an Engineering Change, Customer agrees to compensate Contractor for unused material inventory which are affected by suchtermination, cancellation or discontinuance, as follows:(i)The cost of material inventory, whether in raw form or work in process, which are not returnable to the vendor without charge (unless thecharge was approved by Customer, or usable for other Contractor’s customers, including EOQ of unique parts.(ii)The cost of materials on order which cannot be cancelled without charge (unless the charge was approved by Customer.(iii)To the above applicable compensation, the Contractor shall be entitled to a handling fee of 2% of the compensation due. Thecompe",
+    "start": 5523,
+    "end": 6334,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Manufacturing__InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement.txt",
+  "_char_count": 38891,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

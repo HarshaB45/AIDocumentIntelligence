@@ -4,13 +4,20 @@
     "Tadeo E-Commerce Corp"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination. In the event that Diplomat terminates this Agreement other than in accordance with Section 3, Diplomat shall be obligated to pay for the Services in accordance with the fee schedule contained on EXHIBIT A throughout the balance of the Period (as hereinafter defined) as though Tadeo continued to provide the terminated Services through the balance of the Period. Late payments shall accrue interest at a rate equal to fifteen (15%) percent per annum.\n\nSection 3.     TERM.\n\n(a) The term of this Agreement shall begin on the date hereof (the \"Effective Date\") and shall continue for a period of 12 months thereafter (the \"Period\") in full force and effect until it is terminated in accordance with this Section 3.\n\n(b) Diplomat or Tadeo, if such party is not in default of the terms of this Agreemen",
     "start": 1941,
-    "end": 2752
+    "end": 2752,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT.txt",
-  "_char_count": 25214
+  "_char_count": 25214,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of the Financial Leasing Agreement by the Driver User; 3.2.13.2 After signing the agreement with Party B, the Driver User is entitled to terminate the Financial Leasing Agreement 7 days in advance in the last week (7 natural days) of every three months. 3.2.13.3 In case that the Driver User unilaterally terminates the Financial Leasing Agreement in advance, he/she does not need to pay the remaining rent and the last payment; 3.2.13.4 In case that the Driver User unilaterally terminates the Financial Leasing Agreement in advance, Party B shall collect the liquidated damages from the Driver User within 30% of the \"down payment + total monthly rent + last payment\" stipulated in the Financial Leasing Agreement; If major maintenance (maintenance fee is RMB3,000 or above) of the leased vehicle",
     "start": 15404,
-    "end": 16215
+    "end": 16215,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement.txt",
-  "_char_count": 73890
+  "_char_count": 73890,
+  "_provenance": {}
 }

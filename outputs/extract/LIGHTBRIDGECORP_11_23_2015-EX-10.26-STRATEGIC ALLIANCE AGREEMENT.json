@@ -4,13 +4,20 @@
     "Lloyds Register FNMA"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement.\n\nARTICLE V  EVENTS OF DEFAULT; TERM AND TERMINATION\n\nSection 5.1  Events of Default.  Each of the following events constitutes an event of default (an  \"Event  of Default\")  by a Party (the \"Defaulting Party\") under this Agreement:\n\n5.1.1 the Defaulting Party fails to perform in any material  respect any obligation under this Agreement. or any representation or warranty made by the Defaulting Party in this Agreement is untrue in any material respect, and such failure is not cured within 30 days after the non-Defaulting Party notifies the Defaulting Party of such failure; or\n\n- 4 -\n\n\n\n\n\n5.1.2  the Defaulting Party:\n\n(a) files a petition or otherwise commences, or authorizes or acquiesces in the commencement of. a proceeding or cause under any bankruptcy, winding up, liqu",
     "start": 11122,
-    "end": 11933
+    "end": 11933,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "LIGHTBRIDGECORP_11_23_2015-EX-10.26-STRATEGIC ALLIANCE AGREEMENT.txt",
-  "_char_count": 19386
+  "_char_count": 19386,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

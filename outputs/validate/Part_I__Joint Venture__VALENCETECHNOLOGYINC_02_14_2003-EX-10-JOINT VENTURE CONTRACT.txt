@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the total amount of investment",
+    "theregistered capital or if the Joint Venture Company needs working capital"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination and dissolution of the Joint Venture Company;o       Merger of the Joint Venture Company with another organization;o       Major investment by the Joint Venture Company;o       Distribution of profit of the Joint Venture Company;o       The recruitment and dismissal of the Senior Management Personnel of the        Joint Venture Company;o       Transfer of a part of all of either Party's interest in the registered        capital of the Joint Venture Company;o       Increase and decrease of the Joint Venture Company's registered        capital; ando       The examination and approval of the annual financial report of the Joint        Venture Company.Article 55Except for the matters stipulated in the above article, all other matters shallbe decided by the assent of a majority of the director",
+    "start": 31264,
+    "end": 32075,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Joint Venture__VALENCETECHNOLOGYINC_02_14_2003-EX-10-JOINT VENTURE CONTRACT.txt",
+  "_char_count": 72101,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

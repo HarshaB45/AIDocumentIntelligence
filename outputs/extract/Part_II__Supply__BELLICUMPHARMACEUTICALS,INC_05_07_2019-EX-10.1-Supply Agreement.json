@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "Miltenyi",
+    "any relevantRegulatory Authority/ies and as set forth in Miltenyi’s relevant Master Files and/or the Quality Agreement and (ii) any standard(s) as maybe expressly agreed between the Parties with respect to a relevant Miltenyi Product from time to time in writing in this Agreement or in anamendment to this Agreement"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms. The payment terms for all payments made by Bellicum for purchased Miltenyi Products shall be as follows:(a) Except as otherwise provided herein, all undisputed and properly due payments are payable within [...***...] days of Bellicum’s receiptof each invoice corresponding to a shipment of Miltenyi Products by Miltenyi, such invoices to be issued by Miltenyi or the applicableMiltenyi Affiliate in the Forecast Territory.(b) Bellicum shall make all payments by wire transfer or electronic fund transfer in immediately available funds to an account designatedby Miltenyi or its local A",
+    "start": 124152,
+    "end": 124752,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreement.“Clinical Grade Product” means any Miltenyi Product designated as “Clinical Grade” in the attached Exhibit B, Column “Quality Status”.“Commercial Phase” means, on a Bellicum Product-by-Bellicum Product basis, the period of time during the Term of this Agreementfollowing the approval by the FDA or other applicable Regulatory Authorities in the Designated Countries for a particular BellicumProduct, during which period of time Bellicum desires Miltenyi to supply Bellicum, its Subcontractors and/or Licensees with MiltenyiProduct(s).1\fMiltenyi Biotec-BellicumSupply Agreement(Execution Copy, March 27, 2019)“[...***...]” shall mean, with respect to the efforts and resources required to fulfill any obligation hereunder, the use of [...***...] ofcompanies in the pharmaceutical in",
+    "start": 6773,
+    "end": 7584,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Supply__BELLICUMPHARMACEUTICALS,INC_05_07_2019-EX-10.1-Supply Agreement.txt",
+  "_char_count": 186279,
+  "_provenance": {}
+}

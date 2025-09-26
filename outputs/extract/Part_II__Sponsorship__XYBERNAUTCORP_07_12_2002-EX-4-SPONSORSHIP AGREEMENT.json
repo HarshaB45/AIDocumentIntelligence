@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the hours of 9:00 a. m. and6:00 p. m. in the time zone of the intended  recipient  or on the next  businessday if  received  after  that  time,  in each  case  with an  automatic  machineconfirmation  indicating the time of receipt;  or (d) on the second business dayafter delivery&bbsp;to a recognized  international  overnight express courier company(with all costs prepaid).     16.  Consent  to  Jurisdiction.  The  parties  hereby  unconditionally  andirrevocably  consent  to  the  exclusive  jurisdiction  of  the  courts  of  theCommonwealth  of Virginia  located in Fairfax  County",
+    "the  Federal  DistrictCourt for the Northern District of Virginia with respect to any action"
+  ],
+  "effective_date": null,
+  "governing_law": "Virginia",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination as provided for herein, the term ofthis Agreement  shall commence as of the date hereof and shall  terminate at theend of the Season which is scheduled to end on October 12, 2002 (the \"Term\").                                      -5-     6. Licensed Materials.          (a) XC does hereby  grant AJR a limited and  non-transferable  licenseand  non-exclusive  right to use XC's logo and  trademarks and service marks setforth on Schedule A attached hereto (the \"Licensed  Materials\")  during the Termof this Agreement.  AJR shall only be permitted to use the Licensed Materials inconnection  with  the  Sponsorship  and  only in the  limited  manner  expresslypermitted as set forth on Schedule A attached hereto. No other use of any of theLicensed  Materials by AJR shall be  permitted.  AJR shall",
+    "start": 16710,
+    "end": 17521,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Sponsorship__XYBERNAUTCORP_07_12_2002-EX-4-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 47732,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "AZUL LINHAS AÉREAS BRASILEIRAS S/AANDAVIONS DE TRANSPORT REGIONAL, G.I.E. AZUL–ATR Amendment N° 1Global Maintenance Agreement Page 1/9Source: AZUL SA, F-1/A, 3/3/2017\fExecution version TABLE OF CONTENTS: CLAUSE PAGE 1. DEFINITIONS  4 2. AMENDMENT  4 3. EFFECTIVE DATE",
+    "DURATION  5 4"
+  ],
+  "effective_date": null,
+  "governing_law": "France",
+  "payment_terms": {
+    "text": "PAYMENT TERMS    (i)Clause 12.1(ii) of the GMA shall be cancelled and substituted as follow: [*****]  [*****]  [*****]  [*****]  [*****]  [*****]  [*****]  [*****]  (ii)Any other provision of Clause 12 shall remain in full force and effect. 2.2Exhibit 14 – PRICE CONDITIONS    (i)Clause 3.2 of the Exhibit 14 of the GMA shall be cancelled and substituted as follow: “3.2Technical conditions for prices adjustment  The prices set out in this Exhibit 14 shall be modified every [*****] at the occasion of the invoicing reconciliation pursuant to Clause 11(“Reconciliation”) if the Standard Operations o",
+    "start": 2829,
+    "end": 3429,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination or expiry of this Amendment for a period of five (5) years following such End Date.5. GOVERNING LAW - ARBITRATION 5.1Governing law:Pursuant to and in accordance with Section 5-1401 of the New York General Obligations Law, the Parties hereto agree that this Amendment inall respects, and any claim or cause of action based upon or arising out of this Amendment, or any dealing between the Parties relating to thesubject matter of this Amendment or the transactions contemplated hereby or the Company/Repairer relationship being established, shall begoverned by, and construed in accordance with, the laws of the State of New York, U.S.A. as applied to contracts to be performed whollywithin the State of New York (Exclusive of Section 7-101 of the New York General Obligations Law which is inapplicab",
+    "start": 10674,
+    "end": 11485,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Maintenance__AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement2.txt",
+  "_char_count": 16355,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": []
+}

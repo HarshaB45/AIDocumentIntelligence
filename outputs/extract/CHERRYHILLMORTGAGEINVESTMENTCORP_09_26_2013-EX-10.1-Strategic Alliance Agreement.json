@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination for cause of Freedom Mortgage as an issuer.\n\nSection 3. Ancillary Agreements.\n\nOn or prior to the Closing Date, Cherry Hill and Freedom Mortgage shall enter into the Purchase Agreement and the Flow Agreement.\n\nSection 4. Representations and Warranties.\n\n(a) Freedom Mortgage represents and warrants to Cherry Hill that the statements contained in this Section 4(a) are true and correct in all material respects as of the date of this Agreement (or, if made as of a different specified date, as of such date) and will be true and correct in all material respects as of the Closing Date (as though made then and as though the Closing Date were substituted for the date of this Agreement throughout this Section 4(a)).\n\n(i) Freedom Mortgage is duly organized and validly existing and in good standing u",
     "start": 11104,
-    "end": 11915
+    "end": 11915,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement.txt",
-  "_char_count": 27741
+  "_char_count": 27741,
+  "_provenance": {}
 }

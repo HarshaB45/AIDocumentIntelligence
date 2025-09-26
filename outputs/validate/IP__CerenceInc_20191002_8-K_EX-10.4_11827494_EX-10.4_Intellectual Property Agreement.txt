@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "NUANCE COMMUNICATIONS,INC., a Delaware corporation (“Nuance”)",
+    "CERENCE INC"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination by Both Parties13Section 9.02.Termination prior to the Distribution13Section 9.03.Effect of Termination; Survival13ARTICLE XFURTHER ASSURANCESSection 10.01.Further Assurances13ARTICLE XIMISCELLANEOUSSection 11.01.Counterparts; Entire Agreement; Corporate Power14Section 11.02.Dispute Resolution14Section 11.03.Governing Law; Jurisdiction15Section 11.04.Waiver of Jury Trial15Section 11.05.Court-Ordered Interim Relief15Section 11.06.Specific Performance16Section 11.07.Third-Party Beneficiaries16Section 11.08.Notices16Section 11.09.Import and Export Control17Section 11.10.Bankruptcy17Section 11.11.Severability18Section 11.12.Expenses18Section 11.13.Headings18Section 11.14.Survival of Covenants18Section 11.15.Waivers of Default18Section 11.16.Amendments18Section 11.17.Interpretation19SCHEDULE A",
+    "start": 1483,
+    "end": 2294,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "IP__CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.txt",
+  "_char_count": 61146,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

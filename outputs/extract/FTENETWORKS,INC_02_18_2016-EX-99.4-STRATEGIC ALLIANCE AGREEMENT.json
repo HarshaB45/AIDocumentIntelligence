@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination of Agreement\". After the Initial Term, this Agreement shall continue on a month to month basis until terminated by either party upon thirty (30) days prior written notice to the other setting forth the effective date of such termination. The termination of any Purchase Order shall not affect the obligations of either party to the other party pursuant to any other Purchase Order or to this Agreement. The termination of this Agreement shall terminate the obligations of either party to the other party pursuant to any Purchase Order and those obligations pursuant to this Agreement, except as to obligations that are identified herein or in a terminated Purchase Order as surviving termination.   B. Should the Agreement expire during the period of performance, all remaining Work of each Purchase",
     "start": 1625,
-    "end": 2436
+    "end": 2436,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT.txt",
-  "_char_count": 37829
+  "_char_count": 37829,
+  "_provenance": {}
 }

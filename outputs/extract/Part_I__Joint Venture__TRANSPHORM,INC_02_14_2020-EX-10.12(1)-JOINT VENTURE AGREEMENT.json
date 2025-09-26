@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "FSL",
+    "TPH"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination Prior to the Effective Date167.3Termination After the Effective Date167.4Dissolution and Winding-up177.5Shareholder Calls Upon Breach177.6Shareholder Calls Upon Bankruptcy After the Effective Date187.7Survival of Provisions After the Effective Date197.8Cooperation19Article VIII Transfer Restrictions198.1Restrictions on Transfers198.2Permissible Transfers19Article IX Put Option and Call Option199.1AFSL’s Right to Require the Purchase of the Shares by TPH or TPH-A199.2TPH-A’s Right to Require the Purchase of the Shares from FSL or AFSL209.3Conditions to Put Option or Call Option Closing219.4Other Obligations22Article X Treatment of Employees2210.1New Terms and Conditions for Employment2210.2Representations and Warranties Regarding Employment22Article XI Miscellaneous2311.1No Partnership2311",
+    "start": 1545,
+    "end": 2356,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Joint Venture__TRANSPHORM,INC_02_14_2020-EX-10.12(1)-JOINT VENTURE AGREEMENT.txt",
+  "_char_count": 92731,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

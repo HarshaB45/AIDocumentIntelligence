@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "National Football League Alumni -Northern California Chapter (“NFLA-NC”), a charitable corporation organized under the laws of California, having its principaloffice at 1311 Madison Avenue, Redwood CA 94061; National Football League Alumni, Inc. (“NFLA”), a charitable corporationorganized under the laws of Florida, having its principal office at 8000 Midlantic Drive, 130 S., Mount Laurel, NJ. 08054",
+    "FoodFor Athletes"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, Company will refrain from further use of the Licensed Marksused pursuant to this Agreement. Company will not sublicense pass-through or otherwise grant to any third parties therights granted to Company hereunder without the NFLA prior written consent, including but not limited to the right to usethe Licensed Marks. Company acknowledges that this Agreement does not grant Company any rights with respect to anyother NFLA Marks (defined below), the name, likeness, signature, or other attributes of any NFLA member or otherindividual, or any audio or video of any NFLA event. Company agrees that the quality of all services offered by Companyunder the Licensed Marks will conform to Licensor’s written quality control standards and that Company will annuallyprovide to NFLA sample",
+    "start": 4105,
+    "end": 4916,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Endorsement__GridironBionutrientsInc_20171206_8-K_EX-10.1_10972555_EX-10.1_Endorsement Agreement.txt",
+  "_char_count": 28609,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

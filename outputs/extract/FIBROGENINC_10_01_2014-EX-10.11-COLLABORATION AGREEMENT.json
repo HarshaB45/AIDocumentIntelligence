@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION     37\n\n18.1   Term     37  18.2   Termination for Cause or Technical Product Failure     37  18.3   Termination in case of Generic Competition     38  18.4   Negative Advice from Authorities     39  18.5   Admission of Invalidity or Unenforceability of FG Patent     39  18.6   Termination upon Notice     39    -iv-\n\n[ * ] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.\n\n\n\n\n\nTABLE OF CONTENTS (continued)           Page   18.7   Effect of Termination     39\n\nARTICLE 19 DISPUTE RESOLUTION     40\n\n19.1   Disputes     40  19.2   Full Arbitration     40\n\nARTICLE 20 MISCELLANEOUS     41\n\n20.1   Confidential Terms",
     "start": 6548,
-    "end": 7359
+    "end": 7359,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "FIBROGENINC_10_01_2014-EX-10.11-COLLABORATION AGREEMENT.txt",
-  "_char_count": 155655
+  "_char_count": 155655,
+  "_provenance": {}
 }

@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION OF SERVICES   10.1 Modifications to Services      10.2 Partial Termination by M&I     10.3 Partial Termination by Customer     10.4 Development of Custom Software\n\n\n\n\n\n11. TERMINATION      11.1 For Convenience      11.2 For Cause  11.3 Following Change in Control of Customer  11.4 Termination Assistance    12. EVENTS OF DEFAULT; REMEDIES     12.1 By M&I     12.2 By Customer     12.3 Remedies   13. DAMAGES     13.1 Direct Damages  13.2 No Consequential Damages  13.3 Equitable Relief     13.4 Limitation of Liability   13.5 Liquidated Damages   14. INSURANCE AND INDEMNITY    14.1 Insurance  14.2 Indemnity  14.3 Indemnification Procedures     15. DISPUTE RESOLUTION    15.1 Representatives of Parties     15.2 Continuity of Performance      16. REPRESENTATIONS AND WARRANTIES  16.1 By M&I     16",
     "start": 1498,
-    "end": 2309
+    "end": 2309,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "TRICITYBANKSHARESCORP_05_15_1998-EX-10-OUTSOURCING AGREEMENT.txt",
-  "_char_count": 101639
+  "_char_count": 101639,
+  "_provenance": {}
 }

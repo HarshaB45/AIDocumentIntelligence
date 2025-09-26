@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the Distributor",
+    "the Supplier; and(b)contained in any promotional material supplied by the Supplier"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this agreement:(a)the Supplier may buy from the Distributor all or any stocks of Products for the current marketvalue for those Products. The Distributor must deliver such Products to the Supplier within 14days of receiving the Supplier's notice, and the Supplier must pay for the Products in full within 30days of their delivery. The Supplier shall be responsible for the costs of packaging, insurance andcarriage of the Products; or(b)the Distributor may dispose of the balance of the Products in its possession and account to theSupplier for the Price for those Products; and(c)subject to clause 12.2(b), the Distributor must cease using any intellectual property of the Supplieror of another person that relates to the distributorship and the Distributor must sign any instrumentand do any ot",
+    "start": 21822,
+    "end": 22633,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Distributor__FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement.txt",
+  "_char_count": 31517,
+  "_provenance": {}
+}

@@ -4,17 +4,26 @@
     "the owner of Purchaser (\"Dassault Systemes\") and/or certain affiliates of Dassault Systemes"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "France",
   "payment_terms": {
     "text": "PAYMENT TERMS AND AUDIT RIGHTS\n\n                 5.1 Customer Billing. Unless otherwise agreed by the parties and subject to the reporting and revenue sharing obligations set forth in this Section 5, the party responsible for hosting shall be the Billing Party.\n\n                 5.2 Pricing of the Co-Branded Service. Prior to the Launch Date, the parties shall agree on which currencies and list prices shall apply to the Co-Branded Service. If, for whatever reason, the parties fail to agree on a price to be applied, the price applied to the Co-Branded Service shall be equal to the then current",
     "start": 16647,
-    "end": 17247
+    "end": 17247,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of this Agreement. Within 2 weeks following execution of this Agreement, PlanetCAD will provide Dassault Systemes with the necessary media and licensing keys or similar authorization system (if any) to use such Server Software and Infrastructure according to the above license.\n\n                 3.4 Use of Marks. Prior to commercialization of the Co-Branded Service the parties shall agree on the use and placement of all Dassault Systemes and PlanetCAD logos, trade names, trademarks, service marks, and similar identifying material (collectively referred to as \"Marks\") on the Co-Branded Service. Any usage of a party's Marks on the Co-Branded Service including without limitation size, placement, font and style of such Marks will be subject to such party's prior written approval. On or before",
     "start": 11017,
-    "end": 11828
+    "end": 11828,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "RandWorldwideInc_20010402_8-KA_EX-10.2_2102464_EX-10.2_Co-Branding Agreement.txt",
-  "_char_count": 48159
+  "_char_count": 48159,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

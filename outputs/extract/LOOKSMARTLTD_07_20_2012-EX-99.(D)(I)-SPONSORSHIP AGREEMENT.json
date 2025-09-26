@@ -1,13 +1,28 @@
 {
-  "parties": null,
+  "parties": [
+    "Offer",
+    "Purchaser",
+    "Sponsors",
+    "Sponsor"
+  ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination,  extension, modification, or waiver of or related to the Offer or any term or condition thereof, including, without limitation, with respect to any  commencement date, initial offering period, offer price, type or form of consideration to be offered or paid, timing or other term of acceptance for  payment or payment of any subject security, withdrawal right, expiration date, subsequent offering period, or top-up option, (b) waiver of any  condition to or of the Offer or determination as to whether or not any such condition has been, is, or will be satisfied, (c) filing, dissemination, or  disclosure requirement or offering document or tender offer material, including, without limitation, with respect to any filing or exhibit, schedule,  attachment, amendment, or supplement thereto, (d) a",
     "start": 3147,
-    "end": 3958
+    "end": 3958,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "LOOKSMARTLTD_07_20_2012-EX-99.(D)(I)-SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 25922
+  "_char_count": 25922,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

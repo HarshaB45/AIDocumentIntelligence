@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "Addendum",
+    "National Football League Alumni - Northern California Chapter",
+    "NFLA-NC",
+    "Redwood CA 94061;National Football League Alumni, Inc."
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Endorsement__GridironBionutrientsInc_20171206_8-K_EX-10.2_10972556_EX-10.2_Endorsement Agreement.txt",
+  "_char_count": 3341,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

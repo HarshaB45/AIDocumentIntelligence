@@ -4,13 +4,20 @@
     "Aucta Pharmaceuticals"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination or expiration of the Term and on a Product-by-Product basis, ETON shall perform a final \"true-up\" reconciliation and shall provide Aucta with a written report of such outlining the deductions specified in the definition of Net Sales. If the foregoing reconciliation report shows either an underpayment or an overpayment between the Parties, the Party owing payment to the other Party shall pay the amount of the difference to the other Party within thirty (30) days after the date of delivery of such report. 8\n\nSource: ETON PHARMACEUTICALS, INC., 10-Q, 11/14/2019\n\n\n\n\n\nCONFIDENTIAL 6.6 Taxes. Each Party shall be responsible for and shall pay all Taxes payable on any income earned or received by it during the Term. Where required by law, ETON shall have the right to withhold applicable Taxes fro",
     "start": 22005,
-    "end": 22816
+    "end": 22816,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.txt",
-  "_char_count": 65651
+  "_char_count": 65651,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -4,9 +4,14 @@
     "BioAmber S"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "France",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT - First Amendment.txt",
-  "_char_count": 6390
+  "_char_count": 6390,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

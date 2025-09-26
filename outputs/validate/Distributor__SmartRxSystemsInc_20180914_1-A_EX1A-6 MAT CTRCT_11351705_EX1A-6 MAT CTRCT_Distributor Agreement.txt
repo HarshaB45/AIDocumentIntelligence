@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "SMART RX SYSTEMS,INC., a Florida corporation, with its principal place of business at Red Bug Lake Road, Suite 256, Winter Springs, Florida 32708, U.S.A. (\"Company\")and A3 DEVELOPMENT GROUP, LLC, a Texas limited liability company, with its principal place of business at 17521 Highway 69 South, Suite 120,Tyler, Texas 75703 (\"Distributor\").1.DEFINITIONS:Background IP or \"Background Technology\" means existing Intellectual Property not generated in the course of the Company's Businessand owned by Smart RX Systems, Inc.Business means the Business to be conducted by the parties as described in Section 2 of this Agreement.Code means the Internal Revenue Code of 1986, as amended. All references herein to sections of the Code shall include anycorresponding provision or provisions of succeeding law.Company Marks shall mean those trademarks, service marks, logos",
+    "trade names specified in Exhibit A used by Company in itscommercial activities related to the Products"
+  ],
+  "effective_date": null,
+  "governing_law": "Florida",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this agreement.5.3 Notices. Distributor agrees not to alter, erase, deface or overprint any trademark, copyright and other notices of proprietary rightsincluded by Company on or in Products.5.4 Ownership of Marks. The Company Marks are the exclusive property of Company. Distributor has paid no consideration for the use ofCompany's trademarks, logos, copyrights, trade names or designations, and nothing contained in this Agreement shall give Distributor any interestin any of them. Distributor may use the Company Marks in marketing the Products but such use does not confer any right, title or interest in theCompany Marks or in any of the Products. Distributor acknowledges that Company owns and retains all copyrights and other proprietary rights inall the Products, and agrees that it will",
+    "start": 16178,
+    "end": 16989,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Distributor__SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement.txt",
+  "_char_count": 39419,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

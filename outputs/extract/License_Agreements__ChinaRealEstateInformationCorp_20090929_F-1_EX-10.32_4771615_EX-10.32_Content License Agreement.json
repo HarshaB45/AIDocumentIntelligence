@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Beijing SINA Internet \nInformation Service Co., Ltd. (\nof China (hereinafter “Licensor”)",
+    "Beijing Yisheng Leju Information Services Co"
+  ],
+  "effective_date": null,
+  "governing_law": "the PRC",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination Agreement attached hereto as Exhibit B and (ii) Licensee and Licensor desire to enter into this Agreement, on or prior to \nthe consummation of the transactions contemplated by the Share Purchase Agreement.  \n\nNOW, THEREFORE, for and in consideration of the mutual covenants and agreement of the Parties and the faithful performance thereof, and \nother good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto agree as follows:  \n\nAs used herein, the following terms shall have the meanings ascribed to them below.  \n\n“Action” has the meaning set forth in Section 8.1.  \n\nARTICLE I \nDEFINITIONS  \n\n“Affiliate” means, when used with respect to any specified Person, a Person that directly or indirectly through one or more intermediaries, contr",
+    "start": 1725,
+    "end": 2536,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.txt",
+  "_char_count": 49497,
+  "_provenance": {}
+}

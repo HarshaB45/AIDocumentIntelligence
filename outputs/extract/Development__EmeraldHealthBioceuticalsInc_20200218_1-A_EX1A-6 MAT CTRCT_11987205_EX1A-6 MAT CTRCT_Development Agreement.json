@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the parties concerning the subject matter.The parties hereby unconditionally consent to the federal courts located in Arizona as the venue in any action arising out of or relatingto this Agreement.(2)Waiver: No waiver by either party of a right on any one occasion shall constitute a waiver of such right on another occasion, andall such claimed waivers must be in writing signed by the party against whom the waiver is claimed.(3)Enforceability of Clauses: If any provision of this Agreement violates any law or is unenforceable for any other reason, it shall besevered from this Agreement without affecting the rest of the Agreement.(4)Consent Required: Neither party is the agent or franchisee of the other party",
+    "neither party"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION of AGREEMENT6.1Term. This Agreement shall become effective as of the Effective Date and shall remain in effect as follows.(a)Dr. Murray’s obligations set out herein shall be performed from the Effective Date until December 31, 2018 (the initial “ServicesTerm”). The Services Term of this Agreement shall be automatically renewed for successive two-year terms thereafter unless writtennotice is given by either party to the other, indicating that party's intention not to renew the Services Term of this Agreement, at leastninety (90) days prior to the end of the initial Services Term or any renewed Services Term.(b)Except as otherwise stated herein as pertaining only to a Services Term, this Agreement shall remain in effect for ten years,unless terminated in accordance with Sections 6.1 (a) or",
+    "start": 6088,
+    "end": 6899,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.txt",
+  "_char_count": 16171,
+  "_provenance": {}
+}

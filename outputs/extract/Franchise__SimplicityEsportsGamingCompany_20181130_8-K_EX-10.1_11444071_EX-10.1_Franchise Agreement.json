@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Smaaash Entertainment Private Limited, an Indian company, with its address at Trade View, Level 2, Kamala Mills, LowerParel, Mumbai 400013, India (“Franchisor”)",
+    "I-AM Capital Acquisition Company"
+  ],
+  "effective_date": null,
+  "governing_law": "India",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.7. Third Party Infringements; Attacks on Use of the Trademarks; Cooperation7.1 Third Party Infringements.(a) Mutual Information. Each of the parties shall inform the other without undue delay when such party becomes aware of anyinfringements of any of the Franchisor Property in the Territory.(b) Initiation of Action. Any actions against infringers of any of the Franchisor Property, whether or not such actions involvelitigation (including any actions taken to oppose a third party application to register an infringing trademark or a cancellation action against a thirdparty’s infringing trademark registration), shall be exclusively reserved to Franchisor, unless otherwise agreed by Franchisor in writing.Notwithstanding the foregoing, Franchisor shall be under no obligation",
+    "start": 14227,
+    "end": 15038,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Franchise__SimplicityEsportsGamingCompany_20181130_8-K_EX-10.1_11444071_EX-10.1_Franchise Agreement.txt",
+  "_char_count": 28212,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

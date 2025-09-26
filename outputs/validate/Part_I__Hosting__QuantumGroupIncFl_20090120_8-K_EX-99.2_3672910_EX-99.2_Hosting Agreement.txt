@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "International Business Machines Corporation (“IBM”)",
+    "The QuantumGroup Inc"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination for CauseCustomer or IBM may terminate this Agreement for material breach of this Agreement by the other upon written notice containing thespecific nature and dates of the material breach. The breaching party will have thirty (30) days from receipt of notice to cure suchbreach, except for nonpayment by Customer, which must be cured within five (5) days from receipt of notice. If such breach has notbeen timely cured, then the non-breaching party may immediately terminate this Agreement upon written notice.Termination for ConvenienceCustomer may terminate this Agreement, or any portion of Services specified herein, for convenience by:providing at least sixty (60) days prior written notice to IBM; andpaying the applicable early termination charges specified in Attachment C.Effect of Terminat",
+    "start": 11878,
+    "end": 12689,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Hosting__QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.txt",
+  "_char_count": 114016,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

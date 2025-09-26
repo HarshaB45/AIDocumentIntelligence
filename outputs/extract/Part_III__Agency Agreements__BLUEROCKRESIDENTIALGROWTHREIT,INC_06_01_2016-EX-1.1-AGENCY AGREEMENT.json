@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "them. No indemnifying party shall, without the prior written consent of the indemnified party, effect anysettlement of any pending or threatened action in respect of which any indemnified party is or could have been a party andindemnity could have been sought hereunder by such indemnified party unless such settlement (i) includes an unconditionalrelease of such indemnified party from all liability on any claims that are the subject matter of such action",
+    "(ii) does not includea statement as to"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination, modification or acceleration under such Lease, exceptas to any such default as would not have a Material Adverse Effect on the Transaction Entities and their respectiveSubsidiaries, taken as a whole; (5) each of the Leases is valid and binding and in full force and effect, subject toapplicable bankruptcy, insolvency, moratorium or other similar laws relating to creditors’ rights and general principles ofequity, except as would not have a Material Adverse Effect on the Transaction Entities or their respective Subsidiaries;and (6) none of the Transaction Entities, their respective Subsidiaries, or, to the Transaction Entities’ knowledge, anyother party to any Lease, is a party to any ground lease, sublease or operating sublease relating to any of theirProperties.  13 \f  (xx)Utilities. To t",
+    "start": 37214,
+    "end": 38025,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_III__Agency Agreements__BLUEROCKRESIDENTIALGROWTHREIT,INC_06_01_2016-EX-1.1-AGENCY AGREEMENT.txt",
+  "_char_count": 132224,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

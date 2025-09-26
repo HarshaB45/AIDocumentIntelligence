@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the Nissin Parties",
+    "Autoliv AB with respect to the liquidation proceedings ofANRA"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION OF JOINT VENTURE AGREEMENT (this “Amendment”) is made and enteredinto effective as of October 30, 2019 (the “Effective Date”) by and among (1) Veoneer AB, a Swedish corporation (“VeoneerAB”) and Veoneer US, Inc., a Delaware corporation (“Veoneer US” and together with Veoneer AB, the “Veoneer Parties”), and(2) Nissin Kogyo Co., Ltd., a Japanese corporation (“Nissin”), Nissin Kogyo Holdings USA, Inc., an Ohio corporation (“NissinHolding”) and Zhongshan Nissin Industry Co., Ltd., a Peoples’ Republic of China company (“NBZ” and together with Nissin andNissin Holding, the “Nissin Parties”), as an amendment to that certain Joint Venture Agreement dated March 7, 2016 by and amongAutoliv ASP, Inc. (“Autoliv ASP”), Autoliv AB (“Autoliv AB”) and Autoliv Holding, Inc. (“Autoliv Holding” and together",
+    "start": 82,
+    "end": 893,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Joint Venture__VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT.txt",
+  "_char_count": 8109,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

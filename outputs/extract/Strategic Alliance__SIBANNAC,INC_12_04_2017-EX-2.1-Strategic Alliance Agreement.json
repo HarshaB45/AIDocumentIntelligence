@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Bravatek Solutions, Inc., a corporation organized underthe laws of the State of Colorado, (\"Bravatek\"), with an address at 2028 E. Ben White Blvd., Unit #240-2835, Austin, Texas, 78741",
+    "Sibannac"
+  ],
+  "effective_date": null,
+  "governing_law": "Texas",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, the parties shall treat as confidential all information and take everyreasonable precaution and use all reasonable efforts to prevent the unauthorized disclosure of the same. The parties agree to take all stepsreasonably necessary and appropriate to ensure that their employees, agents, and/or assistants treat all information as confidential and toensure that such employees, agents, and/or assistants are familiar with and abide by the terms of this Agreement. 7) Term The term of this Agreement is twelve (12) months from the date hereof, and will be automatically renewed for one (1) additional twelve monthperiod unless either party shall notify the other in writing of its intention not to renew. Such notice must be given ninety (90) days prior toexpiration of the original",
+    "start": 5171,
+    "end": 5982,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Strategic Alliance__SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement.txt",
+  "_char_count": 8200,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

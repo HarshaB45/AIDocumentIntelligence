@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "BookingEntertainment.com (“Promoter”) of 275Madison Avenue, 6th Floor, New York, NY 10016",
+    "VNUE"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Promotion__VnueInc_20150914_8-K_EX-10.1_9259571_EX-10.1_Promotion Agreement.txt",
+  "_char_count": 10389,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

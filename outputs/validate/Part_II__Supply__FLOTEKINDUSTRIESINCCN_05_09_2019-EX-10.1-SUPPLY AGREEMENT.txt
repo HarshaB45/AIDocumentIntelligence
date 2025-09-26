@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Florida Chemical Company, LLC, aDelaware limited liability company (“FCC”)",
+    "Flotek Chemistry"
+  ],
+  "effective_date": null,
+  "governing_law": "Florida",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination pursuant to the termsof Section 19. Flotek, may, by written notice given to FCC on or before September 30, 2023, elect for the Term to be extended to December 31, 2024.4.Price. The price per pound payable by Flotek to FCC for Terpene Product shall be the Product Price of that Terpene Product.5.Forecasts; Terpene Cost Information.(a)Flotek shall provide non-binding forecasts of orders of Terpene Product for each calendar quarter during the Term at least ten(10) days prior to the commencement of such quarter.(b)Within fifteen (15) days of the end of each calendar quarter FCC shall provide to Flotek a written report providing reasonabledetail regarding the cost of citrus terpene inventory.6.Orders; Delivery.1\f(a)Flotek shall order Terpene Product by sending to FCC written purchase orders in",
+    "start": 2104,
+    "end": 2915,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Supply__FLOTEKINDUSTRIESINCCN_05_09_2019-EX-10.1-SUPPLY AGREEMENT.txt",
+  "_char_count": 19022,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

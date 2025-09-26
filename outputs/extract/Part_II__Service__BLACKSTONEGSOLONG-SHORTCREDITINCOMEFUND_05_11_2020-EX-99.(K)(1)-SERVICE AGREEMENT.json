@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Blackstone / GSO Long-Short CreditIncome Fund, a Delaware statutory trust (“Client”)",
+    "Mellon Investor Services LLC (operating with the service name BNY Mellon ShareownerServices)"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement at least 60 days prior to the end of the InitialTerm, or any successive three-year term, this Agreement shall automatically renew for successive additional three-year terms; provided, however,that this Agreement shall automatically terminate upon the dissolution of the client.3. Duties of Agent. Commencing on the Effective Date, Agent shall provide the services listed in Exhibit B hereto, in the performance of its dutieshereunder.4.Representations, Warranties and Covenants of Client. Client represents, warrants and covenants to Agent that:(a) it is a statutory trust duly organized and validly existing under the laws of its state of incorporation;(b) the Shares issued and outstanding on the date hereof have been duly authorized, validly issued and are fully paid and are n",
+    "start": 1124,
+    "end": 1935,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Service__BLACKSTONEGSOLONG-SHORTCREDITINCOMEFUND_05_11_2020-EX-99.(K)(1)-SERVICE AGREEMENT.txt",
+  "_char_count": 51362,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

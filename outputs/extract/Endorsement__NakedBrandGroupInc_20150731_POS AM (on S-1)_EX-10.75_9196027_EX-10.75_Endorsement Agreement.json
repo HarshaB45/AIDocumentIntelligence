@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "The Naked Brands Group, Inc., a Delaware corporation (“Naked”)",
+    "Wade Enterprises"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": {
+    "text": "Payment Terms. Wade Product Royalties described above in Section 8A will be paid on a quarterly basis on the first day of eachof the months of July, October, January, and April and shall be accompanied by backup documentation reasonably satisfactory to Wade.C. [***]D. Withholding Taxes. Wade will be solely responsible for withholding and paying any and all federal, state and local taxes,including but not limited to payroll, unemployment, social security and income taxes and any other payments which may be owed by Wade as aresult of or in connection with payments made by Naked for Wade Services",
+    "start": 18513,
+    "end": 19113,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination of the Agreement. In the event that the Agreement is terminated in accordance with Section12A, than the [***] term of the Grant Warrant [***] shall expire ninety (90) days thereafter. [***](6) Designee of Wade Grant. Pursuant to the request of Wade, Naked shall issue [***] to Wade’s exclusive representative,CAA Sports LLC. This grant shall be issued pursuant to the same terms and conditions as the Wade Grant, with the exception of the terms of [***].(7) [***]7Source: NAKED BRAND GROUP INC., POS AM (on S-1), 7/31/2015\fConfidential Information has been omitted in places marked “[***]” and has been filed separately with the Securities and Exchange Commission. Confidential Treatment has been requested with respect to this omitted information pursuant to an application for confidential treatme",
+    "start": 21319,
+    "end": 22130,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Endorsement__NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement.txt",
+  "_char_count": 47573,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

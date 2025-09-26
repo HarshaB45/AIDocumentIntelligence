@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "the Parties in the Course of a Project\n\n2.1\n\nGeneral\n\n2.1.1\n\nGeneral\n\n2.1.2\n\nPriority\n\n2.2\n\nPersonnel\n\n2.2.1\n\nDesignation of Project Manager\n\n2.2.2\n\nProject Team\n\n2.2.3\n\nSteering Committee\n\n2.3\n\n2.4\n\n2.5\n\n2.6\n\n2.7\n\n2.8\n\nConduct of the Project",
+    "BII’s Work and Tasks"
+  ],
+  "effective_date": "February 10, 2012",
+  "governing_law": "Germany",
+  "payment_terms": {
+    "text": "Payment Terms\n\n5.2.5\n\nLicense\n\n5.3\n\nAcknowledgement\n\n6\n\nRepresentations, Warranties and Indemnification\n\n6.1\n\n6.2\n\n6.3\n\n6.4\n\n6.5\n\nMutual Representations, Warranties and Covenants\n\nXENCOR Warranties\n\nBII Warranties\n\nProcess for Defense of Infringement of Third Party Intellectual Property\n\nDisclaimer of Warranties\n\n3\n\n15\n\n15\n\n16\n\n16\n\n17\n\n17\n\n17\n\n18\n\n18\n\n18\n\n20\n\n21\n\n21\n\n21\n\n22\n\n22\n\n22\n\n22\n\n23\n\n24",
+    "start": 4052,
+    "end": 4652,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination\n\n10.1\n\n10.2\n\nTerm\n\nTermination of this Agreement\n\n10.2.1\n\n10.2.2\n\n10.3\n\nEffects of Termination of this Agreement\n\n24\n\n24\n\n24\n\n25\n\n25\n\n26\n\n26\n\n26\n\n26\n\n26\n\n27\n\n27\n\n27\n\n27\n\n28\n\n28\n\n30\n\n30\n\n30\n\n30\n\n30\n\n30\n\n30\n\n31\n\n \n                                                      \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \n  \n  \n\f10.3.2\n\n10.3.3\n\n10.4\n\nSurviving Provisions\n\n11\n\nMiscellaneous\n\nForce Majeure\n\nConflict with Improvements under the MTA\n\nSecrecy Agreement between the Parties\n\nPublicity\n\nNotices\n\nApplicable Law and Arbitration\n\nEntir",
+    "start": 5238,
+    "end": 6049,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Collaboration__XENCORINC_10_25_2013-EX-10.24-COLLABORATION AGREEMENT (3).txt",
+  "_char_count": 144826,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "effective_date_normalized": "2012-02-10",
+  "_issues": []
+}

@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "Payment terms for these Product invoices shall be [***]. For Product produced at Heritage facilities, Heritage shall invoice Premier on the date the Products are loaded onto Premier's carrier. Payment terms for all these Product invoices shall be [***]. Failure by Premier to meet payment terms of any invoice shall result in interest being imposed on any unpaid balance at the rate of [***] per month, pro rata on a daily basis for partial months, accrued from its due date or in the event such rate exceeds that permitted to be charged by law, the maximum rate permitted by law.\n\n(e) Heritage will",
     "start": 15616,
-    "end": 16216
+    "end": 16216,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "Termination Date December 31, 2022\n\n(iii) Product Descriptions Schedule A (2(a))\n\n(iv) Records Schedule B (2(i), 3(e))\n\n(v) Ingredients/Materials/Packaging Purchased by Premier Schedule C (3(b))\n\n(vi) Ingredient/Materials/Packaging Purchased by Heritage Schedule C (3(c))\n\n(vii) Material loss allowance Schedule C\n\n(viii) Pricing and terms Schedule C, 3(d)\n\n(ix) Premier Contacts Schedule D\n\n(x) Post Holdings' Quality Expectations Manual Schedule E 1\n\nSource: BELLRING BRANDS, INC., S-1, 9/20/2019\n\n\n\n\n\n(b) The term of this Agreement will commence on the Commencement Date and will continue through December 31, 2022 or until this Agreement is otherwise terminated in accordance with its provisions (\"Term\"). 2. PRODUCTION OF PRODUCT\n\n(a) Heritage shall produce the products described on Schedule A attached he",
     "start": 1681,
-    "end": 2492
+    "end": 2492,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.txt",
-  "_char_count": 42473
+  "_char_count": 42473,
+  "_provenance": {}
 }

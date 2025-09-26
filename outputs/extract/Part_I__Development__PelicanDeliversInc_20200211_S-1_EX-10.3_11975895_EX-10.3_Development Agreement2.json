@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "DOT COM LLC,OBA Seattle Software Developers, a Delaware limited liability company (Developer )",
+    "(Client) Pelican Delivers Inc"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Washington without regards for its conflict of laws principle",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination ofDeveloper's services and work product as mutually agreed upon between the Parties (the Project).2. Statement of WorkDeveloper will design, develop, and deliver, satisfactory to Client, the \"Pelican Delivers Application Phase 1\" (collectively, the Subject Program),and all elated Project services (collectively, the Services), Project work product (collectively, the Deliverables), and user manuals and other writtenmaterial that describe he functionality or assist in the use of the Subject Program (collectively, the Documentation), pursuant to the Projectspecifications detailed in the SO (collectively, Specifications), as described in the enclosed statement of work (the SOW; as provided in APPENDIXA hereto). The Parties may execute multiple SOWs should there be multiple or separate Projects",
+    "start": 597,
+    "end": 1408,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Development__PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.txt",
+  "_char_count": 31661,
+  "_provenance": {}
+}

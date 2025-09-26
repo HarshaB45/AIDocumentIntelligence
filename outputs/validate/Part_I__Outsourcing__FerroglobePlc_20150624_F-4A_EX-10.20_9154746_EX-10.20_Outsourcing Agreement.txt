@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "the Customer",
+    "EIT"
+  ],
+  "effective_date": null,
+  "governing_law": "Spain and the language of the process will be Spanish",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of this Agreement, each party shallnot disclose, publish or disseminate information received from the other party which may be required to carry out thisAgreement and which the disclosing party deems proprietary and confidential.  11.1.6.Once this Agreement has expired, each party must, depending on the choice of the other party, destroy or hand over alltechnical, economic, financial or commercial information, confidential or not, in its possession, directly or indirectly, asconvened in the present Agreement. 11Source: FERROGLOBE PLC, F-4/A, 6/24/2015\f 11.2.MANAGEMENT OF ACCESS RIGHTS  11.2.1.In accordance to Article 10.1, the Customer is in charge of defining the opening, closing or modifying of access toinformation. The Customer is also in charge of defining the user acces",
+    "start": 18635,
+    "end": 19446,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Outsourcing__FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement.txt",
+  "_char_count": 29341,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

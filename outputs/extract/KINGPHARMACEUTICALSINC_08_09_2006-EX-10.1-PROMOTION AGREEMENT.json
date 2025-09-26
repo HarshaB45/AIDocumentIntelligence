@@ -4,13 +4,20 @@
     "KING PHARMACEUTICALS"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "California",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement. Subject to this Section 4.8 and to applicable Legal Requirements, King shall have the right to use the King Trademarks, and include the name \"King\" or any variation thereof on the Promotional Materials developed by King; provided, that such King Trademarks shall not appear in such Promotional Materials in greater prominence or in greater frequency than the Depomed Trademark(s). In addition, the JCC will discuss including the King Trademarks, in equal prominence to the Depomed Trademarks and in accordance with all Legal Requirements, on all packaging for Samples distributed by the King Sales Force, with determination as to including such marks being based on the timing for implementing such change and the costs associated therewith, with all costs associated with creatin",
     "start": 64044,
-    "end": 64855
+    "end": 64855,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.txt",
-  "_char_count": 173240
+  "_char_count": 173240,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

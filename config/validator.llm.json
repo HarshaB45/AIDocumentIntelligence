@@ -1,0 +1,48 @@
+{
+  "use_llm_summaries": true,
+  "summary_model": "gpt-4o-mini",
+  "max_docs_for_summary": 500,
+  "max_issues_for_summary": 400,
+  "ambiguous_terms": [
+    "reasonable efforts",
+    "commercially reasonable",
+    "material breach",
+    "best efforts",
+    "undue delay",
+    "as soon as practicable",
+    "without unreasonable delay",
+    "may at its discretion",
+    "good faith"
+  ],
+  "risk_keywords": [
+    "termination",
+    "indemnify",
+    "liability",
+    "governing law",
+    "jurisdiction",
+    "confidential",
+    "payment",
+    "net",
+    "late fee",
+    "penalty",
+    "warranty",
+    "force majeure",
+    "assignment",
+    "notice"
+  ],
+  "tfidf": {
+    "max_features": 2000,
+    "min_df": 2,
+    "ngram_range": [1, 2],
+    "top_terms_per_theme": 10
+  },
+  "themes": {
+    "kmeans_k": 6,
+    "max_snippets_per_theme": 6
+  },
+  "outputs": {
+    "validated_dir": "outputs/validate",
+    "corpus_json": "outputs/validate/_corpus_summary.json",
+    "corpus_md": "outputs/validate/_corpus_summary.md"
+  }
+}

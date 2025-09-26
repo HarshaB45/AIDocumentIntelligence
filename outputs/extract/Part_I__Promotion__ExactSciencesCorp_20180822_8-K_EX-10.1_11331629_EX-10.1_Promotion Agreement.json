@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Pfizer Inc.(“Pfizer”), a Delaware corporation, with a principal place of business at 235 East 42nd Street, New York, New York 10017",
+    "Exact SciencesCorporation (“Exact”)"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of thisAgreement.(c) Right of First Negotiation.(i) During the Term, if Exact (i) enters a formal process authorized or directed by its board of directors or CEO to seek andenter into an arrangement or (ii) intends to agree to a term sheet or seeks to sign a letter of intent or similararrangement to grant an exclusive commercial license to a Third Party solely to promote or sell the Productoutside the Territory (“Ex-US Commercial Rights”), Exact shall first notify Pfizer of such intent (a “Ex-USCommercial Rights Transfer Notice”) and Pfizer shall have thirty (30) days thereafter to notify Exact of itsdesire to obtain the Ex-US Commercial Rights that are the subject of the Ex-US Commercial Rights TransferNotice. Promptly upon receipt of notice from Pfizer, Exact and Pfizer shall engage in",
+    "start": 50605,
+    "end": 51416,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Promotion__ExactSciencesCorp_20180822_8-K_EX-10.1_11331629_EX-10.1_Promotion Agreement.txt",
+  "_char_count": 156985,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

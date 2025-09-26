@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement, at which time XLI shall cease all use of the Trademarks. In further consideration of this Agreement, XLI shall not in any way disparage the Trademarks, nor any of WCC's parent, subsidiary, or affiliated companies' trademarks or its or their products. WCC shall provide XLI with all applicable logos and usage guidelines for the Trademarks. WCC shall have the right of prior written approval over all uses of the Trademarks by XLI.  The parties understand and acknowledge the importance of protecting the goodwill associated with their respective trademarks. Consequently, XLI hereby assigns to WCC all goodwill and all other rights developed in connection with XLI's use of WCC's trademarks which shall inure to the benefit of WCC.   1.1.2 XLI grants WCC a limited, non-exclusive,",
     "start": 1619,
-    "end": 2430
+    "end": 2430,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.txt",
-  "_char_count": 18240
+  "_char_count": 18240,
+  "_provenance": {}
 }

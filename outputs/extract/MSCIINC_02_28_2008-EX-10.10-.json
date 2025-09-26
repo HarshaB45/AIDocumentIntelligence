@@ -4,9 +4,14 @@
     "MSCI Inc"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "MSCIINC_02_28_2008-EX-10.10-.txt",
-  "_char_count": 11770
+  "_char_count": 11770,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "Stremicks HeritageFoods, LLC (“Heritage”), a Delaware limited liability company with an address of 4002 Westminster Avenue, Santa Ana, CA 92703",
+    "PREMIERNUTRITION CORPORATION (“Premier”)"
+  ],
+  "effective_date": "July 1, 2017",
+  "governing_law": "the State of California",
+  "payment_terms": {
+    "text": "Payment terms for these Product invoices shall be [***]. For Product produced at Heritage facilities, Heritage shall invoice Premier on the datethe Products are loaded onto Premier’s carrier. Payment terms for all these Product invoices shall be [***]. Failure by Premier to meet payment terms ofany invoice shall result in interest being imposed on any unpaid balance at the rate of [***] per month, pro rata on a daily basis for partial months,accrued from its due date or in the event such rate exceeds that permitted to be charged by law, the maximum rate permitted by law.(e) Heritage will maint",
+    "start": 15389,
+    "end": 15989,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination DateDecember 31, 2022(iii)Product DescriptionsSchedule A (2(a))(iv)RecordsSchedule B (2(i), 3(e))(v)Ingredients/Materials/PackagingPurchased by PremierSchedule C (3(b))(vi)Ingredient/Materials/PackagingPurchased by HeritageSchedule C (3(c))(vii)Material loss allowanceSchedule C(viii)Pricing and termsSchedule C, 3(d)(ix)Premier ContactsSchedule D(x)Post Holdings’ Quality ExpectationsManualSchedule E1Source: BELLRING BRANDS, INC., S-1, 9/20/2019\f(b) The term of this Agreement will commence on the Commencement Date and will continue through December 31, 2022 or until thisAgreement is otherwise terminated in accordance with its provisions (“Term”).2.PRODUCTION OF PRODUCT(a) Heritage shall produce the products described on Schedule A attached hereto, as may be amended by the Parties hereafter",
+    "start": 1650,
+    "end": 2461,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Manufacturing__BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement1.txt",
+  "_char_count": 41835,
+  "_provenance": {},
+  "effective_date_normalized": "2017-07-01",
+  "_issues": []
+}

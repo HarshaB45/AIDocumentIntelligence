@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the following parties inHaidian District, Beijing. This Agreement may be executed in paper form offline or in electronic form through the Didi Chuxing Online ContractingPlatform (website: https://Agreement.didichuxing.com/, hereinafter referred to as the “Contracting Platform”). The Agreement executed offline inpaper form shall become effective upon the completion of the execution by both Parties (hereinafter referred to as the “Effective Date”);",
+    "theAgreement executed online in electronic form shall become effective upon the completion of the execution on the Contracting Platform by bothParties (hereinafter referred to as the “Effective Date”) recorded by the third-party Online Document Depository"
+  ],
+  "effective_date": null,
+  "governing_law": "China",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the Agreement to the Driver User, fully communicateto reach consensus, and obtain the signature confirmation from the Driver User.3.2.13.7In case that Party B has different conditions for termination of agreement for different types of vehicles, theyshall all conform to the provisions of this agreement, and the written consent of Party A shall be obtained inadvance before they can be applied to the Financial Leasing Agreement signed with the Driver User.\fContract No.: DDCX S DG KC 2018121300443.2.14Where a traffic accident or other safety accident occurs in a leased vehicle, Party B shall actively deal with relevant mattersand settle insurance claims. If the Driver User has paid the maintenance fee and personal injury compensation for the leasedvehicle caused by traffic accident or oth",
+    "start": 16706,
+    "end": 17517,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Collaboration__SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement.txt",
+  "_char_count": 72863,
+  "_provenance": {}
+}

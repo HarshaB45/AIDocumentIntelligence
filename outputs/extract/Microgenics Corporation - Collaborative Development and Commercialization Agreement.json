@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination date of this Agreement that are necessary for or used in the development, manufacture, and commercialization of the Assay, which license would be solely for the development, manufacture, use, sale, offer for sale and import of the Assay in connection solely with the use of Plazomicin. Such license shall be fully sub-licensable to any Third Party for purposes of manufacturing and commercializing the Assay (including the components thereof) [***].   1.34 Additional Definitions. Each of the following definitions is set forth in the Section of the Agreement indicated below.   Definition Section AAA 13.8.2 Abandoned Commercialization 4.2.7.1 Abandoned Development 4.2.7.1 Achaogen Preamble Achaogen Indemnified Parties 11.2 Achaogen Inventions 8.1 Agreement Preamble Alliance Manager 5.1.1 Antibo",
     "start": 14859,
-    "end": 15670
+    "end": 15670,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "Microgenics Corporation - Collaborative Development and Commercialization Agreement.txt",
-  "_char_count": 190261
+  "_char_count": 190261,
+  "_provenance": {}
 }

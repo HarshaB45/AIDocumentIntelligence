@@ -4,13 +4,20 @@
     "its Affiliates"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of the Term (other than in connection with a Sale Transaction in which Sekisui acquires Qualigen), Sekisui shall cooperate in permitting Qualigen to offer to rehire any Sekisui sales representatives who are primarily responsible for selling the Products. A sales person \"primarily responsible for selling the Products\" is one that spends more than half of his or her time and receives more than half of his or her commission based compensation based on sales of the Products. 4.7. Invoice Terms. Sekisui shall pay for each Product sold by Qualigen within 30 days after Sekisui has received the applicable invoice from Qualigen. 4.8. Marketing Claims. Sekisui covenants to Qualigen that Sekisui will not make any written or oral representation or marketing claim (either formal or informal) about any",
     "start": 23953,
-    "end": 24764
+    "end": 24764,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement.txt",
-  "_char_count": 122688
+  "_char_count": 122688,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

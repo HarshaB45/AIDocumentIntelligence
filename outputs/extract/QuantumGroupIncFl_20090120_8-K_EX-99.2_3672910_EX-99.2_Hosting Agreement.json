@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination Term This Agreement will be effective beginning on 12:01 a.m., Eastern Time, on the day after the date of last signature to these Base Terms (\"Effective Date\"). This Agreement will remain in effect for Thirty-six (36)\n\nPage 3 of 36\n\nSource: QUANTUM GROUP INC /FL, 8-K, 1/20/2009\n\n\n\n\n\nmonths following the Hosting Service Ready Date (\"Term\"), unless terminated earlier in accordance with the terms herein. Termination for Cause Customer or IBM may terminate this Agreement for material breach of this Agreement by the other upon written notice containing the specific nature and dates of the material breach.  The breaching party will have thirty (30) days from receipt of notice to cure such breach, except for nonpayment by Customer, which must be cured within five (5) days from receipt of notice.",
     "start": 11624,
-    "end": 12435
+    "end": 12435,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement.txt",
-  "_char_count": 116298
+  "_char_count": 116298,
+  "_provenance": {}
 }

@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the JGC",
+    "Internal Teams"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination Rights by AbbVie.6312.4Termination for Insolvency.6312.5Rights in Bankruptcy.6312.6Termination in Entirety.6312.7Reversion of Harpoon Products.6612.8Termination of Terminated Territory.6712.9Remedies.6712.10Accrued Rights; Surviving Obligations.67ARTICLE 13MISCELLANEOUS6813.1Force Majeure.6813.2Change in Control of Harpoon.6813.3Export Control.6913.4Assignment.6913.5Severability.7013.6Governing Law, Jurisdiction and Service.7013.7Dispute Resolution.7013.8Notices.7113.9Entire Agreement; Amendments.7213.10English Language.7213.11Equitable Relief.7213.12Waiver and Non-Exclusion of Remedies.7213.13No Benefit to Third Parties.7213.14Further Assurance.7313.15Relationship of the Parties.7313.16Performance by Affiliates.7313.17Counterparts; Facsimile Execution.7313.18References.7313.19Schedules.7",
+    "start": 3149,
+    "end": 3960,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement_Option Agreement.txt",
+  "_char_count": 245165,
+  "_provenance": {}
+}

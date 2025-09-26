@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination date of this Agreement and the date that is six (6) months after the date on which the Company provides Contractor with written notice of its election to terminate this Agreement.\n\n(p) \"OHL\" means Ozbum-Hessey Logistics, LLC and its Affiliates.\n\n(q) \"Person\" means an individual, a limited liability company, a joint venture, a corporation, a partnership, an association, a trust, a division or an operating group of any of the foregoing or any other entity or organization.\n\n(r) \"Products\" shall have the meaning set forth in the Recitals to this Agreement.\n\n(s) \"Receiving Party\" shall have the meaning set forth in Section 5.04.\n\n(t) \"Sales Representation Agreement\" means the sales representation agreement, dated as of the date hereof, between Company and Contractor.\n\n(u) \"Service Fees\" shall",
     "start": 3552,
-    "end": 4363
+    "end": 4363,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CCAINDUSTRIESINC_04_14_2014-EX-10.1-OUTSOURCING AGREEMENT.txt",
-  "_char_count": 31914
+  "_char_count": 31914,
+  "_provenance": {}
 }

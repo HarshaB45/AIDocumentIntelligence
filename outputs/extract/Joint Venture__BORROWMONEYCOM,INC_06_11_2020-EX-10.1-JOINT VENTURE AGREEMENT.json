@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the Members. All negotiations",
+    "understandings have been included in thisAgreement"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement or dissolution of the Venture.Language47.The Members expressly state that the English language is to be the language of choice for this Agreement and all other notices andagreements required by the Venture.Page 9 of 13\fInsurance48.The Venture will insure all its assets against loss where reasonable and standard practice in the industry.Indemnification49.Each Member will be indemnified and held harmless by the Venture from any and all harm or damages of any nature relating to theMember’s participation in Venture affairs except where such harm or damages results from gross negligence or willful misconduct on thepart of the Member.Liability50.No Member will be liable to the Venture or to any other Member for any error in judgment or any act or failure to act where made in g",
+    "start": 14346,
+    "end": 15157,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Joint Venture__BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT.txt",
+  "_char_count": 21022,
+  "_provenance": {}
+}

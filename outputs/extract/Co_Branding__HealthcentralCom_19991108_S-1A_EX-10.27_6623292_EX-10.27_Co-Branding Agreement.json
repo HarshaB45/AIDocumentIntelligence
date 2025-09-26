@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the parties (50% MediaLinx--50% HCI). HCI shall be entitled to all     proceeds generated from US companies on the Co-Branded Site. \"Net revenue\"     is defined as revenue less: 1) third party expenses directly related to the     acquisition of the revenue; for example, advertising broker commissions",
+    "advertising management services"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination(a)  Either Party may terminate this Agreement upon 30 days prior written notice     to the other Party if 1) such other Party breaches any material term of     this Agreement, unless such breach is cured within 30 days; or 2) if any of     the terms of this Agreement that require mutual approval are not mutually     agreed to;(b)  This Agreement may be terminated by a Party immediately, without notice:     (i)     upon the institution by or against the other Party of insolvency,             receivership, or bankruptcy proceedings or any other proceedings             for the settlement of the other Party's debts, if such proceedings             are not dismissed within sixty (60) days;     (ii)    upon the other Party making an assignment for the benefit of             creditors; or     (i",
+    "start": 20036,
+    "end": 20847,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Co_Branding__HealthcentralCom_19991108_S-1A_EX-10.27_6623292_EX-10.27_Co-Branding Agreement.txt",
+  "_char_count": 44176,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

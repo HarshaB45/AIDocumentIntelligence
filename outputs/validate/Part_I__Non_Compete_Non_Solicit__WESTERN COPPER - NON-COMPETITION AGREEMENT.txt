@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the parties.\n\nAmendments\n\n4.4 \nin writing duly executed by each of the parties in the same manner as this Agreement.\n\nNo alteration or amendment of this Agreement will lake effect unless the same is \n\nWaiver\n\n4.5 \nNo waiver of any provision of this Agreement shall be binding on any of the \nparties hereto unless consented to in writing by such party. No waiver of any provision of this \nAgreement by either of the parties hereto shall constitute a waiver of any other provision, nor \nshall any waiver constitute a continuing waiver unless otherwise clearly provided.\n\nFurther Assurances\n\n4.6 \nEach party hereto covenants",
+    "agrees with each other party hereto that it will at"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination\n\n3.5 \nW'estem Copper may, at its option, terminate this Agreement by written notice to \nGlamis, effective immediately upon delivery of the notice, should Glamis cease conducting \nbusiness in the normal course, become insolvent, make a general assignment for the benefit of \ncreditors, suffer or permit the appointment of a receiver for its business or assets or avail itself \nof, or become subject to, any proceedings under the Bankruptcy and Insolvency Act (Canada) or \nany other statute of any province or state relating to insolvency or the protection of rights of \ncreditors.\n\nGlamis’ Right of TerminaHon\n\nGlamis may, at its option, terminate this Agreement by written notice to Western \n3.6 \nCopper, effective immediately upon delivery of the notice, should Western Copper cease \nconducting bus",
+    "start": 10662,
+    "end": 11473,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Non_Compete_Non_Solicit__WESTERN COPPER - NON-COMPETITION AGREEMENT.txt",
+  "_char_count": 16450,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

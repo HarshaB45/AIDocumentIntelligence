@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "PSiTech Corporation, a BVI\n\nCorporation, with offices located at 303, 3rdFl, St. Georges Bldg, 2 Ice House St, Central, Hong Kong(\"Licensor\")",
+    "Empirical Ventures"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the License Term for such Content Item.\n\n4.2 Required Notices. Licensee shall display with each Content Item the appropriate copyright and trademark notices and any other source\nattribution required by Licensor. Licensee shall not alter, remove or obstruct any such notices or attribution included with any Content Item as\ndelivered by Licensor.\n\n5\n\nSource: GO-PAGE CORP, 10-K, 2/21/2014 \n \n \n \n \n \n \n \n \n \n \n \n\f4.3 Terms of Use. Throughout the Term, Licensee shall have in effect and maintain accessible on the Licensee Site and Related Media website\nterms of use (\"Terms of Use\") and privacy policy (“Privacy Policy”) on which use of the Licensee Site and Related Media, including the Licensed\nContent, is expressly conditioned, and which in form and substance are reasonably acceptable to Lice",
+    "start": 11703,
+    "end": 12514,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt",
+  "_char_count": 39795,
+  "_provenance": {}
+}

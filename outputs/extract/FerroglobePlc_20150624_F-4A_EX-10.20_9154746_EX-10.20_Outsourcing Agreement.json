@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination or expiration of this Agreement, each party shall not disclose, publish or disseminate information received from the other party which may be required to carry out this Agreement and which the disclosing party deems proprietary and confidential.\n\n  11.1.6. Once this Agreement has expired, each party must, depending on the choice of the other party, destroy or hand over all technical, economic, financial or commercial information, confidential or not, in its possession, directly or indirectly, as convened in the present Agreement.   11\n\nSource: FERROGLOBE PLC, F-4/A, 6/24/2015\n\n\n\n\n\n  11.2. MANAGEMENT OF ACCESS RIGHTS\n\n  11.2.1. In accordance to Article 10.1, the Customer is in charge of defining the opening, closing or modifying of access toinformation. The Customer is also in charge of de",
     "start": 19153,
-    "end": 19964
+    "end": 19964,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement.txt",
-  "_char_count": 30309
+  "_char_count": 30309,
+  "_provenance": {}
 }

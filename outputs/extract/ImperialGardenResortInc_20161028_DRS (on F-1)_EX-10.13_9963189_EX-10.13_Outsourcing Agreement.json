@@ -1,9 +1,19 @@
 {
-  "parties": null,
+  "parties": [
+    "Outsourcing Contract on Development of Miaoli Royal Resort Hotel   Planning Unit",
+    "Chang Chen-Bin Architects Office",
+    "IMPERIAL GARDEN & RESORT",
+    "DRS"
+  ],
   "effective_date": null,
   "governing_law": null,
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "ImperialGardenResortInc_20161028_DRS (on F-1)_EX-10.13_9963189_EX-10.13_Outsourcing Agreement.txt",
-  "_char_count": 12260
+  "_char_count": 12260,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
 }

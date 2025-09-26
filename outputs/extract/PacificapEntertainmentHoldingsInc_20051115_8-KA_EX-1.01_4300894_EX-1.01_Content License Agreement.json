@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION\n\nINITIAL TERM AND RENEWALS: This Agreement will become effective as of the last date of signature (Effective Date) and shall, unless sooner terminated as provided below or as otherwise agreed, remain effective for an initial term of 10 Years following the first date of public availability of the PACIFICAP ENTERTAINMENT Content within a THE HENRY FILM AND ENTERTAINMENT CORPORATION Property (the \"Initial Term\"). After the Initial Term, this Agreement will be automatically renewed for successive additional 3~year periods (\"Extension Terms\"), unless otherwise terminated by either party by giving notice to the other party not less than sixty (60) days prior to the end of a Term. As used herein, the \"Term\" means the Initial Term and any Extension Term(s).\n\nTERMINATION FOR CAUSE: Notwithstanding",
     "start": 8850,
-    "end": 9661
+    "end": 9661,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement.txt",
-  "_char_count": 18138
+  "_char_count": 18138,
+  "_provenance": {}
 }

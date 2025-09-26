@@ -4,13 +4,20 @@
     "DISTRIBUTOR"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Florida",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement, DISTRIBUTOR shall          forthwith cease all further use of the PPG Trademarks and shall destroy          all unused labels and advertisements containing the PPG Trademarks.          Thereafter, DISTRIBUTOR shall not use any PPG Trademarks or trade or          corporate names similar thereto.\n\n10.2     DISTRIBUTOR acknowledges PPG SHANGHAI's exclusive right and interests          in relation to the PPG Trademarks and further acknowledges that all          copyrights, patent, utility model rights and all other industrial          property rights of whatever kind used in or in connection with the          Products are the sole and exclusive property of PPG SHANGHAI or PPG and          that DISTRIBUTOR will not, whether during the Term of this appointment          or aft",
     "start": 15892,
-    "end": 16703
+    "end": 16703,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.txt",
-  "_char_count": 36275
+  "_char_count": 36275,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

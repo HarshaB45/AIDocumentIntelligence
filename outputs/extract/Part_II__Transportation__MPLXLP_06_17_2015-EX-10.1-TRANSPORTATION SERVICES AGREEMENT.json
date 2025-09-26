@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Marathon PetroleumCompany LP (“Shipper”)",
+    "Marathon Pipe Line LLC"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination Notice” has the meaning set forth in 5.1.“Tariff” means the intrastate and/or interstate tariffs that set forth the rules, regulations and rates for services on the Pipeline, including supplements theretoand reissues thereof, under which Product is transported through the Pipeline.“Tariff Rates” means the rates set forth in the Tariffs for transportation of Product on the Pipeline.“Term” has the meaning set forth in Section 2.2.“Unsubscribed Capacity” has the meaning set forth in Section 3.9.1.1The following Exhibits are attached to and incorporated into this Agreement:Exhibit A - Common Carrier Pipeline, including Origins and DestinationsExhibit B - Rate and Volume Commitment TableExhibit C - Shipper’s Submitted Capacity Request Form2. Effective Date and Term2.1This Agreement is effectiv",
+    "start": 10841,
+    "end": 11652,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Transportation__MPLXLP_06_17_2015-EX-10.1-TRANSPORTATION SERVICES AGREEMENT.txt",
+  "_char_count": 56505,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

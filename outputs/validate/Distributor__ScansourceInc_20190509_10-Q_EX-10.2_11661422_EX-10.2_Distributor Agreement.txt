@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the following parties:Zebra Technologies International, LLC, with an office at 3 Overlook Point, Lincolnshire IL 60069 (“Zebra”);Zebra Technologies do Brasil - Comércio de Produtos de Informåtica Ltda., a company incorporated",
+    "organized under the laws of Brazil"
+  ],
+  "effective_date": null,
+  "governing_law": "Florida",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination. This Addendum may be terminated at any time by either Party in accordance with the termination provisions of theDistribution Agreement. The Addendum shall not have an Initial Period.8.Governing Law and Dispute Resolution. The terms of the Governing Law and Dispute Resolution provisions of the DistributionAgreement will apply to this Addendum.Source: SCANSOURCE, INC., 10-Q, 5/9/2019\fIN WITNESS HEREOF, the Parties have executed this Addendum on the dates specified herein.ZEBRA TECHNOLOGIES INTERNATIONAL, LLCSCANSOURCE, INC.By:/s/ Alex CastanedaBy:/s/ Brenda McCurryName:Alex CastanedaName:Brenda McCurryTitle:VP NA Territory and Channel SalesTitle:Vice President, Supplier ServicesDate:May 7, 2019Date:1/29/2019ZEBRA TECHNOLOGIES DO BRASIL- COMÉRCIO DEPRODUTOS DESCANSOURCE LATIN AMERICA, INC.B",
+    "start": 6405,
+    "end": 7216,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Distributor__ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement.txt",
+  "_char_count": 13832,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

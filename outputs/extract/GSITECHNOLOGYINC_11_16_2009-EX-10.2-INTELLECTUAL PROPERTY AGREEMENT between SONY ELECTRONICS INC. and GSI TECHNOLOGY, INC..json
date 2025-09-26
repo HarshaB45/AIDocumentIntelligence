@@ -4,13 +4,20 @@
     "GSI TECHNOLOGY"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination 7            7.1 Term 7    7.2 Termination 7    7.3 Insolvency 7    7.4 Continuing Obligations 8         8. Representations and Warranties 8            8.1 Power and Authority 8    8.2 Essential Patents 8    8.3 Ownership 8    8.4 Validity and Enforceability 8    8.5 Sufficiency 9    8.6 Non-infringement by the Business 9    8.7 Infringement by a Third Party 10    8.8 Intellectual Property Development 10\n\n\n\n\n\n     TABLE OF CONTENTS  (continued)\n\n   ii\n\n    Page           8.9 Material Intellectual Property Agreements 11    8.10 Royalties 11    8.11 No Loss of Rights 12    8.12 Transferability 12    8.13 No SRAM Product Warranty Issues 12    8.14 Disclaimer 12         9. Miscellaneous 13            9.1 Notices 13    9.2 Expenses 14    9.3 Successors and Assigns 14    9.4 Waiver 15    9.5 En",
     "start": 860,
-    "end": 1671
+    "end": 1671,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC..txt",
-  "_char_count": 37337
+  "_char_count": 37337,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

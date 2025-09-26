@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination of Agreement. This Agreement shall remain in effect until terminated by the Parties. This Agreement may be terminated by (a) the written agreement of the Parties or (b) by either Party upon 5 days written notice to the other Party. All payment obligations hereunder shall survive the termination of this Agreement in accordance with their respective terms.\n\n2.4 Amendment or Modification. This Agreement may be amended or modified from time to time only by the written agreement of all the Parties hereto. Each such instrument shall be reduced to writing and shall be designated on its face an \"Amendment\" or an \"Addendum\" to this Agreement.\n\n2.5 Assignment. No Party shall have the right to assign its rights or obligations under this Agreement without the consent of the other Parties hereto; prov",
     "start": 3476,
-    "end": 4287
+    "end": 4287,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "TRANSMONTAIGNEPARTNERSLLC_03_13_2020-EX-10.9-SERVICES AGREEMENT.txt",
-  "_char_count": 5886
+  "_char_count": 5886,
+  "_provenance": {}
 }

@@ -4,17 +4,26 @@
     "Pareteum Corporation"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": {
     "text": "payment terms with reasonable notice, when, in its reasonable discretion, iPass believes that its payments may be at risk. All rights of Channel Partner are expressly made conditional upon timely payment, without the right of set off, of all amounts due by Channel Partner under the Agreement. Without limiting iPass' other available rights and remedies, iPass reserves the right to suspend or to terminate any Services ten (10) days after sending written notice of a payment that is thirty (30) or more days past due. iPass may include on an invoice, and Channel Partner agrees to pay for: (i) any S",
     "start": 9828,
-    "end": 10428
+    "end": 10428,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of this Agreement or Disclosing Party's request, Receiving Party shall return and at Disclosing Party's option, destroy any and all Confidential Information exchanged under this Agreement. 7.3 In addition to any other remedies, the Disclosing Party shall be entitled to seek equitable relief. 7.4 For Confidential Information pertaining to the Licensed Software, the obligations set forth in this Section 7 are indefinite. For all other Confidential Information, such obligations shall continue for five (5) years from the date of initial disclosure.\n\nPage 6 of 22 iPass Channel Partner Reseller Agreement 04.18.2018 iPass Confidential\n\n[***] = Certain confidential information contained in this document, marked by brackets, is filed with the Securities and Exchange Commission pursuant to Rule 24b",
     "start": 22117,
-    "end": 22928
+    "end": 22928,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement.txt",
-  "_char_count": 73860
+  "_char_count": 73860,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

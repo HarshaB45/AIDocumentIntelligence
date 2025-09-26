@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "Payment Terms. JRVS shall submit an invoice to the Distributor upon shipment of Products to the Distributor. The invoice shall state the amount to be paid by the Distributor for all Products in such shipment, as well as any taxes, duties or excises paid by JRVS which shall be reimbursed by the Distributor in accordance with Section 5.4. Terms of payment shall be net thirty (30) days. All payments shall be in U.S. Dollars. 6.2 Late Payments. All amounts which are not timely paid by the Distributor as required by this Agreement shall be subject to a late charge equal to one and one-half percent",
     "start": 12259,
-    "end": 12859
+    "end": 12859,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of this Agreement for any reason, such authorization will cease. 8.2 No Other Rights. The Distributor may not, directly or through any person or entity, in any form or manner, copy, distribute, reproduce, incorporate, use or allow access to the Products or modify, prepare derivative works of, decompile, reverse engineer, disassemble or otherwise attempt to derive source code or object code from the Products, except as explicitly permitted under this Agreement or otherwise agreed in writing. 8.3 Proprietary Notice. The Distributor will ensure that all copies of the Products will incorporate copyright and other proprietary notices in the same manner that JRVS incorporates such notices in the Products or in any manner reasonably requested by JRVS. The Distributor will not remove any copyrigh",
     "start": 15201,
-    "end": 16012
+    "end": 16012,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement.txt",
-  "_char_count": 34461
+  "_char_count": 34461,
+  "_provenance": {}
 }

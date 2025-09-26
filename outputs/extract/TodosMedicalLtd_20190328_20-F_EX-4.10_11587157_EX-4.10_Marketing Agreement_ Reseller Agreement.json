@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination or expiration of this Agreement, the Reseller shall maintain complete books of accounts and records consistent with sound business and accounting principles and practices consistently applied. 6.2 Quarterly Reports. Within fifteen (15) days of the end of each quarter, the Reseller shall provide Todos with a written report of (a) the quantities of Products distributed, sold, or otherwise transferred; the prices at which the Products were sold; and payments received therefore; and (b) the identity and location of all Customers to whom Products were sold, during the preceding quarter (each a \"Quarterly Report\"). 6.3 Audits. Todos shall have the right to have an inspection and audit of all the relevant accounting and sales books and records of Reseller conducted by an independent auditor reas",
     "start": 13082,
-    "end": 13893
+    "end": 13893,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "TodosMedicalLtd_20190328_20-F_EX-4.10_11587157_EX-4.10_Marketing Agreement_ Reseller Agreement.txt",
-  "_char_count": 32321
+  "_char_count": 32321,
+  "_provenance": {}
 }

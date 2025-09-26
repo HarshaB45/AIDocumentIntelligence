@@ -1,0 +1,22 @@
+{
+  "parties": [
+    "the Securities Exchange Act",
+    "ExchangeAct",
+    "Clarus IV-A",
+    "Blackstone"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Joint Venture__GALERATHERAPEUTICS,INC_02_14_2020-EX-99.A-JOINT FILING AGREEMENT.txt",
+  "_char_count": 3747,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

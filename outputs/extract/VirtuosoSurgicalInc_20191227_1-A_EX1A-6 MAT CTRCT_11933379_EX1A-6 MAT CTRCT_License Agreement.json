@@ -4,13 +4,20 @@
     "between The Johns Hopkins University (hereinafter \"JHU\")"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "United States",
   "payment_terms": null,
   "termination_clause": {
     "text": "TERMINATION 6.1 Expiration: This term of this Agreement shall commence on the EFFECTIVE DATE and shall continue, in each country, until the date of expiration of the last to expire patent within PATENT RIGHT(S) in that country. 6.2 Termination by Company: Company may terminate this Agreement and the license granted herein, for any reason, upon giving JHU sixty (60) days written notice under Paragraph 8.1. 6.3 Termination by JHU: JHU, at its option, may terminate this Agreement and the license granted herein if Company has not made any sales of LICENSED PRODUCT(S) or LICENSED SERVICE(S) in any period of four consecutive quarters, after the initial commercial sale of the PRODUCT(S) or LICENSED SERVICE(S). 6.4 Unpaid Royalty/Reversion of Rights: Termination or expiration of this Agreement shall not affe",
     "start": 11686,
-    "end": 12497
+    "end": 12497,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "VirtuosoSurgicalInc_20191227_1-A_EX1A-6 MAT CTRCT_11933379_EX1A-6 MAT CTRCT_License Agreement.txt",
-  "_char_count": 35902
+  "_char_count": 35902,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

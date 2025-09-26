@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Freeze Tag Inc., a Delaware Corporation(\"Company\"), with its principal place of business located at 1720 Bray Central Drive, McKinney, TX 75069",
+    "the AmericanDiabetes Association"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination: Before expiration of the Term, either Party may terminate this Agreement upon: (i) any material breach of theAgreement by the other Party, if such breach is not remedied to the reasonable satisfaction of the non-breaching Partywithin ten (10) business days after written notice; (ii) ten (10) business days written notice to the other Party wheneverthe notifying Party in its sole discretion determines that the continuation of the Agreement will damage its reputation orgood will; or (iii) written notice in the event one Party (a) becomes or is declared insolvent or bankrupt or is subject to theappointment of a trustee or receiver or any equivalent thereof, (b) is the subject of any proceeding related to itsliquidation or insolvency (whether voluntary or involuntary) which is not dismissed w",
+    "start": 9749,
+    "end": 10560,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Sponsorship__FreezeTagInc_20180411_8-K_EX-10.1_11139603_EX-10.1_Sponsorship Agreement.txt",
+  "_char_count": 26309,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

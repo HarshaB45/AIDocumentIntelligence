@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION. . . . . . . . . . . . . . . . . . . . . . . 20 XVII.  RIGHTS AND DUTIES OF PARTIES UPON EXPIRATION OR        TERMINATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 XVIII. TRANSFERABILITY OF INTEREST. . . . . . . . . . . . . . . . . . . . . 24 XIX.   YOUR DEATH OR INCAPACITY . . . . . . . . . . . . . . . . . . . . . . 26 XX.    RIGHT OF FIRST REFUSAL . . . . . . . . . . . . . . . . . . . . . . . 26 XXI.   OPERATION IN THE EVENT OF ABSENCE, DISABILITY OR DEATH . . . . . . . 26 XXII.  INDEPENDENT CONTRACTOR AND INDEMNIFICATION . . . . . . . . . . . . . 27 XXIII. MISCELLANEOUS. . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 XXIV.  APPLICABLE LAW . . . . . . . . . . . . . . . . . . . . . . . . . . . 29 XXV.   DISPUTE RESOLUTION . . . . . . . . . . . . . . . . . . .",
     "start": 1578,
-    "end": 2389
+    "end": 2389,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT.txt",
-  "_char_count": 154495
+  "_char_count": 154495,
+  "_provenance": {}
 }

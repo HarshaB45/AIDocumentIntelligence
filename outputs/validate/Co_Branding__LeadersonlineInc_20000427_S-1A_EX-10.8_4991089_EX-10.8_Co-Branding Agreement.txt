@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "VerticalNet, Inc., a Pennsylvaniacorporation having a principal place of business at 700 Dresher Road, Suite 100,Horsham, Pennsylvania, 19044 (\"VerticalNet\")",
+    "LeadersOnline"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.  All information containedin the Resume Bank shall be handled by LeadersOnline in accordance withVerticalNet's standard Privacy Policy as it may be posted on the VerticalNetSites from time to time.  The foregoing restrictions shall cease to apply fromand after the time that a Candidate registers through an online form or takesother affirmative action to become a member of the LeadersOnline \"CandidateCommunity.\"                                       56.   THE COMMERCIAL TERMS    6.1.  Fees. As set forth in Section 6.2  [Payment of Fees], LeadersOnline shall pay toVerticalNet the following:        6.1.1.  Slotting fees for the Employer Spotlights of $***;        6.1.2.  Banner and Newsletter Ad sponsorship fees of $*** as provided inSection 3.1  [Purchase Commitment]; and",
+    "start": 15101,
+    "end": 15912,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Co_Branding__LeadersonlineInc_20000427_S-1A_EX-10.8_4991089_EX-10.8_Co-Branding Agreement.txt",
+  "_char_count": 54347,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

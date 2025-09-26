@@ -4,13 +4,20 @@
     "Mellon Investor Services LLC (operating with the service name BNY Mellon Shareowner Services)"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement at least 60 days prior to the end of the Initial Term, or any successive three-year term, this Agreement shall automatically renew for successive additional three-year terms; provided, however, that this Agreement shall automatically terminate upon the dissolution of the client.\n\n3. Duties of Agent. Commencing on the Effective Date, Agent shall provide the services listed in Exhibit B hereto, in the performance of its duties hereunder. 4. Representations, Warranties and Covenants of Client. Client represents, warrants and covenants to Agent that:\n\n(a) it is a statutory trust duly organized and validly existing under the laws of its state of incorporation;\n\n(b) the Shares issued and outstanding on the date hereof have been duly authorized, validly issued and are fully pai",
     "start": 1151,
-    "end": 1962
+    "end": 1962,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BLACKSTONEGSOLONG-SHORTCREDITINCOMEFUND_05_11_2020-EX-99.(K)(1)-SERVICE AGREEMENT.txt",
-  "_char_count": 52334
+  "_char_count": 52334,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

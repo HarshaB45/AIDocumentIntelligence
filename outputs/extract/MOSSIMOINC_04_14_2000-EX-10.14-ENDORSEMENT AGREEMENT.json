@@ -4,13 +4,20 @@
     "DAVID DUVAL ENTERPRISES"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "California",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination rights set forth in this section shall not constitute the exclusive remedy of the nondefaulting party hereunder, however, and if default is made by either party hereunder, the other may resort to such other remedies as said party would have been entitled to if this section had been omitted from this Agreement, subject to the terms of this Agreement. Termination under the provisions of this section shall be without prejudice to any rights or claims which the terminating party may otherwise have against the defaulting party, and if Company is the defaulting party, Company shall be responsible for any and all payments due under the terms of this Agreement in addition to other liabilities set forth above.\n\n         (b) If Company shall become bankrupt or insolvent, or if Company's business sh",
     "start": 14478,
-    "end": 15289
+    "end": 15289,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "MOSSIMOINC_04_14_2000-EX-10.14-ENDORSEMENT AGREEMENT.txt",
-  "_char_count": 24307
+  "_char_count": 24307,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

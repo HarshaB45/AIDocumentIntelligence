@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement, the Sub-Advisor shall promptly, upon demand, return to Oaktree US all such records, except that the Sub-Advisor may retain copies for its records as may be required by Applicable Law, regulation or court order, and provided that the Sub-Advisor's confidentiality obligations shall continue in full force and effect with respect to such retained records not within the public domain.\n\n6.3 The Sub-Advisor shall provide to Oaktree US promptly upon request any information available in the records maintained by the Sub-Advisor relating to the Funds in such form as Oaktree US shall request.\n\n7. LIABILITY AND INDEMNIFICATION\n\n7.1 In providing its services under this Agreement, the Sub-Advisor will discharge its duties in accordance with the same standard of care established for O",
     "start": 11477,
-    "end": 12288
+    "end": 12288,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "OAKTREECAPITALGROUP,LLC_03_02_2020-EX-10.8-Services Agreement.txt",
-  "_char_count": 20133
+  "_char_count": 20133,
+  "_provenance": {}
 }

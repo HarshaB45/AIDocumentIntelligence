@@ -4,13 +4,20 @@
     "STW RESOURCES HOLDING CORP"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Texas",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of the provisions of this AGREEMENT related only to the Property. Upon termination of the provisions of this AGREEMENT related to the Property only, STW, or its successors or assigns, shall transfer title of all water conveyance pipelines from the Property to COFS. STW shall administer and provide all necessary and reasonable insurance to insure its activities on the Property in relation to the AGREEMENT and shall list COFS as additional insured.\n\n  -1-\n\n\n\n\n\n    3.  Term.  Subject to the other provisions contained herein, this AGREEMENT shall be for a term of thirty (30) years from the Effective Date, which shall automatically renew from year-to-year thereafter unless terminated by a Party upon sixty (60) days' written notice after the end of the term. Notwithstanding the 30-year term of",
     "start": 3445,
-    "end": 4256
+    "end": 4256,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "STWRESOURCESHOLDINGCORP_08_06_2014-EX-10.1-COOPERATION AGREEMENT.txt",
-  "_char_count": 27721
+  "_char_count": 27721,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

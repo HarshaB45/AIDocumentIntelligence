@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Phoenix Satellite Television Company Limited",
+    "Beijing Tianying Jiuzhou Network Technology Co"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, Party B shall return to Party A or destroy any document, \nmaterial or software containing such business secrets and delete the same from any memory devices. \n\n6.3 Party B warrants that it will take all technical methods and confidential measures reasonably available to Party B to ensure that only Party A and \n\ncertain of Party B personnel designated by Party A may have access to the Program Content licensed by Party A to Party B. Without \nParty A’s permission in writing, Party B may not disclose or sublicense the Program Content to any third party, except for the Program \nContent related to Party B Business. \n\n7.1 Party A represents and warrants that \n\nARTICLE SEVEN REPRESENTATIONS AND WARRANTIES \n\n7.1.1 it owns copyrights and other related rights to the Program Content",
+    "start": 12821,
+    "end": 13632,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__PhoenixNewMediaLtd_20110421_F-1_EX-10.17_6958322_EX-10.17_Content License Agreement.txt",
+  "_char_count": 25207,
+  "_provenance": {}
+}

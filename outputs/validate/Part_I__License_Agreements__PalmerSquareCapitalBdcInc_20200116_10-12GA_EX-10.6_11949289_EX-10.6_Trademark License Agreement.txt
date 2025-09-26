@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the parties with respect to such subject matter.[Remainder of Page Intentionally Left Blank]- 5 -Source: PALMER SQUARE CAPITAL BDC INC., 10-12G/A, 1/16/2020\fIN WITNESS WHEREOF, each party has caused this Agreement to be executed on the date first set forth above by its duly authorizedofficer.LICENSOR:PALMER SQUARE CAPITALMANAGEMENT LLCBy:Name:Jeffrey D. FoxTitle:Managing DirectorLICENSEE:PALMER SQUARE CAPITAL BDC INC.By:Name:Scott A. BetzTitle:Chief Compliance OfficerACKNOWLEDGED",
+    "AGREED TOPALMER SQUARE BDC ADVISOR LLCBy:Name:Jeffrey D"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination, amendment, acceleration, suspension, revocation or cancellation ofany contract, agreement, lease, sublease, license, permit, franchise or other instrument or arrangement to which it is a party.ARTICLE 4.TERM AND TERMINATION4.1. Term. This Agreement shall expire if the Investment Advisor or one of its affiliates ceases to serve as investment adviser to theLicensee. This Agreement shall be terminable by Licensor at any time and in its sole discretion in the event that Licensor or Licensee receivesnotice of any Third Party Claim arising out of Licensee’s use of the Licensed Mark; by Licensor or Licensee upon sixty (60) days’ written notice tothe other party; or by Licensee at any time in the event Licensee assigns or attempts to assign or sublicense this Agreement or any of Licensee’srights",
+    "start": 7679,
+    "end": 8490,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__PalmerSquareCapitalBdcInc_20200116_10-12GA_EX-10.6_11949289_EX-10.6_Trademark License Agreement.txt",
+  "_char_count": 14566,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

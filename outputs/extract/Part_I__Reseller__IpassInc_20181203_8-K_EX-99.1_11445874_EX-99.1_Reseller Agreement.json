@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "iPass",
+    "Channel Partner"
+  ],
+  "effective_date": null,
+  "governing_law": "New York",
+  "payment_terms": {
+    "text": "payment terms with reasonable notice, when, in its reasonable discretion, iPass believes that its payments may be atrisk. All rights of Channel Partner are expressly made conditional upon timely payment, without the right of set off, of all amounts due by ChannelPartner under the Agreement. Without limiting iPass’ other available rights and remedies, iPass reserves the right to suspend or to terminate anyServices ten (10) days after sending written notice of a payment that is thirty (30) or more days past due. iPass may include on an invoice, andChannel Partner agrees to pay for: (i) any Servi",
+    "start": 9696,
+    "end": 10296,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of this Agreement orDisclosing Party’s request, Receiving Party shall return and at Disclosing Party’s option, destroy any and all Confidential Information exchangedunder this Agreement.7.3 In addition to any other remedies, the Disclosing Party shall be entitled to seek equitable relief.7.4 For Confidential Information pertaining to the Licensed Software, the obligations set forth in this Section 7 are indefinite. For all otherConfidential Information, such obligations shall continue for five (5) years from the date of initial disclosure.Page 6 of 22iPass Channel Partner Reseller Agreement04.18.2018 iPass Confidential[***] = Certain confidential information contained in this document, marked bybrackets, is filed with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Se",
+    "start": 21862,
+    "end": 22673,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Reseller__IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement.txt",
+  "_char_count": 72774,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

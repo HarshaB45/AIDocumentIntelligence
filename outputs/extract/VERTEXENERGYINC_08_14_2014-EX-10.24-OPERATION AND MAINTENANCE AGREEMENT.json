@@ -4,13 +4,20 @@
     "OMEGA REFINING"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination    7\n\nARTICLE IV : DUTIES AS OPERATOR7 4.1 Duties as Operator.    7 4.2 Standard of Care..    11 4.4 Limitation of Authority    12\n\nARTICLE V : ACCOUNTING, REPORTS, RECORDS12 5.1 Accounting Methods.    12 5.2 Independent Audit.    12\n\nARTICLE VI : FORCE MAJEURE12 6.1 Procedure..    12\n\n\n\n\n\n6.2 Strikes.    13\n\nARTICLE VII : INSURANCE AND INDEMNIFICATION13 7.1 Operator Insurance.    13 7.2 Contractors    14 7.3 Notice of Claims..    14 7.4 Mutual Release and Indemnification.    14\n\nARTICLE VIII : GENERAL PROVISIONS15 8.2 Notices    15 8.3 Rights    16 8.4 Applicable Laws    16 8.5 Rules of Construction.    16 8.6 Governing Law..    17 8.7 Dispute Resolution.    17 8.8 Limitation of Liability..    17 8.9 Entirety of Agreement, Amendments    17 8.10 Waivers.    18 8.11 Headings.    18 8.12 Ri",
     "start": 772,
-    "end": 1583
+    "end": 1583,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT.txt",
-  "_char_count": 57254
+  "_char_count": 57254,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Armstrong World Industries, Inc., AWILicensing LLC",
+    "Armstrong Flooring"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination), howsoever arising.(ee)“Seller Licensed Trademarks” means the Arizona Licensed Trademarks and the Diamond Licensed Trademarks.(ff)“Third Party” means any Person other than Arizona, the Company, and their respective Affiliates.(gg)“Trademarks” means any trademarks, service marks, trade names, trade dress, and other similar designations of source or origin, andregistrations and applications for any of the foregoing.(hh)“Trademark License Agreement” means the Trademark License Agreement by and between Armstrong World Industries, Inc., AWILicensing LLC and Armstrong Flooring, Inc, dated as of April 1, 2016 and attached hereto as Exhibit A.4Source: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019\f1.2Interpretation. Section 10.5 and 10.14 of the Stock Purchase Agreement shall apply hereto, mutatis muta",
+    "start": 9224,
+    "end": 10035,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__IP__ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement.txt",
+  "_char_count": 54601,
+  "_provenance": {}
+}

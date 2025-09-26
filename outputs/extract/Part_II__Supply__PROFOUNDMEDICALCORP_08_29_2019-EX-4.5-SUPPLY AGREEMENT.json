@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "the date of the Purchase Order",
+    "the date of Deliveryrequested in a Purchase Order as such number is listed in Schedule 2"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms of this Agreement in such instance where any such materials are not used in the production of anyProducts to meet any Purchase Orders of Customer within [Redacted – Commercially Sensitive] of the purchase of such materials. Thesame reimbursement obligation shall apply at the end of the Term for materials, parts and components then available at Philips. Suchmaterials, parts and/or components shall be delivered to Customer [Redacted – Commercially Sensitive]. Upon payment the title of thematerials, parts and/or components shall transfer to Customer.- 8 -\f4.PURCHASE ORDERS4.1Custome",
+    "start": 19116,
+    "end": 19716,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination pursuant to clause 12 or (c) the applicable Purchase Order includes termsand conditions that supplement those contained in this Agreement, which Philips is unwilling to accept. Philips may not cancel anypreviously accepted Purchase Order hereunder. Customer may not cancel a previously accepted Purchase Order .- 9 -\f5.DELIVERY, TRANSFER OF RISK AND OWNERSHIP5.1[Redacted – Commercially Sensitive – Delivery Details]5.2If Customer fails to take Delivery of ordered Products at the date of Delivery acknowledged by Philips, then Philips may deliver theProducts in consignment and at Customer’s risk and cost.5.3Philips will manufacture, handle, properly pack, mark and ship the Products in accordance with Customer’s instructions provided to Philipsin writing as part of the Device Master Record (“DM",
+    "start": 21959,
+    "end": 22770,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Supply__PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT.txt",
+  "_char_count": 65461,
+  "_provenance": {}
+}

@@ -1,9 +1,22 @@
 {
-  "parties": null,
+  "parties": [
+    "Merck Serono SA Address",
+    "Merck KGaA Address",
+    "Frankfurter Str",
+    "Cédric Hyde"
+  ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Germany",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "PRECIGEN,INC_01_22_2020-EX-99.1-JOINT FILING AGREEMENT.txt",
-  "_char_count": 972
+  "_char_count": 972,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    },
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

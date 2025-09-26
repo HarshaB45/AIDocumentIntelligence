@@ -1,0 +1,38 @@
+{
+  "parties": [
+    "KubientInc., with offices located at 330 7th Avenue, 10th Floor, New York, NY 10001 (\"Kubient\")",
+    "The Associated Press"
+  ],
+  "effective_date": null,
+  "governing_law": "New York",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination. (a) The initial term of this Agreement shall be one (1) year from the Effective Date (the \"Initial Term\"). This Agreementwill automatically renew for additional 1-year terms unless earlier terminated pursuant to this Agreement's express provisions (together with theInitial Term, such additional periods the \"Term\"). Neither Party may terminate this Agreement during the Initial Term except as set forth inparagraph 4(b) or any Exhibit. Either Party may terminate this Agreement for any reason following the Initial Term upon ninety (90) days writtennotice to the other Party. Except for termination for material breach as detailed in paragraph 4(b), Kubient shall be entitled to all fees generatedduring the termination period regardless of which Party terminates the Agreement,(b) Either Party ma",
+    "start": 3844,
+    "end": 4655,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Service__KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part1.txt",
+  "_char_count": 25877,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "AMBIGUOUS",
+      "field": "termination_clause",
+      "reason": "Ambiguous language detected",
+      "span": {
+        "start": 3844,
+        "end": 4655
+      }
+    },
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

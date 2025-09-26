@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination of Prior Confidentiality Agreements   32   10.7 Survival   32           ARTICLE 11 REPRESENTATIONS AND WARRANTIES; COVENANTS   33   11.1 Mutual Representations and Warranties   33   11.2 Additional GSK Representations and Warranties   34   11.3 Additional Theravance Representations and Warranties   34   11.4 Covenants   35   11.5 Disclaimer of Warranty   35\n\n\n\n\n\n    ARTICLE 12 INDEMNIFICATION   35   12.1 Indemnification by GSK   35   12.2 Indemnification by Theravance   35   12.3 Procedure for Indemnification   36   12.3.1 Notice   36   12.3.2 Defense of Claim   36   12.4 Assumption of Defense   37   12.5 Insurance   37     iii\n\n\n\n\n\n                                              ARTICLE 13 PATENTS   37   13.1 Prosecution and Maintenance of Patents   37   13.1.1 Prosecution and Maintenance",
     "start": 4299,
-    "end": 5110
+    "end": 5110,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT.txt",
-  "_char_count": 191775
+  "_char_count": 191775,
+  "_provenance": {}
 }

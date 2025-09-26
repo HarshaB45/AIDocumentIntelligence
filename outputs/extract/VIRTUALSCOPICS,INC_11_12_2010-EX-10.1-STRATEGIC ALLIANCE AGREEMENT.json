@@ -4,13 +4,20 @@
     "VirtualScopics"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Texas",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement, all active Work Orders issued prior to such expiration or termination shall remain subject to the terms and conditions contained herein so long as such Work Order remains active.   2. Services. PPD or any of its subsidiaries or affiliates may engage VS to perform imaging services (the \"Services\") for a specific sponsor's clinical research study (\"Sponsor\") or for a particular project. The Services may be amended, supplemented, or replaced from time to time upon mutual agreement of VS and PPD.\n\n[***] Represents material which has been redacted and filed separately with the Commission pursuant to a request for confidential treatment pursuant to Rule 24b-2 under the Securities Exchange Act of 1934, as amended.\n\n1\n\n\n\n\n\n3. Services Commitment. \"Preferred Services\" shall be d",
     "start": 2797,
-    "end": 3608
+    "end": 3608,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "VIRTUALSCOPICS,INC_11_12_2010-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
-  "_char_count": 46057
+  "_char_count": 46057,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

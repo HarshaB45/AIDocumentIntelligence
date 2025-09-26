@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the At Home Corporation (\"Excite@Home\"or \"Excite\"), located at 450 Broadway, Redwood City, California 94063, ande-centives, Inc., (\"Application Provider\" or \"e-centives\"), a Delawarecorporation, located at 6903 Rockledge Drive, Suite 1200, Bethesda, MD 20817.                                    RECITALSA.   Excite@Home provides the @Home Service, maintains sites on the Internet,     including http://www.excite.com",
+    "owns and/or manages or labels related     Web sites worldwide (collectively"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination or Expiration      i)    In the event that the Agreement is terminated pursuant to Section            16.a.v due to e-centives' acquisition by an Excite@Home Named            Competitor, or by an entity controlling or controlled by an            Excite@Home Named Competitor, e-centives shall transfer all of its            right, title and interest in and to the Payment-Eligible User Data            to Excite. Notwithstanding the foregoing, Payment-Eligible User Data            that relates to users who have opted out in accordance with Section            5(a) of EXHIBIT D shall continue to be jointly owned by the parties.                                       9   10*****Confidential Treatment has been requested for portions of this agreement.The copy file herewith omits information subjec",
+    "start": 27655,
+    "end": 28466,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Co_Branding__InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.txt",
+  "_char_count": 113562,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "Data Call Technologies, Inc.                             600 Kenrick, Suite B-12                              Houston, Texas 77060                      hereinafter referred to as \"Licensor\"",
+    "PLAN_B MEDIA AG                                 Schaafenstr"
+  ],
+  "effective_date": null,
+  "governing_law": "Texas",
+  "payment_terms": {
+    "text": "Payment  terms:  30  days  after  receipt  of  invoice4    EXCLUSIVITY  COPYRIGHT     4.1  Content  exclusive:  [ ]  Yes  [ ]  No     4.2  Copyright:Source: DATA CALL TECHNOLOGIES, SB-2/A, 9/18/2006",
+    "start": 13610,
+    "end": 13809,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination  of  this  Agreement or          when the Party no longer needs the material or information in question          for  the  purpose  stated  in  this Agreement cease using confidential          material and information received from the other Party and, unless the          Parties  separately  agree on destruction of such material, return the          material  in  question  (including  all  copies  thereof).     6.3  The rights  and  responsibilities  under  this  section  shall survive          any  termination  or  cancellation  of  this  Agreement  for  2 years.7    TERM OF  THE  AGREEMENT  AND  TERMINATIONSource: DATA CALL TECHNOLOGIES, SB-2/A, 9/18/2006\f     7.1  Unless  otherwise  stated  in  the  Appendix  the  term of this letter          Agreement  shall  continue  for  twenty-fo",
+    "start": 6444,
+    "end": 7255,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__DataCallTechnologies_20060918_SB-2A_EX-10.9_944510_EX-10.9_Content License Agreement.txt",
+  "_char_count": 13809,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": []
+}

@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination.   2.1. Term. The initial term of this Agreement shall commence on the Effective Date, and shall continue thereafter for a period of twelve (12) months (the \"Initial Term\"). The Initial Term shall automatically renew for one-month periods thereafter unless either party provides 30- days advance notice of termination, unless earlier terminated pursuant to Section 2.2 hereof. For purposes hereof, the Initial Term, together with any extension or renewal terms, shall hereinafter be collectively referred to as the \"Term\".   2.2. Early Termination.   2.2.1. Either party may terminate this Agreement prior to expiration of the Term: (i) upon thirty (30) days prior written notice, or (ii) immediately upon written notice to the other party if: (a) the other party declares or a petition is filed in",
     "start": 2298,
-    "end": 3109
+    "end": 3109,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement.txt",
-  "_char_count": 19435
+  "_char_count": 19435,
+  "_provenance": {}
 }

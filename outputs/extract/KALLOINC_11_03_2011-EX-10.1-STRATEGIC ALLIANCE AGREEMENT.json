@@ -4,17 +4,26 @@
     "Kallo that sets forth the terms and conditions governing the Customer's use of the Kallo Mobile care suite of  Products"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Canada",
   "payment_terms": {
     "text": "payment terms herein, copyright or trademarks, an attempt to replace or  abet others to replace Kallo Mobile care suite of products or services at any existing or potential customer with  competing products and any act of malicious conduct by the Agent to disparage Kallo without any justification and  malicious conduct against Agent by Kallo.       \"Non Material Breach\" means serious neglect of Agent's customers by the Agent in regards to support and services  and any other breach of the terms of this agreement for which the cure of such shall be completed by the Agent within  sixty days from",
     "start": 2988,
-    "end": 3588
+    "end": 3588,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of this Agreement maintain records  sufficient for Kallo to verify amounts due under this Agreement relating to the contracts, invoices, accounts,  complaints, and other transactions relating to the placement and licensing of the Kallo Mobile care suite of  products. Kallo may directly, or through its Agent at any time during normal business hours, upon no less than 10  business days' notice, and for any reason inspect such records and other financial information relevant to Kallo  Mobile care suite of products as sold by Agent to its end users, solely for the purpose of verifying amounts due  under this Agreement. Any such information will be confidential information of Agent subject to the provisions of  Section 4.\n\n\n\n\n\n\n\n     Warranties:\n\n\n\n  KALLO - MOBILECARE\n\np) Sub-Agents: Agent sh",
     "start": 10898,
-    "end": 11709
+    "end": 11709,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "KALLOINC_11_03_2011-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
-  "_char_count": 75458
+  "_char_count": 75458,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

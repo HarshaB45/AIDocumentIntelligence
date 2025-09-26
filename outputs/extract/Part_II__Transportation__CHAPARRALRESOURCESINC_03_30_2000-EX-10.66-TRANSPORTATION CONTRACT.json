@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the Ministry of Oil",
+    "Gas Industries of the Republic ofKazakhstan for and on behalf of the Government of the Republic of Kazakhstan andthe Principal"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Contract (inclusive).\"STASCO\" means Shell Trading International Limited acting through its agentShell International Trading and Shipping Company Limited.\"Tenge\" means official currency of the Republic of Kazakhstan.2.2 In this Contract, unless the context otherwise requires:i.   Headings are used for convenience only and do not affect the interpretation     of this Contract;ii.  any expression, which means individual, includes any company, Partnership,     trust, joint venture, association, corporation, or other corporate     organization and vice versa;iii. references to Articles and Sections, unless otherwise expressly provided in     this Contract, are references to articles and sections of this Contract;iv.  except as otherwise expressly provided, any reference to a document",
+    "start": 5629,
+    "end": 6440,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Transportation__CHAPARRALRESOURCESINC_03_30_2000-EX-10.66-TRANSPORTATION CONTRACT.txt",
+  "_char_count": 26339,
+  "_provenance": {}
+}

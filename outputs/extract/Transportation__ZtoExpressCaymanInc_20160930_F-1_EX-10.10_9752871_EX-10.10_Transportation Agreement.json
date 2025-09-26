@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "ZTO",
+    "Express Co.",
+    "Huazhi Road",
+    "Carrier"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreementshall not prejudice Party A’s right to hold Party B responsible for breach of contract. 10. Party B shall obtain Party A’s written consent in the case the early termination of the Agreement. Party B shall pay one-month freight asliquidated damages in case of termination of the Agreement without consent. Within the contract period, Party B shall not charge thefreight difference if Party A rents same-level vehicles. Party B shall also compensate Party A’s other losses. 11. Without Party A’s approval, Party B shall not transfer the carriage of goods to any third party in the designated route. Otherwise, Party A has theright to terminate this Agreement directly. 3Source: ZTO EXPRESS (CAYMAN) INC., F-1, 9/30/2016\f 12. Any dispute arising out of the execution of this Agreement,",
+    "start": 7320,
+    "end": 8131,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Transportation__ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement.txt",
+  "_char_count": 9002,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
+}

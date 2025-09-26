@@ -4,9 +4,14 @@
     "permitted assigns"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "VIVINT SOLAR, INC. - NON-COMPETITION AGREEMENT.txt",
-  "_char_count": 3493
+  "_char_count": 3493,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

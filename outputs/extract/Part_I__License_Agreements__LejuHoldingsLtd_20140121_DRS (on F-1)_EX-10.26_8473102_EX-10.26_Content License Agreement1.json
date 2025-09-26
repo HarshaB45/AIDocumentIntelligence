@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Beijing SINA\n\nInternet Information Service Co., Ltd. (北京新浪互联信息服务有限公司), a limited liability company organized under the laws of the People’s\nRepublic of China (hereinafter “Licensor”)",
+    "Beijing Yisheng Leju Information Services Co"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination Agreement attached hereto as Exhibit B and (ii) Licensee and Licensor desire to enter into this Agreement, on\nor prior to the consummation of the transactions contemplated by the Share Purchase Agreement.\n\nNOW, THEREFORE, for and in consideration of the mutual covenants and agreement of the Parties and the faithful performance\n\nthereof, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto agree as\nfollows:\n\nARTICLE I\nDEFINITIONS\n\nAs used herein, the following terms shall have the meanings ascribed to them below.\n\n“Action” has the meaning set forth in Section 8.1.\n\n“Affiliate” means, when used with respect to any specified Person, a Person that directly or indirectly through one or more\n\nintermediaries, controls, is con",
+    "start": 1721,
+    "end": 2532,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement1.txt",
+  "_char_count": 46911,
+  "_provenance": {}
+}

@@ -1,9 +1,17 @@
 {
-  "parties": null,
+  "parties": [
+    "Schedule",
+    "Thomas Sipp Thomas Sipp"
+  ],
   "effective_date": null,
   "governing_law": null,
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "VIRGINGALACTICHOLDINGS,INC_04_08_2020-EX-99.1-JOINT FILING STATEMENT.txt",
-  "_char_count": 1194
+  "_char_count": 1194,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
 }

@@ -4,13 +4,20 @@
     "HealthPlan Services"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Florida",
   "payment_terms": null,
   "termination_clause": {
     "text": "TERMINATION\n\n               1.1 AGREEMENT TO OUTSOURCE CARE MANAGEMENT SERVICES. HPS agrees to outsource to SHPS, and hereby appoints SHPS as the exclusive provider of, Care Management Services to the Clients, subject to the terms and conditions set forth in this Agreement. SHPS shall provide the Care Management Services directly to the Clients in accordance with the terms of the Client Agreements. \"Care Management Services\" means the business of providing utilization review (which includes, but is not limited to, pre-admission certification, prior authorization, prospective length of stay approvals, second opinions, concurrent review and discharge planning), catastrophic medical case management, disease management and demand management (24 hours per day, 7 days per week) services to benefits payors",
     "start": 1077,
-    "end": 1888
+    "end": 1888,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "SYKESHEALTHPLANSERVICESINC_04_24_1998-EX-10.14-OUTSOURCING AGREEMENT.txt",
-  "_char_count": 12852
+  "_char_count": 12852,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

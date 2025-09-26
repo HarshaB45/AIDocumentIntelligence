@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "SQUARE TWO GOLF INC., a New Jersey corporation (the\"Company\")",
+    "KATHY WHITWORTH"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination ofthis Agreement. However, the Company will have the right to dispose of itsinventory of Products existing at the time of termination or expiration of thisAgreement and the right to use the name, likeness, image and personalidentification of the Professional in connection with the disposition of suchinventory. The right granted in this section shall expire six (6) months afterthe termination or expiration of this Agreement. The Professional understandsand agrees that the Company shall have no obligation to take action against orattempt to stop distributors, retailers and other third parties to thisAgreement who have purchased Products bearing the name, likeness, image orpersonal                                      -2-   3                                                                  E",
+    "start": 5002,
+    "end": 5813,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Endorsement__WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.txt",
+  "_char_count": 31749,
+  "_provenance": {}
+}

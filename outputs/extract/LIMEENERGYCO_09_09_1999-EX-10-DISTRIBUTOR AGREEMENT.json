@@ -4,17 +4,26 @@
     "Electric City of Illinois LLC (\"Distributor\") this 7th day of September"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": {
     "text": "Payment Terms.  Distributor  shall pay Company  within  thirty\n\n\n\n\n\n                  (30) days of   Distributor's or,  as  the  case  may  be,  the                   end-user's receipt of Products.\n\n         2.8      Company  Cooperation.  The Company  shall  cooperate  with the                   Distributor  in obtaining all necessary  permits and approvals                   to permit  the use of the  Products.  The  Company  shall bear                   responsibility  for any  permits  needed  to  manufacture  the                   Products and  Distributor  shall bear  responsibility  for",
     "start": 21999,
-    "end": 22599
+    "end": 22599,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of this Agreement  Distributor shall                            have no further  right to the Names and said  License                            to use the Names shall terminate.  Distributor  shall                            have  no  right  to  sublicense  the  Names  or to do                            business  under any other names without the Company's                            prior  approval in writing.  The parties  acknowledge                            that the  terms  herein  consist  of there  terms for                            Illinois.  At the  request  of  either  party,  a new                            agreement reflecting the terms and conditions of this                            Agreement,  may be executed  for each state or entity                            repres",
     "start": 4399,
-    "end": 5210
+    "end": 5210,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT.txt",
-  "_char_count": 54290
+  "_char_count": 54290,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

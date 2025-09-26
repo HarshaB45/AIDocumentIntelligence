@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "GROUPE PARAMEUSCORP , a (hereinafter, the “Consultant”), with an address at 80 Cumberland street, suite 1707 Toronto Ont. (the “Consultant”)",
+    "Sphere 3D Corp"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION. This Agreement is for a term (the “Term”) of 12 months from the Effective Date on June 1st 2020 and expiring May 31st2021.(a) In the case that the company would not like to extend the terms of agreement for an additional month. The company must notify the consultantwithin 5 days of the conclusion of the 12 month term. Without notification the contract will automatically extend for an additional month of service.Upon termination, Consultant agrees to perform the necessary information transfer required at the time.CONFIDENTIALITY. All knowledge and information of a proprietary and confidential nature relating to the Company which the Consultant obtainsduring the Consulting period, from the Company or the Company’s employees, agents or Consultants shall be for all purposes regarded and trea",
+    "start": 4262,
+    "end": 5073,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Consulting Agreements__SPHERE3DCORP_06_24_2020-EX-10.12-CONSULTING AGREEMENT.txt",
+  "_char_count": 12222,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

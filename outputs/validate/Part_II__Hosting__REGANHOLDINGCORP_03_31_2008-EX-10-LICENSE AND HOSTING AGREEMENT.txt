@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Transaction Applications Group, Inc., a Nebraska corporation (“TAG”)",
+    "Legacy Marketing Group"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement by LMG, willful misconduct,gross negligence or breach of LMG’s obligations under Section 3. 8.5.6InsuranceDuring the Term of the Agreement, LMG shall maintain and keep in force, at its own expense, the following minimum insurancecoverages and minimum limits:workers’ compensation insurance, with statutory limits as required by the various laws and regulations applicable to the employees ofLMG;employer’s liability insurance, for employee bodily injuries and deaths, with a limit of $500,000 each accident;commercial general liability insurance, covering claims for bodily injury, death and property damage, including premises andoperations, LMG’s vicarious liability for acts of independent contractors, products, services and completed operations (as applicableto the Services),",
+    "start": 26836,
+    "end": 27647,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Hosting__REGANHOLDINGCORP_03_31_2008-EX-10-LICENSE AND HOSTING AGREEMENT.txt",
+  "_char_count": 55100,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

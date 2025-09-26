@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Reed’s, Inc., a Delaware corporation (“Reed’s”)",
+    "B CMarketing Concepts Inc"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of this Agreement.7. Confidentiality. Each of Reed’s and Company (a “Receiving Party”) shall hold in confidence and not make any commercial or other useof any or all Confidential Information conveyed, acquired or learned from the other party (the “Disclosing Party”) at any time, except in associationwith this Agreement. Except as otherwise expressly permitted herein, Receiving Party shall not disclose such information to third persons withoutthe prior written consent of the Disclosing Party. Receiving Party shall limit access to the Confidential Information to those of its directors, officers,employees, contractors, agents, attorneys and accountants (the “Representatives”) with the need to know the same and shall advise suchRepresentatives of, and hold them to, Receiving Par",
+    "start": 12072,
+    "end": 12883,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Development__ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.txt",
+  "_char_count": 27990,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

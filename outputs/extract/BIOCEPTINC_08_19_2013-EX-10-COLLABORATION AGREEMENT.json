@@ -4,13 +4,20 @@
     "LIFE TECHNOLOGIES  CORPORATION"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "California",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination or expiration of this Agreement for at least twelve (12) months following the effective date of such termination or expiration.\n\n3.4 Biocept Responsibilities. Biocept shall use commercially reasonable efforts to promote the sale of the Tests in the Territory, using at least the same sales channels and methods and adhering to at least the same standards that it generally employs with respect to its other clinical tests. Without limiting the foregoing, Biocept's responsibilities during the Term shall include the following:\n\n(a) Biocept Customers. Biocept shall use commercially reasonable efforts to promote the Tests to appropriate healthcare professionals.\n\n(b) Assay Performance. Biocept shall be responsible for performing all Technical Components of all Assays sold by either party unless a",
     "start": 21956,
-    "end": 22767
+    "end": 22767,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BIOCEPTINC_08_19_2013-EX-10-COLLABORATION AGREEMENT.txt",
-  "_char_count": 79052
+  "_char_count": 79052,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

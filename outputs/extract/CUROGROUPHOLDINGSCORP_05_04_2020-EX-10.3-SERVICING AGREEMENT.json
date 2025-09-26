@@ -4,13 +4,20 @@
     "CURO MANAGEMENT"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement.\n\n(d) Subject to Sections 4 and 5, the Servicer shall administer, perform or supervise the performance of such other activities in connection with the Serviced Assets (including the Loan Documents) as are not covered by any of the foregoing provisions and are reasonably within the capability of the Servicer. In no case may Servicer use any identifiable information, including consumers' nonpublic personal information and related account performance and status information, for any purpose other than as provided in this Agreement; provided, however, that Servicer is permitted to use nonidentifiable, aggregated consumer information obtained in connection with its activities undertaken pursuant to this Agreement.\n\n(e) Notwithstanding anything to the contrary in this Agreement",
     "start": 6387,
-    "end": 7198
+    "end": 7198,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT.txt",
-  "_char_count": 36602
+  "_char_count": 36602,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

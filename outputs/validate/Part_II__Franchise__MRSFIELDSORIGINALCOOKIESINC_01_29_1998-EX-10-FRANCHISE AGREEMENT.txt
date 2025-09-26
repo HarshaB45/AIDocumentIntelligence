@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "Pretzel  Time,  Inc.,  aPennsylvania   corporation   with  its  principal  place  of  business  at  4800Linglestown Road, Suite 202,  Harrisburg,  Pennsylvania  17112 trading",
+    "doingbusiness  as  Pretzel  Time  (hereinafter  referred  to  as  Pretzel  Time)  andFranchisee (as defined below) who hereby agrees to the following:Franchisee:"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment  terms of the proposed  sale and the sources andterms of any financing for the proposed purchase price. To be a valid, bona fideoffer, the proposed purchase price shall be denominated in a dollar amount.  Theoffer must apply only to an interest in this  Agreement,  Franchisee or the Unitand may not  include  an offer to  purchase  any  other  property  or  rights ofFranchisee (or its Owners).  However,  if the offeror  proposes to buy any otherproperty  or  rights  from   Franchisee   (or  its  Owners)  under  a  separate,contemporaneous offer, the price and terms of purchase offered t",
+    "start": 162042,
+    "end": 162642,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "TERMINATION..............................................17         6.E.     TRADEMARK ENFORCEMENT....................................17         6.F.     USE OF SERVICE MARK......................................177.       SELECTION OF FRANCHISE LOCATION...................................18         7.A.     SITE SELECTION...........................................18         7.B.     LEASE....................................................18         7.C.     RELOCATION...............................................208.       DEVELOPMENT OF UNIT...............................................21         8.A.     UNIT DESIGN SPECIFICATIONS AND CONSTRUCTION PLANS........21         8.B.     DEVELOPMENT OF THE UNIT..................................21         8.C.     EQUIPMENT, FIXTURES, FURNISHINGS, AND SIG",
+    "start": 2463,
+    "end": 3274,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Franchise__MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT.txt",
+  "_char_count": 245362,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

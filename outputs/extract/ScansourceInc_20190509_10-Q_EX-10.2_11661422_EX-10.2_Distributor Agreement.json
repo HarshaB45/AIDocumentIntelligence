@@ -4,13 +4,20 @@
     "organized under the laws of Brazil"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Texas",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination. This Addendum may be terminated at any time by either Party in accordance with the termination provisions of the Distribution Agreement. The Addendum shall not have an Initial Period.\n\n8. Governing Law and Dispute Resolution. The terms of the Governing Law and Dispute Resolution provisions of the Distribution Agreement will apply to this Addendum.\n\nSource: SCANSOURCE, INC., 10-Q, 5/9/2019\n\n\n\n\n\nIN WITNESS HEREOF, the Parties have executed this Addendum on the dates specified herein.\n\nZEBRA TECHNOLOGIES INTERNATIONAL, LLC SCANSOURCE, INC. By: /s/ Alex Castaneda By: /s/ Brenda McCurry Name: Alex Castaneda Name: Brenda McCurry Title: VP NA Territory and Channel Sales Title: Vice President, Supplier Services Date: May 7, 2019 Date: 1/29/2019\n\nZEBRA TECHNOLOGIES DO BRASIL- COMÉRCIO DE PRODUTOS",
     "start": 6524,
-    "end": 7335
+    "end": 7335,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement.txt",
-  "_char_count": 14149
+  "_char_count": 14149,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination or expiration of the                  Term) until the required number of Retail Impressions has been                  delivered.\n\n     2.4  Placement of Retail Promotions. CNET will determine the location and           type of each Retail Promotion displayed throughout the CNET Sites and           may phase in certain types of Retail Promotions as they are developed.           CNET currently intends to display Retail Promotions consisting of           text/HTML links, pre-filled with an appropriate query string or link           (\"Pre-Filled Links\"), as set forth in this Section. The Retail           Promotions contemplated by this Section will be displayed above the           fold where the graphical layout of the page reasonably permits such           positioning (as determined by CNET)",
     "start": 4131,
-    "end": 4942
+    "end": 4942,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT.txt",
-  "_char_count": 25288
+  "_char_count": 25288,
+  "_provenance": {}
 }

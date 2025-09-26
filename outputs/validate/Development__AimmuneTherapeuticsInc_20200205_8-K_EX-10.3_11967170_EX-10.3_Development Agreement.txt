@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Xencor, Inc. (“Xencor”)",
+    "Aimmune Therapeutics"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.1.16 “Calendar Year” means the period beginning on the 1st of January and ending on the 31st of December of the same year; provided, however,that (a) the first Calendar Year of the Term shall commence on the Effective Date and end on December 31 of the same year and (b) the last Calendar Yearof the Term shall commence on January 1 of the Calendar Year in which this Agreement terminates or expires and end on the date of termination orexpiration of this Agreement.1.17 “Clinical Trial” means a clinical trial, including any a Phase I Clinical Trial, Phase II Clinical Trial, Phase III Clinical Trial, or Phase IV ClinicalTrial, as the case may be, and as any such trial is defined by an applicable Regulatory Authority.1.18 “Co-pay Program” means a program to support patient acc",
+    "start": 7904,
+    "end": 8715,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.txt",
+  "_char_count": 165620,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

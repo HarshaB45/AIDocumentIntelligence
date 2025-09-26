@@ -4,13 +4,20 @@
     "Legacy Education Alliance Holdings"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "California",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination not less than 90 days prior to the end of such five-year term; provided, however, T&B shall have the right to terminate the license after the first year of the Term if LEA does not conduct the Business so as to meet the Cash Sales benchmarks set by the parties for years two through five of the Term, as set forth in Section 3.3, below. 2. Grant of License. 2.1 T&B hereby grants to LEA, and LEA hereby accepts from T&B, during the Term, the sole and exclusive worldwide right and license in and to the Licensed Intellectual Property, which right and license shall be limited to that which is necessary for LEA to (i) develop and create Educational Materials and (ii) develop, promote and conduct the Business worldwide , unless the license is earlier terminated as provided herein. 2.2 LEA has the",
     "start": 7379,
-    "end": 8190
+    "end": 8190,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.txt",
-  "_char_count": 46255
+  "_char_count": 46255,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

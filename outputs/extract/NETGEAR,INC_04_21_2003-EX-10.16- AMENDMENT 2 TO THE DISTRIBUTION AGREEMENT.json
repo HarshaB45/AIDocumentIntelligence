@@ -4,9 +4,14 @@
     "Ingram Micro (\"Distributor\") acting on behalf of itself and its affiliates"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "United States",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "NETGEAR,INC_04_21_2003-EX-10.16- AMENDMENT 2 TO THE DISTRIBUTION AGREEMENT.txt",
-  "_char_count": 4567
+  "_char_count": 4567,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

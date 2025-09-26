@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Gunston Consulting,LLC (“CONSULTANT”), a Virginia limited liability company",
+    "Medalist Diversified REIT"
+  ],
+  "effective_date": null,
+  "governing_law": "Virginia",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of its consultancy with the Company for any reason, whether with or without cause, it will not, for itself or any otherperson or entity:(a) solicit, induce, recruit or encourage any of the Company’s employees, contractors, independent contractors or any person whoprovides services to the Company to terminate or reduce their employment or other relationship with the Company;(b) hire any individual who is (or was within the six (6) months immediately preceding such hiring, unless such employee was terminatedfrom such employment by Company) an employee, exclusive contractor, or exclusive independent contractor of the Company; or(c) attempt to do any of the foregoing.7.2 Solicitation of Customers. CONSULTANT agrees that during its consultancy for REIT and for a period of twelve (12) months im",
+    "start": 8320,
+    "end": 9131,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Consulting Agreements__MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT.txt",
+  "_char_count": 24052,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

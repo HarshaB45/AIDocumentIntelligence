@@ -4,13 +4,20 @@
     "Nanophase Technologies Corporation"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement.\n\n\n\na) For all referrals under Section 6.1, except where NTC has evidence that it referral the customer (including its affiliates) to ALFA AESAR to purchase a prior sample of the Product in question, or where NTC has made sales to the customer (including its affiliates) referred to NTC by ALFA AESAR within a period of twelve (12) months before ALFA AESAR's referral under Section 6.1, NTC shall pay ALFA AESAR a commission at the rate of [***] on the Net Sales made to each such customer so referred to NTC under Section 6.1. NTC shall pay ALFA AESAR on a monthly basis for all such commissions for a period of three (3) years from the date of such referred customer's first order of Products or Custom Services from NTC.\n\n*** CONFIDENTIAL TREATMENT REQUESTED—This confidential p",
     "start": 11139,
-    "end": 11950
+    "end": 11950,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT.txt",
-  "_char_count": 48612
+  "_char_count": 48612,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

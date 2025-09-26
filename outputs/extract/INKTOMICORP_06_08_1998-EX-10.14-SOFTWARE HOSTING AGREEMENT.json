@@ -4,13 +4,20 @@
     "maintain the customized search engine on servers owned by Inktomi and located at a facility selected by Inktomi in California"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "California",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination and Other Remedies.           ------------------------------\n\n          10.1 Inktomi may terminate this Agreement without cause upon one year's prior written notice, provided that such notice may not be given prior to the second anniversary of the Launch Date.\n\n          10.2 Microsoft may terminate this Agreement at any time without cause upon [*] ([*]) days prior written notice. Upon receipt of such notice, Inktomi will discontinue all work hereunder. If Microsoft terminates this Agreement without cause pursuant to this Section 10.2, then Microsoft will pay for all services provided by Inktomi up until the date of termination under this Section 10.2. Notwithstanding anything contained herein to the contrary, should Microsoft exercise its termination right pursuant to this Section 10.2,",
     "start": 35536,
-    "end": 36347
+    "end": 36347,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "INKTOMICORP_06_08_1998-EX-10.14-SOFTWARE HOSTING AGREEMENT.txt",
-  "_char_count": 70664
+  "_char_count": 70664,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

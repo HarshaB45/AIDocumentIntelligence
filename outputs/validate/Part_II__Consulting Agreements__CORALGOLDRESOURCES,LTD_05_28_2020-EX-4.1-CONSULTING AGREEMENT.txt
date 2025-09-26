@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the terms of this Agreement",
+    "the terms of any stock option agreement governing the grant of anystock options to the Consultant or the Principal"
+  ],
+  "effective_date": null,
+  "governing_law": "Canada",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination provisions of this Agreement, ending on January 31, 2025.5.TERMINATION5.1This Agreement can be terminated at any time prior to the expiry of the Term, as follows:(a)by the Consultant electing to give the Company not less than 3 months prior notice of such termination;(b)by the Company electing to give the Consultant 3 months prior notice of such termination along with a terminationpayment equal to the annual Consulting Fee;(c)by the Consultant electing to give the Company notice, in the event that there occurs a Change of Control (as definedbelow) within six (6) months of the effective date of such Change of Control, and if the Consultant so elects toterminate this Agreement, then the Consultant will be immediately entitled to a termination payment equal toCDN$750,000; and-2-\f(d)For the p",
+    "start": 3869,
+    "end": 4680,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Consulting Agreements__CORALGOLDRESOURCES,LTD_05_28_2020-EX-4.1-CONSULTING AGREEMENT.txt",
+  "_char_count": 29167,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

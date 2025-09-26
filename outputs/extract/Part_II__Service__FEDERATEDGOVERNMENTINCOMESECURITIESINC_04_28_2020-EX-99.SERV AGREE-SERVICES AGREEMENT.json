@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "FEDERATED INVESTMENTMANAGEMENT COMPANY, a Delaware statutory trust (the “Adviser”)",
+    "FEDERATED ADVISORY SERVICESCOMPANY"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination.(a) Subject to the remaining provisions of this Section, the term of this Agreement shall begin on the effective date first abovewritten and shall continue until terminated by mutual agreement of the parties hereto or by either party on not less than 60 days’written notice to the other party hereto.\f(b) Notwithstanding the foregoing, to the extent that the Services to be provided with respect to any Account which isregistered as an investment company under the 1940 Act (herein referred to as a “registered investment company”) are servicesreferred to in the definition of “investment advisor” under Section 202(a)(11) of the Investment Company Act of 1940 (hereinreferred to as “investment advisory services”), then with respect to such Account, this Agreement:(i) shall not commence until the",
+    "start": 4968,
+    "end": 5779,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Service__FEDERATEDGOVERNMENTINCOMESECURITIESINC_04_28_2020-EX-99.SERV AGREE-SERVICES AGREEMENT.txt",
+  "_char_count": 10866,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

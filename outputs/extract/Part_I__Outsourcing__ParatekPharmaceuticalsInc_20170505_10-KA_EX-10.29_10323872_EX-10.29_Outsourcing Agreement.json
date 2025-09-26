@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Customer andSupplier, dated [* * *];dd) “Recall” means any action by Supplier, Customer or any of their respective Affiliates, to recover possession of the Product or finished productscontaining the Product shipped to Third Parties. “Recalled”",
+    "“Recalling” shall have comparable meanings;ee) “Rights” shall mean any and all proprietary"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination  38 18.1 Termination  38 18.2 Consequences of Termination  39 18.3 Return of Samples  40 18.4 Return of Confidential Information  40 18.5 Survival  40 Article19 Miscellaneous  41 19.1 Assignment; Inurement  41  CONFIDENTIAL Page 5 of 49Source: PARATEK PHARMACEUTICALS, INC., 10-K/A, 5/5/2017\fTHIS EXHIBIT HAS BEEN REDACTED AND IS THE SUBJECT OF A CONFIDENTIAL TREATMENT REQUEST. REDACTED MATERIAL ISMARKED WITH [* * *] AND HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION. 19.2 Change of Control  41 19.3 Counterparts  41 19.4 Dispute Resolution  41 19.5 Force Majeure  42 19.6 Performance  42 19.7 Further Assurances  42 19.8 Independent Contractors  42 19.9 Injunctions  43 19.10 Notices  43 19.11 Entire Agreement  44 19.12 Severability  44 19.13 Waiver  44  CONFIDENTIAL Pag",
+    "start": 4480,
+    "end": 5291,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Outsourcing__ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement.txt",
+  "_char_count": 112609,
+  "_provenance": {}
+}

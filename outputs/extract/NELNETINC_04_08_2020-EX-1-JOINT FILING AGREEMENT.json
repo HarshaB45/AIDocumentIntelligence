@@ -1,9 +1,18 @@
 {
-  "parties": null,
+  "parties": [
+    "Schedule",
+    "Shelby J. Butterfield Shelby J. Butterfield",
+    "Shelby J. Butterfield Shelby J. Butterfield Co-Trustee"
+  ],
   "effective_date": null,
   "governing_law": null,
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT.txt",
-  "_char_count": 1081
+  "_char_count": 1081,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
 }

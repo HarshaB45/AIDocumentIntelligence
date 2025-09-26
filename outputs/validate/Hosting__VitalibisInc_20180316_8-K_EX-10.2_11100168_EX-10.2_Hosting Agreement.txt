@@ -1,0 +1,26 @@
+{
+  "parties": [
+    "VITALIBIS INC a Nevada C having itsprincipal place of business at 5348 Vegas Drive, Las Vegas, NV 89108 (hereinafter, -Licensee\")",
+    "VOTOCAST"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of California without giving effect to conflict or choice oflaw principles",
+  "payment_terms": {
+    "text": "Payment Terms. The SOW Services Fee will be invoiced twice monthly by VOTOCAST and invoiced in even increments betweenSOW execution and scheduled production deployment. Payment for the SOW Services Fee shall be in U.S. dollars and is due and payable withinfifteen (15) days of the applicable VOTOCAST invoice. Except as othenwise provided herein, all payments due and payable under this Statement ofWork shall be made in accordance with the payment terms set forth in Section 4 of the Agreement.    13 Source: VITALIBIS, INC., 8-K, 3/16/2018\f  4. Change Orders. If Licensee desires to extend the SOW",
+    "start": 43803,
+    "end": 44403,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination. 1.4 Additional Services. VOTOCAST and Licensee agree that any additional services (\"Additional Services\") to be provided byVOTOCAST to Licensee shall be described in a statement of work (\"SOW'). which shall be executed by authorized representatives of both Parties.The Parties agree that maintenance and support services as set forth in Sections 2.2 and 2.3, respectively, shall not constitute Additional Servicesarid shall not require an SOW. Each SOW will be deemed to incorporate the terms and conditions of this Agreement unless SOW explicitly statesotherwise. Each SOW shall reference this Agreement, contain a description of the services to be provided and the associated fees and charges, andsuch additional terms and conditions as the Parties may desire to include. The Services and Additio",
+    "start": 3405,
+    "end": 4216,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Hosting__VitalibisInc_20180316_8-K_EX-10.2_11100168_EX-10.2_Hosting Agreement.txt",
+  "_char_count": 45495,
+  "_provenance": {},
+  "_issues": []
+}

@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "EL POLLO LOCO, INC., a Delawarecorporation, with its principal place of business at 3535 Harbor Blvd, Suite 100, Costa Mesa, California 92626(referred to herein as “El Pollo Loco” or “Franchisor”)",
+    "__________________an individual"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION BY DEVELOPER; EXPIRATION DATE. 1411.EVENTS OF DEFAULT. 1512.EFFECT OF TERMINATION. 1613.NON-WAIVER. 1714.INDEPENDENT CONTRACTOR AND INDEMNIFICATION. 1715.ENTIRE AGREEMENT. 1716.DISPUTE RESOLUTION 1817.SEVERABILITY. 1918.APPLICABLE LAW; CHOICE OF FORUM; WAIVER OF JURY TRIAL. 1919.DOCUMENT INTERPRETATION. 1920.COVENANT NOT TO COMPETE. 2021.NOTICES. 2122.SECTION HEADINGS. 2123.ACKNOWLEDGMENTS. 2124.COUNTERPARTS. 22Source: EL POLLO LOCO HOLDINGS, INC., 10-K, 3/6/2020\fEXHIBITSEXHIBIT \"A\" TO DEVELOPMENT AGREEMENT - TERRITORY23EXHIBIT \"B\" TO DEVELOPMENT AGREEMENT - DEVELOPMENT SCHEDULE24EXHIBIT “C” TO DEVELOPMENT AGREEMENT - EXISTING EL POLLO LOCO® RESTAURANTS IN THETERRITORY 25EL POLLO LOCO® FRANCHISE DEVELOPMENT AGREEMENT(Non-exclusive/Exclusive)THIS FRANCHISE DEVELOPMENT AGREEMENT (“Agreement",
+    "start": 498,
+    "end": 1309,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Development__ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement.txt",
+  "_char_count": 59723,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

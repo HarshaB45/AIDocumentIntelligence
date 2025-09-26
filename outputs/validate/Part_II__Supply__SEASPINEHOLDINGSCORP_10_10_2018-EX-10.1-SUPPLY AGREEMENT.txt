@@ -1,0 +1,40 @@
+{
+  "parties": [
+    "IntegraLifeSciences Corporation (“Integra”), a Delaware corporation with offices at 311 Enterprise Drive, Plainsboro, New Jersey 08536",
+    "PcoMed"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": {
+    "text": "Payment Terms and Reports. Payments due under Section 2.2 shall be payable to PcoMed by Integra on a quarterly basis within 45 daysfollowing the end of each calendar quarter. Each such payment shall be accompanied by a statement setting forth in reasonable detail (i) the numberand type of Treated Integra Product and Partially Treated Integra Product sold and the Net Sales applicable thereto, (ii) a breakdown of all thecomponents of Net Sales for the determination of payments due under Sections 2.2 (the numbers may be and type of products may be stated in theaggregate and not by customer and ar",
+    "start": 37102,
+    "end": 37702,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "TERMINATION.4.1. Initial Term. The initial term of this Agreement (the “Initial Term”) shall commence on the Effective Date and shall end on the date thatpayment is due for Minimum Payment Period 7, pursuant to Section 2.4 hereof and as set forth in Attachment B hereof, unless earlier terminated asprovided herein.4.2. Right to Renew. Thereafter, this Agreement may be renewed for such periods of time and under such terms and conditions as aremutually agreed to in writing and pursuant to Section 12.7.4.3. Termination for Cause. Without limiting the other rights to terminate set forth in this Agreement, this Agreement may be terminated byeither party as follows:(a) Material Breach. In the event that a party materially defaults under or materially breaches any of the provisions of this Agreement, theothe",
+    "start": 25924,
+    "end": 26735,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Supply__SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT.txt",
+  "_char_count": 69919,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "AMBIGUOUS",
+      "field": "termination_clause",
+      "reason": "Ambiguous language detected",
+      "span": {
+        "start": 25924,
+        "end": 26735
+      }
+    }
+  ]
+}

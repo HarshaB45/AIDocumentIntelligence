@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "NATIONAL FOOTBALL MUSEUM, INC., an Ohio non-profit corporation, doing business asPro Football Hall of Fame (“PFHOF”), HOF Village Media Group, LLC (the “Village Media Company”), a Delaware limited liability company that isa wholly-owned subsidiary of HOF Village, LLC, a Delaware limited liability company (“HOFV”) and, solely for purposes of Section 4.5, HOFV;each a “Party”",
+    "collectively"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of this Agreement, the Village MediaCompany and its permitted licensees shall continue to have the right to fully exploit, use, and Exploit the HOFV Works for thelength of the term of the license granted by PFHOF in connection with such HOFV Work pursuant to Section 2.3; provided thatthe length of the term of such license shall be a minimum of five (5) years. Any HOFV Works created pursuant to this Agreementshall exclusively be owned by the Village Media Company; provided, however, that, (i) PFHOF shall own all right, title, interest,and copyright in and to the underlying PFHOF Work(s) as further set forth in Section 2.5 and (ii) the Village Media Company’sownership is subject in all events to any Rights Restrictions and the terms of the license (including the term of such l",
+    "start": 5981,
+    "end": 6792,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.6_11951677_EX-10.6_License Agreement.txt",
+  "_char_count": 44587,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

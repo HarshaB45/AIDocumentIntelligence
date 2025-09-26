@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "Tigrent Learning UK Limited ofBoston House, 69 — 75 Boston Manor Road, Brentford, Middlesex, TW8 9.1J (“Company”)",
+    "Celebrity Speakers of 90 High Street"
+  ],
+  "effective_date": null,
+  "governing_law": "England and Wales",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION a.Except as provided in this Section 8, this Agreement shall terminate immediately upon the earlier of (i) the Term of this Agreementor (ii) dissolving of Company and/or Company’s complete cessation of doing all business. b.Either party shall have the right to terminate this Agreement immediately in the event that Talent or the Company does any of thefollowing: i.Engages in illegal, immoral, or criminal conduct resulting in a felony conviction; ii.Misrepresents or conceals anything in their background that could be detrimental to the value of the endorsement beingmade; iii.Engages in conduct contrary to the best interests of the other party; iv.Engages in conduct that reasonably offends the sensitivities of a significant portion of the population; or v.Engages in conduct that could bring",
+    "start": 11616,
+    "end": 12427,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Endorsement__LegacyEducationAllianceInc_20141110_8-K_EX-10.9_8828866_EX-10.9_Endorsement Agreement.txt",
+  "_char_count": 19400,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

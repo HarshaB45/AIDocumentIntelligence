@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "ZOGENIX, INC., having a place of business at 5959 Horton Street, Suite 500, Emeryville, California94608( “Zogenix”)",
+    "Nippon Shinyaku Company"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination.1.18 “Distributor Invention” has the meaning set forth in Section 9.1(b)(i).1.19 “Executives” has the meaning set forth in Section 3.1(d).1.20 “FCPA” means the U.S. Foreign Corrupt Practices Act (15 U.S.C. § 78dd-1 et seq.), as amended.1.21 “FDA” means the Food and Drug Administration, or any successor agency thereto3US-DOCS\\105216871.19Source: ZOGENIX, INC., 10-Q, 5/9/2019\fhaving the administrative authority to regulate the marketing of human pharmaceutical products in the United States.1.22 “Field” means the Indications of treatment for the Product in the Territory.1.23 “First Commercial Sale” means the first bona fide, arm’s-length sale of the Product in the Field in the Territoryfollowing Regulatory Approval of the Product in the Field in the Territory.1.24 “Fiscal Quarter” means a pe",
+    "start": 12141,
+    "end": 12952,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Distributor__ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement.txt",
+  "_char_count": 172868,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

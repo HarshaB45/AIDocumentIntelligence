@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the Indemnifying Party",
+    "the Indemnified Party in the conduct of the defense of the action (in which case the IndemnifyingParty will not have the right to direct the defense of the action on behalf of the Indemnified Party); or (iii) the Indemnifying Party has not in factemployed counsel to assume the defense of the action within a reasonable time following receipt of the notice given pursuant to this Section 13"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination. (a)The Term of this Agreement (the “Term”) shall commence on the Effective Date listed above and continue for twenty (20) years, unlesssooner terminated as provided in Section 7(b). (b)This Agreement may be terminated at any time by either party, effective immediately upon written notice, if the other party: (i) becomesinsolvent; (ii) files a petition in bankruptcy; or (iii) makes an assignment for the benefit of its creditors. Either party may terminate thisAgreement upon written notice if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) daysafter the date that it receives written notice of such breach from the non-breaching party. (c)Sections 2(a), 2(b), 2(c), 2(d), 3, and 11 shall survive the expiration or termination of this Agreemen",
+    "start": 11741,
+    "end": 12552,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__IdeanomicsInc_20151124_8-K_EX-10.2_9354744_EX-10.2_Content License Agreement.txt",
+  "_char_count": 34598,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

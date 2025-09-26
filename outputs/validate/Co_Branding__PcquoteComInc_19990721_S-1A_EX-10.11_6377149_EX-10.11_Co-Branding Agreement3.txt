@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "PC QUOTE, INC., with itsprincipal place of business at 300 South Wacker Drive, Chicago, Illinois60605 (\"PCQ\")",
+    "A"
+  ],
+  "effective_date": null,
+  "governing_law": "New York",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Co_Branding__PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement3.txt",
+  "_char_count": 2474,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    }
+  ]
+}

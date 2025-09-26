@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION 14 ARTICLE 13 - ARBITRATION AND GOVERNING LAW 17 ARTICLE 14 - ASSIGNMENT 18 ARTICLE 15 - FORCE MAJEURE 18 ARTICLE 16 - ADDRESSES AND NOTICES 18 ARTICLE 17 - COMPLIANCE 19 ARTICLE 18 - RECORDS AND AUDIT 20 ARTICLE 19 - TAXES 20 ARTICLE 20 - ADDITIONAL PROVISIONS 20 APPENDIX A - DEFINITIONS 24 APPENDIX B - SAMPLE PROJECT DESCRIPTION FORMAT 30\n\nSource: FUELCELL ENERGY INC, 8-K, 11/6/2019\n\n\n\n\n\nJOINT DEVELOPMENT AGREEMENT\n\nThis Agreement is made as of the Effective Date between:\n\nExxonMobil Research and Engineering Company, a corporation of the State of Delaware having offices at 1545 Route 22 East, Annandale, New Jersey 08801 (\"ExxonMobil\"); and\n\nFuelCell Energy, Inc., a corporation of the State of Delaware having offices at 3 Great Pasture Road, Danbury, Connecticut 06810 (\"FCE\").\n\nExxonMobi",
     "start": 702,
-    "end": 1513
+    "end": 1513,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.txt",
-  "_char_count": 105662
+  "_char_count": 105662,
+  "_provenance": {}
 }

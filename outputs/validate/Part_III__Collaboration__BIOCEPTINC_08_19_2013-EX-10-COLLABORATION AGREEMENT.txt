@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "BIOCEPT, INC., a California corporation having an address of 5810 Nancy Ridge Drive, Suite 150, San Diego,\nCA 92121 (“Biocept”)",
+    "LIFE TECHNOLOGIES  CORPORATION"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of this Agreement for at least twelve (12)\n\nmonths following the effective date of such termination or expiration.\n\n3.4 Biocept Responsibilities. Biocept shall use commercially reasonable efforts to promote the sale of the Tests in the\nTerritory, using at least the same sales channels and methods and adhering to at least the same standards that it generally employs\nwith respect to its other clinical tests. Without limiting the foregoing, Biocept’s responsibilities during the Term shall include the\nfollowing:\n\n(a) Biocept Customers. Biocept shall use commercially reasonable efforts to promote the Tests to appropriate\n\nhealthcare professionals.\n\n(b) Assay Performance. Biocept shall be responsible for performing all Technical Components of all Assays sold by\neither party unless",
+    "start": 21969,
+    "end": 22780,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_III__Collaboration__BIOCEPTINC_08_19_2013-EX-10-COLLABORATION AGREEMENT.txt",
+  "_char_count": 79110,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "CONTENT PROVIDER",
+    "its Licensor thereof"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of the\npreceding full quarter-annual period, i.e., commencing on the first (1st) day of January, April, July\nand October except that the first and last calendar periods may be \"short,\" depending on the effective\ndate of this Agreement.\n\nFor each Net Advertising Revenue Period, COMPANY shall provide the Licensor of such Content\nwith a written statement of account setting out the actual number of visits to the Web Site during the\napplicable Net Advertising Revenue Period. Such statement shall be furnished to the Licensor of such\nContent regardless of whether any visits to the Web site were made during the applicable period.\n\nE. COMPANY’S obligation for the payment of the Net Advertising Revenue shall survive expiration or\ntermination of this Agreement and will continue for as long as COMPAN",
+    "start": 6121,
+    "end": 6932,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__MidwestEnergyEmissionsCorp_20080604_8-K_EX-10.2_3093976_EX-10.2_Content License Agreement.txt",
+  "_char_count": 34994,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

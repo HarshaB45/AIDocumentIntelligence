@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Kiosk Concepts, Inc.,a New York corporation having its principal place of business at 1110 South Avenue, Staten Island, New York 10314 (“we”, “us” or “our”), andThe Grilled Cheese Truck, Inc., a Nevada corporation having its principal address at 151 North Nob Hill Road, Suite 321, Fort Lauderdale, FL33324 (“you” or “your”), with reference to the following facts: A. We are in the business of franchising outlets that sell proprietary gourmet soups, chilis, stews, desserts, wraps",
+    "non-proprietaryproducts like salads"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION OR EXPIRATION26    11.1Cessation of Business26 11.2Cessation of Use of Confidential Information and Proprietary Marks26 11.3Cancellation of Assumed Name Registration26 11.4Payment of Monies Due; Liquidated Damages26 11.5Costs to Secure Compliance27 11.6Return of Manuals and Other Confidential Information27 11.7Irreparable Injury to Us27 11.8Compliance with Post-Term Covenants27    12.TRANSFER OF INTEREST27    12.1Transfer by Us27 12.2Transfer by You28 12.3Granting of a Security Interest by You28 iiSource: SOUPMAN, INC., 8-K, 8/14/2015\f        12.4Transfer Upon Death or Disability28 12.5Non-waiver of Claims29 12.6Transfer by You in Bankruptcy – Right of First Refusal29    13. UNIT FRANCHISEES29     13.1Form of Unit Franchise Disclosure Document and Unit Franchise Agreement29 13.2Unit Franc",
+    "start": 2810,
+    "end": 3621,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Franchise__SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.txt",
+  "_char_count": 141320,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "CNSPharmaceuticals, Inc. (“CNS”), a Nevada corporation, having a business address of 2100 West Loop South, Suite 900, Houston, Texas 77027, andWPD Pharmaceuticals, (“WPD”), a Polish corporation, having a business address of ul. Żwirki i Wigury 101, 02-089 Warszawa. CNS",
+    "WPD aresometimes referred to herein individually as a “Party” and collectively as the “Parties"
+  ],
+  "effective_date": null,
+  "governing_law": "Texas",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination by pursuant to the terms of this Agreement (“Term”).6.2 Subject to any rights herein which survive termination, this Agreement will earlier terminate in its entirety: (i) upon thirty (30) calendardays written notice from either party if the other party materially breaches this Agreement, unless before the end of such thirty (30) calendar daynotice period, the breaching party has cured the material default or breach to the non-breaching party’s reasonable satisfaction; or (ii) at any timeby mutual written agreement between the Parties, subject to any terms herein which survive termination.3Source: CNS PHARMACEUTICALS, INC., 8-K, 3/26/2020\fARTICLE 7REPRESENTATIONS, WARRANTIES AND COVENANTS7.1 Each Party represents and warrants that:7.1.1 it is duly organized and validly existing under the l",
+    "start": 11898,
+    "end": 12709,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement.txt",
+  "_char_count": 20558,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

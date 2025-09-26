@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination\n\n3.5 W'estem Copper may, at its option, terminate this Agreement by written notice to  Glamis, effective immediately upon delivery of the notice, should Glamis cease conducting  business in the normal course, become insolvent, make a general assignment for the benefit of  creditors, suffer or permit the appointment of a receiver for its business or assets or avail itself  of, or become subject to, any proceedings under the Bankruptcy and Insolvency Act (Canada) or  any other statute of any province or state relating to insolvency or the protection of rights of  creditors.\n\nGlamis' Right of TerminaHon\n\n3.6 Glamis may, at its option, terminate this Agreement by written notice to Western  Copper, effective immediately upon delivery of the notice, should Western Copper cease  conducting busin",
     "start": 10642,
-    "end": 11453
+    "end": 11453,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "WESTERN COPPER - NON-COMPETITION AGREEMENT.txt",
-  "_char_count": 16402
+  "_char_count": 16402,
+  "_provenance": {}
 }

@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "VIRTUAL ITEM PROCESSING SYSTEMS, INC",
+    "BROKERS NATIONAL LIFE ASSURANCE COMPANY"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Oklahoma without regard to",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement for any reason, such BNL Data will be returned to BNL by VIP, subject to\n\nE - 8\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fthe terms hereof. Subject to paragraphs 4(F) and (G), VIP agrees to make the same effort to safeguard such BNL Data as it does in protecting\nits own proprietary information. BNL Data will not be utilized by VIP for any purpose other than those purposes related to rendering EDP\nServices to BNL under this Agreement, nor will BNL Data or any part thereof be disclosed to third parties by VIP , its employees or agents\nexcept for purposes related to VIP's rendering ofEDP Services to BNL under this Agreement or as required by law, regulation, or  order of a\ncourt or regulatory agency or other authority having jurisdiction thereover. Notwithstanding the for",
+    "start": 11101,
+    "end": 11912,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Outsourcing__BNLFINANCIALCORP_03_30_2007-EX-10.8-OUTSOURCING AGREEMENT.txt",
+  "_char_count": 40085,
+  "_provenance": {}
+}

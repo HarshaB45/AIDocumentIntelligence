@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "SIGATECHNOLOGIES, INC., a Delaware corporation having an address at 31 East 62nd Street, New York, NY 10065 (“SIGA”)",
+    "MERIDIAN MEDICALTECHNOLOGIES"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement, MMT shall submit a final written report covering the time periodbetween the date of the last Quarterly Report submitted by MMT and the date of expiration or termination of this Agreement (the “Final Report”).The Final Report shall contain all information required to be included in a Quarterly Report with respect to the time period between the conclusionof the most recent Calendar Quarter and the date of expiration or termination of this Agreement. If MMT owes any outstanding amounts to SIGA ascalculated pursuant to such Final Report, then MMT shall pay to SIGA in Dollars such outstanding amounts by wire transfer of immediatelyavailable funds into an account designated by SIGA in writing in advance of such payment within [***] days after delivery of the Final Report. IfS",
+    "start": 45386,
+    "end": 46197,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Promotion__SigaTechnologiesInc_20190603_8-K_EX-10.1_11695818_EX-10.1_Promotion Agreement.txt",
+  "_char_count": 142052,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

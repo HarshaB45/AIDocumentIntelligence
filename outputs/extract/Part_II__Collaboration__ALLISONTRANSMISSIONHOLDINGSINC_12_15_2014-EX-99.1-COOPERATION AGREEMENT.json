@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the parties, or any of them, with respect to the subject matter hereof. This Agreement may beamended only by an agreement in writing executed by the parties hereto",
+    "no waiver of compliance with any provision or condition of thisAgreement and no consent provided for in this Agreement shall be effective unless evidenced by a written instrument executed by the partyagainst whom such waiver or consent is to be effective"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of registration pursuantto Section 12(g)(4) of the Exchange Act; 3\f(ix) disparage or cause to be disparaged the Company or Affiliates thereof, any of its current or former officers, or directors;(x) make any public disclosure, announcement or statement regarding any intent, purpose, plan or proposal with respect to theBoard, the Company, its management, policies or affairs, any of its securities or assets or this Agreement that is inconsistent with the provisions ofthis Agreement;(xi) enter into any substantive discussions, negotiations, agreements, or understandings with any Third Party with respect toany of the foregoing, or advise, assist, knowingly encourage or seek to persuade any Third Party to take any action or make any statement withrespect to any of the foregoing, or otherwise t",
+    "start": 14012,
+    "end": 14823,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Collaboration__ALLISONTRANSMISSIONHOLDINGSINC_12_15_2014-EX-99.1-COOPERATION AGREEMENT.txt",
+  "_char_count": 32371,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

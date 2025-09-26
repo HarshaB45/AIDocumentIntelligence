@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "VIVINT SOLAR, INC., a Delaware corporation (together with its successors",
+    "permitted assigns"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Non_Compete_Non_Solicit__VIVINT SOLAR, INC. - NON-COMPETITION AGREEMENT.txt",
+  "_char_count": 3389,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    }
+  ]
+}

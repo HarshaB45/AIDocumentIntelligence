@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "i3 Integrative Creative Solutions, LLC (“i3 ICS”), a Virginia limited liability company, having its offices at6564 Loisdale Court Suite 1010B, Springfield, VA 22150 (“Reseller”)",
+    "the company set forth below (“Company”) (each"
+  ],
+  "effective_date": null,
+  "governing_law": "Virginia",
+  "payment_terms": {
+    "text": "Payment Terms: For a registered referral where the customer purchases directly from Company or another channel/contract vehicle other thanReseller, earned commissions are payable within thirty (30)days of when such amounts are collected by Company. For a Registered Opportunity where the customer purchases from Reseller, payment will be made by Reseller to Company within 5days of receipt of payment (paid when paid). Expense Reimbursement: Reimbursement will be provided ONLY for expenses PRE-APPROVED in writing by Company. Marketing Expense: As may be agreed to by the parties in writing. 7Source",
+    "start": 14480,
+    "end": 15080,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination. a. Unless terminated earlier as provided herein, this Agreement shall have the Term set forth above (which commenceson the Effective Date). b. This Agreement may be terminated by Reseller for cause immediately upon the occurrence of any of the followingevents: (i) if the use or sale of Company Products are enjoined due to any claim of infringement of any U.S. patent or copyright orof any misappropriation of trade secrets; (ii) if Company ceases to do business, or otherwise terminates its business operations;or (iii) if Company breaches any provision of this Agreement and fails to fully cure such breach within fifteen (15) business daysof written notice from Reseller describing the breach. c. This Agreement may be terminated by Company for cause immediately upon the occurrence of any of t",
+    "start": 6963,
+    "end": 7774,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Reseller__BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement.txt",
+  "_char_count": 15500,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": []
+}

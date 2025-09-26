@@ -1,9 +1,19 @@
 {
-  "parties": null,
+  "parties": [
+    "Schedule",
+    "Q Biomed, Inc.",
+    "YA Global",
+    "Yorkville Advisors Global"
+  ],
   "effective_date": null,
   "governing_law": null,
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "QBIOMEDINC_04_08_2020-EX-99.1-JOINT FILING AGREEMENT.txt",
-  "_char_count": 2732
+  "_char_count": 2732,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
 }

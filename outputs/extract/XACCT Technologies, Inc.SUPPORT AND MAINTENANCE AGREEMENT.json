@@ -4,13 +4,20 @@
     "________________________________"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "TERMINATION\n\n5.1      The initial term of this Agreement is one (1) year from the date of          delivery of the Product to Licensee unless earlier terminated in          accordance with this Agreement. The Agreement will be automatically          renewed for additional one (1) year terms (subject to applicable fee          adjustments) unless thirty (30) days prior to the anniversary of the          Effective Date Licensee gives written notice to XACCT of its intention          not to renew.\n\n5.2      XACCT may suspend or terminate Product Maintenance and Support Services          if Licensee fails to timely pay Product Maintenance and Support Service          fees as provided in this Agreement. XACCT may also terminate Support          Services if Licensee breaches any provision of this Agreement",
     "start": 8957,
-    "end": 9768
+    "end": 9768,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "XACCT Technologies, Inc.SUPPORT AND MAINTENANCE AGREEMENT.txt",
-  "_char_count": 14193
+  "_char_count": 14193,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

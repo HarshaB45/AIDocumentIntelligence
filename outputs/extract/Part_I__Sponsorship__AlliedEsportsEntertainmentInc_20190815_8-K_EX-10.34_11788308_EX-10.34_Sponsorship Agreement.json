@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "NeweggInc. (“Newegg”), a Delaware corporation",
+    "Allied Esports International"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination by Newegg, the Sponsorship Fee shall be prorated and Allied shall immediately refund the portioncorresponding to the unused period of the Term.2Source: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/2019\f6. Newegg’s License to Allied; Allied’s Obligations Regarding Newegg Marks and Products6.1 Newegg grants Allied a revocable, non-transferrable, non-assignable (whether voluntarily, or as a result of a change of control, or byoperation of law), non-sublicensable, non-exclusive and limited license to use, during the Term, the Newegg Marks solely in connection withAllied’s marketing and conduct of the Arena.6.2 Allied acknowledges and agrees that Newegg has valuable goodwill and reputation in the Newegg Marks and that Newegg is and shallbe at all times the sole and exclusive owner of rights,",
+    "start": 7067,
+    "end": 7878,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Sponsorship__AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement.txt",
+  "_char_count": 37379,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

@@ -4,13 +4,20 @@
     "WPD Pharmaceuticals"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Texas",
   "payment_terms": null,
   "termination_clause": {
     "text": "TERMINATION 6.1 The term of this Agreement will commence on the Effective Date and remain in full force and effect until the expiration of the Sublicense Agreement, unless earlier termination by pursuant to the terms of this Agreement (\"Term\"). 6.2 Subject to any rights herein which survive termination, this Agreement will earlier terminate in its entirety: (i) upon thirty (30) calendar days written notice from either party if the other party materially breaches this Agreement, unless before the end of such thirty (30) calendar day notice period, the breaching party has cured the material default or breach to the non-breaching party's reasonable satisfaction; or (ii) at any time by mutual written agreement between the Parties, subject to any terms herein which survive termination.\n\n3\n\nSource: CNS PHA",
     "start": 11843,
-    "end": 12654
+    "end": 12654,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement.txt",
-  "_char_count": 20791
+  "_char_count": 20791,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "the Parties about the Clinical trial program in Oncology, the respective obligations are regulated below:-Molipharma, through a separate agreement with UCSC, undertakes to provide the tissue samples",
+    "parts of tumors;-Molipharma undertakes to make UCSC the site for clinical trials and in particular Molipharma undertakes to make UCSC the main site forclinical trials in cancer using-2-\fthe specific isoforms CAR (Chimeric Antigen Receptor) and/or check inhibitor technology"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination of this JV Agreement shall not relieve the Parties of their obligations due at the time of such termination, nor shall such termination prejudiceany claim of either Party accrued, or to accrue, on account of any default or breach by the other Party.9.WITHDRAWAL AND RESOLUTIONThe Parties may withdraw from this JV only for serious and justified reasons or by mutual consent. The withdrawal must be exercised by written notice, tobe sent to the other Party by certified letter or PEC, with minimum notice of 30 days.Withdrawal or termination by mutual consent shall only have effect for the future and shall not affect the part of the Agreement already executed.In case of withdrawal according to the previous paragraph, Kiromic is obliged to cover Molipharma for the expenses incurred and for those",
+    "start": 16032,
+    "end": 16843,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Joint Venture__KIROMICBIOPHARMA,INC_04_08_2020-EX-10.28-JOINT VENTURE AGREEMENT.txt",
+  "_char_count": 36000,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

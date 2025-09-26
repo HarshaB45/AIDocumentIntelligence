@@ -4,9 +4,14 @@
     "A"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement3.txt",
-  "_char_count": 2558
+  "_char_count": 2558,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

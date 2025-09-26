@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "Stremick’s Heritage Foods, LLC (“Heritage”) Premier NutritionCorporation (“Premier”) is effective as of June 11, 2018 (“Amendment Effective Date”)",
+    "amends that certain Manufacturing Agreement betweenHeritage and Premier dated July 1"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Part_I__Manufacturing__BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement2.txt",
+  "_char_count": 2233,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "Cargill, \nIncorporated through its Bio Technology Development Center, having its principal place of business at 15407 McGinty Road West, Wayzata, \nMinnesota 55391 USA (“Cargill”)",
+    "Bioamber S"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "payment terms and its other obligations contained in the \nattached Commercial License. \n\n6.\n\n7.\n\n8.\n\n9.\n\nWRF Patents. Washington Research Foundation (WRF) is the owner of several patents relating to the expression of polypeptides in yeast \n(“WRF Patents”). Prior to transferring CB1 or any other yeast strain to Bioamber, Bioamber shall provide to Cargill a letter from WRF \nstating that Bioamber has a license to the WRF Patents (“Bioamber-WRF License”). Upon receipt of such letter, Cargill will transfer CB1 to \nBioamber for Bioamber’s use of the strain commensurate with and in accordance with th",
+    "start": 25923,
+    "end": 26523,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "Termination. \n\nThis Development Agreement will begin on the Effective Date and continue for four (4) years unless earlier terminated pursuant to Section \n10.2, or unless the parties extend the term by mutual written Development Agreement (“Term”). \n\nEither Party may terminate this Development Agreement by giving written notice to the other Party, (a)in the event the other Party’s \nbankruptcy, insolvency, or the filing of a petition therefore; and (b) the other Party materially defaults in the performance of its obligations \nhereunder. This Development Agreement shall also terminate upon mutual written agreement by the Parties. Further, in the event there is a \ndispute as to whether or not Cargill has missed a certain Milestone, then the Target Date for that Milestone shall be tolled until the Parties",
+    "start": 28726,
+    "end": 29537,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Development__BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT (1).txt",
+  "_char_count": 39049,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

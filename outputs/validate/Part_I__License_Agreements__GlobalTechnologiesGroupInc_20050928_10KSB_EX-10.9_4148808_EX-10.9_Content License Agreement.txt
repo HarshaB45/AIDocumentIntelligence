@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "Global Music International, Inc. d/b/a Independent Music Network (IMNTV), located at 20Old Stagecoach Road, Redding, Connecticut, 06896 (“IMNTV”)",
+    "Distributor"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Florida without regard to conflicts of law provisions",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiration of thisAgreement, and will include any amounts due: for the last month that the Programming is available, prorated based on the number of days in such final period.(c) Other Exceptions. All payments hereunder are exclusive of: (i) any trial or promotional periods during which a Subscriber receives access to the Programmingbefore such Subscriber’s credit card is charged; and (ii) refunds, charge backs and fees attributable to contested credit card transactions(d) Summary of Timing. The parties acknowledge the following that establishes timing of payments: (1) Distributor receives a carrier statement saying how muchDistributor will be paid; (2) 30-45 days later the Carrier pays Distributor; (3) when Distributor is paid by a carrier, Distributor makes royalty payments toIMNTV.(",
+    "start": 18769,
+    "end": 19580,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__GlobalTechnologiesGroupInc_20050928_10KSB_EX-10.9_4148808_EX-10.9_Content License Agreement.txt",
+  "_char_count": 38953,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

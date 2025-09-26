@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "EWSD 1, LLC, d/b/a/ SHI FARMS (“Shi Farms”), a Delaware limitedliability company",
+    "Gridiron BioNutrients"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination.A.Termination. Either Party may terminate this Agreement at any time prior to delivery of the Product.3.Indemnification. Gridiron and affiliated parties shall indemnify and hold Shi Farms harmless from any claims, losses, actions,damages, liabilities, taxes , obligations, fines, proceedings, deficiencies and out of pocket costs and expenses (including butnot limited to attorneys’ fees and disbursements) without limitation resulting from or arising out of any inaccuracy or breachof any representation or warranty; any non-performance or any obligation incurred by Gridiron and its affiliated parties. Ifany claim or legal proceeding is filed by a third party, prompt notice is required by the one to the other.4.Notices. All notices required or permitted under this Agreement must be in writing",
+    "start": 2711,
+    "end": 3522,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Supply__GRIDIRONBIONUTRIENTS,INC_02_05_2020-EX-10.3-SUPPLY AGREEMENT.txt",
+  "_char_count": 5604,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

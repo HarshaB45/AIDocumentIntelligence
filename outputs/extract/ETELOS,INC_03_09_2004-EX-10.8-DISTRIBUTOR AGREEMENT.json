@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination of this Agreement, Distributor will immediately cease all further use of Tripath's trademarks, trade names or service marks except as may be required in the sale of Products in inventory.\n\n15. Relationship Between the Parties\n\n15.1 Both Distributor and Tripath are independent contractors, and no agency or other joint relationship is created.\n\n15.2 Neither party has any authority to act for and/or to bind the other in any way, or to represent that either is in any way responsible for the acts of the other.\n\n16. Confidentiality\n\n16.1 Confidential information (\"Information\") of Tripath and/or Distributor will mean information that the disclosing party desires to protect against unauthorized use or disclosure, and which is furnished under this Agreement as follows: (a) written or other tangib",
     "start": 15015,
-    "end": 15826
+    "end": 15826,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ETELOS,INC_03_09_2004-EX-10.8-DISTRIBUTOR AGREEMENT.txt",
-  "_char_count": 25647
+  "_char_count": 25647,
+  "_provenance": {}
 }

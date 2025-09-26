@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination\n\n            17.1.1 Events of Default by Franchisee             17.1.2 Event of BKC De fault             1 7.2       Termination             17.3        Effect of Termination             17.4        Post-Termination Option             17.5        Post-Termination Obligations of Franchisee                         17.5.1 Options to Purchase Location                         17.5.2 Deidentification                         17.5.3 BKC Lien                         17.5.4 Acceleration of Payments\n\n            17.6  Dispute Resolution\n\n      18.   Restrictive Covenant\n\n                                      iv\n\n      19.   Miscellaneous: General Conditions             19.1  Interpretation             19.2  Non-Waiver             19.3  Governing Law/Jurisdiction             19.4  Licenses, Permits.",
     "start": 5514,
-    "end": 6325
+    "end": 6325,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "INTERNATIONALFASTFOODCORP_04_04_1997-EX-99-FRANCHISE AGREEMENT.txt",
-  "_char_count": 116873
+  "_char_count": 116873,
+  "_provenance": {}
 }

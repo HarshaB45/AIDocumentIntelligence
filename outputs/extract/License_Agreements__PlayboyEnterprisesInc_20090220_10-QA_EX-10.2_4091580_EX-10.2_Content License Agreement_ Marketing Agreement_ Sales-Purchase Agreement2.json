@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the parties",
+    "shall"
+  ],
+  "effective_date": null,
+  "governing_law": "New York",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or waiver \nshall be binding unless also signed by an authorized representative of Playboy. \n\n1. \n\n2. \n\n3. \n\n4. \n\n5. \n\n6. \n\n40\n\nSource: PLAYBOY ENTERPRISES INC, 10-Q/A, 2/20/2009 \n \n \n \n \n \n \n  \n\f7. \n\nVIOLATION OF THIS AGREEMENT BY SUPPLIER MAY RESULT IN PROSECUTION FOR PLAYBOY\nPROPERTIES INFRINGEMENT, UNFAIR COMPETITION AND OTHER CAUSES OF ACTION AND THE \nIMPOSITION OF FINES AND/OR CRIMINAL PENALTIES. \n\nSUPPLIER \n(Name of Company - Please Print) \nBy: \nTitle: \nDate: \nSUPPLIER INFORMATION \nName: \nAddress: \n\nContact: \nTelephone: \nFacsimile: \n\n41\n\nPURCHASER \n\nBy: \nTitle: \nDate: \nPLAYBOY \nName: \nAddress: \n\nContact: \nTelephone: \nFacsimile: \n\nPLAYBOY.COM, INC. \n730 Fifth Avenue \nNew York, NY 10019 \n\n212-261-5000 \n212-957-2950 \n\nSource: PLAYBOY ENTERPRISES INC, 10-Q/A, 2/20/2009",
+    "start": 2802,
+    "end": 3607,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2.txt",
+  "_char_count": 3607,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

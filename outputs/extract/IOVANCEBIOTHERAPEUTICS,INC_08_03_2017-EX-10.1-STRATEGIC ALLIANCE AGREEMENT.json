@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination) of each such Study and (ii) a final written Study report within thirty (30) days after receipt of LBIO's comments to the draft final written Study report with respect to each such Study, which shall be given by LBIO not later than thirty (30) days after LBIO's receipt of the draft final Study report (collectively, the \"Reports\"); provided, that, if this schedule of reports differs from the reporting obligations provided in a Study Order, the schedule listed in the Study Order shall be followed. LBIO shall own all Reports and data compilations resulting from the Research, excluding the physical original lab notebooks themselves (but not excluding the data and data compilations contained therein, which shall be deemed to be owned by LBIO) and any patient medical records.   5.3 Electronic T",
     "start": 30499,
-    "end": 31310
+    "end": 31310,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "IOVANCEBIOTHERAPEUTICS,INC_08_03_2017-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.txt",
-  "_char_count": 69147
+  "_char_count": 69147,
+  "_provenance": {}
 }

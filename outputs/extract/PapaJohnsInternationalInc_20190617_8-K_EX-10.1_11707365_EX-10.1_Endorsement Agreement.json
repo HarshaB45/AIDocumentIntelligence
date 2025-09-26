@@ -4,13 +4,20 @@
     "PAPA JOHN'S in connection with CELEBRITY in Press Releases"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of the Term) without ABG's Approval.\n\nH. No Dangerous Activity. The Parties acknowledge and agree that CELEBRITY shall not be required to participate in any physical activity during CELEBRITY's performance of any Services hereunder that may be of a dangerous nature or which may involve a risk of serious bodily injury to CELEBRITY and/or others, as determined by ABG and CELEBRITY in their collective sole and absolute discretion.\n\nI. Additional Services. Personality's rendition of additional services beyond the scope of the Services set forth herein shall at all times be subject to the mutual agreement of the Parties (including, without limitation, the negotiation of appropriate remuneration in connection therewith). PAPA JOHN'S acknowledges and agrees that (i) it is contemplated that PAPA",
     "start": 25124,
-    "end": 25935
+    "end": 25935,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.txt",
-  "_char_count": 68204
+  "_char_count": 68204,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

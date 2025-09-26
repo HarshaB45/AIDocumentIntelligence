@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "Dassault Systemes, a societe anonymeorganized under the laws of France",
+    "the owner of Purchaser (\"DassaultSystemes\") and/or certain affiliates of Dassault Systemes"
+  ],
+  "effective_date": null,
+  "governing_law": "France",
+  "payment_terms": {
+    "text": "PAYMENT TERMS AND AUDIT RIGHTS                  5.1 Customer Billing. Unless otherwise agreed by the partiesand subject to the reporting and revenue sharing obligations set forth in thisSection 5, the party responsible for hosting shall be the Billing Party.                  5.2 Pricing of the Co-Branded Service. Prior to the LaunchDate, the parties shall agree on which currencies and list prices shall apply tothe Co-Branded Service. If, for whatever reason, the parties fail to agree on aprice to be applied, the price applied to the Co-Branded Service shall be equalto the then current list pri",
+    "start": 16388,
+    "end": 16988,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of thisAgreement. Within 2 weeks following execution of this Agreement, PlanetCAD willprovide Dassault Systemes with the necessary media and licensing keys or similarauthorization system (if any) to use such Server Software and Infrastructureaccording to the above license.                  3.4 Use of Marks. Prior to commercialization of the Co-BrandedService the parties shall agree on the use and placement of all DassaultSystemes and PlanetCAD logos, trade names, trademarks, service marks, andsimilar identifying material (collectively referred to as \"Marks\") on theCo-Branded Service. Any usage of a party's Marks on the Co-Branded Serviceincluding without limitation size, placement, font and style of such Marks willbe subject to such party's prior written approval. On or before the Launch",
+    "start": 10844,
+    "end": 11655,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Co_Branding__RandWorldwideInc_20010402_8-KA_EX-10.2_2102464_EX-10.2_Co-Branding Agreement.txt",
+  "_char_count": 47408,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": []
+}

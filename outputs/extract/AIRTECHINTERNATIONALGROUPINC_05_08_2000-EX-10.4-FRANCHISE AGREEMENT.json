@@ -4,7 +4,7 @@
     "You:"
   ],
   "effective_date": null,
-  "governing_law": "Texas",
+  "governing_law": null,
   "payment_terms": {
     "text": "payment terms are permitted.\n\nB. All orders will be shipped freight collect unless freight is paid in advance by You.\n\nC. You will pay the prices then prevailing at the time AIRSOPURE receives each order. Such prices are subject to change at any time by AIRSOPURE.\n\nD. All merchandise will be shipped to You at the Center for resale to customers\n\n\n\n\n\nin the Exclusive Territory. You will sell Products only to end-user customers and not for resale. You will not sell or lease Products at any location other than within Your Exclusive Territory, engage in mail order sales of Products or supply Produc",
     "start": 18052,
@@ -21,9 +21,5 @@
   },
   "_doc_id": "AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT.txt",
   "_char_count": 73869,
-  "_provenance": {
-    "governing_law": {
-      "source": "spacy"
-    }
-  }
+  "_provenance": {}
 }

@@ -1,0 +1,97 @@
+{
+  "net_days_median": 30.0,
+  "net_days_p90": 30.0,
+  "net_days_min": 30,
+  "net_days_max": 30,
+  "risk_bucket_counts": {
+    "low": 297,
+    "medium": 213
+  },
+  "avg_risk_score": 4.162745098039216,
+  "top_governing_law": {
+    "Delaware": 124,
+    "California": 29,
+    "New York": 25,
+    "Canada": 13,
+    "Texas": 12
+  },
+  "party_avg_risk_top10": {
+    "THE AGENTS NAMED THEREIN | THE CORPORATION": 9.0,
+    "THE BISYS GROUP, INC | UNITED NATIONAL BANCORP ENTERS INTO OUTSOURCING AGREEMENT": 9.0,
+    "AMENDS THAT CERTAIN MANUFACTURING AGREEMENT BETWEEN HERITAGE AND PREMIER DATED JULY 1 | STREMICK'S HERITAGE FOODS, LLC (\"HERITAGE\") PREMIER NUTRITION CORPORATION (\"PREMIER\") IS EFFECTIVE AS OF JUNE 11, 2018 (\"AMENDMENT EFFECTIVE DATE": 9.0,
+    "AMENDS THAT CERTAIN MANUFACTURING AGREEMENT BETWEEN HERITAGE AND PREMIER DATED JULY 1 | STREMICK'S HERITAGE FOODS, LLC, (\"HERITAGE\"), PREMIER NUTRITION CORPORATION (\"PREMIER\") IS EFFECTIVE AS OF OCTOBER 1, 2018 (\"SECOND AMENDMENT EFFECTIVE DATE": 9.0,
+    "SCHEDULE | THOMAS SIPP THOMAS SIPP": 9.0,
+    "SCHEDULE | SHELBY J. BUTTERFIELD SHELBY J. BUTTERFIELD": 9.0,
+    "AMENDS THAT CERTAIN MANUFACTURING AGREEMENT BETWEEN HERITAGE AND PREMIER DATED JULY 1 | STREMICKS HERITAGE FOODS, LLC (\"HERITAGE\") PREMIER NUTRITION CORPORATION (\"PREMIER\") IS EFFECTIVE AS OF JULY 3, 2019 (\"THIRD AMENDMENT EFFECTIVE DATE": 9.0,
+    "PRIME OFFSHORELT | PRIMEEVERG\\'CORPORATION ( TIME\"), GUARANTY BANK, FSB ('GUARANTY": 9.0,
+    "PROLONG SUPER LUBRICANTS | SABCO RACING, INC., A NORTH CAROLINA CORPORATION WITH A PLACE OF BUSINESS IN IREDELL COUNTY, NORTH CAROLINA (HEREINAFTER SABCO": 9.0,
+    "APOLLO INSURANCE SOLUTIONS GROUP LP | ATHENE ANNUITY": 9.0
+  },
+  "monthly": [
+    {
+      "month": "1996-03",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "1998-06",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "1999-01",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2010-11",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2011-03",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2012-02",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2014-03",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2016-11",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2017-04",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2017-07",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2019-01",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2019-07",
+      "contracts": 1,
+      "median_net_days": NaN
+    },
+    {
+      "month": "2020-02",
+      "contracts": 1,
+      "median_net_days": 30.0
+    }
+  ]
+}

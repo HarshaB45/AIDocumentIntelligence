@@ -4,13 +4,20 @@
     "ENTERPRISE PRODUCTS OPERATING L"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination of this contract for any reason shall not release either party from any obligation that may have accrued before such termination, nor shall it preclude either party from exercising any remedies it might have in law or equity to enforce such obligations.\n\n     7. No waiver by Shipper or Carrier of any default of the other under this contract shall operate as a waiver of any future default, whether of like or different character.\n\n     8. Any notice in writing by one party under this contract shall be given by registered or certified mail, return receipt requested, to the other party at its address shown on the first page or to such other address as such party may from time to time specify by notice given according to this provision.  A U.S. Postal Service receipt showing the delivery of su",
     "start": 8712,
-    "end": 9523
+    "end": 9523,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT.txt",
-  "_char_count": 74915
+  "_char_count": 74915,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

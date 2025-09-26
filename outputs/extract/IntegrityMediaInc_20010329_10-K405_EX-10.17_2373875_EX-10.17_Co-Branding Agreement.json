@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination\n\n      a.       Each party hereto warrants, represents, covenants and agrees                   that it has the right and power to enter into this Agreement,                   to grant the rights herein granted by it, and to perform the                   services agreed to be performed by it hereunder, and that no                   materials, ideas or other properties furnished or designated                   by it is subject to any restriction whatsoever, or is                   violative of the rights of any person, firm or corporation,                   including, without limitation, contract rights, copyrights and                   rights of privacy.\n\n      b.       If, because of an act of God, inevitable accident, fire,                   lockout, strike or other labor dispute, riot o",
     "start": 19852,
-    "end": 20663
+    "end": 20663,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.txt",
-  "_char_count": 29253
+  "_char_count": 29253,
+  "_provenance": {}
 }

@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION\n\nThis Agreement shall be valid for an indefinite period.\n\nBoth parties may terminate the Agreement with immediate effect\n\n- -        of either party breaches a material term of the Agreement\n\n- -        in case of a merger or change of key management or control\n\n- -        in case of bankruptcy or similar.\n\nDragon may terminate this agreement without cause by giving sixty (60) days written notice to MMI.\n\n                                    -3-    4 13.      GOVERNING LAW\n\nAny lawsuit relating to any matter arising under this Agreement may be initiated in a State or Federal Court located in the Commonwealth of Massachusetts or in any court in the Netherlands having jurisdiction over the matter.\n\n14.      INSURANCE\n\nMMI shall at its own expense obtain and maintain with an insurer adequate",
     "start": 5945,
-    "end": 6756
+    "end": 6756,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "DRAGONSYSTEMSINC_01_08_1999-EX-10.17-OUTSOURCING AGREEMENT.txt",
-  "_char_count": 8599
+  "_char_count": 8599,
+  "_provenance": {}
 }

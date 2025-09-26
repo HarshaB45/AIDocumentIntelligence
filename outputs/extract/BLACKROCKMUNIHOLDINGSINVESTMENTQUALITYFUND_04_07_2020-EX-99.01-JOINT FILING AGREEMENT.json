@@ -1,9 +1,19 @@
 {
-  "parties": null,
+  "parties": [
+    "JOINT FILING AGREEMENT\n\nPursuant",
+    "the Securities Exchange Act",
+    "the Securities and Exchange Commission",
+    "BANK OF AMERICA CORPORATION"
+  ],
   "effective_date": null,
   "governing_law": null,
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "BLACKROCKMUNIHOLDINGSINVESTMENTQUALITYFUND_04_07_2020-EX-99.01-JOINT FILING AGREEMENT.txt",
-  "_char_count": 1283
+  "_char_count": 1283,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
 }

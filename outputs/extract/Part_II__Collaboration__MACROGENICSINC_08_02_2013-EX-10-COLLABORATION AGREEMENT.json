@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "MacroGenics,\n\nInc., a Delaware corporation with a place of business at 1500 East Gude Drive, Rockville, MD 20850 (“MacroGenics”)",
+    "Green Cross Corp"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.\n\n(g) Limitations. The JSC shall have no authority other than that expressly set forth in this Section 2.1 and, specifically, shall have no\n\nauthority (a) to amend or interpret this Agreement, or (b) to determine whether or not a breach of this Agreement has occurred.\n\n2.2 Joint Development Committee \n\n(a) Membership. Within thirty (30) days after the Effective Date, the Parties shall establish a Joint Development Committee, or JDC, as a\n\nsubcommittee of the JSC, to coordinate the Development of Products as set forth in Section 2.2(b). The JDC shall consist of three (3)\nrepresentatives from each Party. Each Party may replace its appointed JDC representatives at any time upon reasonable written notice to the other\nParty. The Parties shall alternate in designating a repres",
+    "start": 39940,
+    "end": 40751,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Collaboration__MACROGENICSINC_08_02_2013-EX-10-COLLABORATION AGREEMENT.txt",
+  "_char_count": 164211,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

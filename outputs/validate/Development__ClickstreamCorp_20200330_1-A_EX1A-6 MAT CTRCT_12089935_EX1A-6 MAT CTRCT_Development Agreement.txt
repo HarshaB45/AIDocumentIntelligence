@@ -1,0 +1,34 @@
+{
+  "parties": [
+    "InfinixSoft Global LLC, a Florida Limited Liability Company, with its principal office located at 360 NE 75 St Miami, Suite#127, 33138, Miami, Florida (the “Developer”)",
+    "Clickstream Corporation with its principal office located at 1801 Century Park East Suite 1201 LosAngeles"
+  ],
+  "effective_date": null,
+  "governing_law": "the state of Florida",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION.(a) Types of Termination. This Agreement may be terminated:1.By either Party on provision of seven (7) days written notice to the other Party in case of a Force Majeure Event.2.Client has the unilateral right to cancel this agreement at any time within a 7-day notice period. Further, Developer can only canceldue to lack of payment. Client will have a 30 day right to cure before a cancelation can occur.3.By either Party for a material breach of any provision of this Agreement by the other Party, if the other Party’s material breach is notcured within three (3) days of receipt of written notice thereof. This shall include any delays to the timeline specified in Exhibit A.4.By the Client at any time and without prior notice, if the Developer is convicted of any crime or offense, fails or ref",
+    "start": 2120,
+    "end": 2931,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Development__ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.txt",
+  "_char_count": 33630,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "AMBIGUOUS",
+      "field": "termination_clause",
+      "reason": "Ambiguous language detected",
+      "span": {
+        "start": 2120,
+        "end": 2931
+      }
+    },
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

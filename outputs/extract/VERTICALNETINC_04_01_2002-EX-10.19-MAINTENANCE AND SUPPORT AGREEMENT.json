@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination.\n\n            9.1 Term. The initial period of this Agreement (the \"Initial Term\") shall commence upon the Effective Date and continue until March 31, 2003. Thereafter, this Agreement shall renew only upon the mutual written agreement of the parties for up to three additional renewal terms of one year each (each, a \"Renewal Term\"). Notwithstanding the foregoing provisions of this Section 9.1, in the event any Services or other obligations of either party (including payment obligations) with respect to any Final Work Plan have not been completed or discharged as of the date on which this Agreement would otherwise expire, this Agreement shall remain in effect solely with respect to such Work Plan until such Services or other obligations have been completed or discharged.\n\n            9.2 Eve",
     "start": 51286,
-    "end": 52097
+    "end": 52097,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT.txt",
-  "_char_count": 78033
+  "_char_count": 78033,
+  "_provenance": {}
 }

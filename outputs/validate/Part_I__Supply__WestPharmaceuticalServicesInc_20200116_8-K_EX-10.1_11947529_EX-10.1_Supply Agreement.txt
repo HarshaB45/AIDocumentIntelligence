@@ -1,0 +1,31 @@
+{
+  "parties": [
+    "ExxonMobil Chemical Company, a division of Exxon MobilCorporation (\"Seller\"),on behalf of itself",
+    "in the interest of the ExxonMobil affiliates listed on Attachment B (each an \"ExxonMobil SellingAffiliate\" or \"EMCC/A\" or collectively"
+  ],
+  "effective_date": "January 1, 2019",
+  "governing_law": "Belgium",
+  "payment_terms": {
+    "text": "payment terms for Products sold hereunder will be governed by the terms of the Pricing and Payment Terms sections of thisAgreement.Buyer Affiliates shall pay ExxonMobil's Selling Affiliates invoice(s) not later than the days set forth in Attachment E hereto. All invoices shall bepaid in full by wire transfer in accordance with the invoice's instructions.Crude Trigger ClauseProduct price(s) shall be subject to the Average Brent crude oil price evolution (as further detailed below) in order to reflect the cost of energy.Should the Average Brent crude oil price at any moment during the term of th",
+    "start": 4567,
+    "end": 5167,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination is withoutprejudice to the rights and obligations of the parties that have accrued up to and including the date of termination.As used above, \"Change of Control\" means any of the following:(i) any transaction, or series of transactions, that would result in the transfer of at least fifty percent (50%) of the equity interest in a party (or of atleast fifty percent (50%) of the equity interest in any business entity that owns or controls, directly or indirectly, at least fifty percent (50%) of theequity interest in a party (\"Party’s Parent\")) to a single transferee or multiple transferees under common control;(ii) any transaction that would result in a Party’s (or Party’s Parent's) merging with one or more other entities.22. This Agreement between EM and Buyer shall be governed by the laws",
+    "start": 79717,
+    "end": 80528,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Supply__WestPharmaceuticalServicesInc_20200116_8-K_EX-10.1_11947529_EX-10.1_Supply Agreement.txt",
+  "_char_count": 81634,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "effective_date_normalized": "2019-01-01",
+  "_issues": []
+}

@@ -4,9 +4,14 @@
     "ScanSource"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "California",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "ScansourceInc_20190822_10-K_EX-10.39_11793959_EX-10.39_Distributor Agreement.txt",
-  "_char_count": 10891
+  "_char_count": 10891,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

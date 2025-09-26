@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "NETTAXI Online Communities,Inc.,  a  Delaware  corporation with principal offices at 2165 S. Bascom Avenue,Campbell,  California  95008  (\"NETTAXI\")",
+    "Solutions  Media"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": {
+    "text": "Payment  Terms. All fees will be paid on or before fifteen (15) days            --------------after  the  end of the  month  in  which  the  party  has  received  payment     4.     Audit  Rights.  SpinRecords.com  shall maintain for a period of two            -------------(2) years after the end of the year to which they pertain,  complete  records ofit's customers in order to calculate and confirm  SpinRecords.com's  obligationshereunder.   Upon  reasonable  prior  notice,   NETTAXI  will  have  the  right,exercisable  not more  than  once  every  twelve  (12)  months,  to  appoint  anindepe",
+    "start": 40776,
+    "end": 41376,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "TERMINATION     8.1     Term  of  Agreement.  This  Agreement  shall  be effective upon the             -------------------Effective Date and shall remain in force for a period of one (1) year, and shallbe automatically renewed for successive periods of one (1) year unless otherwiseterminated  as provided  herein.     8.2     Convenience.  NETTAXI  may terminate this Agreement at any time for             -----------its  convenience,  for  no  reason or for any reason, upon sixty (60) days priorwritten  notice  to  SpinRecords.com.  In  the  event  of  such  termination,Spinrecords.com  shall  be  entitled  to receive and retain all payments made orpayable  by  NETTAXI  prior  to  the  date  of  termination. SpinRecords.com mayterminate  this  Agreement  for no reason or for any reason upon sixty (60)",
+    "start": 16072,
+    "end": 16883,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Co_Branding__RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement.txt",
+  "_char_count": 42389,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

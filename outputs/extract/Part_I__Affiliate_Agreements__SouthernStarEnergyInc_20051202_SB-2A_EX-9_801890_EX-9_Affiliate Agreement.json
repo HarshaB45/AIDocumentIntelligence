@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "the Software Publisher",
+    "element 5"
+  ],
+  "effective_date": null,
+  "governing_law": "Germany",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination will remainpayable only if the related orders are not cancelled or returned.(2) Insofar as the referred end user accepts cookies when clicking onAffiliate's link, proceeds from orders will be taken into account which doarise within the lifespan (of max. 180 days) of the cookie(s) used and/ orpossibly within the lifespan of a special action of the Software Publishervia integrated link.(3) element 5 shall record and compute on a monthly basis the amount ofsaid Advertising Cost Compensation for the Affiliate.(4) The computation basis for determining the value of the Advertising CostCompensation is calculated by the gross sales price (including taxes,shipping and handling, etc.) actually invoiced to the referred end user.The percentage of the respective Advertising Cost Compensation shall bes",
+    "start": 9309,
+    "end": 10120,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Affiliate_Agreements__SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.txt",
+  "_char_count": 22289,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Liquidmetal",
+    "Eutectix"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": {
+    "text": "PAYMENT TERMS, AND CAPACITY.3.1Pricing. During the Term of this Agreement, Liquidmetal may from time to time purchase from Eutectix such “LiquidmetalProducts” as specifically described in a purchase order issued by Liquidmetal (an “Order”) to Eutectix at the prices set forthin the Order (the “Prices”). The Parties shall negotiate the Prices in good faith on a project-by-project basis, taking intoconsideration strategic value, competitiveness, profitability, design issues, cost-drivers including input material costs, exportlicensing of the Liquidmetal Products and payment of broker’s fees, duti",
+    "start": 19193,
+    "end": 19793,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination or expiration of the Agreement and in connection with any non-ordinary or non-routinerevisions or alterations to the Licensed Equipment, (B) the removal and shipment of the Licensed Equipment, includingupon termination or expiration of the Agreement, and (C) protecting or perfecting Liquidmetal’s interest in the LicensedEquipment, including by executing and permitting Liquidmetal to file financing statements and other documents withrespect thereto, at Liquidmetal’s expense; and(h)shall be liable for all loss or damage to Licensed Equipment, except for normal wear and tear of the Licensed Equipment.5Source: LIQUIDMETAL TECHNOLOGIES INC, 8-K, 2/5/2020\fEutectix may, with prior written consent of Liquidmetal (such consent not to be unreasonably withheld, conditioned ordelayed),(i)transfer or",
+    "start": 13481,
+    "end": 14292,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Development__LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement.txt",
+  "_char_count": 82782,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

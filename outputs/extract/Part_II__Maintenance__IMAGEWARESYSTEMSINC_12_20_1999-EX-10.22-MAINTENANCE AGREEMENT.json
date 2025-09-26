@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "XIMAGE",
+    "SAGEM S"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination.................................................712.   Indemnification...............................................................713.   Termination...................................................................714.   Disclaimer of Warranty........................................................815.   Limitations of Liability......................................................816.   Arbitration...................................................................917.   Force Majeure.................................................................918.   Successors and Assigns........................................................919.   Amendments....................................................................920.   Entire Agreement and Waiver.....................................",
+    "start": 1325,
+    "end": 2136,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Maintenance__IMAGEWARESYSTEMSINC_12_20_1999-EX-10.22-MAINTENANCE AGREEMENT.txt",
+  "_char_count": 22032,
+  "_provenance": {}
+}

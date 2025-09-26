@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "MediWound Ltd., a\ncorporation organized",
+    "existing under the laws of Israel (hereinafter referred to as “MediWound”) and Challenge Bioproducts Corporation Ltd"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination or expiry of this Agreement, provided however that any Confidential Information with\nrespect to the Product, including without limiting, such information with respect to intellectual property rights in connection with\nand/or related to the Products shall remain confidential in perpetuity.\n\n8.4 The provisions of this Section 8 shall in no event prevent MediWound from disclosing any Technical Information to Regulatory\n\nAuthorities or other governmental agencies in support of any application for regulatory approvals of the Product or any\namendments thereof or in general whenever required to disclose such information under any applicable law or regulation.\nMediWound shall make reasonable efforts to notify CBC of its intention and the identity of the intended recipient as soon as\nreasonably pr",
+    "start": 38000,
+    "end": 38811,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Supply__MEDIWOUNDLTD_01_15_2014-EX-10.6-SUPPLY AGREEMENT.txt",
+  "_char_count": 50191,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

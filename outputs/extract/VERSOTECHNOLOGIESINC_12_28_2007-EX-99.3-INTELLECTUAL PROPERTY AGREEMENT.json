@@ -4,9 +4,14 @@
     "VERSO BACKHAUL SOLUTIONS"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "VERSOTECHNOLOGIESINC_12_28_2007-EX-99.3-INTELLECTUAL PROPERTY AGREEMENT.txt",
-  "_char_count": 5046
+  "_char_count": 5046,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

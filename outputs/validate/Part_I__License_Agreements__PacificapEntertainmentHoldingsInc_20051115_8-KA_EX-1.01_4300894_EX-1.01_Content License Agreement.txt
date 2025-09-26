@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "THE HENRY FILM",
+    "ENTERTAINMENT CORPORATION"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION FOR CAUSE: Notwithstanding the foregoing, this Agreement may be terminated by either party immediately upon notice if theother party: (w) becomes insolvent; (x) files a petition in bankruptcy; (y) makes an assignment for the benefit of its creditors; or (z) breach any of itsobligations under this Agreement in any material respect, which breach is not remedied within thirty (30) days following written notice to suchparty.EFFECT OF TERMINATION: Any termination shall be without any liability or obligation of the terminating party, other than with respect to anybreach of this Agreement prior to termination. The provisions relating to property rights and confidentiality shall survive any termination orexpiration of this Agreement. All revenue sharing ceases with the termination of this Agreeme",
+    "start": 9479,
+    "end": 10290,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__License_Agreements__PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement.txt",
+  "_char_count": 17821,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

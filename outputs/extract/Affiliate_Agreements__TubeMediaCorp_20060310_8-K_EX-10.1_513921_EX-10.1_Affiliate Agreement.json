@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "TheTUBE Music Network, Inc., a Florida corporation (the “Network”)",
+    "Tribune Broadcasting Company"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of NewYork applicable to contracts to be entirely performed therein",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination, within forty-five (45) days thereafter, and thisobligation shall survive the termination of this Agreement until Affiliate receives such statement. (c) Affiliate shall submit to Network, within forty-five (45) days of the end of each calendar quarter, a report on behalf of eachStation with respect to the Promotional Spots aired by each Station during such calendar quarter, setting forth the date and time each suchPromotional Spot aired on the Primary Feed. (d) Audit. (i) During the Term and for one (1) year thereafter, Network shall maintain accurate and complete books and records in accordancewith generally accepted accounting principles and practices that shall contain sufficient information to enable an auditor toverify, for the period under audit, Network’s Advertising Revenue, Netwo",
+    "start": 28190,
+    "end": 29001,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Affiliate_Agreements__TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement.txt",
+  "_char_count": 68772,
+  "_provenance": {}
+}

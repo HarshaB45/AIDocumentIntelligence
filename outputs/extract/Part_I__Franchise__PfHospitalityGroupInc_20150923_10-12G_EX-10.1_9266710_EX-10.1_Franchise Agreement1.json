@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Pizza FusionHolding, Inc., a Florida corporation",
+    "the individual or legal entity identified on the cover page (“Franchisee”)"
+  ],
+  "effective_date": null,
+  "governing_law": "Florida",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION OR EXPIRATION3117.RESTRICTIONS ON COMPETITION3318.RELATIONSHIP OF THE PARTIES3419.INDEMNIFICATION3520.CONSENTS AND WAIVERS3521.NOTICES3522.ENTIRE AGREEMENT AND AMENDMENTS3523.CONSTRUCTION OF THE AGREEMENT, SEVERABILITY, AND SURVIVAL3624.GOVERNING LAW3625.DISPUTES3626.ACKNOWLEDGMENTS37Appendix A – Opening Deadline, Delivery/Catering and Advertising Area, and Site Selection AreaAppendix B – Personal GuaranteeAppendix C – Sample of Non-Disclosure and Non-Competition Agreement- i -Source: PF HOSPITALITY GROUP INC., 10-12G, 9/23/2015\fPizza Fusion Holdings, Inc.Franchise AgreementThis Franchise Agreement (the “Agreement”) is entered into as of the Agreement Date shown on the cover page between Pizza FusionHolding, Inc., a Florida corporation, and the individual or legal entity identified on the",
+    "start": 679,
+    "end": 1490,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Franchise__PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1.txt",
+  "_char_count": 150980,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

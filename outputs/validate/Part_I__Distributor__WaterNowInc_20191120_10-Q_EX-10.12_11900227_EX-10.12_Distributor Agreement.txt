@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Hydraspin",
+    "the Distributor with respect to anyparticular Production installation or group Product installation may be negotiated by Hydraspin and the Distributor and setforth in a separate written agreement between the Parties"
+  ],
+  "effective_date": null,
+  "governing_law": "Texas",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination of Use. Distributor acknowledges Hydraspin’s proprietary rights in and to the intellectual property relating tothe Products, and Distributor waives in favor of Hydraspin all rights to the intellectual property relating to the Products, including anyadditions to the intellectual property hereafter originated by Hydraspin or AHT. Distributor shall not adopt, use or register any words,phrases or symbols which are identical to or confusingly similar to any of the Marks. Upon termination of this Agreement,Distributor shall immediately cease using the Marks.8.4 Ownership. Except for the limited rights expressly granted herein by Hydraspin to Distributor, nothing in this Agreementwill serve to transfer to Distributor any patent, copyright, trademark or other intellectual property rights in or to",
+    "start": 26356,
+    "end": 27167,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Distributor__WaterNowInc_20191120_10-Q_EX-10.12_11900227_EX-10.12_Distributor Agreement.txt",
+  "_char_count": 47789,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

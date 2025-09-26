@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "I-ESCROW,INC., with its principal place of business at 1730 S. AmphlettBlvd., Suite 233, San Mateo, California 94402 (\"i-Escrow\"), and2THEMART.COM, INC. having its principal place of business at 18301Von Karman Avenue, 7th Floor, Irvine, California 92612 (\"2TheMart\").1. DEFINITIONS.(a) \"CONTENT\" means all content or information, in any medium,provided by a party to the other party for use in conjunctionwith the performance of its obligations hereunder, includingwithout limitation any text, music, sound, photographs, video,graphics, data or software. Content provided by 2TheMartis referred to herein as \"2TheMart Content\"",
+    "Contentprovided by i-Escrow is referred to herein as \"i-Escrow Content"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION.8.1 TERM.  The term of this Agreement shall continue forone (1) year following the Launch Date, unless earlierterminated as provided herein. This Agreement may berenewed for any number of successive one (1)year terms by mutual written agreement ofthe parties prior to the conclusion of theterm of this Agreement.  A party wishing torenew this Agreement shall give the otherparty notice thereof no less than thirty(30) days before the expiration of the termthen in effect.  In the event that eitherparty does not give such notice, the term ofthis Agreement shall be automaticallyrenewed for another one (1) year.Source: 2THEMART COM INC, 10-12G, 8/26/1999\f8.2 TERMINATION FOR BREACH.  In addition to other remedies thatmay be available to it, by providing written notice, a partymay immediately termi",
+    "start": 14643,
+    "end": 15454,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Co_Branding__2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.txt",
+  "_char_count": 28768,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

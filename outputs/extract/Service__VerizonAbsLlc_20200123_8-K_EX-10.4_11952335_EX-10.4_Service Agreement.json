@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the interests of theServicer or the Marketing Agent, as applicable",
+    "the Indemnified Person"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION; SUCCESSOR SERVICER32Section 7.1No Resignation32Section 7.2Servicer Termination Events33Section 7.3Continue to Perform34Section 7.4Successor Servicer35Section 7.5Transition of Servicing36Section 7.6Merger, Consolidation, Succession or Assignment37ARTICLE VIII TERMINATION37Section 8.1Optional Acquisition of Receivables; Clean-Up Redemption of Notes37Section 8.2Optional Redemption of Notes38Section 8.3Termination39ARTICLE IX OTHER AGREEMENTS39Section 9.1Financing Statements39Section 9.2No Transfer or Lien by Depositor40Section 9.3Expenses40Section 9.4Receivables Information40Section 9.5No Petition40Section 9.6Limited Recourse40Section 9.7Limitation of Liability41Section 9.8Tax Treatment of Notes41Section 9.9Regulation RR Risk Retention41Section 9.10Cap Collateral Account41ARTICLE X MISCELLA",
+    "start": 2568,
+    "end": 3379,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Service__VerizonAbsLlc_20200123_8-K_EX-10.4_11952335_EX-10.4_Service Agreement.txt",
+  "_char_count": 285085,
+  "_provenance": {}
+}

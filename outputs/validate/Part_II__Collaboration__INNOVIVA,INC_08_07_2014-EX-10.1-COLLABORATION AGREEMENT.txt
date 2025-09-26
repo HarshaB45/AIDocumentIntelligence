@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "THERAVANCE, INC",
+    "GLAXO GROUP LIMITED"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination of Prior Confidentiality Agreements\n\n10.7 Survival\n\nARTICLE 11 REPRESENTATIONS AND WARRANTIES; COVENANTS\n\n11.1 Mutual Representations and Warranties\n\n11.2 Additional GSK Representations and Warranties\n\n11.3 Additional Theravance Representations and Warranties\n\n11.4 Covenants\n\n11.5 Disclaimer of Warranty\n\n29\n\n29\n\n29\n\n29\n\n29\n\n29\n\n30\n\n30\n\n30\n\n30\n\n30\n\n30\n\n30\n\n31\n\n31\n\n31\n\n31\n\n31\n\n32\n\n32\n\n32\n\n32\n\n33\n\n33\n\n34\n\n34\n\n35\n\n35\n\n \n                                         \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fARTICLE 12 INDEMNIFICATION\n\n12.1 Indemnification by GSK\n\n12.2 Indemnification by Theravance\n\n12.3 Procedure for Indemnification\n\n12.3.1 Notice\n\n12.3.2 Defense of Claim\n\n12.4 Assumption of Defense",
+    "start": 4273,
+    "end": 5084,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Collaboration__INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT.txt",
+  "_char_count": 192841,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

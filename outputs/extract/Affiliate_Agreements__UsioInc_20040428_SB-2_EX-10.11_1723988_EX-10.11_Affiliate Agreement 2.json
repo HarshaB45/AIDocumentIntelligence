@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "NETWORK  1 FINANCIAL, INC.(\"NETWORK  1\"),  a  Virginia Corporation with its principal place of business at1501  Farm  Credit  Drive,  Suite 1500, McLean, Virginia 22102-5004",
+    "PaymentData  Systems"
+  ],
+  "effective_date": null,
+  "governing_law": "Virginia",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement shall be definedas  the  following:  (1)  the aggregate sum, per transferring merchant, equal toeighteen  (18) months net recurring revenue normally paid to Affiliate under thecompensation  terms  of  this  Agreement  to  a  maximum  of  $250,000.                                   ARTICLE III  [COMPENSATION]COMPENSATION3.01     AMOUNT.  As compensation for Affiliate's services hereunder, Network 1,or  an  affiliate, shall pay to Affiliate the following (the \"Affiliate's Fee\"):A.     The  surplus  funding  amount after costs noted in Exhibit A based on allMerchant  applications  obtained  for  Equipment  and Products sold or leased byAffiliate  or  Contractors  located  by  Affiliate  pursuant  to  Section  1.01  [CONTRACTORS].Affiliate  shall  receive the buy rate with r",
+    "start": 10841,
+    "end": 11652,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Affiliate_Agreements__UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2.txt",
+  "_char_count": 25748,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

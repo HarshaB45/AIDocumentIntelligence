@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "TERMINATION OF THE JOINT VENTURE AFTER THE EFFECTIVE DATE 14\n\n13. LIABILITIES 15\n\n14. WARRANTIES BY THE PARTIES 16\n\n15. CONDITIONS PRECEDENT; TERMINATION OF AGREEMENT 17\n\n\n\n\n\n16. OPERATIONS UNTIL TRANSFER 18\n\n17. ASSIGNMENT; PLEDGE OF JOINT VENTURE INTEREST 19\n\n18. COSTS, FEES AND TAXES 19\n\n19. NOTICES 19\n\n20. LAW 20\n\n21. MISCELLANEOUS PROVISIONS 20\n\n22. DISPUTE RESOLUTION PROCEDURES; LIQUIDATION 23\n\n23. JOINT VENTURE TO BE BOUND 24\n\nJOINT VENTURE AGREEMENT\n\nThis Joint Venture Agreement (as amended, restated, supplemented or otherwise modified in accordance herewith, this \"Agreement\") is entered into as of March 18, 2003 and is by and between Tate & Lyle Fermentation Products Ltd., a corporation organized under the laws of England (\"T&L\") and a subsidiary of Tate & Lyle PLC, and Igene Biotechnology,",
     "start": 706,
-    "end": 1517
+    "end": 1517,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT.txt",
-  "_char_count": 70625
+  "_char_count": 70625,
+  "_provenance": {}
 }

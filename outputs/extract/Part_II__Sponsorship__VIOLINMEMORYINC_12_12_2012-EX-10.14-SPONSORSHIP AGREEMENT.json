@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Forty Niners SC Stadium Company LLC, a Delaware limited liability company (“Forty Niners SC”) having its principal place of business\nat 4949 Centennial Boulevard, Santa Clara, CA 95054",
+    "Violin Memory"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination occurs.\n\n(b) Ability to Seek Other Sponsorships. Sponsor acknowledges and agrees that, notwithstanding the grant of exclusivity set forth in this\nSection 4, Team shall have the right to solicit and enter into sponsorships with other parties that are not known primarily or exclusively as suppliers\nor providers of any product or service within the Product and Services Category. Without limiting Section 4(a) above, the Parties agree that ***\nare, at the Effective Date, primarily or exclusively known as suppliers or providers in the Product and Services Category. Accordingly, Forty Niners\nSC shall not solicit or enter into sponsorships with such Parties.\n\n5. Sponsorship Fee.\n\n(a) Fee. In exchange for the Sponsorship Rights to be provided to Sponsor during each Contract Year of this Agreement,",
+    "start": 8960,
+    "end": 9771,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Sponsorship__VIOLINMEMORYINC_12_12_2012-EX-10.14-SPONSORSHIP AGREEMENT.txt",
+  "_char_count": 53871,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

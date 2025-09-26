@@ -1,9 +1,19 @@
 {
-  "parties": null,
+  "parties": [
+    "Power Generation Project",
+    "People's Government of",
+    "Xinyu Xinwei New Energy Co., Ltd.",
+    "Party"
+  ],
   "effective_date": null,
   "governing_law": null,
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "SPIENERGYCO,LTD_07_10_2014-EX-10-Cooperation Agreement of 50MWp Photovoltaic Grid-connected Power Generation Project in Yangqiao of~1.txt",
-  "_char_count": 2811
+  "_char_count": 2811,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
 }

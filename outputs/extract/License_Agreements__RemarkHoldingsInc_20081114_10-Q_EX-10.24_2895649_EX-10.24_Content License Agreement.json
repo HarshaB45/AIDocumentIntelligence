@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "World Book, Inc. (“World Book”), a Delaware corporation with offices at 233\nNorth Michigan Avenue, Suite 2000, Chicago, IL 60601",
+    "HSW International"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this\nAgreement, HSWI will make available upon written request to World Book or any of its duly authorized\nrepresentatives, this Agreement and books, documents, and records of HSWI that are necessary to verify the nature\nand extent of the revenue derived by HSWI from advertising related to the Content hereunder. No more than [*] audit\nmay be conducted in any [*] month period, unless the then-most-recent audit reveals a discrepancy of more than [*]\npercent ([*]%) in the total applicable amount reported by HSWI.\n\n[*] Confidential treatment requested; certain information omitted and filed separately with the SEC.\n\nSource: REMARK HOLDINGS, INC., 10-Q, 11/14/2008 \n \n \n \n \n\f6. TERM, EXTENSION, AND TERMINATION.\n\n6.1 Term.\n\n(i) Term of Agreement. This Agreement shall commence on the Effective D",
+    "start": 28933,
+    "end": 29744,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "License_Agreements__RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.txt",
+  "_char_count": 59237,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

@@ -1,9 +1,19 @@
 {
-  "parties": null,
+  "parties": [
+    "ATHENE ANNUITY",
+    "Apollo Insurance Solutions Group LP",
+    "AISG GP Ltd.",
+    "Matthew S. O'Mara"
+  ],
   "effective_date": null,
   "governing_law": null,
   "payment_terms": null,
   "termination_clause": null,
   "_doc_id": "MFAFINANCIAL,INC_07_06_2020-EX-99.D-JOINT FILING AGREEMENT.txt",
-  "_char_count": 3595
+  "_char_count": 3595,
+  "_provenance": {
+    "parties": {
+      "source": "spacy"
+    }
+  }
 }

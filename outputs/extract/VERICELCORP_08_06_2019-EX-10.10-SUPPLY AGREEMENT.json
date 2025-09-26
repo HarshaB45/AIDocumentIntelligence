@@ -8,13 +8,18 @@
   "payment_terms": {
     "text": "PAYMENT TERMS 19\n\n5.1 Supply Price 19 5.2 Price Mechanics 19 5.3 Cost Savings 19 5.4 Payments 20\n\nii\n\n9012190/26\n\n\n\n\n\n5.5 Late Payments 20 5.6 Taxes 20\n\nARTICLE 6 REPRESENTATIONS, WARRANTIES AND COVENANTS 21\n\n6.1 Mutual Representations and Warranties 21 6.2 Compliance with Law 21 6.3 Product Warranty 21 6.4 No Liens 21 6.5 Debarment 21 ARTICLE 7 INDEMNITY, INSURANCE 22\n\n7.1 Indemnification by MediWound 22 7.2 Indemnification by Vericel 22 7.3 No Right of Indemnification under License Agreement 23 7.4 Procedure 23 7.5 Disclaimer 24 7.6 LIMITATION OF LIABILITY 24 7.7 Insurance 25 ARTICLE 8 TERM",
     "start": 1225,
-    "end": 1825
+    "end": 1825,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "TERMINATION 25\n\n8.1 Term 25 8.2 Automatic Termination 25 8.3 Termination for Breach 25 8.4 Termination by Vericel 25 8.5 Termination by MediWound 26 8.6 Effects of Termination 26 8.7 Survival 26 ARTICLE 9 INTELLECTUAL PROPERTY RIGHTS 27\n\n9.1 Manufacturing License Grant 27 9.2 Trademarks License Grant. 27 9.3 Ownership 27 ARTICLE 10 FORCE MAJEURE 27\n\n10.1 Excusing Performance 27 10.2 Notice of Force Majeure Event 27 10.3 Resumption; Termination 27 ARTICLE 11 MISCELLANEOUS 28\n\n11.1 Assignment 28 11.2 Further Actions 28 11.3 Notices 28 11.4 Amendment 29 11.5 Waiver 29\n\niii\n\n9012190/26\n\n\n\n\n\n11.6 Severability 29 11.7 Descriptive Headings 29 11.8 Interpretation 29 11.9 Governing Law 30 11.10 Consent to Jurisdiction 30 11.11 Entire Agreement 31 11.12 Representation by Legal Counsel 31 11.13 Counterparts 31",
     "start": 1829,
-    "end": 2640
+    "end": 2640,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "VERICELCORP_08_06_2019-EX-10.10-SUPPLY AGREEMENT.txt",
-  "_char_count": 102006
+  "_char_count": 102006,
+  "_provenance": {}
 }

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "Pfizer Inc., aDelaware corporation (hereinafter “Manufacturer”)",
+    "Upjohn Inc"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination for Cause507.4   Termination for Disposition of Facility507.5   Termination in Event of Insolvency517.6   Termination for Breach of Anti-Bribery Representation517.7   Termination for Convenience by Customer527.8   Effect of Termination or Expiration527.9   Unused Materials537.10  Return of Materials, Tools and Equipment548.  INTELLECTUAL PROPERTY558.1   Customer’s Intellectual Property558.2   Improvements and Developments558.3   Ownership of Other Property568.4   Limited Right to Use569.  JOINT ADVISORY COMMITTEE569.1   Formation and Role569.2   Membership; Chairs579.3   Meetings579.4   Areas of Responsibility589.5   Advisory Role; No Decision-Making Authority5810.  INDEMNIFICATION; LIMITATIONS OF LIABILITY5810.1  Indemnification of Customer5810.2  Indemnification of Manufacturer5910.3  I",
+    "start": 1877,
+    "end": 2688,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Manufacturing__UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.txt",
+  "_char_count": 221943,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

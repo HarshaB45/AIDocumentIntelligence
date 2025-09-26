@@ -4,13 +4,20 @@
     "EDIETS"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination for all pre-paid impressions or other promotions not delivered as of the date of termination. Women.com agrees that if eDiets elects to extend the Agreement the monthly fee due and payable during the Make Good Period will be recalculated and reduced to reflect the changes in the revised delivery schedule.\n\n                                       3\n\n         3.2 Women.com and eDiets agree that all media metrics (e.g. pageviews and impressions) with respect to the Gateway Page of the Diet Center shall be allocated to Women.com.\n\n         4. PUBLICITY. Neither party will make any public statement, press release or other announcement relating to the terms of or existence of this Agreement without the prior written consent of the other. Notwithstanding the foregoing, each party hereby grants to",
     "start": 9673,
-    "end": 10484
+    "end": 10484,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.txt",
-  "_char_count": 64192
+  "_char_count": 64192,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

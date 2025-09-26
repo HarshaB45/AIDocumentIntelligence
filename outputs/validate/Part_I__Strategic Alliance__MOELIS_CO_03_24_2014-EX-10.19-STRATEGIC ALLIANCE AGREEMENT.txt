@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "a\n\nsenior decision maker at the Client",
+    "the other party"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination\n\nEffect of Termination\n\nARTICLE XI.\n\nTERM\n\nARTICLE XII.\n\nCERTAIN RIGHTS OF SMBC/NIKKO.\n\n12.1\n\n12.2\n\nAdvisory Board\n\nRight of First Refusal\n\nii\n\n11\n\n12\n\n13\n\n13\n\n14\n\n14\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f12.3\n\n12.4\n\n12.5\n\n12.6\n\n13.1\n\n13.2\n\n13.3\n\n13.4\n\n13.5\n\n13.6\n\n13.7\n\n13.8\n\n13.9\n\nMoelis General Partner’s Consent to Certain Transfers\n\nCertain Transfer Matters\n\nAmendments to the Moelis Holdings Agreement\n\nPercentage Interest Limit\n\nARTICLE XIII.\n\nREGISTRATION RIGHTS.\n\nRegistration\n\nPiggyback Registration\n\nReduction of Size of Underwritten Offering\n\nRegistration Procedures\n\nConditions to Offerings\n\nSuspension Period\n\nMarket Stand-Off Agreement\n\nRegistration Expenses\n\nIndemnification; Contribution\n\n13.10\n\nRule 144\n\n13.11\n\nTransfer of Reg",
+    "start": 1927,
+    "end": 2738,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Strategic Alliance__MOELIS_CO_03_24_2014-EX-10.19-STRATEGIC ALLIANCE AGREEMENT.txt",
+  "_char_count": 122746,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "BLOOM ENERGYCORPORATION, a Delaware corporation (“BE” or, in its capacity as operator hereunder, “Operator”)",
+    "DIAMOND STATE GENERATIONPARTNERS"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement for any reason, Owner shall returnall Training Materials, including any copies, to Operator. Owner will not make copies nor will it permit its employees, contractors, affiliates, orrepresentatives to make copies of any Training Materials without Operator’s prior written consent. “Training Materials” means any and allmaterials, documentation, notebooks, forms, diagrams, manuals and other written materials and tangible objects, describing how to maintain theFacilities, including any corrections, improvements and enhancements thereto to the Bloom Systems which are delivered by Operator to Owner, butexcluding any data and reports delivered to Owner.Section 2.18 Appointment of Service Provider. Operator may appoint an unrelated third party, who is appropriately qualified, lic",
+    "start": 49936,
+    "end": 50747,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Maintenance__BloomEnergyCorp_20180321_DRSA (on S-1)_EX-10_11240356_EX-10_Maintenance Agreement.txt",
+  "_char_count": 102553,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

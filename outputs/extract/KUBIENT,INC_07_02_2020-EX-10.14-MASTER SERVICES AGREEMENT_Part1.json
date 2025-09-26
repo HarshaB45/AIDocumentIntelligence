@@ -4,13 +4,20 @@
     "The Associated Press"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": {
     "text": "Termination. (a) The initial term of this Agreement shall be one (1) year from the Effective Date (the \"Initial Term\"). This Agreement will automatically renew for additional 1-year terms unless earlier terminated pursuant to this Agreement's express provisions (together with the Initial Term, such additional periods the \"Term\"). Neither Party may terminate this Agreement during the Initial Term except as set forth in paragraph 4(b) or any Exhibit. Either Party may terminate this Agreement for any reason following the Initial Term upon ninety (90) days written notice to the other Party. Except for termination for material breach as detailed in paragraph 4(b), Kubient shall be entitled to all fees generated during the termination period regardless of which Party terminates the Agreement, (b) Either Pa",
     "start": 3879,
-    "end": 4690
+    "end": 4690,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part1.txt",
-  "_char_count": 26108
+  "_char_count": 26108,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

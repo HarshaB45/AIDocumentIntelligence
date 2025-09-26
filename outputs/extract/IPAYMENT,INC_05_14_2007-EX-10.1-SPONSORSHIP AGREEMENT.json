@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "Termination Reserve Account\" shall mean a reserve account to be established upon notice of termination of this Agreement to insure the payment of chargebacks and credit/fraud losses related to transactions with an acquirer's processing date on or before the effective date of termination of this Agreement, fees and other amounts which may become due to SERVICERS following termination of this Agreement.\n\n\"TS ISO Agreement\" is defined in Recital D of this Agreement.\n\n\"Visa\" shall mean VISA USA Incorporated.\n\nSECTION 2 PROGRAM SERVICES\n\n2.1  SERVICERS' Services/Pricing.\n\n  (a)   SERVICERS shall provide the services specified in this Agreement and the exhibits and shall be compensated therefor as set forth in the Service Agreement and in Exhibit A hereto. Any and all processing and related services render",
     "start": 14715,
-    "end": 15526
+    "end": 15526,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "IPAYMENT,INC_05_14_2007-EX-10.1-SPONSORSHIP AGREEMENT.txt",
-  "_char_count": 96662
+  "_char_count": 96662,
+  "_provenance": {}
 }

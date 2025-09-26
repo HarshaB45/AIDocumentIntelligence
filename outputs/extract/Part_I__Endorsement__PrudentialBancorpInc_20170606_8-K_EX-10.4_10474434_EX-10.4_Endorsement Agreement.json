@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Prudential Bank (hereinafter referred to as the\"Employer\"), located in Philadelphia, Pennsylvania",
+    "Jeffrey Hanuscin"
+  ],
+  "effective_date": null,
+  "governing_law": "the State of Pennsylvania",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination of Agreement\"This Agreement may be terminated at any time while the Employee is living by written notice thereof by either the Employer or the Employee to theother; and, in any event, this Agreement will terminate upon termination of the Employee's employment.ARTICLE VII\"Plan Management\"For purposes of the Employee Retirement Income Security Act of 1974, the Employer will be the \"Named Fiduciary\" and Plan Administrator of thesplit-dollar life insurance plan for which this Agreement is hereby designated the written plan instrument. The Employer's board of directors mayauthorize a person or group of persons to fulfill the responsibilities of the Employer as Plan Administrator. The Named Fiduciary or the PlanAdministrator may employ others to render advice with regard to its responsibilities",
+    "start": 5856,
+    "end": 6667,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_I__Endorsement__PrudentialBancorpInc_20170606_8-K_EX-10.4_10474434_EX-10.4_Endorsement Agreement.txt",
+  "_char_count": 13912,
+  "_provenance": {}
+}

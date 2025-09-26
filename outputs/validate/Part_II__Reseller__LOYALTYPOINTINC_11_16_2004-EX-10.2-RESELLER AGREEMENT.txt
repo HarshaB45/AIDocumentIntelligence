@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "the Card Inventory Forecast less the actual                  Card Order volume for that period is a shortage of ten percent                  or greater (10%+), AEIS reserves the right to assess a                  penalty, (\"Card Inventory Penalty\") of sixteen",
+    "one-half                  cents ($0"
+  ],
+  "effective_date": null,
+  "governing_law": "the         State of Missouri",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination Date\") unlessearlier terminated or extended as provided for herein.The following points outline this agreement:1.       PURPOSE         Under and subject to the terms of this Agreement:         a.       AEIS will provide Schoolpop for resale the following stored                  value cards: Encompass(R) Select, Persona(R) Select, Fill It                  Up(R), and Be My Guest(R), and any other stored value products                  developed by AEIS and mutually agreed upon by both parties,                  (\"Cards\"). The Cards shall be sold only to those of                  Schoolpop's clients and prospective clients (the \"Clients\"),                  in the United States who are nonprofit organizations, (\"NPO                  Marketplace\"), which are defined as organizations that are (",
+    "start": 1124,
+    "end": 1935,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Reseller__LOYALTYPOINTINC_11_16_2004-EX-10.2-RESELLER AGREEMENT.txt",
+  "_char_count": 119425,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}

@@ -4,13 +4,20 @@
     "I-AM Capital Acquisition Company"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "India",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement. 7. Third Party Infringements; Attacks on Use of the Trademarks; Cooperation 7.1 Third Party Infringements. (a) Mutual Information. Each of the parties shall inform the other without undue delay when such party becomes aware of any infringements of any of the Franchisor Property in the Territory. (b) Initiation of Action. Any actions against infringers of any of the Franchisor Property, whether or not such actions involve litigation (including any actions taken to oppose a third party application to register an infringing trademark or a cancellation action against a third party's infringing trademark registration), shall be exclusively reserved to Franchisor, unless otherwise agreed by Franchisor in writing. Notwithstanding the foregoing, Franchisor shall be under no obl",
     "start": 14368,
-    "end": 15179
+    "end": 15179,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "SimplicityEsportsGamingCompany_20181130_8-K_EX-10.1_11444071_EX-10.1_Franchise Agreement.txt",
-  "_char_count": 28529
+  "_char_count": 28529,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

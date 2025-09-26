@@ -9,8 +9,11 @@
   "termination_clause": {
     "text": "termination          prior to the renewal date or the Agreement is not otherwise  terminated          as set forth in Section 8.\n\n8.       Termination.          (a) Upon the  occurrence  of a  material  breach or  default  as to any          obligation,  term or provision contained herein by either party and the          failure of the breaching  party to promptly  pursue (within thirty (30)          days after  receiving  written  notice  thereof from the  non-breaching          party) a reasonable remedy designed to cure (in the reasonable judgment          of the  non-breaching  party) such  material  breach or  default,  this          Agreement  may be  terminated  by the  non-breaching  party  by  giving          written notice of termination to the breaching party,  such termination",
     "start": 4175,
-    "end": 4986
+    "end": 4986,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "LEGACYTECHNOLOGYHOLDINGS,INC_12_09_2005-EX-10.2-DISTRIBUTOR AGREEMENT.txt",
-  "_char_count": 15113
+  "_char_count": 15113,
+  "_provenance": {}
 }

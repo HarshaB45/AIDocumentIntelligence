@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "Capsugel US, LLC",
+    "its Affiliates with an address at 412 Mt"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination of this Agreement.\n\nCERTAIN PORTIONS OF THIS EXHIBIT HAVE BEEN OMITTED PURSUANT TO A REQUEST FOR\nCONFIDENTIAL TREATMENT UNDER RULE 24B-2 UNDER THE SECURITIES EXCHANGE ACT OF\n1934. OMISSIONS ARE DESIGNATED [***]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN\nFILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION.\n9\n\n \n \n \n \n \n \n \n \n \n\f6.6 Recall. In the event that either Party believes it may be necessary to conduct a recall, field correction, market withdrawal, stock recovery, or\nother similar action with respect to any Product which was sold under this Agreement (a “Recall”), CARDAX and CAPSUGEL shall promptly\nconsult with each other in good faith as to how best to proceed, it being understood and agreed that the final decision as to any Recall of any\nProduct sold by Marketer(s) shal",
+    "start": 25019,
+    "end": 25830,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_III__Collaboration__CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT.txt",
+  "_char_count": 56658,
+  "_provenance": {}
+}

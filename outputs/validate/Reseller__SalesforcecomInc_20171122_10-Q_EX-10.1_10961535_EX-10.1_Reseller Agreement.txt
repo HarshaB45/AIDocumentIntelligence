@@ -1,0 +1,27 @@
+{
+  "parties": [
+    "salesforce.com,inc., a Delaware corporation having its principal place of business at The Landmark @ One Market, Suite 300, San Francisco,California 94105 (“SFDC” or “Salesforce”)",
+    "the Reseller named above and amends that certain Reseller Agreement betweenSalesforce and Reseller dated as of August 1"
+  ],
+  "effective_date": null,
+  "governing_law": "California",
+  "payment_terms": null,
+  "termination_clause": null,
+  "_doc_id": "Reseller__SalesforcecomInc_20171122_10-Q_EX-10.1_10961535_EX-10.1_Reseller Agreement.txt",
+  "_char_count": 2872,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "termination_clause"
+    }
+  ]
+}

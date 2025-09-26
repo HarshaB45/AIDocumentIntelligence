@@ -4,13 +4,20 @@
     "supersedes all other prior oral or written agreements"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination, consent, cancellation, or acceleration under) any contract or agreement to which Global Energy or GEC is a party or by or to which the property of Global Energy or GEC is subject or bound; or    (D) result in or give to any Person any right of termination, cancellation, acceleration or modification in or with respect to or result in any loss of benefit under or with respect to, or give any Person any additional rights or entitlement to increased, additional, accelerated or guaranteed payments under, or result in the creation or imposition of any Lien upon Global Energy, GEC or any of their assets, in each case under any contract or license to which Global Energy or GEC is a party or by which any of its respective assets is bound or any Applicable Law.    (ii) The execution and delivery o",
     "start": 13675,
-    "end": 14486
+    "end": 14486,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "USASYNTHETICFUELCORP_10_21_2010-EX-10.10-STRATEGIC ALLIANCE AGREEMENT.txt",
-  "_char_count": 52252
+  "_char_count": 52252,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

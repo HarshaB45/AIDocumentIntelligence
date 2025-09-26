@@ -4,13 +4,20 @@
     "HSW International"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Delaware",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination of this Agreement, HSWI will make available upon written request to World Book or any of its duly authorized representatives, this Agreement and books, documents, and records of HSWI that are necessary to verify the nature and extent of the revenue derived by HSWI from advertising related to the Content hereunder. No more than [*] audit may be conducted in any [*] month period, unless the then-most-recent audit reveals a discrepancy of more than [*] percent ([*]%) in the total applicable amount reported by HSWI.   [*] Confidential treatment requested; certain information omitted and filed separately with the SEC.\n\nSource: REMARK HOLDINGS, INC., 10-Q, 11/14/2008\n\n\n\n\n\n  6. TERM, EXTENSION, AND TERMINATION.   6.1 Term.   (i) Term of Agreement. This Agreement shall commence on the Effective D",
     "start": 28867,
-    "end": 29678
+    "end": 29678,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement.txt",
-  "_char_count": 59089
+  "_char_count": 59089,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

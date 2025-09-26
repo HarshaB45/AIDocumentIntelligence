@@ -4,17 +4,26 @@
     "the company set forth below (\"Company\") (each"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "Virginia",
   "payment_terms": {
     "text": "Payment Terms:   For a registered referral where the customer purchases directly from Company or another channel/contract vehicle other than Reseller, earned commissions are payable within thirty (30)days of when such amounts are collected by Company.   For a Registered Opportunity where the customer purchases from Reseller, payment will be made by Reseller to Company within 5 days of receipt of payment (paid when paid).   Expense Reimbursement: Reimbursement will be provided ONLY for expenses PRE-APPROVED in writing by Company.   Marketing Expense: As may be agreed to by the parties in writin",
     "start": 14808,
-    "end": 15408
+    "end": 15408,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "termination_clause": {
     "text": "termination of this Agreement or the discontinuation of any of the Company Products, (i) the Reseller shall have the exclusive right to commission for any Registered Referrals, (ii) the Company shall not market, promote, sell, or distribute Company Products or solicit or procure orders for the Company Products, or for any product(s) or service(s) similar to the Company Products, in the Territory other than through the Reseller and pursuant to this Agreement, except with the prior written consent of the Reseller, and (iii) without limitation to the foregoing, the Company shall not, directly or through other parties (whether agents, representatives, intermediaries, resellers or other parties), market, promote, sell, distribute, solicit or procure orders to any existing or prospective customer of the Re",
     "start": 4137,
-    "end": 4948
+    "end": 4948,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement.txt",
-  "_char_count": 15871
+  "_char_count": 15871,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

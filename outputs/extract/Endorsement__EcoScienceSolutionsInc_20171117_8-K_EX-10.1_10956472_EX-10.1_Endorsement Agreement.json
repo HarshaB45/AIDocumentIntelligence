@@ -1,0 +1,19 @@
+{
+  "parties": [
+    "the parties pertaining to the subject matter hereof, whether written or oral. The terms of thisAgreement may not be modified, waived, amended, discharged, terminated, or supplemented, or otherwise changed, except by a written documentexecuted by an authorized representative of each party.19. No Waiver. A waiver by either party of any of the terms or conditions of this Agreement in any instance shall not be deemed or construedto be a waiver of such term or condition for the future, or of any subsequent breach thereof, or any other term or condition of this Agreement. Allremedies, rights, undertakings, obligations",
+    "agreements contained in this Agreement shall be cumulative and none of them shall be in limitationof any other remedy"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination one to the other (\"Term\").3. Grant. During the Term and subject to the limitations set forth in Paragraphs 9 and 10, ESSI shall have the right to use the name, image,likeness, characterization, visual and audio representation of Talent (\"Talent Attributes\") in connection with the ESSI product suite, in the venue(s)as follows:A. Promotional Territories (\"Territories\") shall include various online, outdoor, radio and television promotional spots (specificpromotional spots and content specifics to be mutually agreed upon) promoting the ESSI product suite (\"Commercial Placements\") aired in variousvenues as determined to best suit the needed promotion of ESSI products;B. On ESSI's downloaded apps (UseHerbo, Herbo Wallet, FitRx) and websites (www.useherbo.com; www.eccossi.com) (\"Websites\"),of w",
+    "start": 678,
+    "end": 1489,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Endorsement__EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement.txt",
+  "_char_count": 17823,
+  "_provenance": {}
+}

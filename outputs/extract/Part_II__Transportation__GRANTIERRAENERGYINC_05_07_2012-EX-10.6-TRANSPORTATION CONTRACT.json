@@ -1,0 +1,25 @@
+{
+  "parties": [
+    "ECOPETROL",
+    "the SENDER shall be comprised by these General Clauses and by the Specific Conditions"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": {
+    "text": "Payment Terms \n\n5.2.6 Crude Oil Quality \n\n5.2.7 About Utilization \n\n5.3 The corresponding Party shall assume any taxes as indicated by law. The Transportation Tax is the responsibility of the Sender and is not \nincluded in the fee. \n\n6.1 Increases in the Transportation Capacity. \n\nCLAUSE 6 SPECIAL SERVICES \n\n6.1.1 In the event in which the Pipeline falls short in the effective Capacity of Transportation for the Shipment of Hydrocarbons of any of the \nSenders and if there is the technical possibility to increase it through the use of any friction reduction agents or other Operational adjustment",
+    "start": 74476,
+    "end": 75076,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of the Contract, subject to the existence of Available \nCapacity in the Pipeline during the month of Operation in which the Service is to be provided. \n\n3.3 the obligation of the monthly payment borne by the SENDER for the Service shall be made during the totality of the term of execution of the \nContract. \n\n4.1 The initial estimated amount of the Contract hereof is as indicated in the Specific Conditions. The final amount of the Contract shall correspond \nto the total of the actual invoicing by ECOPETROL and shall be established upon termination and final liquidation of the same. \n\nCLAUSE FOURTH \nAMOUNT OF THE CONTRACT \n\n2\n\n  \n \n \n \n \n \n \n \n \n  \n \n  \n  \n  \n \n\fCLAUSE FIFTH \nFEES \n\n5.1 The Contract is agreed under the “Spot” modality, understanding that the SENDER shall pay for the Barrels",
+    "start": 8354,
+    "end": 9165,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Transportation__GRANTIERRAENERGYINC_05_07_2012-EX-10.6-TRANSPORTATION CONTRACT.txt",
+  "_char_count": 232400,
+  "_provenance": {}
+}

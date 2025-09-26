@@ -1,0 +1,30 @@
+{
+  "parties": [
+    "1. HealthGate Data Corp., a Delaware corporation (\"HealthGate\"), having an      address at 380 Pleasant Street, Malden, Massachusetts, 02148, USA",
+    "2"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": {
+    "text": "payment terms of 60 days.",
+    "start": 145667,
+    "end": 145693,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "termination_clause": {
+    "text": "termination of the provision of the Services by                    HealthGate to the Publishers for whatever reason, HealthGate                    shall at the Publishers' option:                          (i) grant to the Publishers a non-exclusive                    non-transferable licence to use the Proprietary Software for                    the purposes of using, developing, enhancing and maintaining                    the Site and carrying out any or all of the activities                    previously carried out by HealthGate or on its behalf under                    this Agreement                          (ii) exercise best endeavours to grant to the                    Publishers a non-exclusive non-transferable licence to use                    the Third Party Software for the Site when and",
+    "start": 17366,
+    "end": 18177,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Hosting__HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).txt",
+  "_char_count": 145693,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": []
+}

@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "LG&E",
+    "TENNESSEE GAS PIPELINE COMPANY \f Service Package No: 40715Amendment No: GAS TRANSPORTATION AGREEMENT(For Use under FT-A Rate Schedule) THIS AGREEMENT is made and entered into as of the 1st day of November"
+  ],
+  "effective_date": null,
+  "governing_law": null,
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "termination ofthis Agreement. 12.3 This Agreement will terminate automatically upon written notice from Transporter in the event Shipper fails to pay all of the amount of any billfor service rendered by Transporter hereunder in accord with the terms and conditions of Article VI of the General Terms and Conditionsof Transporter’s FERC Gas Tariff. ARTICLE XIII – NOTICE Except as otherwise provided in the General Terms and Conditions applicable to this Agreement, any notice under this Agreement shall be inwriting and mailed to the post office address of the Party intended to receive the same, as follows:  TRANSPORTER:Tennessee Gas Pipeline CompanyP. O. Box 2511Houston, Texas 77252-2511     Attention: Director, Transportation Control    SHIPPER:   NOTICES:Louisville Gas and Electric CompanyP. O. Box 3202",
+    "start": 9990,
+    "end": 10801,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Transportation__KENTUCKYUTILITIESCO_03_25_2003-EX-10.65-TRANSPORTATION AGREEMENT.txt",
+  "_char_count": 16490,
+  "_provenance": {},
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    },
+    {
+      "type": "MISSING",
+      "field": "governing_law"
+    }
+  ]
+}

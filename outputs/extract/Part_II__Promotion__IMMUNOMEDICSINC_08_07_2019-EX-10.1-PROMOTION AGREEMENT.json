@@ -1,0 +1,23 @@
+{
+  "parties": [
+    "Janssen Biotech, Inc., a corporation organized under the laws of Pennsylvania (“Janssen”)",
+    "Immunomedics"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "Termination or Expiration268.3Suspension of Product Promotion28\fARTICLE IX CONFIDENTIALITY; RESTRICTIVE COVENANTS289.1Confidentiality289.2Exclusivity319.3Restrictions on Promotions319.4Limitation on Soliciting Employees31ARTICLE X INTELLECTUAL PROPERTY3210.1Use of Trademarks3210.2Ownership of Intellectual Property Rights3210.3Prosecution and Maintenance3310.4Enforcement against Infringement3310.5Third Party Infringement Claims33ARTICLE XI REPRESENTATIONS AND WARRANTIES; CERTAIN COVENANTS3311.1Representations of Authority3311.2Consents3311.3No Conflict3311.4Enforceability3311.5Sales Representatives and Other Company Employees3411.6Other Compliance Matters3411.7Infringement of Third Party Intellectual Property; Clinical Trial Data3611.8Disclaimer36ARTICLE XII INDEMNIFICATION; LIMITS ON LIABILITY3712.1S",
+    "start": 1242,
+    "end": 2053,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__Promotion__IMMUNOMEDICSINC_08_07_2019-EX-10.1-PROMOTION AGREEMENT.txt",
+  "_char_count": 152507,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
+}

@@ -4,13 +4,20 @@
     "AB Wately"
   ],
   "effective_date": null,
-  "governing_law": null,
+  "governing_law": "New York",
   "payment_terms": null,
   "termination_clause": {
     "text": "termination will be effective as of the last day of the month in which this anniversary occurs.\n\n    C.  Notwithstanding the provisions of (A), and (B) above, should a party to this Agreement be in material breach of the Agreement, the other party may terminate the Agreement thirty (30) days after notice of said material breach is received, and only if such material breach is not cured within thirty (30) days of receipt of notice.\n\n    3.  Payment For Service\n\n    A.  Beginning with the date specified on the fee schedule attached hereto as Schedule A, or upon completion of the Installation and testing of all equipment and services, which ever is later.  ABW will commence payment of a monthly fee for the right to permit access by ABW's clients to said SOFTWARE and HYPERFEED.\n\n    B.  The charges for t",
     "start": 4202,
-    "end": 5013
+    "end": 5013,
+    "confidence": 0.72,
+    "source": "regex"
   },
   "_doc_id": "PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.txt",
-  "_char_count": 19851
+  "_char_count": 19851,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  }
 }

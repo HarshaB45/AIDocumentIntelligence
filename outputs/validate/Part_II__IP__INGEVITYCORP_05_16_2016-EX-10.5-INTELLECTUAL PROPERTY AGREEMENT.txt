@@ -1,0 +1,29 @@
+{
+  "parties": [
+    "WestRock Company, aDelaware corporation (“Parent”)",
+    "Ingevity Corporation"
+  ],
+  "effective_date": null,
+  "governing_law": "Delaware",
+  "payment_terms": null,
+  "termination_clause": {
+    "text": "TERMINATION 7.1 Termination. This Agreement may be terminated at any time prior to the Effective Time by Parent, in its sole and absolute discretion,without the approval or consent of  -17- \f  any other Person, including SpinCo. After the Effective Time, this Agreement may not be terminated except by an agreement in writing signed by aduly authorized officer of each of the Parties. 7.2 Effect of Termination. In the event of any termination of this Agreement prior to the Effective Time, no Party (nor any of its directors,officers, employees or agents) shall have any Liability or further obligation to the other Party by reason of this Agreement. 8. MISCELLANEOUS 8.1 Counterparts; Entire Agreement; Corporate Power. (a) This Agreement may be executed in one or more counterparts, all of which shall be con",
+    "start": 58693,
+    "end": 59504,
+    "confidence": 0.72,
+    "source": "regex"
+  },
+  "_doc_id": "Part_II__IP__INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT.txt",
+  "_char_count": 62576,
+  "_provenance": {
+    "governing_law": {
+      "source": "spacy"
+    }
+  },
+  "_issues": [
+    {
+      "type": "MISSING",
+      "field": "payment_terms"
+    }
+  ]
+}
