@@ -284,7 +284,7 @@ if st.button("Suggest Extraction Schema from Sample Docs"):
         sample = df_docs.head(5)
         suggested_schema = {col: "text" for col in sample.columns}
 
-        st.markdown("Suggested schema (you can edit):")
+        st.markdown("Suggested schema:")
         edited_schema = {}
         for k, v in suggested_schema.items():
             edited_schema[k] = st.text_input(f"Field: {k}", value=v)
