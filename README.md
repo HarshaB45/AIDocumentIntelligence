@@ -92,12 +92,12 @@ source .venv/bin/activate
 
 # Libraries Used
 
-    * LangChain — light orchestration for the Extractor → Validator → Analyst → Reporter flow
-    * Pandas — tables, KPIs, CSV/JSON exports
-    * NumPy — quick stats (median, P90) and scoring math
-    * RapidFuzz — fuzzy matching for party names / clauses
-    * spaCy — lightweight NER/linguistic helpers
-    * python-dotenv — load config/secrets from .env
+* LangChain — light orchestration for the Extractor → Validator → Analyst → Reporter flow
+* Pandas — tables, KPIs, CSV/JSON exports
+* NumPy — quick stats (median, P90) and scoring math
+* RapidFuzz — fuzzy matching for party names / clauses
+* spaCy — lightweight NER/linguistic helpers
+* python-dotenv — load config/secrets from .env
     
 # Results & KPIs (example placeholders)
 
