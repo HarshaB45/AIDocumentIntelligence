@@ -66,7 +66,7 @@ python -m venv .venv
 ```
 source .venv/bin/activate
 ```
-Results & KPIs (example placeholders)
+# Results & KPIs (example placeholders)
 
 Risk buckets: Low / Medium counts; outlier docs queued for review
 
