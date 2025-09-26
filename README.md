@@ -49,19 +49,23 @@ Repo Layout
 
 # How to run this
 # clone & enter
+
+```
 git clone <your-repo-url>
 cd AIDOC
-
+```
 # create & activate venv
+```
 python -m venv .venv
+```
 # Windows
+```
 .venv\Scripts\activate
+```
 # macOS/Linux
+```
 source .venv/bin/activate
-
-# install deps
-pip install -r requirements.txt
-
+```
 Results & KPIs (example placeholders)
 
 Risk buckets: Low / Medium counts; outlier docs queued for review
