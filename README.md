@@ -47,5 +47,19 @@ Repo Layout
 ├─ requirements             # python deps (e.g., requirements.txt)
 └─ test_openai_key          # small test script (e.g., test_openai_key.py)
 
+# How to run this
+# clone & enter
+git clone <your-repo-url>
+cd AIDOC
+
+# create & activate venv
+python -m venv .venv
+# Windows
+.venv\Scripts\activate
+# macOS/Linux
+source .venv/bin/activate
+
+# install deps
+pip install -r requirements.txt
 
 
