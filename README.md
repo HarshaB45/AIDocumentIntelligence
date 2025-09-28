@@ -98,47 +98,6 @@ source .venv/bin/activate
 * **RapidFuzz** — fuzzy matching for party names / clauses
 * **spaCy** — lightweight NER/linguistic helpers
 * **python-dotenv** — load config/secrets from .env
-    
-# Results & KPIs (example placeholders)
 
-Risk buckets: Low / Medium counts; outlier docs queued for review
-
-Average risk: mean on 0–10 scale
-
-Net Days: Median / P90 (e.g., 30 / 30 ⇒ strong Net-30 adherence)
-
-Governing law: Top jurisdictions (e.g., Delaware, CA, NY)
-
-Next actions: review outliers; expand rule pack (liability cap, auto-renew, notice windows)
-
-Replace with your latest run’s numbers when you present.
-
-# Security & privacy
-
-Deterministic, rule-based pipeline; no external LLM calls required
-
-Local processing; optional on-prem / air-gapped deployment
-
-Audit trail: each flag includes rule ID and trigger context
-
-# Roadmap
-
-More rule packs (liability caps, auto-renew windows, indemnity/insurance thresholds)
-
-Queryable knowledge base (ask questions over the normalized corpus)
-
-Schema auto-suggest from document sampling
-
-Connectors (SharePoint/Box/Drive, CLM export hooks)
-
-On-prem bundle (Docker + SSO/SIEM hooks)
-
-# Troubleshooting
-
-Odd dates/currency: check locale and normalization regex/maps
-
-Too many flags: calibrate thresholds; add “approved exceptions” list
-
-Performance: limit batch size; avoid heavy OCR unless needed
 
 
